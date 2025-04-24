@@ -1,18 +1,34 @@
-import { fetchNoticias } from './lib/fetchNoticias.ts';
-import { fetchYoutube } from './lib/fetchYoutube.ts';
-import { renderFormats } from './lib/renderFormats.ts';
+import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
+import { gerarFeeds } from "./core/feed.ts";
 
-async function main() {
-  const noticias = await fetchNoticias();
-  const youtubeVideos = await fetchYoutube();
+const feeds = await gerarFeeds();
 
-  // Processa as notícias e vídeos aqui
-  const json = renderFormats.toJSON(noticias, youtubeVideos);
-  const html = renderFormats.toHTML(noticias, youtubeVideos);
+serve((req) => {
+  const url = new URL(req.url);
 
-  // Salva os arquivos
-  await Deno.writeTextFile('./data/feed.json', JSON.stringify(json, null, 2));
-  await Deno.writeTextFile('./data/index.html', html);
-}
+  switch (url.pathname) {
+    case "/":
+    case "/html":
+      return new Response(feeds.html, {
+        headers: { "content-type": "text/html; charset=utf-8" },
+      });
 
-main();
+    case "/json":
+      return new Response(JSON.stringify(feeds.json, null, 2), {
+        headers: { "content-type": "application/json" },
+      });
+
+    case "/rss":
+      return new Response(feeds.rss, {
+        headers: { "content-type": "application/rss+xml; charset=utf-8" },
+      });
+
+    case "/atom":
+      return new Response(feeds.atom, {
+        headers: { "content-type": "application/atom+xml; charset=utf-8" },
+      });
+
+    default:
+      return new Response("404 - Not Found", { status: 404 });
+  }
+});
