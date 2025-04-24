@@ -1,6 +1,6 @@
 # ANAC Feed
 
-Este repositório é dedicado ao desenvolvimento de uma aplicação web que consome e exibe dados abertos da Agência Nacional de Aviação Civil (ANAC), utilizando tecnologias modernas para visualização e análise de informações.
+Este repositório é dedicado ao desenvolvimento de uma aplicação web que consome e exibe dados abertos da Agência Nacional de Aviação Civil (ANAC), utilizando tecnologias modernas para geração de agregadores de conteúdos (feed).
 
 ## 📁 Estrutura do Projeto
 
@@ -33,7 +33,3 @@ Esses dados são formatados para fácil integração em sites, aplicativos e lei
 ## 📄 Licença
 
 Este projeto está licenciado sob a [GNU General Public License v3.0](LICENSE), permitindo uso, modificação e distribuição conforme os termos estabelecidos.
-
----
-
-Para mais informações e acesso à aplicação, visite o repositório: [gabrielmacedoanac/anac-feed](https://github.com/gabrielmacedoanac/anac-feed/).
