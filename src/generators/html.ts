@@ -17,7 +17,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 </html>`;
 
   await Deno.writeTextFile(outputPath, htmlContent);
-}
+};
 
 export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
   const generationDate = new Date();
