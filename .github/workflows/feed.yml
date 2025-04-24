@@ -1,0 +1,30 @@
+name: Anac Feed
+
+on:
+  push:
+    branches:
+      - 'main'
+  schedule:
+    - cron: '0 */4 * * *'  # Executa a cada 4h
+  workflow_dispatch:      # Permite execução manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: ▶️ Executar script Deno
+        run: deno run --allow-net --allow-read --allow-write src/main.ts    
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automatic Update Anac Feed"

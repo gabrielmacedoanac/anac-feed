@@ -1,6 +1,0 @@
-{
-    "imports": {
-      "xmlparser": "https://denopkg.com/ThauEx/deno-fast-xml-parser/mod.ts",
-      "dom": "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
-    }
-  }
