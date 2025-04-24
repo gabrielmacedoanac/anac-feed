@@ -346,8 +346,6 @@ export function generateSemanticHtml(feed: Feed, options: HtmlOptions = {}): str
         </body>
         </html>
     `;
-};
-
   await Deno.writeTextFile(outputPath, htmlContent);
 }
 
