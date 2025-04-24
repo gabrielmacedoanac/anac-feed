@@ -5,12 +5,12 @@
   ],
   "@type": "Dataset",
   "name": "Notícias ANAC",
-  "description": "Feed de notícias e vídeos da Agência Nacional de Aviação Civil",
-  "identifier": "urn:uuid:anac-feed-d385c896-7acd-4c4d-b114-d2fac7fbadc5",
+  "description": "Feed de notícias e vídeos da Agência Nacional de Aviação Civil (ANAC)",
+  "identifier": "urn:uuid:anac-feed-6377bff1-542e-48a5-b4a7-82ba3788eed4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-24T21:03:56.815Z",
-  "dateModified": "2025-04-24T21:03:56.815Z",
+  "dateCreated": "2025-04-24T21:08:34.354Z",
+  "dateModified": "2025-04-24T21:08:34.354Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (ANAC)",
@@ -18,7 +18,7 @@
   },
   "creator": {
     "@type": "Organization",
-    "name": "Divisão de Comunicação Social - ANAC",
+    "name": "Assessoria de Comunicação Social (ASCOM) - ANAC",
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
@@ -240,12 +240,35 @@
       "image": "https://i3.ytimg.com/vi/ZvZ8Fj_kX8E/hqdefault.jpg"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao",
+      "datePublished": "2025-03-26T17:35:00.000Z",
+      "description": "Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac prorroga por 60 dias consulta pública sobre regras de acessibilidade no transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-prorroga-por-60-dias-consulta-publica-sobre-regras-de-acessibilidade-no-transporte-aereo",
+      "datePublished": "2025-03-26T11:12:00.000Z",
+      "description": "Contribuições poderão ser enviadas até o dia 26 de maio pela plataforma Participa+Brasil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-prorroga-por-60-dias-consulta-publica-sobre-regras-de-acessibilidade-no-transporte-aereo/ConsultaPblica__Site.png/@@images/703db271-29db-4525-a520-6292e1b790ba.png"
+    },
+    {
       "@type": "VideoObject",
       "name": "5ª Reunião Deliberativa da Diretoria Colegiada (25/03/2025)",
       "url": "https://www.youtube.com/watch?v=CL9vBVWl9vQ",
       "datePublished": "2025-03-26T06:13:43.000Z",
       "description": "Início - 16:41\nProcesso 00058.090127/2024-22 - 17:30\nProcesso 00058.021107/2025-92 (extrapauta) - 25:32",
       "image": "https://i4.ytimg.com/vi/CL9vBVWl9vQ/hqdefault.jpg"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac disponibiliza cursos gratuitos no Portal de Capacitação da Agência. Confira!",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-disponibiliza-cursos-gratuitos-no-portal-de-capacitacao-da-agencia-confira",
+      "datePublished": "2025-03-25T16:43:00.000Z",
+      "description": "As capacitações são autoinstrutivas, totalmente a distância e têm início imediato"
     },
     {
       "@type": "VideoObject",
@@ -256,12 +279,27 @@
       "image": "https://i3.ytimg.com/vi/67QilHvBlK4/hqdefault.jpg"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Última semana para contribuir com a consulta setorial sobre simuladores e equipamentos de raios X",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ultima-semana-para-contribuir-com-a-consulta-setorial-sobre-simuladores-e-equipamentos-de-raios-x",
+      "datePublished": "2025-03-25T12:09:00.000Z",
+      "description": "Interessados podem enviar sugestões para a revisão de norma até 28/3"
+    },
+    {
       "@type": "VideoObject",
       "name": "Semana +OM: Revisões de IS relacionadas a oficinas - RBAC 145",
       "url": "https://www.youtube.com/watch?v=3YK90DVy_S0",
       "datePublished": "2025-03-25T08:14:36.000Z",
       "description": "Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-1.pptx",
       "image": "https://i4.ytimg.com/vi/3YK90DVy_S0/hqdefault.jpg"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Contribuições para revisão do RBAC nº 67 podem ser enviadas até 31/3",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3",
+      "datePublished": "2025-03-25T08:00:00.000Z",
+      "description": "Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3/linkedin.png/@@images/1cd24b2a-4a02-4213-b1c2-bb8da86af49a.png"
     },
     {
       "@type": "VideoObject",
