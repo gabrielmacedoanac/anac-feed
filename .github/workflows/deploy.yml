@@ -12,7 +12,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # Checkout do código
+      # Checkout do cÃ³digo
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -22,7 +22,7 @@ jobs:
         with:
           deno-version: v1.40.0
 
-      # Instala dependências
+      # Instala dependÃªncias
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
