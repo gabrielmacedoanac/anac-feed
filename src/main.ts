@@ -38,8 +38,8 @@ async function main() {
 
   // Gera todos os arquivos
   await Promise.all([
-    generateSimpleHtml(conteudos, "index.html"),
-    generateSemanticHtml(conteudos, `${CONFIG.outputDir}/index.html`),
+    generateSemanticHtml(conteudos, "index.html"),
+    generateSimpleHtml(conteudos, `${CONFIG.outputDir}/index.html`),
     generateJsonFeed(conteudos, `${CONFIG.outputDir}/feed.json`),
     generateRssFeed(conteudos, `${CONFIG.outputDir}/rss.xml`),
     generateAtomFeed(conteudos, `${CONFIG.outputDir}/atom.xml`)
