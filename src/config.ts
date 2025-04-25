@@ -1,19 +1,19 @@
 export const FAIR_METADATA = {
-    title: "Notícias ANAC",
-    description: "Feed de notícias e vídeos da Agência Nacional de Aviação Civil (ANAC)",
+    title: "Anac Feed",
+    description: "Feed de notícias e vídeos da Agência Nacional de Aviação Civil (Anac)",
     identifier: "urn:uuid:anac-feed-" + crypto.randomUUID(),
     publisher: {
-      name: "Agência Nacional de Aviação Civil (ANAC)",
+      name: "Agência Nacional de Aviação Civil (Anac)",
       url: "https://www.gov.br/anac"
     },
-    creator: "Assessoria de Comunicação Social (ASCOM) - ANAC",
+    creator: "Assessoria de Comunicação Social (ASCOM) - Anac",
     source: "https://www.gov.br/anac/pt-br/noticias",
     license: {
       name: "Licença Creative Commons Atribuição 4.0",
       url: "https://creativecommons.org/licenses/by/4.0/"
     },
     rights: "Dados abertos para uso público",
-    keywords: ["aviação", "ANAC", "Brasil", "notícias", "regulação de transporte aéreo"],
+    keywords: ["aviação", "Anac", "Brasil", "notícias", "regulação de transporte aéreo"],
     language: "pt-BR",
     coverage: "Brasil"
   };
