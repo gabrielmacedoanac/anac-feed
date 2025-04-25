@@ -205,7 +205,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
 
   <footer typeof="WPFooter">
     <div class="container">
-      <p><small>${FAIR_METADATA.rights} • Atualizado em: <time datetime="${generationDate.toISOString()}">${generationDate.toISOString()} (ISO)</time></small></p>
+      <p><small>${FAIR_METADATA.rights} • Atualizado em: <time datetime="${generationDate.toISOString()}">${generationDate.toISOString()} (GMT)</time></small></p>
     </div>
   </footer>
 </body>
