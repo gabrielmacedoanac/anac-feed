@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-48a563c7-ffcb-4fbf-a10b-68494235efbf",
+  "identifier": "urn:uuid:anac-feed-b9e89c86-2ccd-4045-85f5-8fdfe98fb10f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-25T16:16:22.902Z",
-  "dateModified": "2025-04-25T16:16:22.902Z",
+  "dateCreated": "2025-04-25T20:14:31.654Z",
+  "dateModified": "2025-04-25T20:14:31.654Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-12T05:47:25.000Z",
-    "endDate": "2025-04-24T11:24:00.000Z"
+    "endDate": "2025-04-25T16:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo",
+      "datePublished": "2025-04-25T16:01:00.000Z",
+      "description": "Braspress Air Cargo poderá transportar mercadorias com dois Boeings 737-400F",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg"
+    },
     {
       "@type": "NewsArticle",
       "name": "Aberto o curso gratuito Aviation English Level 3",
@@ -292,14 +300,6 @@
       "datePublished": "2025-03-25T08:14:36.000Z",
       "description": "Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-1.pptx",
       "image": "https://i4.ytimg.com/vi/3YK90DVy_S0/hqdefault.jpg"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Contribuições para revisão do RBAC nº 67 podem ser enviadas até 31/3",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3",
-      "datePublished": "2025-03-25T08:00:00.000Z",
-      "description": "Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3/linkedin.png/@@images/1cd24b2a-4a02-4213-b1c2-bb8da86af49a.png"
     },
     {
       "@type": "VideoObject",

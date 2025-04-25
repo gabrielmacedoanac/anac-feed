@@ -4,13 +4,31 @@
   <subtitle>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-48a563c7-ffcb-4fbf-a10b-68494235efbf</id>
-  <updated>2025-04-24T11:24:00.000Z</updated>
+  <id>urn:uuid:anac-feed-b9e89c86-2ccd-4045-85f5-8fdfe98fb10f</id>
+  <updated>2025-04-25T16:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo</id>
+    <published>2025-04-25T16:01:00.000Z</published>
+    <updated>2025-04-25T16:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Braspress Air Cargo poderá transportar mercadorias com dois Boeings 737-400F</summary>
+    <content type="html"><![CDATA[
+      <p>Braspress Air Cargo poderá transportar mercadorias com dois Boeings 737-400F</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg" alt="Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+  </entry>
   
   
   <entry>
@@ -634,24 +652,6 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
     <content type="html"><![CDATA[
       <p>Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-1.pptx</p>
       <img src="https://i4.ytimg.com/vi/3YK90DVy_S0/hqdefault.jpg" alt="Semana +OM: Revisões de IS relacionadas a oficinas - RBAC 145">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Contribuições para revisão do RBAC nº 67 podem ser enviadas até 31/3</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3</id>
-    <published>2025-03-25T08:00:00.000Z</published>
-    <updated>2025-03-25T08:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</summary>
-    <content type="html"><![CDATA[
-      <p>Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/contribuicoes-para-revisao-do-rbac-no-67-podem-ser-enviadas-ate-31-3/linkedin.png/@@images/1cd24b2a-4a02-4213-b1c2-bb8da86af49a.png" alt="Contribuições para revisão do RBAC nº 67 podem ser enviadas até 31/3">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
   </entry>
