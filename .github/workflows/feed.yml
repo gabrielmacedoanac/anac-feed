@@ -1,9 +1,9 @@
 name: Anac Feed
 
 on:
-  push:
-    branches:
-      - 'main'
+#  push:
+#    branches:
+#      - 'main'
   schedule:
     - cron: '0 */4 * * *'  # Executa a cada 4h
   workflow_dispatch:      # Permite execução manual
