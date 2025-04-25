@@ -13,7 +13,7 @@ export const FAIR_METADATA = {
       url: "https://creativecommons.org/licenses/by/4.0/"
     },
     rights: "Dados abertos para uso público",
-    keywords: ["aviação", "Anac", "Brasil", "notícias", "regulação de transporte aéreo"],
+    keywords: ["aviação","aviação civil", "Anac", "Brasil", "notícias", "vídeos ", "transporte aéreo", "regulação"],
     language: "pt-BR",
     coverage: "Brasil"
   };
