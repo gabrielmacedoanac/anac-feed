@@ -1,4 +1,4 @@
-# ANAC Feed
+# Anac Feed
 
 Este repositório é dedicado ao desenvolvimento de uma aplicação web que consome e exibe dados abertos da Agência Nacional de Aviação Civil (ANAC), utilizando tecnologias modernas para geração de agregadores de conteúdos (feed).
 
