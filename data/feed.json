@@ -4,21 +4,21 @@
     "https://www.w3.org/ns/dcat"
   ],
   "@type": "Dataset",
-  "name": "Notícias ANAC",
-  "description": "Feed de notícias e vídeos da Agência Nacional de Aviação Civil (ANAC)",
-  "identifier": "urn:uuid:anac-feed-99e2e931-27e6-46ee-8d48-8da6f1fa4537",
+  "name": "Anac Feed",
+  "description": "Feed de notícias e vídeos da Agência Nacional de Aviação Civil (Anac)",
+  "identifier": "urn:uuid:anac-feed-abd8dcac-0ac2-4b82-8438-071692585c47",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-25T12:26:57.633Z",
-  "dateModified": "2025-04-25T12:26:57.633Z",
+  "dateCreated": "2025-04-25T14:19:51.064Z",
+  "dateModified": "2025-04-25T14:19:51.064Z",
   "publisher": {
     "@type": "Organization",
-    "name": "Agência Nacional de Aviação Civil (ANAC)",
+    "name": "Agência Nacional de Aviação Civil (Anac)",
     "url": "https://www.gov.br/anac"
   },
   "creator": {
     "@type": "Organization",
-    "name": "Assessoria de Comunicação Social (ASCOM) - ANAC",
+    "name": "Assessoria de Comunicação Social (ASCOM) - Anac",
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
