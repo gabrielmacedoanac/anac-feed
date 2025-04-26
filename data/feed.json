@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b9e89c86-2ccd-4045-85f5-8fdfe98fb10f",
+  "identifier": "urn:uuid:anac-feed-b477dc7f-c002-4697-be95-3bc4a60eab43",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-25T20:14:31.654Z",
-  "dateModified": "2025-04-25T20:14:31.654Z",
+  "dateCreated": "2025-04-26T01:03:24.100Z",
+  "dateModified": "2025-04-26T01:03:24.100Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-12T05:47:25.000Z",
-    "endDate": "2025-04-25T16:01:00.000Z"
+    "endDate": "2025-04-25T18:20:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato",
+      "datePublished": "2025-04-25T18:20:00.000Z",
+      "description": "Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg"
+    },
     {
       "@type": "NewsArticle",
       "name": "Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo",
@@ -285,13 +293,6 @@
       "datePublished": "2025-03-25T15:14:57.000Z",
       "description": "Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-2.pptx",
       "image": "https://i3.ytimg.com/vi/67QilHvBlK4/hqdefault.jpg"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Última semana para contribuir com a consulta setorial sobre simuladores e equipamentos de raios X",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ultima-semana-para-contribuir-com-a-consulta-setorial-sobre-simuladores-e-equipamentos-de-raios-x",
-      "datePublished": "2025-03-25T12:09:00.000Z",
-      "description": "Interessados podem enviar sugestões para a revisão de norma até 28/3"
     },
     {
       "@type": "VideoObject",

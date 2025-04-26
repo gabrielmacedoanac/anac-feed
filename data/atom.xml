@@ -4,13 +4,31 @@
   <subtitle>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-b9e89c86-2ccd-4045-85f5-8fdfe98fb10f</id>
-  <updated>2025-04-25T16:01:00.000Z</updated>
+  <id>urn:uuid:anac-feed-b477dc7f-c002-4697-be95-3bc4a60eab43</id>
+  <updated>2025-04-25T18:20:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato</id>
+    <published>2025-04-25T18:20:00.000Z</published>
+    <updated>2025-04-25T18:20:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas</summary>
+    <content type="html"><![CDATA[
+      <p>Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg" alt="Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+  </entry>
   
   
   <entry>
@@ -616,24 +634,6 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
     <content type="html"><![CDATA[
       <p>Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-2.pptx</p>
       <img src="https://i3.ytimg.com/vi/67QilHvBlK4/hqdefault.jpg" alt="Semana +OM: Modelos de MOM, MCQ, PTM e SGSO nas Oficinas">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Última semana para contribuir com a consulta setorial sobre simuladores e equipamentos de raios X</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/ultima-semana-para-contribuir-com-a-consulta-setorial-sobre-simuladores-e-equipamentos-de-raios-x" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/ultima-semana-para-contribuir-com-a-consulta-setorial-sobre-simuladores-e-equipamentos-de-raios-x</id>
-    <published>2025-03-25T12:09:00.000Z</published>
-    <updated>2025-03-25T12:09:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Interessados podem enviar sugestões para a revisão de norma até 28/3</summary>
-    <content type="html"><![CDATA[
-      <p>Interessados podem enviar sugestões para a revisão de norma até 28/3</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
   </entry>
