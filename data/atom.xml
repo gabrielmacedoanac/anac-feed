@@ -4,13 +4,31 @@
   <subtitle>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f86ee454-c1a0-480b-a520-d53a9fb60aac</id>
-  <updated>2025-04-25T18:20:00.000Z</updated>
+  <id>urn:uuid:anac-feed-75ef7f70-1ea7-43b5-b70c-4d358ee82040</id>
+  <updated>2025-04-28T08:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant</id>
+    <published>2025-04-28T08:02:00.000Z</published>
+    <updated>2025-04-28T08:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas</summary>
+    <content type="html"><![CDATA[
+      <p>Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png" alt="Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+  </entry>
   
   
   <entry>
@@ -598,24 +616,6 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</summary>
 Processo 00058.090127/2024-22 - 17:30
 Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <img src="https://i4.ytimg.com/vi/CL9vBVWl9vQ/hqdefault.jpg" alt="5ª Reunião Deliberativa da Diretoria Colegiada (25/03/2025)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac disponibiliza cursos gratuitos no Portal de Capacitação da Agência. Confira!</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-disponibiliza-cursos-gratuitos-no-portal-de-capacitacao-da-agencia-confira" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-disponibiliza-cursos-gratuitos-no-portal-de-capacitacao-da-agencia-confira</id>
-    <published>2025-03-25T16:43:00.000Z</published>
-    <updated>2025-03-25T16:43:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">As capacitações são autoinstrutivas, totalmente a distância e têm início imediato</summary>
-    <content type="html"><![CDATA[
-      <p>As capacitações são autoinstrutivas, totalmente a distância e têm início imediato</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
   </entry>

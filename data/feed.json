@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f86ee454-c1a0-480b-a520-d53a9fb60aac",
+  "identifier": "urn:uuid:anac-feed-75ef7f70-1ea7-43b5-b70c-4d358ee82040",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-28T12:27:00.165Z",
-  "dateModified": "2025-04-28T12:27:00.165Z",
+  "dateCreated": "2025-04-28T16:16:24.644Z",
+  "dateModified": "2025-04-28T16:16:24.644Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-12T05:47:25.000Z",
-    "endDate": "2025-04-25T18:20:00.000Z"
+    "endDate": "2025-04-28T08:02:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant",
+      "datePublished": "2025-04-28T08:02:00.000Z",
+      "description": "Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png"
+    },
     {
       "@type": "NewsArticle",
       "name": "Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato",
@@ -278,13 +286,6 @@
       "datePublished": "2025-03-26T06:13:43.000Z",
       "description": "Início - 16:41\nProcesso 00058.090127/2024-22 - 17:30\nProcesso 00058.021107/2025-92 (extrapauta) - 25:32",
       "image": "https://i4.ytimg.com/vi/CL9vBVWl9vQ/hqdefault.jpg"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac disponibiliza cursos gratuitos no Portal de Capacitação da Agência. Confira!",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-disponibiliza-cursos-gratuitos-no-portal-de-capacitacao-da-agencia-confira",
-      "datePublished": "2025-03-25T16:43:00.000Z",
-      "description": "As capacitações são autoinstrutivas, totalmente a distância e têm início imediato"
     },
     {
       "@type": "VideoObject",
