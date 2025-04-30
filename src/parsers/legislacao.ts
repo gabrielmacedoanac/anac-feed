@@ -25,10 +25,13 @@ export async function fetchLegislacao(): Promise<ContentItem[]> {
         const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
         const date = dateMatch ? dateMatch[1] : "ND";
 
+        // Converte a data para o formato ISO (YYYY-MM-DD) se possível
+        const isoDate = date !== "ND" ? date.split("/").reverse().join("-") : "ND";
+
         legislacoes.push({
           title,
           link,
-          date,
+          date: isoDate, // Usa a data no formato ISO
           description,
           image: null,
           type: "legislação"
