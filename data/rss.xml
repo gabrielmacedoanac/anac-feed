@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 30 Apr 2025 20:14:50 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Apr 2025 20:14:50 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Apr 2025 20:41:01 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Apr 2025 20:41:01 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -20,7 +20,7 @@
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-30T16:29:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png" alt="Anac promove Avsec & Cyber Week em junho com foco em segurança aérea e cibersegurança">
@@ -54,7 +54,7 @@
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-28T08:02:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png" alt="Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant">
@@ -156,7 +156,7 @@
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-25T18:20:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg" alt="Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato">
@@ -173,7 +173,7 @@
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-25T16:01:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Braspress Air Cargo poderá transportar mercadorias com dois Boeings 737-400F</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg" alt="Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo">
@@ -207,7 +207,7 @@
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-24T11:24:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>As inscrições e teste de nivelamento podem ser feitos até o dia 23 de maio</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png" alt="Aberto o curso gratuito Aviation English Level 3">
@@ -309,7 +309,7 @@
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-23T10:46:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000/card-6-1.png/@@images/bcd089a4-f603-4af6-972e-26262cdc3400.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Movimentação doméstica e internacional apresentam recorde para o período</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000/card-6-1.png/@@images/bcd089a4-f603-4af6-972e-26262cdc3400.png" alt="Com 10,2 milhões de passageiros, setor aéreo tem melhor mês de março desde 2000">
@@ -464,7 +464,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-15T10:26:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil/visita-congonhas-1.jpg/@@images/249f9614-c9a6-43c7-84de-f44d15b7924b.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Ação incentiva o interesse de jovens de baixa renda para as carreiras da aviação civil por meio de visitas a aeroportos</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil/visita-congonhas-1.jpg/@@images/249f9614-c9a6-43c7-84de-f44d15b7924b.jpeg" alt="Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil">
@@ -481,7 +481,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-14T14:19:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5/copy_of_Safety___LINKEDIN___.png/@@images/33afd709-ac0a-48e0-8f26-3271bce40045.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Anac abre a oportunidade para regulados sugerirem temas a serem abordados durante o evento, que destacará as particularidades da segurança operacional na região centro-oeste do país</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5/copy_of_Safety___LINKEDIN___.png/@@images/33afd709-ac0a-48e0-8f26-3271bce40045.png" alt="Cuiabá (MT) receberá a próxima etapa da Semana Safety, nos dias 13 a 15/5">
@@ -532,7 +532,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-11T17:29:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos/20250411_112108-1.jpg/@@images/567587a4-bad8-4831-bfc3-b25ef4a72602.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Empresas irão desenvolver e testar estruturas, ajudando a Agência a definir regras para o segmento de eVTOL</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos/20250411_112108-1.jpg/@@images/567587a4-bad8-4831-bfc3-b25ef4a72602.jpeg" alt="Anac firma termos de admissão para desenvolver projetos e regulação para vertiportos">
@@ -549,7 +549,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-11T13:53:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves</p>
         
@@ -566,7 +566,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-10T17:05:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Despacho homologou a participação de operadores aéreo e de aeroportos nacionais</p>
         
@@ -600,7 +600,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-09T16:59:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros/img_4576.jpg/@@images/11b09080-25eb-46e6-95ed-83129c989000.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Encontro também tratou da proteção contra ataques cibernéticos e de resultados de visitas anteriores a terminais brasileiros</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros/img_4576.jpg/@@images/11b09080-25eb-46e6-95ed-83129c989000.jpeg" alt="Reunião entre Anac e TSA avalia níveis de segurança da aviação civil em aeroportos brasileiros">
@@ -617,7 +617,7 @@ Processo 00058.098660/2024-32</p>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-09T10:42:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026</p>
         
@@ -655,7 +655,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-04T18:26:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Evento apresentou resultados de pesquisa sobre barreiras à participação feminina no setor aéreo e reforçou ações do programa Asas Para Todos</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png" alt="Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’">
@@ -672,7 +672,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-04T16:01:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg" alt="Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região">
@@ -689,7 +689,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-04T13:37:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png" alt="BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026">
@@ -727,7 +727,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-03T16:32:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos</p>
         
@@ -744,7 +744,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-03T12:08:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png" alt="Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4">
@@ -761,7 +761,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-03T11:31:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas</p>
         
@@ -778,7 +778,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-02T15:56:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</p>
         
@@ -795,7 +795,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-04-01T09:04:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</p>
         
@@ -829,7 +829,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-03-28T18:22:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Medida pretende aperfeiçoar a segurança das operações, facilitar o transporte aéreo e aumentar a eficiência no fluxo de mercadorias para o exterior</p>
         
@@ -846,7 +846,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-03-28T16:49:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo</p>
         
@@ -863,7 +863,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-03-28T14:26:00.000Z</dc:date>
       
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>As capacitações serão online, prazo termina em 2/5</p>
         
@@ -914,7 +914,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-03-26T17:35:00.000Z</dc:date>
       <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg" type="image/jpeg"/>
-      <category>texto</category> <!-- Adiciona o tipo como categoria -->
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg" alt="Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação">

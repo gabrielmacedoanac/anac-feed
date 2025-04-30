@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-540aa6da-3e73-47d3-9ae1-3be25df1b9d0",
+  "identifier": "urn:uuid:anac-feed-a980e519-608e-4f18-8816-99ee9ca93b47",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-30T20:14:50.966Z",
-  "dateModified": "2025-04-30T20:14:50.966Z",
+  "dateCreated": "2025-04-30T20:41:01.839Z",
+  "dateModified": "2025-04-30T20:41:01.839Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -40,7 +40,7 @@
       "datePublished": "2025-04-30T16:29:00.000Z",
       "description": "Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -57,7 +57,7 @@
       "datePublished": "2025-04-28T08:02:00.000Z",
       "description": "Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -106,7 +106,7 @@
       "datePublished": "2025-04-25T18:20:00.000Z",
       "description": "Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -115,7 +115,7 @@
       "datePublished": "2025-04-25T16:01:00.000Z",
       "description": "Braspress Air Cargo poderá transportar mercadorias com dois Boeings 737-400F",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -132,7 +132,7 @@
       "datePublished": "2025-04-24T11:24:00.000Z",
       "description": "As inscrições e teste de nivelamento podem ser feitos até o dia 23 de maio",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -181,7 +181,7 @@
       "datePublished": "2025-04-23T10:46:00.000Z",
       "description": "Movimentação doméstica e internacional apresentam recorde para o período",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000/card-6-1.png/@@images/bcd089a4-f603-4af6-972e-26262cdc3400.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -255,7 +255,7 @@
       "datePublished": "2025-04-15T10:26:00.000Z",
       "description": "Ação incentiva o interesse de jovens de baixa renda para as carreiras da aviação civil por meio de visitas a aeroportos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil/visita-congonhas-1.jpg/@@images/249f9614-c9a6-43c7-84de-f44d15b7924b.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -264,7 +264,7 @@
       "datePublished": "2025-04-14T14:19:00.000Z",
       "description": "Anac abre a oportunidade para regulados sugerirem temas a serem abordados durante o evento, que destacará as particularidades da segurança operacional na região centro-oeste do país",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5/copy_of_Safety___LINKEDIN___.png/@@images/33afd709-ac0a-48e0-8f26-3271bce40045.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -289,7 +289,7 @@
       "datePublished": "2025-04-11T17:29:00.000Z",
       "description": "Empresas irão desenvolver e testar estruturas, ajudando a Agência a definir regras para o segmento de eVTOL",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos/20250411_112108-1.jpg/@@images/567587a4-bad8-4831-bfc3-b25ef4a72602.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -297,7 +297,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-alerta-operacional-sobre-equipamentos-portateis-com-conexao-via-satelite",
       "datePublished": "2025-04-11T13:53:00.000Z",
       "description": "Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -305,7 +305,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/premio-acessibilidade-e-inovacao-2025-tera-sete-concorrentes",
       "datePublished": "2025-04-10T17:05:00.000Z",
       "description": "Despacho homologou a participação de operadores aéreo e de aeroportos nacionais",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -323,7 +323,7 @@
       "datePublished": "2025-04-09T16:59:00.000Z",
       "description": "Encontro também tratou da proteção contra ataques cibernéticos e de resultados de visitas anteriores a terminais brasileiros",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros/img_4576.jpg/@@images/11b09080-25eb-46e6-95ed-83129c989000.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -331,7 +331,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/alterado-prazo-para-entrada-em-vigor-da-norma-que-extingue-o-registro-de-categorias-de-aeronaves-no-rab-digital",
       "datePublished": "2025-04-09T10:42:00.000Z",
       "description": "Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -349,7 +349,7 @@
       "datePublished": "2025-04-04T18:26:00.000Z",
       "description": "Evento apresentou resultados de pesquisa sobre barreiras à participação feminina no setor aéreo e reforçou ações do programa Asas Para Todos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -358,7 +358,7 @@
       "datePublished": "2025-04-04T16:01:00.000Z",
       "description": "O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -367,7 +367,7 @@
       "datePublished": "2025-04-04T13:37:00.000Z",
       "description": "Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -384,7 +384,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/governo-federal-lanca-acoes-de-acolhimento-na-aviacao-para-pessoas-com-transtorno-do-espectro-autista",
       "datePublished": "2025-04-03T16:32:00.000Z",
       "description": "Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -393,7 +393,7 @@
       "datePublished": "2025-04-03T12:08:00.000Z",
       "description": "Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -401,7 +401,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-para-atualizacao-do-rbac-153-foi-prorrogada-ate-25-4",
       "datePublished": "2025-04-03T11:31:00.000Z",
       "description": "Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -409,7 +409,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/novo-plano-de-acao-ambiental-da-anac-detalha-iniciativas-para-reduzir-impactos-ambientais-da-aviacao",
       "datePublished": "2025-04-02T15:56:00.000Z",
       "description": "Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -417,7 +417,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia",
       "datePublished": "2025-04-01T09:04:00.000Z",
       "description": "A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -434,7 +434,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-receita-federal-firmam-parceria-para-aprimorar-processos-de-exportacao-de-carga-aerea",
       "datePublished": "2025-03-28T18:22:00.000Z",
       "description": "Medida pretende aperfeiçoar a segurança das operações, facilitar o transporte aéreo e aumentar a eficiência no fluxo de mercadorias para o exterior",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -442,7 +442,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/profissionais-do-aeroporto-de-guarulhos-fazem-treinamento-sobre-atendimento-a-migrantes",
       "datePublished": "2025-03-28T16:49:00.000Z",
       "description": "Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -450,7 +450,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/abertas-inscricoes-para-treinamento-inicial-para-profissionais-credenciados-de-projeto-pcp-e-fabricacao-pcf",
       "datePublished": "2025-03-28T14:26:00.000Z",
       "description": "As capacitações serão online, prazo termina em 2/5",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -477,7 +477,7 @@
       "datePublished": "2025-03-26T17:35:00.000Z",
       "description": "Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg",
-      "type": "texto"
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
