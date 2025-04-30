@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-31185e47-2ff8-4755-be5d-3fe8e1231737",
+  "identifier": "urn:uuid:anac-feed-91c252fe-d478-4913-b2c4-e7599ef86b7c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-30T19:14:08.432Z",
-  "dateModified": "2025-04-30T19:14:08.432Z",
+  "dateCreated": "2025-04-30T19:54:55.082Z",
+  "dateModified": "2025-04-30T19:54:55.082Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-12T05:47:25.000Z",
-    "endDate": "2025-04-28T08:02:00.000Z"
+    "endDate": "2025-05-02T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,215 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16319/SIA, 05/02/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16319",
+      "datePublished": "2025-05-02T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0778 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 251/SGP, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-251",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Designa ANA ELISABETE MITIKO MATSUMOTO MIURA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 250/SGP, 23/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-250",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Designa KENYS MENEZES MACHADO",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 248/SGP, 23/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-248",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Dispensa ALEXANDRE PALMA GONCALVES",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16888/SAF, 29/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16888",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16804/SIA, 14/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16804",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0630 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16797/SIA, 14/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16797",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1124 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 247, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-247",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Nomeia RAIMUNDO NONATO PEREIRA MENEZES",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16845, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16845",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Localiza o Cargo Comissionado Técnico",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16869/SAR, 25/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16869",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos ERJ 190-300 e ERJ 190-400",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 246, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-246",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Exonera, a pedido, GABRIEL DAMASO MURTA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16885/SGM, 28/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16885",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Dispõe sobre a Organização Interna da Assessoria de Segurança Operacional",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16882/SIA, 28/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16882",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Concede Certificado Operacional de Aeroporto à SPE NOVO NORTE AEROPORTOS S.A., operadora do Aeroporto Alberto Alcolumbre, Código OACI: SBMQ, Código CIAD: AP0001, em Macapá (AP)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16828/SIA, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16828",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Torna pública a suspensão da aplicação de medida cautelar de restrição às operações de pouso de aeronaves de asa fixa com motor à reação no aeródromo público de Parintins, localizado em Parintins (AM)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16876/SIA, 28/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16876",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Concede Certificado Operacional de Aeroporto à AEROPORTO DE SÃO JOSÉ DOS CAMPOS LTDA., operadora do Aeroporto Professor Urbano Ernesto Stumpf, Código OACI: SBSJ, Código CIAD: SP0008, em São José dos Campos (SP)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16875/SIA, 28/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16875",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DO BLOCO SUL S.A., operadora do Aeroporto João Simões Lopes Neto, Código OACI: SBPK; Código CIAD: RS0005, em Pelotas (RS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16859/CRG, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16859",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16858/CRG, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16858",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 252/SGP, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-252",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Remove com mudança de sede BRUNO XAVIER SILVEIRA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16878/SAF, 28/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16878",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16861/CRG, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16861",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16860/SPO, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16860",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16857/SIA, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16857",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DOS AEROPORTOS DA AMAZÔNIA S.A., operadora do Aeroporto Plácido de Castro, Código OACI: SBRB; Código CIAD: AC0001, em Rio Branco (AC)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16848/SAR, 23/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16848",
+      "datePublished": "2025-04-30T19:54:55.077Z",
+      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelo EMB-505",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA DE PESSOAL Nº 249/SGP, 23/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-249",
+      "datePublished": "2025-04-30T19:54:55.076Z",
+      "description": "Designa ANDREA AIOLFI",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac promove Avsec & Cyber Week em junho com foco em segurança aérea e cibersegurança",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca",
+      "datePublished": "2025-04-30T16:29:00.000Z",
+      "description": "Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png",
+      "type": "texto"
+    },
     {
       "@type": "NewsArticle",
       "name": "Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant",
@@ -300,15 +509,6 @@
       "datePublished": "2025-03-26T17:35:00.000Z",
       "description": "Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg",
-      "type": "texto"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac prorroga por 60 dias consulta pública sobre regras de acessibilidade no transporte aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-prorroga-por-60-dias-consulta-publica-sobre-regras-de-acessibilidade-no-transporte-aereo",
-      "datePublished": "2025-03-26T11:12:00.000Z",
-      "description": "Contribuições poderão ser enviadas até o dia 26 de maio pela plataforma Participa+Brasil",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-prorroga-por-60-dias-consulta-publica-sobre-regras-de-acessibilidade-no-transporte-aereo/ConsultaPblica__Site.png/@@images/703db271-29db-4525-a520-6292e1b790ba.png",
       "type": "texto"
     },
     {
