@@ -21,7 +21,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 
 export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
   const generationDate = new Date();
-  
+
   const htmlContent = `<!DOCTYPE html>
 <html lang="pt-BR" vocab="https://schema.org/">
 <head>
@@ -31,6 +31,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
   <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
   
   <style>
+    /* Estilos existentes */
     :root {
       --primary: #0066cc;
       --secondary: #004080;
@@ -40,13 +41,11 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       --danger: #dc3545;
       --border-radius: 0.25rem;
     }
-    
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
-    
     body {
       font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
       line-height: 1.6;
@@ -55,7 +54,6 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       padding: 0;
       margin: 0;
     }
-    
     header {
       background: linear-gradient(135deg, var(--primary), var(--secondary));
       color: white;
@@ -64,25 +62,40 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       margin-bottom: 2rem;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
-    
     h1 {
       font-size: 2.2rem;
       margin-bottom: 0.5rem;
     }
-    
     .container {
       max-width: 1200px;
       margin: 0 auto;
       padding: 0 1rem;
     }
-    
+    .filter-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .filter-buttons button {
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: var(--border-radius);
+      background-color: var(--primary);
+      color: white;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .filter-buttons button:hover {
+      background-color: var(--secondary);
+    }
     .feed-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
       gap: 1.5rem;
       padding: 1rem;
     }
-    
     article {
       background: white;
       border-radius: var(--border-radius);
@@ -90,22 +103,18 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
       transition: transform 0.2s, box-shadow 0.2s;
     }
-    
     article:hover {
       transform: translateY(-5px);
       box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     }
-    
     .article-image {
       width: 100%;
       height: 200px;
       object-fit: cover;
     }
-    
     .article-content {
       padding: 1.5rem;
     }
-    
     .article-meta {
       display: flex;
       justify-content: space-between;
@@ -114,7 +123,6 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       font-size: 0.9rem;
       color: #6c757d;
     }
-    
     .article-type {
       display: inline-block;
       padding: 0.25rem 0.5rem;
@@ -123,42 +131,34 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       font-weight: bold;
       text-transform: uppercase;
     }
-    
     .type-notícia {
-      background-color:rgb(236, 248, 254);
+      background-color: rgb(236, 248, 254);
       color: var(--primary);
     }
-    
     .type-vídeo {
       background-color: #fff0f0;
       color: var(--danger);
     }
-    
     .type-legislação {
       background-color: #f0fff4;
       color: var(--success);
     }
-    
     h2 {
       font-size: 1.4rem;
       margin-bottom: 1rem;
     }
-    
     h2 a {
       color: var(--dark);
       text-decoration: none;
     }
-    
     h2 a:hover {
       color: var(--primary);
       text-decoration: underline;
     }
-    
     .article-description {
       color: #495057;
       margin-bottom: 1rem;
     }
-    
     footer {
       background-color: var(--dark);
       color: white;
@@ -166,17 +166,27 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       padding: 1.5rem;
       margin-top: 2rem;
     }
-    
     @media (max-width: 768px) {
       .feed-container {
         grid-template-columns: 1fr;
       }
-      
       h1 {
         font-size: 1.8rem;
       }
     }
   </style>
+  <script>
+    function filterByType(type) {
+      const articles = document.querySelectorAll('.feed-container article');
+      articles.forEach(article => {
+        if (type === 'all' || article.dataset.type === type) {
+          article.style.display = 'block';
+        } else {
+          article.style.display = 'none';
+        }
+      });
+    }
+  </script>
 </head>
 <body>
   <header typeof="WPHeader">
@@ -187,9 +197,15 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
   </header>
 
   <main class="container">
+    <div class="filter-buttons">
+      <button onclick="filterByType('all')">Todos</button>
+      <button onclick="filterByType('notícia')">Notícias</button>
+      <button onclick="filterByType('vídeo')">Vídeos</button>
+      <button onclick="filterByType('legislação')">Legislações</button>
+    </div>
     <div class="feed-container">
       ${conteudos.map(item => `
-      <article typeof="${item.type === 'vídeo' ? 'VideoObject' : item.type === 'legislação' ? 'Legislation' : 'NewsArticle'}">
+      <article data-type="${item.type}" typeof="${item.type === 'vídeo' ? 'VideoObject' : item.type === 'legislação' ? 'Legislation' : 'NewsArticle'}">
         ${item.image ? `
         <img class="article-image" property="image" src="${escapeXml(item.image)}" alt="${escapeXml(item.title)}">
         ` : ''}
