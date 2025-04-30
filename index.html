@@ -66,6 +66,10 @@
     .filter-buttons button:hover {
       background-color: var(--secondary);
     }
+    .filter-buttons button.active {
+      background-color: var(--success);
+      color: white;
+    }
     .feed-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -167,11 +171,23 @@
   <script>
     function filterByType(type) {
       const articles = document.querySelectorAll('.feed-container article');
+      const buttons = document.querySelectorAll('.filter-buttons button');
+      
+      // Atualiza a exibição dos artigos
       articles.forEach(article => {
         if (type === 'all' || article.dataset.type === type) {
           article.style.display = 'block';
         } else {
           article.style.display = 'none';
+        }
+      });
+
+      // Atualiza a classe "active" nos botões
+      buttons.forEach(button => {
+        if (button.getAttribute('data-type') === type) {
+          button.classList.add('active');
+        } else {
+          button.classList.remove('active');
         }
       });
     }
@@ -187,10 +203,10 @@
 
   <main class="container">
     <div class="filter-buttons">
-      <button onclick="filterByType('all')">Todos</button>
-      <button onclick="filterByType('notícia')">Notícias</button>
-      <button onclick="filterByType('vídeo')">Vídeos</button>
-      <button onclick="filterByType('legislação')">Legislações</button>
+      <button data-type="all" onclick="filterByType('all')" class="active">Todos</button>
+      <button data-type="notícia" onclick="filterByType('notícia')">Notícias</button>
+      <button data-type="vídeo" onclick="filterByType('vídeo')">Vídeos</button>
+      <button data-type="legislação" onclick="filterByType('legislação')">Legislações</button>
     </div>
     <div class="feed-container">
       
@@ -1202,7 +1218,7 @@ Restituição de TFAC - https://www.gov.br/pt-br/servicos/obter-restituicao-de-t
 
   <footer typeof="WPFooter">
     <div class="container">
-      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-04-30T22:51:16.346Z">2025-04-30T22:51:16.346Z (GMT)</time></small></p>
+      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-04-30T22:58:46.004Z">2025-04-30T22:58:46.004Z (GMT)</time></small></p>
       <div class="feed-links">
         <a href="data/rss.xml" target="_blank">RSS Feed</a>
         <a href="data/feed.json" target="_blank">JSON Feed</a>
