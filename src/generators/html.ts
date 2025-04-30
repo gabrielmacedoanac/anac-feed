@@ -124,7 +124,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       text-transform: uppercase;
     }
     
-    .type-texto {
+    .type-notícia {
       background-color: #e6f7ff;
       color: var(--primary);
     }
