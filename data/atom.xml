@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c09e70b6-9e1c-4648-bf50-f1d903dd4752</id>
+  <id>urn:uuid:anac-feed-31185e47-2ff8-4755-be5d-3fe8e1231737</id>
   <updated>2025-04-28T08:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -28,6 +28,7 @@
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png" alt="Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -46,6 +47,7 @@
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg" alt="Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -64,6 +66,7 @@
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg" alt="Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -82,6 +85,7 @@
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png" alt="Aberto o curso gratuito Aviation English Level 3">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -100,6 +104,7 @@
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000/card-6-1.png/@@images/bcd089a4-f603-4af6-972e-26262cdc3400.png" alt="Com 10,2 milhões de passageiros, setor aéreo tem melhor mês de março desde 2000">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -120,6 +125,7 @@ Processo 00058.098660/2024-32</p>
       <img src="https://i2.ytimg.com/vi/aVJjHlgEKNs/hqdefault.jpg" alt="6ª Reunião Deliberativa da Diretoria Colegiada (22/04/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -138,6 +144,7 @@ Processo 00058.098660/2024-32</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil/visita-congonhas-1.jpg/@@images/249f9614-c9a6-43c7-84de-f44d15b7924b.jpeg" alt="Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -156,6 +163,7 @@ Processo 00058.098660/2024-32</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5/copy_of_Safety___LINKEDIN___.png/@@images/33afd709-ac0a-48e0-8f26-3271bce40045.png" alt="Cuiabá (MT) receberá a próxima etapa da Semana Safety, nos dias 13 a 15/5">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -174,6 +182,7 @@ Processo 00058.098660/2024-32</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos/20250411_112108-1.jpg/@@images/567587a4-bad8-4831-bfc3-b25ef4a72602.jpeg" alt="Anac firma termos de admissão para desenvolver projetos e regulação para vertiportos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -192,6 +201,7 @@ Processo 00058.098660/2024-32</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -210,6 +220,7 @@ Processo 00058.098660/2024-32</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -228,6 +239,7 @@ Processo 00058.098660/2024-32</p>
       <img src="https://i2.ytimg.com/vi/1BfUIpKD1F8/hqdefault.jpg" alt="Fórum de Regulação da Procuradoria-Geral Federal">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -246,6 +258,7 @@ Processo 00058.098660/2024-32</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros/img_4576.jpg/@@images/11b09080-25eb-46e6-95ed-83129c989000.jpeg" alt="Reunião entre Anac e TSA avalia níveis de segurança da aviação civil em aeroportos brasileiros">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -264,6 +277,7 @@ Processo 00058.098660/2024-32</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -286,6 +300,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <img src="https://i3.ytimg.com/vi/b7dlo9wb2N0/hqdefault.jpg" alt="Mensagem dos ministros – Embarque Numa Boa">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -304,6 +319,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png" alt="Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -322,6 +338,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg" alt="Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -340,6 +357,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png" alt="BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -362,6 +380,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://i3.ytimg.com/vi/Z7CZHKzENOk/hqdefault.jpg" alt="Seminário Mulheres na Aviação - Ações para Regulação Inclusiva">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -380,6 +399,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -398,6 +418,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png" alt="Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -416,6 +437,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -434,6 +456,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -452,6 +475,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -470,6 +494,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://i1.ytimg.com/vi/plwxV4XNIjg/hqdefault.jpg" alt="Semana +OM: Apresentação do Portal 145">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -488,6 +513,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -506,6 +532,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -524,6 +551,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -542,6 +570,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://i3.ytimg.com/vi/vLU6daq1zzY/hqdefault.jpg" alt="Semana +OM: Jornada eAEV">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -560,6 +589,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://i3.ytimg.com/vi/ZvZ8Fj_kX8E/hqdefault.jpg" alt="Semana +OM: Fatores humanos na manutenção e bate-papo sobre Certificação e Fiscalização">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -578,6 +608,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg" alt="Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -596,6 +627,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-prorroga-por-60-dias-consulta-publica-sobre-regras-de-acessibilidade-no-transporte-aereo/ConsultaPblica__Site.png/@@images/703db271-29db-4525-a520-6292e1b790ba.png" alt="Anac prorroga por 60 dias consulta pública sobre regras de acessibilidade no transporte aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="texto"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -618,6 +650,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <img src="https://i4.ytimg.com/vi/CL9vBVWl9vQ/hqdefault.jpg" alt="5ª Reunião Deliberativa da Diretoria Colegiada (25/03/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -636,6 +669,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <img src="https://i3.ytimg.com/vi/67QilHvBlK4/hqdefault.jpg" alt="Semana +OM: Modelos de MOM, MCQ, PTM e SGSO nas Oficinas">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -654,6 +688,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <img src="https://i4.ytimg.com/vi/3YK90DVy_S0/hqdefault.jpg" alt="Semana +OM: Revisões de IS relacionadas a oficinas - RBAC 145">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -674,6 +709,7 @@ Processo 00058.033268/2023-67</p>
       <img src="https://i3.ytimg.com/vi/frUO2_Duta4/hqdefault.jpg" alt="4ª Reunião Deliberativa da Diretoria Colegiada (18/03/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -692,6 +728,7 @@ Processo 00058.033268/2023-67</p>
       <img src="https://i2.ytimg.com/vi/AocGNbmvotc/hqdefault.jpg" alt="Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transporte aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -716,6 +753,7 @@ Processo 00058.052059/2024-01 - 17:48</p>
       <img src="https://i3.ytimg.com/vi/FzjCNk9IluY/hqdefault.jpg" alt="3ª Reunião Deliberativa da Diretoria Colegiada (11/03/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -734,6 +772,7 @@ Processo 00058.052059/2024-01 - 17:48</p>
       <img src="https://i3.ytimg.com/vi/VNrryz_m_rg/hqdefault.jpg" alt="Webinário: Novas regras para exames MMA">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -758,6 +797,7 @@ Restituição de TFAC - https://www.gov.br/pt-br/servicos/obter-restituicao-de-t
       <img src="https://i4.ytimg.com/vi/wLK3hEhqhLc/hqdefault.jpg" alt="Webinário: Novas regras para exames PLA">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
 </feed>
