@@ -130,6 +130,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       font-size: 0.8rem;
       font-weight: bold;
       text-transform: uppercase;
+      cursor: pointer;
     }
     .type-notícia {
       background-color: rgb(236, 248, 254);
@@ -224,7 +225,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
         <div class="article-content">
           <div class="article-meta">
             <time property="datePublished" datetime="${item.iso}">${item.display}</time>
-            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}">
+            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}" onclick="filterByType('${item.type}')">
               ${item.type}
             </span>
           </div>
