@@ -90,6 +90,10 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
     .filter-buttons button:hover {
       background-color: var(--secondary);
     }
+    .filter-buttons button.active {
+      background-color: var(--success);
+      color: white;
+    }
     .feed-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -191,11 +195,23 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
   <script>
     function filterByType(type) {
       const articles = document.querySelectorAll('.feed-container article');
+      const buttons = document.querySelectorAll('.filter-buttons button');
+      
+      // Atualiza a exibição dos artigos
       articles.forEach(article => {
         if (type === 'all' || article.dataset.type === type) {
           article.style.display = 'block';
         } else {
           article.style.display = 'none';
+        }
+      });
+
+      // Atualiza a classe "active" nos botões
+      buttons.forEach(button => {
+        if (button.getAttribute('data-type') === type) {
+          button.classList.add('active');
+        } else {
+          button.classList.remove('active');
         }
       });
     }
@@ -211,10 +227,10 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
 
   <main class="container">
     <div class="filter-buttons">
-      <button onclick="filterByType('all')">Todos</button>
-      <button onclick="filterByType('notícia')">Notícias</button>
-      <button onclick="filterByType('vídeo')">Vídeos</button>
-      <button onclick="filterByType('legislação')">Legislações</button>
+      <button data-type="all" onclick="filterByType('all')" class="active">Todos</button>
+      <button data-type="notícia" onclick="filterByType('notícia')">Notícias</button>
+      <button data-type="vídeo" onclick="filterByType('vídeo')">Vídeos</button>
+      <button data-type="legislação" onclick="filterByType('legislação')">Legislações</button>
     </div>
     <div class="feed-container">
       ${conteudos.map(item => `
