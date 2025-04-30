@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b750a872-b928-42ff-be1a-bfa42e106c8d",
+  "identifier": "urn:uuid:anac-feed-540aa6da-3e73-47d3-9ae1-3be25df1b9d0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-30T20:03:07.327Z",
-  "dateModified": "2025-04-30T20:03:07.327Z",
+  "dateCreated": "2025-04-30T20:14:50.966Z",
+  "dateModified": "2025-04-30T20:14:50.966Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -136,14 +136,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 251/SGP, 24/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-251",
-      "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Designa ANA ELISABETE MITIKO MATSUMOTO MIURA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 16859/CRG, 24/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16859",
       "datePublished": "2025-04-24T00:00:00.000Z",
@@ -156,14 +148,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16858",
       "datePublished": "2025-04-24T00:00:00.000Z",
       "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 252/SGP, 24/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-252",
-      "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Remove com mudança de sede BRUNO XAVIER SILVEIRA",
       "type": "legislação"
     },
     {
@@ -210,30 +194,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 249/SGP, 23/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-249",
-      "datePublished": "2025-04-23T00:00:00.000Z",
-      "description": "Designa ANDREA AIOLFI",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 250/SGP, 23/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-250",
-      "datePublished": "2025-04-23T00:00:00.000Z",
-      "description": "Designa KENYS MENEZES MACHADO",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 248/SGP, 23/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-248",
-      "datePublished": "2025-04-23T00:00:00.000Z",
-      "description": "Dispensa ALEXANDRE PALMA GONCALVES",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 16848/SAR, 23/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16848",
       "datePublished": "2025-04-23T00:00:00.000Z",
@@ -242,10 +202,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 247, 22/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-247",
-      "datePublished": "2025-04-22T00:00:00.000Z",
-      "description": "Nomeia RAIMUNDO NONATO PEREIRA MENEZES",
+      "name": "PORTARIA Nº 16850/SPL, 23/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16850",
+      "datePublished": "2025-04-23T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
@@ -258,18 +218,34 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA DE PESSOAL Nº 246, 22/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portaria-de-pessoal/2025/portaria-de-pessoal-246",
-      "datePublished": "2025-04-22T00:00:00.000Z",
-      "description": "Exonera, a pedido, GABRIEL DAMASO MURTA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 16828/SIA, 22/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16828",
       "datePublished": "2025-04-22T00:00:00.000Z",
       "description": "Torna pública a suspensão da aplicação de medida cautelar de restrição às operações de pouso de aeronaves de asa fixa com motor à reação no aeródromo público de Parintins, localizado em Parintins (AM)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16839/SPL, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16839",
+      "datePublished": "2025-04-22T00:00:00.000Z",
+      "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16842/SPL, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16842",
+      "datePublished": "2025-04-22T00:00:00.000Z",
+      "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16838/SPL, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16838",
+      "datePublished": "2025-04-22T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
