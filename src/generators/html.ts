@@ -166,6 +166,18 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       padding: 1.5rem;
       margin-top: 2rem;
     }
+    .feed-links {
+      margin-top: 1rem;
+      text-align: center;
+    }
+    .feed-links a {
+      color: var(--primary);
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+    .feed-links a:hover {
+      text-decoration: underline;
+    }
     @media (max-width: 768px) {
       .feed-container {
         grid-template-columns: 1fr;
@@ -227,6 +239,11 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
   <footer typeof="WPFooter">
     <div class="container">
       <p><small>${FAIR_METADATA.rights} • Atualizado em: <time datetime="${generationDate.toISOString()}">${generationDate.toISOString()} (GMT)</time></small></p>
+      <div class="feed-links">
+        <a href="data/rss.xml" target="_blank">RSS Feed</a>
+        <a href="data/feed.json" target="_blank">JSON Feed</a>
+        <a href="data/atom.xml" target="_blank">ATOM Feed</a>
+      </div>
     </div>
   </footer>
 </body>

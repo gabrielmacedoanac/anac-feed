@@ -1,6 +1,6 @@
 export const FAIR_METADATA = {
     title: "Anac Feed",
-    description: "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
+    description: "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
     identifier: "urn:uuid:anac-feed-" + crypto.randomUUID(),
     publisher: {
       name: "Agência Nacional de Aviação Civil (Anac)",
