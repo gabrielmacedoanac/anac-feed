@@ -125,7 +125,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
     }
     
     .type-notícia {
-      background-color: #e6f7ff;
+      background-color:rgb(163, 223, 255);
       color: var(--primary);
     }
     
