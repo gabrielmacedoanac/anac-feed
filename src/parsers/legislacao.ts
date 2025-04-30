@@ -13,14 +13,17 @@ export async function fetchLegislacao(): Promise<ContentItem[]> {
     if (!doc) throw new Error("Falha ao parsear HTML");
 
     const legislacoes: ContentItem[] = [];
-    const rows = doc.querySelectorAll("table tbody tr");
+    const articles = doc.querySelectorAll("div#content-core article.tileItem");
 
-    for (const el of Array.from(rows).slice(0, CONFIG.maxLegislacao)) {
+    for (const el of Array.from(articles).slice(0, CONFIG.maxLegislacao)) {
       try {
-        const title = el.querySelector("td:nth-child(2) a")?.textContent?.trim() || "Sem título";
-        const link = el.querySelector("td:nth-child(2) a")?.getAttribute("href") || "#";
-        const date = el.querySelector("td:nth-child(1)")?.textContent?.trim() || "ND";
-        const description = el.querySelector("td:nth-child(3)")?.textContent?.trim() || "Sem descrição";
+        const title = el.querySelector("h2.tileHeadline a")?.textContent?.trim() || "Sem título";
+        const link = el.querySelector("h2.tileHeadline a")?.getAttribute("href") || "#";
+        const description = el.querySelector("p.tileBody span.description")?.textContent?.trim() || "Sem descrição";
+
+        // Extraindo a data do título, que está no formato "PORTARIA Nº XXXX, DD/MM/YYYY"
+        const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
+        const date = dateMatch ? dateMatch[1] : "ND";
 
         legislacoes.push({
           title,
