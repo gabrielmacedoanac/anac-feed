@@ -35,6 +35,7 @@ export async function generateAtomFeed(conteudos: ContentItem[], outputPath: str
       ${item.image ? `<img src="${item.image}" alt="${item.title}">` : ''}
     ]]></content>
     <dc:publisher>${escapeXml(FAIR_METADATA.publisher.name)}</dc:publisher>
+    <category term="${escapeXml(item.type)}"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   `).join('\n  ')}
 </feed>`;

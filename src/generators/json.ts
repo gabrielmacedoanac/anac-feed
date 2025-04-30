@@ -36,12 +36,13 @@ export async function generateJsonFeed(conteudos: ContentItem[], outputPath: str
       }
     ],
     items: conteudos.map(item => ({
-      "@type": item.type === "vídeo" ? "VideoObject" : "NewsArticle",
+      "@type": item.type === "vídeo" ? "VideoObject" : item.type === "legislação" ? "Legislation" : "NewsArticle",
       name: item.title,
       url: item.link,
       datePublished: item.iso,
       description: item.description,
-      ...(item.image && { image: item.image })
+      ...(item.image && { image: item.image }),
+      type: item.type // Adiciona o tipo no JSON
     }))
   };
 

@@ -19,10 +19,10 @@ async function main() {
     fetchLegislacao()
   ]);
 
-  console.log(`✅ ${noticias.length} notícias, ${videos.length} vídeos e ${legislacoes.length} legislações coletados`);
+  console.log(`✅ ${noticias.length} notícias, ${videos.length} vídeos e ${legislacao.length} legislações coletadas`);
 
   // Processa todos os itens garantindo datas válidas
-  const conteudos: ContentItem[] = [...noticias, ...videos, ...legislacoes].map(item => {
+  const conteudos: ContentItem[] = [...noticias, ...videos, ...legislacao].map(item => {
     const dateInfo = parseCustomDate(item.date);
     return {
       ...item,

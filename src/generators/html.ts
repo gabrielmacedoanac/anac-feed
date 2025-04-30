@@ -134,6 +134,11 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       color: var(--danger);
     }
     
+    .type-legislação {
+      background-color: #f0fff4;
+      color: var(--success);
+    }
+    
     h2 {
       font-size: 1.4rem;
       margin-bottom: 1rem;
@@ -184,14 +189,14 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
   <main class="container">
     <div class="feed-container">
       ${conteudos.map(item => `
-      <article typeof="${item.type === 'vídeo' ? 'VideoObject' : 'NewsArticle'}">
+      <article typeof="${item.type === 'vídeo' ? 'VideoObject' : item.type === 'legislação' ? 'Legislation' : 'NewsArticle'}">
         ${item.image ? `
         <img class="article-image" property="image" src="${escapeXml(item.image)}" alt="${escapeXml(item.title)}">
         ` : ''}
         <div class="article-content">
           <div class="article-meta">
             <time property="datePublished" datetime="${item.iso}">${item.display}</time>
-            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : 'type-texto'}">
+            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-texto'}">
               ${item.type}
             </span>
           </div>

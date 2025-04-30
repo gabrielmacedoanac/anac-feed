@@ -27,6 +27,7 @@ export async function generateRssFeed(conteudos: ContentItem[], outputPath: stri
       <dc:creator>${escapeXml(FAIR_METADATA.creator)}</dc:creator>
       <dc:date>${item.iso}</dc:date>
       ${item.image ? `<enclosure url="${escapeXml(item.image)}" type="image/jpeg"/>` : ''}
+      <category>${escapeXml(item.type)}</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>${item.description}</p>
         ${item.image ? `<img src="${item.image}" alt="${item.title}">` : ''}
