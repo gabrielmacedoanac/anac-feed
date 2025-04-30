@@ -11,7 +11,7 @@ Este repositório é dedicado ao desenvolvimento de agregadores de conteúdo (fe
 
 ## 🔍 Funcionalidades
 
-- **Visualização de Publicações da Anac**: Apresenta informações sobre notícias e vídeos de forma interativa e acessível, para humanos e máquinas.
+- **Visualização de Publicações da Anac**: Apresenta informações sobre legislação, notícias e vídeos de forma interativa e acessível, para humanos e máquinas.
 - **Atualizações Automatizadas**: Utiliza GitHub Actions para manter os dados sempre atualizados, garantindo informações recentes para os usuários.
 - **Interface Responsiva**: Design adaptável a diferentes dispositivos, proporcionando uma experiência consistente em desktops, tablets e smartphones.
 
@@ -25,6 +25,7 @@ Este repositório é dedicado ao desenvolvimento de agregadores de conteúdo (fe
 
 O repositório inclui feeds derivados de fontes oficiais da Anac:
 
+- **Legislação**: Publicações de Atos Normativos e Legislações da Anac.
 - **Notícias**: Atualizações institucionais, informativos e comunicados públicos pelo site da Anac.
 - **Vídeos**: Conteúdos audiovisuais do canal oficial da Anac no YouTube.
 
