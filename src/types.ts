@@ -4,7 +4,7 @@ export interface ContentItem {
     date: Date | string;
     description: string;
     image: string | null;
-    type: "texto" | "vídeo";
+    type: "texto" | "vídeo" | "legislação";
     display?: string;
     iso?: string;
     dateObj?: Date;

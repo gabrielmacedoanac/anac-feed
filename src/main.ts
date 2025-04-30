@@ -1,5 +1,6 @@
 import { fetchNoticias } from "./parsers/news.ts";
 import { fetchVideos } from "./parsers/videos.ts";
+import { fetchLegislacao } from "./parsers/legislacao.ts";
 import { generateSimpleHtml } from "./generators/html.ts";
 import { generateSemanticHtml } from "./generators/html.ts";
 import { generateJsonFeed } from "./generators/json.ts";
@@ -12,15 +13,16 @@ import { CONFIG } from "./config.ts";
 async function main() {
   console.log("⏳ Iniciando coleta de dados...");
   
-  const [noticias, videos] = await Promise.all([
+  const [noticias, videos, legislacao] = await Promise.all([
     fetchNoticias(),
-    fetchVideos()
+    fetchVideos(),
+    fetchLegislacao()
   ]);
 
-  console.log(`✅ ${noticias.length} notícias e ${videos.length} vídeos coletados`);
+  console.log(`✅ ${noticias.length} notícias, ${videos.length} vídeos e ${legislacoes.length} legislações coletados`);
 
   // Processa todos os itens garantindo datas válidas
-  const conteudos: ContentItem[] = [...noticias, ...videos].map(item => {
+  const conteudos: ContentItem[] = [...noticias, ...videos, ...legislacoes].map(item => {
     const dateInfo = parseCustomDate(item.date);
     return {
       ...item,
@@ -29,6 +31,7 @@ async function main() {
       dateObj: dateInfo.obj
     };
   });
+  
 
   // Ordena por data (mais recente primeiro)
   conteudos.sort((a, b) => b.dateObj.getTime() - a.dateObj.getTime());

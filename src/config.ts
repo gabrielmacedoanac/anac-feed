@@ -19,9 +19,11 @@ export const FAIR_METADATA = {
   };
   
   export const CONFIG = {
-    maxNoticias: 25,
-    maxVideos: 25,
-    youtubeChannelId: "UC5ynmbMZXolM-jo2hGR31qg",
     baseUrl: "https://www.gov.br/anac/pt-br/noticias",
+    maxNoticias: 25,
+    youtubeChannelId: "UC5ynmbMZXolM-jo2hGR31qg",
+    maxVideos: 25,
+    legislacaoUrl: "https://www.anac.gov.br/assuntos/legislacao/ultimos-atos-publicados",
+    maxLegislacao: 25,
     outputDir: "data"
-  };
+    };
