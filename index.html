@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Anac Feed</title>
-  <meta name="description" content="Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)">
+  <meta name="description" content="Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)">
   
   <style>
     /* Estilos existentes */
@@ -142,6 +142,18 @@
       padding: 1.5rem;
       margin-top: 2rem;
     }
+    .feed-links {
+      margin-top: 1rem;
+      text-align: center;
+    }
+    .feed-links a {
+      color: var(--primary);
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+    .feed-links a:hover {
+      text-decoration: underline;
+    }
     @media (max-width: 768px) {
       .feed-container {
         grid-template-columns: 1fr;
@@ -168,7 +180,7 @@
   <header typeof="WPHeader">
     <div class="container">
       <h1 property="name">Anac Feed</h1>
-      <p property="description">Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</p>
+      <p property="description">Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</p>
     </div>
   </header>
 
@@ -1189,7 +1201,12 @@ Restituição de TFAC - https://www.gov.br/pt-br/servicos/obter-restituicao-de-t
 
   <footer typeof="WPFooter">
     <div class="container">
-      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-04-30T22:34:08.060Z">2025-04-30T22:34:08.060Z (GMT)</time></small></p>
+      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-04-30T22:44:15.282Z">2025-04-30T22:44:15.282Z (GMT)</time></small></p>
+      <div class="feed-links">
+        <a href="data/rss.xml" target="_blank">RSS Feed</a>
+        <a href="data/feed.json" target="_blank">JSON Feed</a>
+        <a href="data/atom.xml" target="_blank">ATOM Feed</a>
+      </div>
     </div>
   </footer>
 </body>

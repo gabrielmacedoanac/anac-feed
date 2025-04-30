@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>Anac Feed</title>
-  <subtitle>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
+  <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-385c8b4d-ebe1-404f-a240-755ec3aa8e45</id>
+  <id>urn:uuid:anac-feed-f9f1c663-7ddb-41ae-b7ca-ce81074a657e</id>
   <updated>2025-04-30T18:05:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
