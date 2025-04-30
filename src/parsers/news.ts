@@ -35,7 +35,7 @@ export async function fetchNoticias(): Promise<ContentItem[]> {
           date: dateTime, 
           description, 
           image, 
-          type: "texto" 
+          type: "notícia" 
         });
       } catch (e) {
         console.warn("Erro ao processar notícia:", e);

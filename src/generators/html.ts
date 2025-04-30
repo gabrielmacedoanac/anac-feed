@@ -196,7 +196,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
         <div class="article-content">
           <div class="article-meta">
             <time property="datePublished" datetime="${item.iso}">${item.display}</time>
-            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-texto'}">
+            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}">
               ${item.type}
             </span>
           </div>
