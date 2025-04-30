@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2655a8fd-8ff4-4f07-9fb1-d9dcd345bd7a</id>
-  <updated>2025-04-30T16:29:00.000Z</updated>
+  <id>urn:uuid:anac-feed-385c8b4d-ebe1-404f-a240-755ec3aa8e45</id>
+  <updated>2025-04-30T18:05:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac lança o 1º Plano de Comunicação de Segurança Operacional</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional</id>
+    <published>2025-04-30T18:05:00.000Z</published>
+    <updated>2025-04-30T18:05:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento elenca principais atividades de comunicação relacionadas ao tema safety em realização pela Agência em 2025 e planeja ações para 2026</summary>
+    <content type="html"><![CDATA[
+      <p>Documento elenca principais atividades de comunicação relacionadas ao tema safety em realização pela Agência em 2025 e planeja ações para 2026</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional/card-whatsapp-plano-comunic-safety.png/@@images/93c5cff1-6b28-43ad-a1eb-68bbe49f7bea.png" alt="Anac lança o 1º Plano de Comunicação de Segurança Operacional">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1008,25 +1027,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao</id>
-    <published>2025-03-26T17:35:00.000Z</published>
-    <updated>2025-03-26T17:35:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor</summary>
-    <content type="html"><![CDATA[
-      <p>Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg" alt="Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

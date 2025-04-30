@@ -7,6 +7,7 @@
   <meta name="description" content="Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)">
   
   <style>
+    /* Estilos existentes */
     :root {
       --primary: #0066cc;
       --secondary: #004080;
@@ -16,13 +17,11 @@
       --danger: #dc3545;
       --border-radius: 0.25rem;
     }
-    
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
-    
     body {
       font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
       line-height: 1.6;
@@ -31,7 +30,6 @@
       padding: 0;
       margin: 0;
     }
-    
     header {
       background: linear-gradient(135deg, var(--primary), var(--secondary));
       color: white;
@@ -40,25 +38,40 @@
       margin-bottom: 2rem;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
-    
     h1 {
       font-size: 2.2rem;
       margin-bottom: 0.5rem;
     }
-    
     .container {
       max-width: 1200px;
       margin: 0 auto;
       padding: 0 1rem;
     }
-    
+    .filter-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .filter-buttons button {
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: var(--border-radius);
+      background-color: var(--primary);
+      color: white;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .filter-buttons button:hover {
+      background-color: var(--secondary);
+    }
     .feed-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
       gap: 1.5rem;
       padding: 1rem;
     }
-    
     article {
       background: white;
       border-radius: var(--border-radius);
@@ -66,22 +79,18 @@
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
       transition: transform 0.2s, box-shadow 0.2s;
     }
-    
     article:hover {
       transform: translateY(-5px);
       box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     }
-    
     .article-image {
       width: 100%;
       height: 200px;
       object-fit: cover;
     }
-    
     .article-content {
       padding: 1.5rem;
     }
-    
     .article-meta {
       display: flex;
       justify-content: space-between;
@@ -90,7 +99,6 @@
       font-size: 0.9rem;
       color: #6c757d;
     }
-    
     .article-type {
       display: inline-block;
       padding: 0.25rem 0.5rem;
@@ -99,42 +107,34 @@
       font-weight: bold;
       text-transform: uppercase;
     }
-    
     .type-notícia {
-      background-color:rgb(206, 238, 255);
+      background-color: rgb(236, 248, 254);
       color: var(--primary);
     }
-    
     .type-vídeo {
       background-color: #fff0f0;
       color: var(--danger);
     }
-    
     .type-legislação {
       background-color: #f0fff4;
       color: var(--success);
     }
-    
     h2 {
       font-size: 1.4rem;
       margin-bottom: 1rem;
     }
-    
     h2 a {
       color: var(--dark);
       text-decoration: none;
     }
-    
     h2 a:hover {
       color: var(--primary);
       text-decoration: underline;
     }
-    
     .article-description {
       color: #495057;
       margin-bottom: 1rem;
     }
-    
     footer {
       background-color: var(--dark);
       color: white;
@@ -142,17 +142,27 @@
       padding: 1.5rem;
       margin-top: 2rem;
     }
-    
     @media (max-width: 768px) {
       .feed-container {
         grid-template-columns: 1fr;
       }
-      
       h1 {
         font-size: 1.8rem;
       }
     }
   </style>
+  <script>
+    function filterByType(type) {
+      const articles = document.querySelectorAll('.feed-container article');
+      articles.forEach(article => {
+        if (type === 'all' || article.dataset.type === type) {
+          article.style.display = 'block';
+        } else {
+          article.style.display = 'none';
+        }
+      });
+    }
+  </script>
 </head>
 <body>
   <header typeof="WPHeader">
@@ -163,9 +173,32 @@
   </header>
 
   <main class="container">
+    <div class="filter-buttons">
+      <button onclick="filterByType('all')">Todos</button>
+      <button onclick="filterByType('notícia')">Notícias</button>
+      <button onclick="filterByType('vídeo')">Vídeos</button>
+      <button onclick="filterByType('legislação')">Legislações</button>
+    </div>
     <div class="feed-container">
       
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
+        
+        <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional/card-whatsapp-plano-comunic-safety.png/@@images/93c5cff1-6b28-43ad-a1eb-68bbe49f7bea.png" alt="Anac lança o 1º Plano de Comunicação de Segurança Operacional">
+        
+        <div class="article-content">
+          <div class="article-meta">
+            <time property="datePublished" datetime="2025-04-30T18:05:00.000Z">30/04/2025 18h05</time>
+            <span class="article-type type-notícia">
+              notícia
+            </span>
+          </div>
+          <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional">Anac lança o 1º Plano de Comunicação de Segurança Operacional</a></h2>
+          <p class="article-description" property="description">Documento elenca principais atividades de comunicação relacionadas ao tema safety em realização pela Agência em 2025 e planeja ações para 2026</p>
+        </div>
+      </article>
+      
+
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png" alt="Anac promove Avsec &amp; Cyber Week em junho com foco em segurança aérea e cibersegurança">
         
@@ -182,7 +215,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -197,7 +230,7 @@
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png" alt="Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant">
         
@@ -214,7 +247,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -229,7 +262,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -244,7 +277,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -259,7 +292,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -274,7 +307,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -289,7 +322,7 @@
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg" alt="Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato">
         
@@ -306,7 +339,7 @@
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo/foto_raisa-correia_divulgacao-braspress.jpg/@@images/f8a1261c-c8ff-40ad-a6bf-ec9487bf98a0.jpeg" alt="Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo">
         
@@ -323,7 +356,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -338,7 +371,7 @@
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png" alt="Aberto o curso gratuito Aviation English Level 3">
         
@@ -355,7 +388,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -370,7 +403,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -385,7 +418,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -400,7 +433,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -415,7 +448,7 @@
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -430,7 +463,7 @@
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000/card-6-1.png/@@images/bcd089a4-f603-4af6-972e-26262cdc3400.png" alt="Com 10,2 milhões de passageiros, setor aéreo tem melhor mês de março desde 2000">
         
@@ -447,7 +480,7 @@
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i2.ytimg.com/vi/aVJjHlgEKNs/hqdefault.jpg" alt="6ª Reunião Deliberativa da Diretoria Colegiada (22/04/2025)">
         
@@ -465,7 +498,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -480,7 +513,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -495,7 +528,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -510,7 +543,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -525,7 +558,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -540,7 +573,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -555,7 +588,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -570,7 +603,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil/visita-congonhas-1.jpg/@@images/249f9614-c9a6-43c7-84de-f44d15b7924b.jpeg" alt="Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil">
         
@@ -587,7 +620,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5/copy_of_Safety___LINKEDIN___.png/@@images/33afd709-ac0a-48e0-8f26-3271bce40045.png" alt="Cuiabá (MT) receberá a próxima etapa da Semana Safety, nos dias 13 a 15/5">
         
@@ -604,7 +637,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -619,7 +652,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -634,7 +667,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos/20250411_112108-1.jpg/@@images/567587a4-bad8-4831-bfc3-b25ef4a72602.jpeg" alt="Anac firma termos de admissão para desenvolver projetos e regulação para vertiportos">
         
@@ -651,7 +684,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -666,7 +699,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -681,7 +714,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i2.ytimg.com/vi/1BfUIpKD1F8/hqdefault.jpg" alt="Fórum de Regulação da Procuradoria-Geral Federal">
         
@@ -698,7 +731,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros/img_4576.jpg/@@images/11b09080-25eb-46e6-95ed-83129c989000.jpeg" alt="Reunião entre Anac e TSA avalia níveis de segurança da aviação civil em aeroportos brasileiros">
         
@@ -715,7 +748,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -730,7 +763,7 @@ Processo 00058.098660/2024-32</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/b7dlo9wb2N0/hqdefault.jpg" alt="Mensagem dos ministros – Embarque Numa Boa">
         
@@ -749,7 +782,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png" alt="Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’">
         
@@ -766,7 +799,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg" alt="Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região">
         
@@ -783,7 +816,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png" alt="BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026">
         
@@ -800,7 +833,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/Z7CZHKzENOk/hqdefault.jpg" alt="Seminário Mulheres na Aviação - Ações para Regulação Inclusiva">
         
@@ -819,7 +852,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -834,7 +867,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png" alt="Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4">
         
@@ -851,7 +884,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -866,7 +899,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -881,7 +914,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -896,7 +929,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i1.ytimg.com/vi/plwxV4XNIjg/hqdefault.jpg" alt="Semana +OM: Apresentação do Portal 145">
         
@@ -913,7 +946,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -928,7 +961,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -943,7 +976,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
+      <article data-type="notícia" typeof="NewsArticle">
         
         <div class="article-content">
           <div class="article-meta">
@@ -958,7 +991,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/vLU6daq1zzY/hqdefault.jpg" alt="Semana +OM: Jornada eAEV">
         
@@ -975,7 +1008,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/ZvZ8Fj_kX8E/hqdefault.jpg" alt="Semana +OM: Fatores humanos na manutenção e bate-papo sobre Certificação e Fiscalização">
         
@@ -992,24 +1025,7 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       </article>
       
 
-      <article typeof="NewsArticle">
-        
-        <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg" alt="Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação">
-        
-        <div class="article-content">
-          <div class="article-meta">
-            <time property="datePublished" datetime="2025-03-26T17:35:00.000Z">26/03/2025 17h35</time>
-            <span class="article-type type-notícia">
-              notícia
-            </span>
-          </div>
-          <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao">Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação</a></h2>
-          <p class="article-description" property="description">Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor</p>
-        </div>
-      </article>
-      
-
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i4.ytimg.com/vi/CL9vBVWl9vQ/hqdefault.jpg" alt="5ª Reunião Deliberativa da Diretoria Colegiada (25/03/2025)">
         
@@ -1028,7 +1044,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/67QilHvBlK4/hqdefault.jpg" alt="Semana +OM: Modelos de MOM, MCQ, PTM e SGSO nas Oficinas">
         
@@ -1045,7 +1061,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i4.ytimg.com/vi/3YK90DVy_S0/hqdefault.jpg" alt="Semana +OM: Revisões de IS relacionadas a oficinas - RBAC 145">
         
@@ -1062,7 +1078,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/frUO2_Duta4/hqdefault.jpg" alt="4ª Reunião Deliberativa da Diretoria Colegiada (18/03/2025)">
         
@@ -1080,7 +1096,7 @@ Processo 00058.033268/2023-67</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i2.ytimg.com/vi/AocGNbmvotc/hqdefault.jpg" alt="Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transporte aéreo">
         
@@ -1097,7 +1113,7 @@ Processo 00058.033268/2023-67</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/FzjCNk9IluY/hqdefault.jpg" alt="3ª Reunião Deliberativa da Diretoria Colegiada (11/03/2025)">
         
@@ -1117,7 +1133,7 @@ Processo 00058.052059/2024-01 - 17:48</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i3.ytimg.com/vi/VNrryz_m_rg/hqdefault.jpg" alt="Webinário: Novas regras para exames MMA">
         
@@ -1134,7 +1150,7 @@ Processo 00058.052059/2024-01 - 17:48</p>
       </article>
       
 
-      <article typeof="VideoObject">
+      <article data-type="vídeo" typeof="VideoObject">
         
         <img class="article-image" property="image" src="https://i4.ytimg.com/vi/wLK3hEhqhLc/hqdefault.jpg" alt="Webinário: Novas regras para exames PLA">
         
@@ -1154,7 +1170,7 @@ Restituição de TFAC - https://www.gov.br/pt-br/servicos/obter-restituicao-de-t
       </article>
       
 
-      <article typeof="Legislation">
+      <article data-type="legislação" typeof="Legislation">
         
         <div class="article-content">
           <div class="article-meta">
@@ -1173,7 +1189,7 @@ Restituição de TFAC - https://www.gov.br/pt-br/servicos/obter-restituicao-de-t
 
   <footer typeof="WPFooter">
     <div class="container">
-      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-04-30T21:01:23.645Z">2025-04-30T21:01:23.645Z (GMT)</time></small></p>
+      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-04-30T22:34:08.060Z">2025-04-30T22:34:08.060Z (GMT)</time></small></p>
     </div>
   </footer>
 </body>

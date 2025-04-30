@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias e vídeos coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2655a8fd-8ff4-4f07-9fb1-d9dcd345bd7a",
+  "identifier": "urn:uuid:anac-feed-385c8b4d-ebe1-404f-a240-755ec3aa8e45",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-04-30T21:01:23.646Z",
-  "dateModified": "2025-04-30T21:01:23.646Z",
+  "dateCreated": "2025-04-30T22:34:08.061Z",
+  "dateModified": "2025-04-30T22:34:08.061Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-05T00:00:00.000Z",
-    "endDate": "2025-04-30T16:29:00.000Z"
+    "endDate": "2025-04-30T18:05:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lança o 1º Plano de Comunicação de Segurança Operacional",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional",
+      "datePublished": "2025-04-30T18:05:00.000Z",
+      "description": "Documento elenca principais atividades de comunicação relacionadas ao tema safety em realização pela Agência em 2025 e planeja ações para 2026",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional/card-whatsapp-plano-comunic-safety.png/@@images/93c5cff1-6b28-43ad-a1eb-68bbe49f7bea.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac promove Avsec & Cyber Week em junho com foco em segurança aérea e cibersegurança",
@@ -469,15 +478,6 @@
       "description": "Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-3.pptx",
       "image": "https://i3.ytimg.com/vi/ZvZ8Fj_kX8E/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e EASA assinam acordo para fortalecer a cooperação e incentivar o uso de combustíveis sustentáveis da aviação",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao",
-      "datePublished": "2025-03-26T17:35:00.000Z",
-      "description": "Parceria internacional impulsiona a sustentabilidade na aviação e ajudará a consolidar o Brasil como uma referência global no setor",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-acordo-para-fortalecer-a-cooperacao-e-incentivar-o-uso-de-combustiveis-sustentaveis-da-aviacao/whatsapp-image-2025-03-26-at-17-05-47.jpeg/@@images/39ece30c-c8d4-48dc-b977-3ce293731c02.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
