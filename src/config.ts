@@ -18,7 +18,7 @@ export const FAIR_METADATA = {
     coverage: "Brasil"
   };
   
-  export const CONFIG = {
+export const CONFIG = {
     baseUrl: "https://www.gov.br/anac/pt-br/noticias",
     maxNoticias: 25,
     youtubeChannelId: "UC5ynmbMZXolM-jo2hGR31qg",
@@ -26,4 +26,4 @@ export const FAIR_METADATA = {
     legislacaoUrl: "https://www.anac.gov.br/assuntos/legislacao/ultimos-atos-publicados",
     maxLegislacao: 25,
     outputDir: "data"
-    };
+  };
