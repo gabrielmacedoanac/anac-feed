@@ -15,10 +15,16 @@ export async function fetchLegislacao(): Promise<ContentItem[]> {
     const legislacoes: ContentItem[] = [];
     const articles = doc.querySelectorAll("div#content-core article.tileItem");
 
-    for (const el of Array.from(articles).slice(0, CONFIG.maxLegislacao)) {
+    for (const el of Array.from(articles)) {
       try {
         const title = el.querySelector("h2.tileHeadline a")?.textContent?.trim() || "Sem título";
         const link = el.querySelector("h2.tileHeadline a")?.getAttribute("href") || "#";
+
+        // Ignora feeds cujo link contenha "portaria-de-pessoal"
+        if (link.includes("portaria-de-pessoal")) {
+          continue;
+        }
+
         const description = el.querySelector("p.tileBody span.description")?.textContent?.trim() || "Sem descrição";
 
         // Extraindo a data do título, que está no formato "PORTARIA Nº XXXX, DD/MM/YYYY"
@@ -36,6 +42,11 @@ export async function fetchLegislacao(): Promise<ContentItem[]> {
           image: null,
           type: "legislação"
         });
+
+        // Para a coleta quando atingir o número máximo de legislações
+        if (legislacoes.length >= CONFIG.maxLegislacao) {
+          break;
+        }
       } catch (e) {
         console.warn("Erro ao processar legislação:", e);
       }
