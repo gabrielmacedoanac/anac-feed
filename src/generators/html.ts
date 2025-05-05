@@ -1,7 +1,7 @@
 import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
-import { sanitize } from "https://deno.land/x/ammonia_wasm/mod.ts";
+import { sanitize } from "https://deno.land/x/ammonia@0.3.0/mod.ts";
 
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = `<!DOCTYPE html>
@@ -28,16 +28,11 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     ${conteudos.map(item => 
       `<div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-        <div class="feed-item-description" data-html>${escapeXml(item.description)}</div>
+        <div class="feed-item-description">${sanitize(item.description)}</div>
       </div>`
     ).join('\n')}
   </div>
   <script>
-    // Renderiza descrições como HTML
-    document.querySelectorAll('.feed-item-description[data-html]').forEach(el => {
-      el.innerHTML = el.textContent; // Converte o texto para HTML
-    });
-
     function filterByType(type) {
       const items = document.querySelectorAll('.feed-item');
       items.forEach(item => {
