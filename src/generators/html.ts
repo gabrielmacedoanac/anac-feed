@@ -30,8 +30,10 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
   <title>${escapeXml(FAIR_METADATA.title)}</title>
   <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
   
+  <!-- FontAwesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
   <style>
-    /* Estilos existentes */
     :root {
       --primary: #0066cc;
       --secondary: #004080;
@@ -73,12 +75,15 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
     }
     .filter-buttons {
       display: flex;
-      flex-wrap: wrap; /* Permite que os botões quebrem linha em telas menores */
+      flex-wrap: wrap;
       justify-content: center;
       gap: 1rem;
       margin-bottom: 2rem;
     }
     .filter-buttons button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
       padding: 0.5rem 1rem;
       border: none;
       border-radius: var(--border-radius);
@@ -87,8 +92,6 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       font-size: 1rem;
       cursor: pointer;
       transition: background-color 0.3s;
-      flex: 1 1 calc(25% - 1rem); /* Botões ocupam 25% da largura com espaçamento */
-      max-width: 200px; /* Limita a largura máxima dos botões */
     }
     .filter-buttons button:hover {
       background-color: var(--secondary);
@@ -96,6 +99,9 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
     .filter-buttons button.active {
       background-color: var(--success);
       color: white;
+    }
+    .filter-buttons button i {
+      margin-right: 0.5rem; /* Espaço entre o ícone e o texto */
     }
     .feed-container {
       display: grid;
@@ -188,7 +194,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
     }
     @media (max-width: 768px) {
       .filter-buttons button {
-        flex: 1 1 100%; /* Botões ocupam 100% da largura em telas menores */
+        flex: 1 1 100%;
       }
       .feed-container {
         grid-template-columns: 1fr;
@@ -203,7 +209,6 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       const articles = document.querySelectorAll('.feed-container article');
       const buttons = document.querySelectorAll('.filter-buttons button');
       
-      // Atualiza a exibição dos artigos
       articles.forEach(article => {
         if (type === 'all' || article.dataset.type === type) {
           article.style.display = 'block';
@@ -212,7 +217,6 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
         }
       });
 
-      // Atualiza a classe "active" nos botões
       buttons.forEach(button => {
         if (button.getAttribute('data-type') === type) {
           button.classList.add('active');
@@ -233,10 +237,18 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
 
   <main class="container">
     <div class="filter-buttons">
-      <button data-type="all" onclick="filterByType('all')" class="active">Todos</button>
-      <button data-type="notícia" onclick="filterByType('notícia')">Notícias</button>
-      <button data-type="vídeo" onclick="filterByType('vídeo')">Vídeos</button>
-      <button data-type="legislação" onclick="filterByType('legislação')">Legislações</button>
+      <button data-type="all" onclick="filterByType('all')" class="active">
+        <i class="fas fa-list"></i> Todos
+      </button>
+      <button data-type="notícia" onclick="filterByType('notícia')">
+        <i class="fas fa-newspaper"></i> Notícias
+      </button>
+      <button data-type="vídeo" onclick="filterByType('vídeo')">
+        <i class="fas fa-video"></i> Vídeos
+      </button>
+      <button data-type="legislação" onclick="filterByType('legislação')">
+        <i class="fas fa-gavel"></i> Legislações
+      </button>
     </div>
     <div class="feed-container">
       ${conteudos.map(item => `
