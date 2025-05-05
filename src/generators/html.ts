@@ -4,8 +4,6 @@ import { escapeXml } from "../utils.ts";
 import { Ammonia } from "https://deno.land/x/ammonia@0.3.0/mod.ts";
 
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
-  const ammonia = new Ammonia(); // Instância do Ammonia para sanitização
-
   const htmlContent = `<!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -30,7 +28,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     ${conteudos.map(item => 
       `<div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-        <div class="feed-item-description">${ammonia.clean(item.description)}</div>
+        <div class="feed-item-description">${Ammonia.sanitize(item.description)}</div>
       </div>`
     ).join('\n')}
   </div>
