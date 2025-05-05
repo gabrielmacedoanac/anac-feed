@@ -1,7 +1,6 @@
 import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
-import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = `<!DOCTYPE html>
@@ -53,29 +52,14 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 }
 
 /**
- * Função para processar o HTML e transformar URLs em links clicáveis.
+ * Função para transformar URLs em links clicáveis diretamente com regex.
  */
 function parseAndGenerateLinks(description: string): string {
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(description, "text/html");
-
-  if (!doc) {
-    // Se o parsing falhar, tenta detectar URLs no texto puro
-    return description.replace(
-      /(https?:\/\/[^\s]+)/g,
-      '<a href="$1" target="_blank">$1</a>'
-    );
-  }
-
-  // Procura por URLs no texto e transforma em links clicáveis
-  const links = doc.querySelectorAll("a");
-  links.forEach(link => {
-    if (!link.hasAttribute("target")) {
-      link.setAttribute("target", "_blank"); // Abre links em nova aba
-    }
-  });
-
-  return doc.body?.innerHTML || description; // Retorna o HTML processado
+  // Substitui URLs no texto por links clicáveis
+  return description.replace(
+    /(https?:\/\/[^\s]+)/g, // Detecta URLs que começam com http:// ou https://
+    '<a href="$1" target="_blank">$1</a>' // Transforma em links clicáveis
+  );
 }
 
 export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
@@ -323,7 +307,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
             </span>
           </div>
           <h2 property="headline"><a property="url" href="${escapeXml(item.link)}">${escapeXml(item.title)}</a></h2>
-          <p class="article-description" property="description">${(item.description)}</p>
+          <p class="article-description" property="description">${parseAndGenerateLinks(item.description)}</p>
         </div>
       </article>
       `).join('\n')}
