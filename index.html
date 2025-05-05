@@ -49,6 +49,7 @@
     }
     .filter-buttons {
       display: flex;
+      flex-wrap: wrap; /* Permite que os botões quebrem linha em telas menores */
       justify-content: center;
       gap: 1rem;
       margin-bottom: 2rem;
@@ -62,6 +63,8 @@
       font-size: 1rem;
       cursor: pointer;
       transition: background-color 0.3s;
+      flex: 1 1 calc(25% - 1rem); /* Botões ocupam 25% da largura com espaçamento */
+      max-width: 200px; /* Limita a largura máxima dos botões */
     }
     .filter-buttons button:hover {
       background-color: var(--secondary);
@@ -160,6 +163,9 @@
       text-decoration: underline;
     }
     @media (max-width: 768px) {
+      .filter-buttons button {
+        flex: 1 1 100%; /* Botões ocupam 100% da largura em telas menores */
+      }
       .feed-container {
         grid-template-columns: 1fr;
       }
@@ -240,6 +246,36 @@
           </div>
           <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca">Anac promove Avsec &amp; Cyber Week em junho com foco em segurança aérea e cibersegurança</a></h2>
           <p class="article-description" property="description">Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil</p>
+        </div>
+      </article>
+      
+
+      <article data-type="legislação" typeof="Legislation">
+        
+        <div class="article-content">
+          <div class="article-meta">
+            <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
+            <span class="article-type type-legislação" onclick="filterByType('legislação')">
+              legislação
+            </span>
+          </div>
+          <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16901">PORTARIA Nº 16901/SPL, 30/04/2025</a></h2>
+          <p class="article-description" property="description">Aprova o Manual de Procedimentos - MPR/SPL-013-R00</p>
+        </div>
+      </article>
+      
+
+      <article data-type="legislação" typeof="Legislation">
+        
+        <div class="article-content">
+          <div class="article-meta">
+            <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
+            <span class="article-type type-legislação" onclick="filterByType('legislação')">
+              legislação
+            </span>
+          </div>
+          <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16898">PORTARIA Nº 16898/SPL, 30/04/2025</a></h2>
+          <p class="article-description" property="description">Aprova o Manual de Procedimentos - MPR/SPL-014-R00</p>
         </div>
       </article>
       
@@ -546,21 +582,6 @@ Processo 00058.098660/2024-32</p>
         
         <div class="article-content">
           <div class="article-meta">
-            <time property="datePublished" datetime="2025-04-23T00:00:00.000Z">23/04/2025 00h00</time>
-            <span class="article-type type-legislação" onclick="filterByType('legislação')">
-              legislação
-            </span>
-          </div>
-          <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16850">PORTARIA Nº 16850/SPL, 23/04/2025</a></h2>
-          <p class="article-description" property="description">Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta</p>
-        </div>
-      </article>
-      
-
-      <article data-type="legislação" typeof="Legislation">
-        
-        <div class="article-content">
-          <div class="article-meta">
             <time property="datePublished" datetime="2025-04-22T00:00:00.000Z">22/04/2025 00h00</time>
             <span class="article-type type-legislação" onclick="filterByType('legislação')">
               legislação
@@ -613,21 +634,6 @@ Processo 00058.098660/2024-32</p>
           </div>
           <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16842">PORTARIA Nº 16842/SPL, 22/04/2025</a></h2>
           <p class="article-description" property="description">Publica ação administrativa de cassação de licenças e habilitações técnicas</p>
-        </div>
-      </article>
-      
-
-      <article data-type="legislação" typeof="Legislation">
-        
-        <div class="article-content">
-          <div class="article-meta">
-            <time property="datePublished" datetime="2025-04-22T00:00:00.000Z">22/04/2025 00h00</time>
-            <span class="article-type type-legislação" onclick="filterByType('legislação')">
-              legislação
-            </span>
-          </div>
-          <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16838">PORTARIA Nº 16838/SPL, 22/04/2025</a></h2>
-          <p class="article-description" property="description">Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta</p>
         </div>
       </article>
       
@@ -1218,7 +1224,7 @@ Restituição de TFAC - https://www.gov.br/pt-br/servicos/obter-restituicao-de-t
 
   <footer typeof="WPFooter">
     <div class="container">
-      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-05-05T08:19:43.777Z">2025-05-05T08:19:43.777Z (GMT)</time></small></p>
+      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-05-05T12:18:00.081Z">2025-05-05T12:18:00.081Z (GMT)</time></small></p>
       <div class="feed-links">
         <a href="data/rss.xml" target="_blank">RSS Feed</a>
         <a href="data/feed.json" target="_blank">JSON Feed</a>

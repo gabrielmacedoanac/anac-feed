@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6baa75c4-5ce4-4a78-ac4a-44c86691f49d",
+  "identifier": "urn:uuid:anac-feed-9427b5de-1618-44f4-ab94-4537501c77b8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-05T08:19:43.778Z",
-  "dateModified": "2025-05-05T08:19:43.778Z",
+  "dateCreated": "2025-05-05T12:18:00.083Z",
+  "dateModified": "2025-05-05T12:18:00.083Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -50,6 +50,22 @@
       "description": "Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16901/SPL, 30/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16901",
+      "datePublished": "2025-04-30T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimentos - MPR/SPL-013-R00",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16898/SPL, 30/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16898",
+      "datePublished": "2025-04-30T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimentos - MPR/SPL-014-R00",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -211,14 +227,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16850/SPL, 23/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16850",
-      "datePublished": "2025-04-23T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 16845, 22/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16845",
       "datePublished": "2025-04-22T00:00:00.000Z",
@@ -247,14 +255,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16842",
       "datePublished": "2025-04-22T00:00:00.000Z",
       "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16838/SPL, 22/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16838",
-      "datePublished": "2025-04-22T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
