@@ -32,11 +32,6 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     ).join('\n')}
   </div>
   <script>
-    // Renderiza descrições como HTML
-    document.querySelectorAll('.feed-item-description[data-html]').forEach(el => {
-      el.innerHTML = el.textContent; // Converte o texto para HTML
-    });
-
     function filterByType(type) {
       const items = document.querySelectorAll('.feed-item');
       items.forEach(item => {
