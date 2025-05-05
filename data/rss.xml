@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 05 May 2025 18:54:16 GMT</pubDate>
-    <lastBuildDate>Mon, 05 May 2025 18:54:16 GMT</lastBuildDate>
+    <pubDate>Mon, 05 May 2025 19:02:24 GMT</pubDate>
+    <lastBuildDate>Mon, 05 May 2025 19:02:24 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Anac é classificada no Grupo 2 de índice de desempenho da Corregedoria-Geral da União</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-classificada-no-grupo-2-de-indice-de-desempenho-da-corregedoria-geral-da-uniao</link>
+      <description>Classificação coloca agência no segundo melhor grupo de avaliação do Idecor</description>
+      <pubDate>Mon, 05 May 2025 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/anac-e-classificada-no-grupo-2-de-indice-de-desempenho-da-corregedoria-geral-da-uniao</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-05T15:53:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Classificação coloca agência no segundo melhor grupo de avaliação do Idecor</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -883,23 +900,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Abertas inscrições para treinamento inicial para Profissionais Credenciados de Projeto (PCP) e Fabricação (PCF)</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/abertas-inscricoes-para-treinamento-inicial-para-profissionais-credenciados-de-projeto-pcp-e-fabricacao-pcf</link>
-      <description>As capacitações serão online, prazo termina em 2/5</description>
-      <pubDate>Fri, 28 Mar 2025 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/abertas-inscricoes-para-treinamento-inicial-para-profissionais-credenciados-de-projeto-pcp-e-fabricacao-pcf</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-03-28T14:26:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>As capacitações serão online, prazo termina em 2/5</p>
         
       ]]></content:encoded>
     </item>
