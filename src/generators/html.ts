@@ -1,6 +1,7 @@
 import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
+import { sanitize } from "https://deno.land/x/ammonia_wasm/mod.ts";
 
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = `<!DOCTYPE html>
@@ -13,7 +14,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
     .filters a:hover { text-decoration: underline; }
     .feed-item { margin-bottom: 1rem; }
-    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #555; } /* Estilo para a descrição */
+    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; } /* Estilo para a descrição */
   </style>
 </head>
 <body>
