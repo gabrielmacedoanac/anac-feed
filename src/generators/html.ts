@@ -8,11 +8,32 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 <head>
   <meta charset="UTF-8">
   <title>Notícias ANAC</title>
+  <style>
+    .filters { text-align: center; margin-bottom: 1rem; }
+    .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
+    .filters a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
-  ${conteudos.map(item => 
-    `<a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}</br>`
-  ).join('\n')}
+  <div class="filters">
+    <a href="#" onclick="filterByType('all')">Todos</a>
+    <a href="#" onclick="filterByType('notícia')">Notícias</a>
+    <a href="#" onclick="filterByType('vídeo')">Vídeos</a>
+    <a href="#" onclick="filterByType('legislação')">Legislações</a>
+  </div>
+  <div id="content">
+    ${conteudos.map(item => 
+      `<a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}</br>`
+    ).join('\n')}
+  </div>
+  <script>
+    function filterByType(type) {
+      const items = document.querySelectorAll('#content a');
+      items.forEach(item => {
+        item.style.display = type === 'all' || item.textContent.includes(type) ? 'block' : 'none';
+      });
+    }
+  </script>
 </body>
 </html>`;
 
