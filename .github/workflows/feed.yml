@@ -21,6 +21,9 @@ jobs:
         with:
           deno-version: v1.x
 
+      - name: Cache Deno dependencies
+        run: deno cache --reload https://deno.land/x/ammonia@0.3.0/mod.ts
+
       - name: ▶️ Executar script Deno
         run: deno run --allow-net --allow-read --allow-write src/main.ts    
 
