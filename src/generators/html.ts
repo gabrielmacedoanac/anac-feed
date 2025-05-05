@@ -27,7 +27,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     ${conteudos.map(item => 
       `<div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-        <div class="feed-item-description">${escapeXml(item.description)}</div>
+        <div class="feed-item-description">${(item.description)}</div>
       </div>`
     ).join('\n')}
   </div>
@@ -294,7 +294,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
             </span>
           </div>
           <h2 property="headline"><a property="url" href="${escapeXml(item.link)}">${escapeXml(item.title)}</a></h2>
-          <p class="article-description" property="description">${escapeXml(item.description)}</p>
+          <p class="article-description" property="description">${(item.description)}</p>
         </div>
       </article>
       `).join('\n')}
