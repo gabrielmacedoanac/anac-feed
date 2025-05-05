@@ -92,7 +92,57 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
   <title>${escapeXml(FAIR_METADATA.title)}</title>
   <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
   <style>
-    /* Estilos omitidos para brevidade */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background: #0073e6;
+      color: #fff;
+      padding: 1rem 0;
+      text-align: center;
+    }
+    .container {
+      width: 90%;
+      margin: auto;
+      overflow: hidden;
+    }
+    .feed-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    article {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 1rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    article img {
+      max-width: 100%;
+      border-radius: 5px;
+    }
+    article h2 {
+      font-size: 1.2rem;
+      margin: 0.5rem 0;
+    }
+    article p {
+      font-size: 0.9rem;
+      color: #555;
+    }
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem 0;
+      margin-top: 2rem;
+    }
   </style>
 </head>
 <body>
