@@ -13,6 +13,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
     .filters a:hover { text-decoration: underline; }
     .feed-item { margin-bottom: 1rem; }
+    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #555; } /* Estilo para a descrição */
   </style>
 </head>
 <body>
@@ -26,6 +27,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     ${conteudos.map(item => 
       `<div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
+        <div class="feed-item-description">${escapeXml(item.description)}</div>
       </div>`
     ).join('\n')}
   </div>
