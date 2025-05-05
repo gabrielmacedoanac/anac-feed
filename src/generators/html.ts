@@ -1,7 +1,7 @@
 import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
-import { xss } from "https://deno.land/x/xss@1.0.0/mod.ts";
+import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = `<!DOCTYPE html>
@@ -25,12 +25,14 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     <a href="#" onclick="filterByType('legislação')">[Legislações]</a>
   </div>
   <div id="content">
-    ${conteudos.map(item => 
-      `<div class="feed-item" data-type="${item.type}">
+    ${conteudos.map(item => {
+      const sanitizedDescription = parseAndGenerateLinks(item.description);
+      return `
+      <div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-        <div class="feed-item-description">${xss(item.description)}</div>
-      </div>`
-    ).join('\n')}
+        <div class="feed-item-description">${sanitizedDescription}</div>
+      </div>`;
+    }).join('\n')}
   </div>
   <script>
     function filterByType(type) {
@@ -48,6 +50,28 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 </html>`;
 
   await Deno.writeTextFile(outputPath, htmlContent);
+}
+
+/**
+ * Função para processar o HTML e transformar URLs em links clicáveis.
+ */
+function parseAndGenerateLinks(description: string): string {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(description, "text/html");
+
+  if (!doc) {
+    return description; // Retorna o texto original se o parsing falhar
+  }
+
+  // Procura por URLs no texto e transforma em links clicáveis
+  const links = doc.querySelectorAll("a");
+  links.forEach(link => {
+    if (!link.hasAttribute("target")) {
+      link.setAttribute("target", "_blank"); // Abre links em nova aba
+    }
+  });
+
+  return doc.body?.innerHTML || description; // Retorna o HTML processado
 }
 
 export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
