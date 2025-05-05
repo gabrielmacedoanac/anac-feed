@@ -2,29 +2,8 @@ import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
 
-/**
- * Função para transformar URLs em links clicáveis diretamente com regex.
- */
-function parseAndGenerateLinks(description: string): string {
-  return description.replace(
-    /(https?:\/\/[^\s]+)/g, // Detecta URLs que começam com http:// ou https://
-    '<a href="$1" target="_blank">$1</a>' // Transforma em links clicáveis
-  );
-}
-
-/**
- * Gera o HTML simples para os conteúdos fornecidos.
- */
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
-  const htmlContent = buildSimpleHtml(conteudos);
-  await Deno.writeTextFile(outputPath, htmlContent);
-}
-
-/**
- * Constrói o HTML simples.
- */
-function buildSimpleHtml(conteudos: ContentItem[]): string {
-  return `<!DOCTYPE html>
+  const htmlContent = `<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -34,7 +13,7 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
     .filters a:hover { text-decoration: underline; }
     .feed-item { margin-bottom: 1rem; }
-    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; }
+    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; } /* Estilo para a descrição */
   </style>
 </head>
 <body>
@@ -45,53 +24,58 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
     <a href="#" onclick="filterByType('legislação')">[Legislações]</a>
   </div>
   <div id="content">
-    ${conteudos.map(item => buildFeedItem(item)).join('\n')}
+    ${conteudos.map(item => {
+      const parseUrlDescription = parseAndGenerateLinks(item.description);
+      return `
+      <div class="feed-item" data-type="${item.type}">
+        <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
+        <div class="feed-item-description">${parseUrlDescription}</div>
+      </div>`;
+    }).join('\n')}
   </div>
   <script>
     function filterByType(type) {
       const items = document.querySelectorAll('.feed-item');
       items.forEach(item => {
-        item.style.display = (type === 'all' || item.dataset.type === type) ? 'block' : 'none';
+        if (type === 'all' || item.dataset.type === type) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
       });
     }
   </script>
 </body>
 </html>`;
-}
 
-/**
- * Constrói um item do feed.
- */
-function buildFeedItem(item: ContentItem): string {
-  const parseUrlDescription = parseAndGenerateLinks(item.description);
-  return `
-    <div class="feed-item" data-type="${item.type}">
-      <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-      <div class="feed-item-description">${parseUrlDescription}</div>
-    </div>`;
-}
-
-/**
- * Gera o HTML semântico para os conteúdos fornecidos.
- */
-export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
-  const htmlContent = buildSemanticHtml(conteudos);
   await Deno.writeTextFile(outputPath, htmlContent);
 }
 
 /**
- * Constrói o HTML semântico.
+ * Função para transformar URLs em links clicáveis diretamente com regex.
  */
-function buildSemanticHtml(conteudos: ContentItem[]): string {
+function parseAndGenerateLinks(description: string): string {
+  // Substitui URLs no texto por links clicáveis
+  return description.replace(
+    /(https?:\/\/[^\s]+)/g, // Detecta URLs que começam com http:// ou https://
+    '<a href="$1" target="_blank">$1</a>' // Transforma em links clicáveis
+  );
+}
+
+export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
   const generationDate = new Date();
-  return `<!DOCTYPE html>
+
+  const htmlContent = `<!DOCTYPE html>
 <html lang="pt-BR" vocab="https://schema.org/">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeXml(FAIR_METADATA.title)}</title>
   <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
+  
+  <!-- FontAwesome para ícones -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
   <style>
     :root {
       --primary: #0066cc;
@@ -158,6 +142,9 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
     .filter-buttons button.active {
       background-color: var(--success);
       color: white;
+    }
+    .filter-buttons button i {
+      margin-right: 0.5rem; /* Espaço entre o ícone e o texto */
     }
     .feed-container {
       display: grid;
@@ -248,7 +235,40 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
     .feed-links a:hover {
       text-decoration: underline;
     }
+    @media (max-width: 768px) {
+      .filter-buttons button {
+        flex: 1 1 100%;
+      }
+      .feed-container {
+        grid-template-columns: 1fr;
+      }
+      h1 {
+        font-size: 1.8rem;
+      }
+    }
   </style>
+  <script>
+    function filterByType(type) {
+      const articles = document.querySelectorAll('.feed-container article');
+      const buttons = document.querySelectorAll('.filter-buttons button');
+      
+      articles.forEach(article => {
+        if (type === 'all' || article.dataset.type === type) {
+          article.style.display = 'block';
+        } else {
+          article.style.display = 'none';
+        }
+      });
+
+      buttons.forEach(button => {
+        if (button.getAttribute('data-type') === type) {
+          button.classList.add('active');
+        } else {
+          button.classList.remove('active');
+        }
+      });
+    }
+  </script>
 </head>
 <body>
   <header typeof="WPHeader">
@@ -257,17 +277,43 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       <p property="description">${escapeXml(FAIR_METADATA.description)}</p>
     </div>
   </header>
+
   <main class="container">
     <div class="filter-buttons">
-      <button data-type="all" onclick="filterByType('all')" class="active">Todos</button>
-      <button data-type="notícia" onclick="filterByType('notícia')">Notícias</button>
-      <button data-type="vídeo" onclick="filterByType('vídeo')">Vídeos</button>
-      <button data-type="legislação" onclick="filterByType('legislação')">Legislações</button>
+      <button data-type="all" onclick="filterByType('all')" class="active">
+        <i class="fas fa-list"></i> Todos
+      </button>
+      <button data-type="notícia" onclick="filterByType('notícia')">
+        <i class="fas fa-newspaper"></i> Notícias
+      </button>
+      <button data-type="vídeo" onclick="filterByType('vídeo')">
+        <i class="fas fa-video"></i> Vídeos
+      </button>
+      <button data-type="legislação" onclick="filterByType('legislação')">
+        <i class="fas fa-gavel"></i> Legislações
+      </button>
     </div>
     <div class="feed-container">
-      ${conteudos.map(item => buildSemanticFeedItem(item)).join('\n')}
+      ${conteudos.map(item => `
+      <article data-type="${item.type}" typeof="${item.type === 'vídeo' ? 'VideoObject' : item.type === 'legislação' ? 'Legislation' : 'NewsArticle'}">
+        ${item.image ? `
+        <img class="article-image" property="image" src="${escapeXml(item.image)}" alt="${escapeXml(item.title)}">
+        ` : ''}
+        <div class="article-content">
+          <div class="article-meta">
+            <time property="datePublished" datetime="${item.iso}">${item.display}</time>
+            <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}" onclick="filterByType('${item.type}')">
+              ${item.type}
+            </span>
+          </div>
+          <h2 property="headline"><a property="url" href="${escapeXml(item.link)}">${escapeXml(item.title)}</a></h2>
+          <p class="article-description" property="description">${parseAndGenerateLinks(item.description)}</p>
+        </div>
+      </article>
+      `).join('\n')}
     </div>
   </main>
+
   <footer typeof="WPFooter">
     <div class="container">
       <p><small>${FAIR_METADATA.rights} • Atualizado em: <time datetime="${generationDate.toISOString()}">${generationDate.toISOString()} (GMT)</time></small></p>
@@ -280,34 +326,6 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
   </footer>
 </body>
 </html>`;
-}
 
-/**
- * Constrói um item semântico do feed.
- */
-function buildSemanticFeedItem(item: ContentItem): string {
-  const parseUrlDescription = parseAndGenerateLinks(item.description);
-  return `
-    <article data-type="${item.type}" typeof="${getSchemaType(item.type)}">
-      ${item.image ? `<img class="article-image" property="image" src="${escapeXml(item.image)}" alt="${escapeXml(item.title)}">` : ''}
-      <div class="article-content">
-        <div class="article-meta">
-          <time property="datePublished" datetime="${item.iso}">${item.display}</time>
-          <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}">${item.type}</span>
-        </div>
-        <h2 property="headline"><a property="url" href="${escapeXml(item.link)}">${escapeXml(item.title)}</a></h2>
-        <p class="article-description" property="description">${parseUrlDescription}</p>
-      </div>
-    </article>`;
-}
-
-/**
- * Retorna o tipo de schema.org baseado no tipo do item.
- */
-function getSchemaType(type: string): string {
-  switch (type) {
-    case 'vídeo': return 'VideoObject';
-    case 'legislação': return 'Legislation';
-    default: return 'NewsArticle';
-  }
+  await Deno.writeTextFile(outputPath, htmlContent);
 }
