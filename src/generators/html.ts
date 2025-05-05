@@ -17,10 +17,10 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 </head>
 <body>
   <div class="filters">
-    <a href="#" onclick="filterByType('all')">Todos</a>
-    <a href="#" onclick="filterByType('notícia')">Notícias</a>
-    <a href="#" onclick="filterByType('vídeo')">Vídeos</a>
-    <a href="#" onclick="filterByType('legislação')">Legislações</a>
+    <a href="#" onclick="filterByType('all')">[Todos]</a>
+    <a href="#" onclick="filterByType('notícia')">[Notícias]</a>
+    <a href="#" onclick="filterByType('vídeo')">[Vídeos]</a>
+    <a href="#" onclick="filterByType('legislação')">[Legislações]</a>
   </div>
   <div id="content">
     ${conteudos.map(item => 
