@@ -12,8 +12,8 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     .filters { text-align: center; margin-bottom: 1rem; }
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
     .filters a:hover { text-decoration: underline; }
-    .feed-item { margin-bottom: 1rem; font-size: 0.9rem; }
-    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #333; } 
+    .feed-item { margin-bottom: 1rem; }
+    .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; } 
   </style>
 </head>
 <body>
