@@ -25,11 +25,11 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
   </div>
   <div id="content">
     ${conteudos.map(item => {
-      const sanitizedDescription = parseAndGenerateLinks(item.description);
+      const parseUrlDescription = parseAndGenerateLinks(item.description);
       return `
       <div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-        <div class="feed-item-description">${sanitizedDescription}</div>
+        <div class="feed-item-description">${parseUrlDescription}</div>
       </div>`;
     }).join('\n')}
   </div>
