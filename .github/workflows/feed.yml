@@ -20,7 +20,10 @@ jobs:
         uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-
+          
+      - name: Cache Deno dependencies
+        run: deno cache --reload https://deno.land/x/xss@1.0.0/mod.ts
+  
       - name: ▶️ Executar script Deno
         run: deno run --allow-net --allow-read --allow-write src/main.ts    
 
