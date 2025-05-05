@@ -3,9 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <title>Notícias ANAC</title>
+  <style>
+    .filters { text-align: center; margin-bottom: 1rem; }
+    .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
+    .filters a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
-  <a href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional" target="_blank">Anac lança o 1º Plano de Comunicação de Segurança Operacional</a> (30/04/2025 18h05) - notícia</br>
+  <div class="filters">
+    <a href="#" onclick="filterByType('all')">Todos</a>
+    <a href="#" onclick="filterByType('notícia')">Notícias</a>
+    <a href="#" onclick="filterByType('vídeo')">Vídeos</a>
+    <a href="#" onclick="filterByType('legislação')">Legislações</a>
+  </div>
+  <div id="content">
+    <a href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional" target="_blank">Anac lança o 1º Plano de Comunicação de Segurança Operacional</a> (30/04/2025 18h05) - notícia</br>
 <a href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca" target="_blank">Anac promove Avsec &amp; Cyber Week em junho com foco em segurança aérea e cibersegurança</a> (30/04/2025 16h29) - notícia</br>
 <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16901" target="_blank">PORTARIA Nº 16901/SPL, 30/04/2025</a> (30/04/2025 00h00) - legislação</br>
 <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16898" target="_blank">PORTARIA Nº 16898/SPL, 30/04/2025</a> (30/04/2025 00h00) - legislação</br>
@@ -67,5 +79,14 @@
 <a href="https://www.youtube.com/watch?v=VNrryz_m_rg" target="_blank">Webinário: Novas regras para exames MMA</a> (14/02/2025 09h44) - vídeo</br>
 <a href="https://www.youtube.com/watch?v=wLK3hEhqhLc" target="_blank">Webinário: Novas regras para exames PLA</a> (12/02/2025 05h47) - vídeo</br>
 <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16319" target="_blank">PORTARIA Nº 16319/SIA, 05/02/2025</a> (05/02/2025 00h00) - legislação</br>
+  </div>
+  <script>
+    function filterByType(type) {
+      const items = document.querySelectorAll('#content a');
+      items.forEach(item => {
+        item.style.display = type === 'all' || item.textContent.includes(type) ? 'block' : 'none';
+      });
+    }
+  </script>
 </body>
 </html>
