@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ee5b92a5-faa6-4fc2-bdcd-c8b107ebf516",
+  "identifier": "urn:uuid:anac-feed-4f1132ba-3117-4a37-a9f4-515024b7f95e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-05T17:49:18.972Z",
-  "dateModified": "2025-05-05T17:49:18.972Z",
+  "dateCreated": "2025-05-05T18:40:13.578Z",
+  "dateModified": "2025-05-05T18:40:13.578Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -144,6 +144,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16865/SIA, 25/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16865",
+      "datePublished": "2025-04-25T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0359 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16870/SPO, 25/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16870",
+      "datePublished": "2025-04-25T00:00:00.000Z",
+      "description": "Defere o pedido de isenção de cumprimento dos requisitos de que tratam o art. 8º, § 3º, da Resolução nº 457, de 20 de dezembro de 2017, e o parágrafo 91.203(a)(4) do RBAC nº 91",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16869/SAR, 25/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16869",
       "datePublished": "2025-04-25T00:00:00.000Z",
@@ -161,6 +177,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16862/SIA, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16862",
+      "datePublished": "2025-04-24T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0493 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16863/SIA, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16863",
+      "datePublished": "2025-04-24T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD RN0022 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16859/CRG, 24/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16859",
       "datePublished": "2025-04-24T00:00:00.000Z",
@@ -173,30 +205,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16858",
       "datePublished": "2025-04-24T00:00:00.000Z",
       "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16861/CRG, 24/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16861",
-      "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16860/SPO, 24/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16860",
-      "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16857/SIA, 24/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16857",
-      "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DOS AEROPORTOS DA AMAZÔNIA S.A., operadora do Aeroporto Plácido de Castro, Código OACI: SBRB; Código CIAD: AC0001, em Rio Branco (AC)",
       "type": "legislação"
     },
     {
@@ -216,14 +224,6 @@
       "description": "Processo 00058.085246/2023-82\nProcesso 00058.098660/2024-32",
       "image": "https://i2.ytimg.com/vi/aVJjHlgEKNs/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16848/SAR, 23/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16848",
-      "datePublished": "2025-04-23T00:00:00.000Z",
-      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelo EMB-505",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
