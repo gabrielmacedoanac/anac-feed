@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 05 May 2025 19:22:46 GMT</pubDate>
-    <lastBuildDate>Mon, 05 May 2025 19:22:46 GMT</lastBuildDate>
+    <pubDate>Mon, 05 May 2025 20:15:13 GMT</pubDate>
+    <lastBuildDate>Mon, 05 May 2025 20:15:13 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Relatório de Atividades: confira os resultados de atuação da Anac em 2024</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024</link>
+      <description>Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano</description>
+      <pubDate>Mon, 05 May 2025 16:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-05T16:58:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -883,23 +900,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Medida pretende aperfeiçoar a segurança das operações, facilitar o transporte aéreo e aumentar a eficiência no fluxo de mercadorias para o exterior</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Profissionais do Aeroporto de Guarulhos fazem treinamento sobre atendimento a migrantes</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/profissionais-do-aeroporto-de-guarulhos-fazem-treinamento-sobre-atendimento-a-migrantes</link>
-      <description>Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo</description>
-      <pubDate>Fri, 28 Mar 2025 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/profissionais-do-aeroporto-de-guarulhos-fazem-treinamento-sobre-atendimento-a-migrantes</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-03-28T16:49:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo</p>
         
       ]]></content:encoded>
     </item>

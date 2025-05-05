@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5f3f70f5-e67a-42a8-9bc2-671efb7732f0",
+  "identifier": "urn:uuid:anac-feed-a15fc805-6108-40ef-9085-35c64ee52f56",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-05T19:22:46.618Z",
-  "dateModified": "2025-05-05T19:22:46.618Z",
+  "dateCreated": "2025-05-05T20:15:13.385Z",
+  "dateModified": "2025-05-05T20:15:13.385Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-05T00:00:00.000Z",
-    "endDate": "2025-05-05T15:53:00.000Z"
+    "endDate": "2025-05-05T16:58:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Relatório de Atividades: confira os resultados de atuação da Anac em 2024",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024",
+      "datePublished": "2025-05-05T16:58:00.000Z",
+      "description": "Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac é classificada no Grupo 2 de índice de desempenho da Corregedoria-Geral da União",
@@ -459,14 +467,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-receita-federal-firmam-parceria-para-aprimorar-processos-de-exportacao-de-carga-aerea",
       "datePublished": "2025-03-28T18:22:00.000Z",
       "description": "Medida pretende aperfeiçoar a segurança das operações, facilitar o transporte aéreo e aumentar a eficiência no fluxo de mercadorias para o exterior",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Profissionais do Aeroporto de Guarulhos fazem treinamento sobre atendimento a migrantes",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/profissionais-do-aeroporto-de-guarulhos-fazem-treinamento-sobre-atendimento-a-migrantes",
-      "datePublished": "2025-03-28T16:49:00.000Z",
-      "description": "Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo",
       "type": "notícia"
     },
     {

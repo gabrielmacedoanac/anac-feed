@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5f3f70f5-e67a-42a8-9bc2-671efb7732f0</id>
-  <updated>2025-05-05T15:53:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a15fc805-6108-40ef-9085-35c64ee52f56</id>
+  <updated>2025-05-05T16:58:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Relatório de Atividades: confira os resultados de atuação da Anac em 2024</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024</id>
+    <published>2025-05-05T16:58:00.000Z</published>
+    <updated>2025-05-05T16:58:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano</summary>
+    <content type="html"><![CDATA[
+      <p>Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -985,25 +1004,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     <summary type="html">Medida pretende aperfeiçoar a segurança das operações, facilitar o transporte aéreo e aumentar a eficiência no fluxo de mercadorias para o exterior</summary>
     <content type="html"><![CDATA[
       <p>Medida pretende aperfeiçoar a segurança das operações, facilitar o transporte aéreo e aumentar a eficiência no fluxo de mercadorias para o exterior</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Profissionais do Aeroporto de Guarulhos fazem treinamento sobre atendimento a migrantes</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/profissionais-do-aeroporto-de-guarulhos-fazem-treinamento-sobre-atendimento-a-migrantes" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/profissionais-do-aeroporto-de-guarulhos-fazem-treinamento-sobre-atendimento-a-migrantes</id>
-    <published>2025-03-28T16:49:00.000Z</published>
-    <updated>2025-03-28T16:49:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo</summary>
-    <content type="html"><![CDATA[
-      <p>Liderada pelo MDHC e pela Anvisa, capacitação orientou sobre o atendimento a passageiros migrantes, solicitantes de refúgio ou de asilo</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
