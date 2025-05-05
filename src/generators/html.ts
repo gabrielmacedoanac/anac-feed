@@ -1,7 +1,7 @@
 import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
-import { Ammonia } from "https://deno.land/x/ammonia@0.3.0/mod.ts";
+import DOMPurify from "https://esm.sh/dompurify@2.4.0";
 
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = `<!DOCTYPE html>
@@ -28,7 +28,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     ${conteudos.map(item => 
       `<div class="feed-item" data-type="${item.type}">
         <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
-        <div class="feed-item-description">${Ammonia.sanitize(item.description)}</div>
+        <div class="feed-item-description">${DOMPurify.sanitize(item.description)}</div>
       </div>`
     ).join('\n')}
   </div>
@@ -47,7 +47,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
 </body>
 </html>`;
 
-  await Deno.writeTextFile(outputPath, htmlContent);
+await Deno.writeTextFile(outputPath, htmlContent);
 }
 
 export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
