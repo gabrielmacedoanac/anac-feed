@@ -60,7 +60,11 @@ function parseAndGenerateLinks(description: string): string {
   const doc = parser.parseFromString(description, "text/html");
 
   if (!doc) {
-    return description; // Retorna o texto original se o parsing falhar
+    // Se o parsing falhar, tenta detectar URLs no texto puro
+    return description.replace(
+      /(https?:\/\/[^\s]+)/g,
+      '<a href="$1" target="_blank">$1</a>'
+    );
   }
 
   // Procura por URLs no texto e transforma em links clicáveis
