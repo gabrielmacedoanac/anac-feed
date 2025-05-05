@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5f933290-19a5-4e58-9d85-6dabf7edeb3a",
+  "identifier": "urn:uuid:anac-feed-10b63a2b-6b14-4f8d-8397-a768d26a3a1b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-05T13:18:39.586Z",
-  "dateModified": "2025-05-05T13:18:39.586Z",
+  "dateCreated": "2025-05-05T16:18:02.848Z",
+  "dateModified": "2025-05-05T16:18:02.848Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -227,6 +227,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16847/SIA, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16847",
+      "datePublished": "2025-04-22T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0782 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16846/SIA, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16846",
+      "datePublished": "2025-04-22T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1488 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16845, 22/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16845",
       "datePublished": "2025-04-22T00:00:00.000Z",
@@ -243,18 +259,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16839/SPL, 22/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16839",
-      "datePublished": "2025-04-22T00:00:00.000Z",
-      "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16842/SPL, 22/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16842",
-      "datePublished": "2025-04-22T00:00:00.000Z",
-      "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
+      "name": "PORTARIA Nº 16823/SIA, 17/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16823",
+      "datePublished": "2025-04-17T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MA0207 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
