@@ -73,6 +73,7 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
     }
     .filter-buttons {
       display: flex;
+      flex-wrap: wrap; /* Permite que os botões quebrem linha em telas menores */
       justify-content: center;
       gap: 1rem;
       margin-bottom: 2rem;
@@ -86,6 +87,8 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       font-size: 1rem;
       cursor: pointer;
       transition: background-color 0.3s;
+      flex: 1 1 calc(25% - 1rem); /* Botões ocupam 25% da largura com espaçamento */
+      max-width: 200px; /* Limita a largura máxima dos botões */
     }
     .filter-buttons button:hover {
       background-color: var(--secondary);
@@ -184,6 +187,9 @@ export async function generateSemanticHtml(conteudos: ContentItem[], outputPath:
       text-decoration: underline;
     }
     @media (max-width: 768px) {
+      .filter-buttons button {
+        flex: 1 1 100%; /* Botões ocupam 100% da largura em telas menores */
+      }
       .feed-container {
         grid-template-columns: 1fr;
       }
