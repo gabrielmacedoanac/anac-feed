@@ -12,6 +12,7 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
     .filters { text-align: center; margin-bottom: 1rem; }
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
     .filters a:hover { text-decoration: underline; }
+    .feed-item { margin-bottom: 1rem; }
   </style>
 </head>
 <body>
@@ -23,14 +24,20 @@ export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: s
   </div>
   <div id="content">
     ${conteudos.map(item => 
-      `<a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}</br>`
+      `<div class="feed-item" data-type="${item.type}">
+        <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
+      </div>`
     ).join('\n')}
   </div>
   <script>
     function filterByType(type) {
-      const items = document.querySelectorAll('#content a');
+      const items = document.querySelectorAll('.feed-item');
       items.forEach(item => {
-        item.style.display = type === 'all' || item.textContent.includes(type) ? 'block' : 'none';
+        if (type === 'all' || item.dataset.type === type) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
       });
     }
   </script>
