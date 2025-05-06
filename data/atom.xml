@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a15fc805-6108-40ef-9085-35c64ee52f56</id>
+  <id>urn:uuid:anac-feed-de5d7766-1e4a-4b81-bea2-9fc13fac3487</id>
   <updated>2025-05-05T16:58:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -242,25 +242,6 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16878/SAF, 28/04/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16878" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16878</id>
-    <published>2025-04-28T00:00:00.000Z</published>
-    <updated>2025-04-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Equipe de Planejamento da Contratação</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato</id>
@@ -487,6 +468,25 @@ Processo 00058.098660/2024-32</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16837/SGM, 22/04/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-16837-sgm-22-04-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-16837-sgm-22-04-2025</id>
+    <published>2025-04-22T00:00:00.000Z</published>
+    <updated>2025-04-22T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Constitui Comitê Avaliador e equipe coordenadora, responsáveis pelos procedimentos de coordenação e administrativos, do processo de indicação do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI, relativos ao Edital nº 12/ANAC/2025.</summary>
+    <content type="html"><![CDATA[
+      <p>Constitui Comitê Avaliador e equipe coordenadora, responsáveis pelos procedimentos de coordenação e administrativos, do processo de indicação do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI, relativos ao Edital nº 12/ANAC/2025.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

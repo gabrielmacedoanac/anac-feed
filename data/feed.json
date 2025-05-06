@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a15fc805-6108-40ef-9085-35c64ee52f56",
+  "identifier": "urn:uuid:anac-feed-de5d7766-1e4a-4b81-bea2-9fc13fac3487",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-05T20:15:13.385Z",
-  "dateModified": "2025-05-05T20:15:13.385Z",
+  "dateCreated": "2025-05-06T00:19:55.780Z",
+  "dateModified": "2025-05-06T00:19:55.780Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -133,14 +133,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16878/SAF, 28/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16878",
-      "datePublished": "2025-04-28T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato",
@@ -240,6 +232,14 @@
       "description": "Processo 00058.085246/2023-82\nProcesso 00058.098660/2024-32",
       "image": "https://i2.ytimg.com/vi/aVJjHlgEKNs/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16837/SGM, 22/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-16837-sgm-22-04-2025",
+      "datePublished": "2025-04-22T00:00:00.000Z",
+      "description": "Constitui Comitê Avaliador e equipe coordenadora, responsáveis pelos procedimentos de coordenação e administrativos, do processo de indicação do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI, relativos ao Edital nº 12/ANAC/2025.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
