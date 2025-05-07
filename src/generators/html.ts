@@ -54,9 +54,9 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
   <footer>
     <p>${FAIR_METADATA.rights}</p>
     <div>
-      <a href="data/rss.xml" target="_blank">RSS Feed</a>
-      <a href="data/feed.json" target="_blank">JSON Feed</a>
-      <a href="data/atom.xml" target="_blank">ATOM Feed</a>
+      <a href="rss.xml" target="_blank">RSS Feed</a>
+      <a href="feed.json" target="_blank">JSON Feed</a>
+      <a href="atom.xml" target="_blank">ATOM Feed</a>
     </div>
   </footer>
   <script>
