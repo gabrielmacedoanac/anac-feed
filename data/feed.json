@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-58fd2be1-7f79-4c16-bf2a-9b006cb5685c",
+  "identifier": "urn:uuid:anac-feed-dbb95d93-9830-421d-9adc-85c792e8e1a7",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-07T04:17:01.897Z",
-  "dateModified": "2025-05-07T04:17:01.897Z",
+  "dateCreated": "2025-05-07T08:19:39.684Z",
+  "dateModified": "2025-05-07T08:19:39.684Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2024-12-18T12:42:59.000Z",
-    "endDate": "2025-05-06T14:20:16.000Z"
+    "startDate": "2025-02-05T00:00:00.000Z",
+    "endDate": "2025-05-07T07:06:03.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)",
+      "url": "https://www.youtube.com/watch?v=DX2A7mifn9M",
+      "datePublished": "2025-05-07T07:06:03.000Z",
+      "description": "Processo 00058.085388/2023-40\nProcesso00058.041142/2024-47",
+      "image": "https://i1.ytimg.com/vi/DX2A7mifn9M/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
@@ -558,15 +567,6 @@
       "datePublished": "2025-02-05T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MS0778 no cadastro de aeródromos",
       "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)",
-      "url": "https://www.youtube.com/watch?v=DX2A7mifn9M",
-      "datePublished": "2024-12-18T12:42:59.000Z",
-      "description": "Processo 00058.085388/2023-40\nProcesso00058.041142/2024-47",
-      "image": "https://i1.ytimg.com/vi/DX2A7mifn9M/hqdefault.jpg",
-      "type": "vídeo"
     }
   ]
 }
