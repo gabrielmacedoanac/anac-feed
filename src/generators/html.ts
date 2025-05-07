@@ -40,6 +40,9 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
     .feed-item { margin-bottom: 1rem; }
     .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; }
   </style>
+  <script type="application/ld+json">
+    ${generateJsonLd(conteudos)}
+  </script>
 </head>
 <body>
   <div class="filters">
@@ -261,23 +264,8 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       text-decoration: underline;
     }
   </style>
-  <script>
-    function filterByType(type) {
-      const articles = document.querySelectorAll('.feed-container article');
-      const buttons = document.querySelectorAll('.filter-buttons button');
-      
-      articles.forEach(article => {
-        article.style.display = (type === 'all' || article.dataset.type === type) ? 'block' : 'none';
-      });
-
-      buttons.forEach(button => {
-        if (button.getAttribute('data-type') === type) {
-          button.classList.add('active');
-        } else {
-          button.classList.remove('active');
-        }
-      });
-    }
+  <script type="application/ld+json">
+    ${generateJsonLd(conteudos)}
   </script>
 </head>
 <body>
@@ -340,4 +328,21 @@ function getSchemaType(type: string): string {
     case 'legislação': return 'Legislation';
     default: return 'NewsArticle';
   }
+}
+
+/**
+ * Gera o JSON-LD para os conteúdos fornecidos.
+ */
+function generateJsonLd(conteudos: ContentItem[]): string {
+  const jsonLd = conteudos.map(item => ({
+    "@context": "https://schema.org",
+    "@type": getSchemaType(item.type),
+    "name": item.name,
+    "description": item.description,
+    "uploadDate": item.uploadDate,
+    "thumbnailUrl": item.thumbnailUrl,
+    "contentUrl": item.contentUrl,
+    "embedUrl": item.embedUrl,
+  }));
+  return JSON.stringify(jsonLd, null, 2);
 }
