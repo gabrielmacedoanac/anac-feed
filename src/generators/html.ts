@@ -2,6 +2,9 @@ import { ContentItem } from "../types.ts";
 import { FAIR_METADATA } from "../config.ts";
 import { escapeXml } from "../utils.ts";
 
+/**
+ * Função para transformar URLs em links clicáveis diretamente com regex.
+ */
 function parseAndGenerateLinks(description: string): string {
   return description.replace(
     /(https?:\/\/[^\s]+)/g,
@@ -9,11 +12,17 @@ function parseAndGenerateLinks(description: string): string {
   );
 }
 
+/**
+ * Gera o HTML simples para os conteúdos fornecidos.
+ */
 export async function generateSimpleHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = buildSimpleHtml(conteudos);
   await Deno.writeTextFile(outputPath, htmlContent);
 }
 
+/**
+ * Constrói o HTML simples.
+ */
 function buildSimpleHtml(conteudos: ContentItem[]): string {
   return `<!DOCTYPE html>
 <html lang="pt-br">
@@ -55,13 +64,9 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
   </footer>
   <script>
     function filterByType(type) {
-      const items = document.querySelectorAll('.feed-item, article');
+      const items = document.querySelectorAll('.feed-item');
       items.forEach(item => {
         item.style.display = (type === 'all' || item.dataset.type === type) ? 'block' : 'none';
-      });
-      const buttons = document.querySelectorAll('.filter-buttons button');
-      buttons.forEach(button => {
-        button.classList.toggle('active', button.dataset.type === type);
       });
     }
   </script>
@@ -69,6 +74,9 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
 </html>`;
 }
 
+/**
+ * Constrói um item do feed.
+ */
 function buildFeedItem(item: ContentItem): string {
   const parseUrlDescription = parseAndGenerateLinks(item.description);
   return `
@@ -78,11 +86,17 @@ function buildFeedItem(item: ContentItem): string {
     </div>`;
 }
 
+/**
+ * Gera o HTML semântico para os conteúdos fornecidos.
+ */
 export async function generateSemanticHtml(conteudos: ContentItem[], outputPath: string) {
   const htmlContent = buildSemanticHtml(conteudos);
   await Deno.writeTextFile(outputPath, htmlContent);
 }
 
+/**
+ * Constrói o HTML semântico.
+ */
 function buildSemanticHtml(conteudos: ContentItem[]): string {
   const generationDate = new Date();
   return `<!DOCTYPE html>
@@ -286,6 +300,9 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
 </html>`;
 }
 
+/**
+ * Constrói um item semântico do feed.
+ */
 function buildSemanticFeedItem(item: ContentItem): string {
   const parseUrlDescription = parseAndGenerateLinks(item.description);
   return `
@@ -302,6 +319,9 @@ function buildSemanticFeedItem(item: ContentItem): string {
     </article>`;
 }
 
+/**
+ * Retorna o tipo de schema.org baseado no tipo do item.
+ */
 function getSchemaType(type: string): string {
   switch (type) {
     case 'vídeo': return 'VideoObject';
@@ -310,26 +330,19 @@ function getSchemaType(type: string): string {
   }
 }
 
+/**
+ * Gera o JSON-LD para os conteúdos fornecidos.
+ */
 function generateJsonLd(conteudos: ContentItem[]): string {
-  const jsonLd = conteudos.map(item => {
-    const baseJsonLd: any = {
-      "@context": "https://schema.org",
-      "@type": getSchemaType(item.type),
-      "name": item.name,
-      "description": item.description,
-      "uploadDate": item.uploadDate,
-      "thumbnailUrl": item.thumbnailUrl,
-      "contentUrl": item.contentUrl,
-      "embedUrl": item.embedUrl,
-    };
-
-    if (item.type === "legislação") {
-      baseJsonLd.legislationIdentifier = item.identifier || "N/A";
-      baseJsonLd.legislationDate = new Date(item.date).toISOString();
-    }
-
-    return baseJsonLd;
-  });
-
+  const jsonLd = conteudos.map(item => ({
+    "@context": "https://schema.org",
+    "@type": getSchemaType(item.type),
+    "name": item.name,
+    "description": item.description,
+    "uploadDate": item.uploadDate,
+    "thumbnailUrl": item.thumbnailUrl,
+    "contentUrl": item.contentUrl,
+    "embedUrl": item.embedUrl,
+  }));
   return JSON.stringify(jsonLd, null, 2);
 }
