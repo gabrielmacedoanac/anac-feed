@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6543382e-7b7e-4bd3-afe7-5facc588038a",
+  "identifier": "urn:uuid:anac-feed-ba422ea6-5c7e-46ee-8fad-1f9720909ae2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-07T16:17:47.184Z",
-  "dateModified": "2025-05-07T16:17:47.184Z",
+  "dateCreated": "2025-05-07T19:18:24.075Z",
+  "dateModified": "2025-05-07T19:18:24.075Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -303,7 +303,7 @@
       "name": "PORTARIA Nº 16856/SPL, 24/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16856",
       "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Revoga as Portarias nº 2.441, de 13 de setembro de 2016 e nº 1.879, de 15 de junho de 2018",
+      "description": "Revoga as Portarias nº 2.441/SIA, de 13 de setembro de 2016, e nº 1.879/SIA, de 15 de junho de 2018",
       "type": "legislação"
     },
     {
