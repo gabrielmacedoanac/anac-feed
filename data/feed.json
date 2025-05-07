@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ba422ea6-5c7e-46ee-8fad-1f9720909ae2",
+  "identifier": "urn:uuid:anac-feed-2058a81c-e540-417e-9c3d-45d4df4e4ae8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-07T19:18:24.075Z",
-  "dateModified": "2025-05-07T19:18:24.075Z",
+  "dateCreated": "2025-05-07T19:43:39.654Z",
+  "dateModified": "2025-05-07T19:43:39.654Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-14T09:44:01.000Z",
-    "endDate": "2025-05-07T07:06:03.000Z"
+    "endDate": "2025-05-07T16:16:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente",
+      "datePublished": "2025-05-07T16:16:00.000Z",
+      "description": "Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente/aero-boero/@@images/c743a63f-77fa-49b1-8808-d7b1f71d9881.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)",
@@ -484,14 +493,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/novo-plano-de-acao-ambiental-da-anac-detalha-iniciativas-para-reduzir-impactos-ambientais-da-aviacao",
       "datePublished": "2025-04-02T15:56:00.000Z",
       "description": "Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Startup Anac Segura é o mais novo projeto de transformação digital da Agência",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia",
-      "datePublished": "2025-04-01T09:04:00.000Z",
-      "description": "A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos",
       "type": "notícia"
     },
     {

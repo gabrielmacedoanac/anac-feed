@@ -2,7 +2,11 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Notícias ANAC</title>
+  <title>Anac Feed</title>
+  <meta name="description" content="Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)">
+  <meta name="keywords" content="aviação, aviação civil, Anac, Brasil, notícias, vídeos , transporte aéreo, regulação">
+  <meta name="identifier" content="urn:uuid:anac-feed-2058a81c-e540-417e-9c3d-45d4df4e4ae8">
+  <meta name="license" content="https://creativecommons.org/licenses/by/4.0/">
   <style>
     .filters { text-align: center; margin-bottom: 1rem; }
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
@@ -12,6 +16,10 @@
   </style>
 </head>
 <body>
+  <header>
+    <h1>Anac Feed</h1>
+    <p>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</p>
+  </header>
   <div class="filters">
     <a href="#" onclick="filterByType('all')">[Todos]</a>
     <a href="#" onclick="filterByType('notícia')">[Notícias]</a>
@@ -20,6 +28,11 @@
   </div>
   <div id="content">
     
+    <div class="feed-item" data-type="notícia">
+      <a href="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente" target="_blank">Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente</a> (07/05/2025 16h16) - notícia
+      <div class="feed-item-description">Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100</div>
+    </div>
+
     <div class="feed-item" data-type="vídeo">
       <a href="https://www.youtube.com/watch?v=DX2A7mifn9M" target="_blank">7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)</a> (07/05/2025 07h06) - vídeo
       <div class="feed-item-description">Processo 00058.085388/2023-40
@@ -297,11 +310,6 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="feed-item-description">Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</div>
     </div>
 
-    <div class="feed-item" data-type="notícia">
-      <a href="https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia" target="_blank">Startup Anac Segura é o mais novo projeto de transformação digital da Agência</a> (01/04/2025 09h04) - notícia
-      <div class="feed-item-description">A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</div>
-    </div>
-
     <div class="feed-item" data-type="vídeo">
       <a href="https://www.youtube.com/watch?v=plwxV4XNIjg" target="_blank">Semana +OM: Apresentação do Portal 145</a> (29/03/2025 07h58) - vídeo
       <div class="feed-item-description">Perguntas pelo sli.do - <a href="https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ" target="_blank">https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ</a></div>
@@ -358,6 +366,14 @@ Processo 00058.052059/2024-01 - 17:48</div>
       <div class="feed-item-description">Faça seus questionamentos pelo sli.do - <a href="https://app.sli.do/event/qhdYwS6SMCQV3yrhc99EPi" target="_blank">https://app.sli.do/event/qhdYwS6SMCQV3yrhc99EPi</a></div>
     </div>
   </div>
+  <footer>
+    <p>Dados abertos para uso público</p>
+    <div>
+      <a href="data/rss.xml" target="_blank">RSS Feed</a>
+      <a href="data/feed.json" target="_blank">JSON Feed</a>
+      <a href="data/atom.xml" target="_blank">ATOM Feed</a>
+    </div>
+  </footer>
   <script>
     function filterByType(type) {
       const items = document.querySelectorAll('.feed-item');

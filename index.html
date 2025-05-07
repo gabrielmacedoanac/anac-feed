@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Anac Feed</title>
   <meta name="description" content="Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <meta name="license" content="https://creativecommons.org/licenses/by/4.0/">
   <style>
     :root {
       --primary: #0066cc;
@@ -169,11 +169,7 @@
       const buttons = document.querySelectorAll('.filter-buttons button');
       
       articles.forEach(article => {
-        if (type === 'all' || article.dataset.type === type) {
-          article.style.display = 'block';
-        } else {
-          article.style.display = 'none';
-        }
+        article.style.display = (type === 'all' || article.dataset.type === type) ? 'block' : 'none';
       });
 
       buttons.forEach(button => {
@@ -202,12 +198,24 @@
     </div>
     <div class="feed-container">
       
+    <article data-type="notícia" typeof="NewsArticle">
+      <img class="article-image" property="image" src="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente/aero-boero/@@images/c743a63f-77fa-49b1-8808-d7b1f71d9881.jpeg" alt="Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente">
+      <div class="article-content">
+        <div class="article-meta">
+          <time property="datePublished" datetime="2025-05-07T16:16:00.000Z">07/05/2025 16h16</time>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
+        </div>
+        <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente">Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente</a></h2>
+        <p class="article-description" property="description">Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100</p>
+      </div>
+    </article>
+
     <article data-type="vídeo" typeof="VideoObject">
       <img class="article-image" property="image" src="https://i1.ytimg.com/vi/DX2A7mifn9M/hqdefault.jpg" alt="7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)">
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-07T07:06:03.000Z">07/05/2025 07h06</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=DX2A7mifn9M">7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)</a></h2>
         <p class="article-description" property="description">Processo 00058.085388/2023-40
@@ -220,7 +228,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-06T14:20:16.000Z">06/05/2025 14h20</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=eP_kUuagOIg">Webinário BHEST: gestão do risco meteorológico em helicópteros</a></h2>
         <p class="article-description" property="description">Link para perguntas no slido: <a href="https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU" target="_blank">https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU</a></p>
@@ -232,7 +240,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-06T00:00:00.000Z">06/05/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16916">PORTARIA Nº 16916/SAF, 06/05/2025</a></h2>
         <p class="article-description" property="description">Designa Equipe de Planejamento da Contratação</p>
@@ -244,7 +252,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-05T17:52:00.000Z">05/05/2025 17h52</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo">Anac lança pesquisa sobre o perfil do profissional da aviação para futura oferta de bolsas de estudo</a></h2>
         <p class="article-description" property="description">Dados ajudarão a Agência a fomentar o crescimento do setor, aproveitando o potencial da população brasileira</p>
@@ -256,7 +264,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-05T16:58:00.000Z">05/05/2025 16h58</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024">Relatório de Atividades: confira os resultados de atuação da Anac em 2024</a></h2>
         <p class="article-description" property="description">Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano</p>
@@ -268,7 +276,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-05T15:53:00.000Z">05/05/2025 15h53</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-classificada-no-grupo-2-de-indice-de-desempenho-da-corregedoria-geral-da-uniao">Anac é classificada no Grupo 2 de índice de desempenho da Corregedoria-Geral da União</a></h2>
         <p class="article-description" property="description">Classificação coloca agência no segundo melhor grupo de avaliação do Idecor</p>
@@ -280,7 +288,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-05T00:00:00.000Z">05/05/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16910">PORTARIA Nº 16910/SAF, 05/05/2025</a></h2>
         <p class="article-description" property="description">Designa Gestor de Contrato</p>
@@ -292,7 +300,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-05-05T00:00:00.000Z">05/05/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16913">PORTARIA Nº 16913/SAF, 05/05/2025</a></h2>
         <p class="article-description" property="description">Torna pública a concessão de suprimento fundos</p>
@@ -304,7 +312,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T18:05:00.000Z">30/04/2025 18h05</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional">Anac lança o 1º Plano de Comunicação de Segurança Operacional</a></h2>
         <p class="article-description" property="description">Documento elenca principais atividades de comunicação relacionadas ao tema safety em realização pela Agência em 2025 e planeja ações para 2026</p>
@@ -316,7 +324,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T16:29:00.000Z">30/04/2025 16h29</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca">Anac promove Avsec &amp; Cyber Week em junho com foco em segurança aérea e cibersegurança</a></h2>
         <p class="article-description" property="description">Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil</p>
@@ -328,7 +336,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16903">PORTARIA Nº 16903/SAF, 30/04/2025</a></h2>
         <p class="article-description" property="description">Designa Equipe de Planejamento da Contratação</p>
@@ -340,7 +348,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16905">PORTARIA Nº 16905/SIA, 30/04/2025</a></h2>
         <p class="article-description" property="description">Concede Certificado Operacional de Aeroporto à JHSF Incorporações LTDA., operadora do Aeroporto São Paulo Catarina Aeroporto Executivo, código OACI: SBJH, código CIAD: SP1176, em São Roque (SP)</p>
@@ -352,7 +360,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16900">PORTARIA Nº 16900/SIA, 30/04/2025</a></h2>
         <p class="article-description" property="description">Revoga a Portaria nº 3.342/SIA, de 28 de outubro de 2019</p>
@@ -364,7 +372,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16899">PORTARIA Nº 16899/SIA, 30/04/2025</a></h2>
         <p class="article-description" property="description">Altera a Portaria nº 6.757/SIA, de 17 de dezembro de 2021</p>
@@ -376,7 +384,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-30T00:00:00.000Z">30/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16897">PORTARIA Nº 16897/CRG, 30/04/2025</a></h2>
         <p class="article-description" property="description">Prorroga Comissão de Processo Administrativo Disciplinar</p>
@@ -388,7 +396,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-29T00:00:00.000Z">29/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16893">PORTARIA Nº 16893/SIA, 29/04/2025</a></h2>
         <p class="article-description" property="description">Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD CE0057 no cadastro de aeródromos</p>
@@ -400,7 +408,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-29T00:00:00.000Z">29/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16892">PORTARIA Nº 16892/SIA, 29/04/2025</a></h2>
         <p class="article-description" property="description">Altera a inscrição do Aeródromo de uso privativo CIAD PI0092 no cadastro de aeródromos</p>
@@ -412,7 +420,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-29T00:00:00.000Z">29/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16887">PORTARIA Nº 16887/SIA, 29/04/2025</a></h2>
         <p class="article-description" property="description">Altera a inscrição do Aeródromo de uso privativo CIAD MT0250 no cadastro de aeródromos</p>
@@ -424,7 +432,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-29T00:00:00.000Z">29/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16890">PORTARIA Nº 16890/SIA, 29/04/2025</a></h2>
         <p class="article-description" property="description">Altera a inscrição do Aeródromo de uso privativo CIAD MT0911 no cadastro de aeródromos</p>
@@ -436,7 +444,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-29T00:00:00.000Z">29/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16894">PORTARIA Nº 16894/SPL, 29/04/2025</a></h2>
         <p class="article-description" property="description">Revoga a Portaria nº 1.296/SIA, de 20 de abril de 2018</p>
@@ -448,7 +456,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-29T00:00:00.000Z">29/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16895">PORTARIA Nº 16895/SPO, 29/04/2025</a></h2>
         <p class="article-description" property="description">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
@@ -460,7 +468,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-28T08:02:00.000Z">28/04/2025 08h02</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant">Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant</a></h2>
         <p class="article-description" property="description">Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas</p>
@@ -472,7 +480,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-28T00:00:00.000Z">28/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16884">PORTARIA Nº 16884/SPO, 28/04/2025</a></h2>
         <p class="article-description" property="description">Torna pública a revogação do Certificado de Operador Aéreo Empresa TRI TÁXI AÉREO LTDA.</p>
@@ -484,7 +492,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-28T00:00:00.000Z">28/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16883">PORTARIA Nº 16883/SIA, 28/04/2025</a></h2>
         <p class="article-description" property="description">Aprova o Programa de Segurança Aeroportuária (Revisão 07) do Aeroporto Internacional de Viracopos, em Campinas (SP), Código OACI: SBKP; Código CIAD: SP0003</p>
@@ -496,7 +504,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T18:20:00.000Z">25/04/2025 18h20</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato">Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato</a></h2>
         <p class="article-description" property="description">Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas</p>
@@ -508,7 +516,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T16:01:00.000Z">25/04/2025 16h01</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/empresa-de-transporte-de-cargas-recebe-certificacao-da-anac-para-ingressar-no-modal-aereo">Empresa de transporte de cargas recebe certificação da Anac para ingressar no modal aéreo</a></h2>
         <p class="article-description" property="description">Braspress Air Cargo poderá transportar mercadorias com dois Boeings 737-400F</p>
@@ -520,7 +528,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T00:00:00.000Z">25/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16868">PORTARIA Nº 16868/SGP, 25/04/2025</a></h2>
         <p class="article-description" property="description">Estabelece orientações e critérios a serem adotados para a autorização de teletrabalho integral com residência no exterior</p>
@@ -532,7 +540,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T00:00:00.000Z">25/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16873">PORTARIA Nº 16873/SIA, 25/04/2025</a></h2>
         <p class="article-description" property="description">Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0634 no cadastro de aeródromos</p>
@@ -544,7 +552,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T00:00:00.000Z">25/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16872">PORTARIA Nº 16872/SIA, 25/04/2025</a></h2>
         <p class="article-description" property="description">Inscreve o Aeródromo de uso privativo CIAD MT1128 no cadastro de aeródromos</p>
@@ -556,7 +564,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T00:00:00.000Z">25/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16865">PORTARIA Nº 16865/SIA, 25/04/2025</a></h2>
         <p class="article-description" property="description">Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0359 no cadastro de aeródromos</p>
@@ -568,7 +576,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-25T00:00:00.000Z">25/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16870">PORTARIA Nº 16870/SPO, 25/04/2025</a></h2>
         <p class="article-description" property="description">Defere o pedido de isenção de cumprimento dos requisitos de que tratam o art. 8º, § 3º, da Resolução nº 457, de 20 de dezembro de 2017, e o parágrafo 91.203(a)(4) do RBAC nº 91</p>
@@ -580,7 +588,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-24T11:24:00.000Z">24/04/2025 11h24</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3">Aberto o curso gratuito Aviation English Level 3</a></h2>
         <p class="article-description" property="description">As inscrições e teste de nivelamento podem ser feitos até o dia 23 de maio</p>
@@ -592,7 +600,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-24T00:00:00.000Z">24/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16856">PORTARIA Nº 16856/SPL, 24/04/2025</a></h2>
         <p class="article-description" property="description">Revoga as Portarias nº 2.441/SIA, de 13 de setembro de 2016, e nº 1.879/SIA, de 15 de junho de 2018</p>
@@ -604,7 +612,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-24T00:00:00.000Z">24/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16862">PORTARIA Nº 16862/SIA, 24/04/2025</a></h2>
         <p class="article-description" property="description">Inscreve o Aeródromo de uso privativo CIAD BA0493 no cadastro de aeródromos</p>
@@ -616,7 +624,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-24T00:00:00.000Z">24/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16863">PORTARIA Nº 16863/SIA, 24/04/2025</a></h2>
         <p class="article-description" property="description">Inscreve o Heliponto de uso privativo ao nível do solo CIAD RN0022 no cadastro de aeródromos</p>
@@ -628,7 +636,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-23T10:46:00.000Z">23/04/2025 10h46</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000">Com 10,2 milhões de passageiros, setor aéreo tem melhor mês de março desde 2000</a></h2>
         <p class="article-description" property="description">Movimentação doméstica e internacional apresentam recorde para o período</p>
@@ -640,7 +648,7 @@ Processo00058.041142/2024-47</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-23T06:50:52.000Z">23/04/2025 06h50</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=aVJjHlgEKNs">6ª Reunião Deliberativa da Diretoria Colegiada (22/04/2025)</a></h2>
         <p class="article-description" property="description">Início - 0:55
@@ -654,7 +662,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-22T00:00:00.000Z">22/04/2025 00h00</time>
-          <span class="article-type type-legislação">legislação</span>
+          <span class="article-type type-legislação" onclick="filterByType('legislação')">legislação</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-16837-sgm-22-04-2025">PORTARIA Nº 16837/SGM, 22/04/2025</a></h2>
         <p class="article-description" property="description">Constitui Comitê Avaliador e equipe coordenadora, responsáveis pelos procedimentos de coordenação e administrativos, do processo de indicação do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI, relativos ao Edital nº 12/ANAC/2025.</p>
@@ -666,7 +674,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-15T10:26:00.000Z">15/04/2025 10h26</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil">Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil</a></h2>
         <p class="article-description" property="description">Ação incentiva o interesse de jovens de baixa renda para as carreiras da aviação civil por meio de visitas a aeroportos</p>
@@ -678,7 +686,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-14T14:19:00.000Z">14/04/2025 14h19</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5">Cuiabá (MT) receberá a próxima etapa da Semana Safety, nos dias 13 a 15/5</a></h2>
         <p class="article-description" property="description">Anac abre a oportunidade para regulados sugerirem temas a serem abordados durante o evento, que destacará as particularidades da segurança operacional na região centro-oeste do país</p>
@@ -690,7 +698,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-11T17:29:00.000Z">11/04/2025 17h29</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos">Anac firma termos de admissão para desenvolver projetos e regulação para vertiportos</a></h2>
         <p class="article-description" property="description">Empresas irão desenvolver e testar estruturas, ajudando a Agência a definir regras para o segmento de eVTOL</p>
@@ -702,7 +710,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-11T13:53:00.000Z">11/04/2025 13h53</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-alerta-operacional-sobre-equipamentos-portateis-com-conexao-via-satelite">Anac emite alerta operacional  sobre equipamentos portáteis com conexão via satélite</a></h2>
         <p class="article-description" property="description">Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves</p>
@@ -714,7 +722,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-10T17:05:00.000Z">10/04/2025 17h05</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/premio-acessibilidade-e-inovacao-2025-tera-sete-concorrentes">Prêmio Acessibilidade e Inovação 2025 terá sete concorrentes</a></h2>
         <p class="article-description" property="description">Despacho homologou a participação de operadores aéreo e de aeroportos nacionais</p>
@@ -726,7 +734,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-09T16:59:00.000Z">09/04/2025 16h59</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros">Reunião entre Anac e TSA avalia níveis de segurança da aviação civil em aeroportos brasileiros</a></h2>
         <p class="article-description" property="description">Encontro também tratou da proteção contra ataques cibernéticos e de resultados de visitas anteriores a terminais brasileiros</p>
@@ -738,7 +746,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-09T10:42:00.000Z">09/04/2025 10h42</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/alterado-prazo-para-entrada-em-vigor-da-norma-que-extingue-o-registro-de-categorias-de-aeronaves-no-rab-digital">Alterado prazo para entrada em vigor da norma que extingue as categorias de registro de aeronaves</a></h2>
         <p class="article-description" property="description">Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026</p>
@@ -750,7 +758,7 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-04T18:43:47.000Z">04/04/2025 18h43</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=b7dlo9wb2N0">Mensagem dos ministros – Embarque Numa Boa</a></h2>
         <p class="article-description" property="description">A campanha, promovida pela Anac em parceria com os Ministério da Igualdade Racial, Ministério das Mulheres, Ministério dos Direitos Humanos e da Cidadania, do Ministério do Turismo e Ministério de Portos e Aeroportos, reforça que os procedimentos de inspeção nos aeroportos devem ser justos, transparentes e livres de discriminação. 
@@ -764,7 +772,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-04T18:26:00.000Z">04/04/2025 18h26</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao">Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’</a></h2>
         <p class="article-description" property="description">Evento apresentou resultados de pesquisa sobre barreiras à participação feminina no setor aéreo e reforçou ações do programa Asas Para Todos</p>
@@ -776,7 +784,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-04T16:01:00.000Z">04/04/2025 16h01</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao">Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região</a></h2>
         <p class="article-description" property="description">O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste</p>
@@ -788,7 +796,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-04T13:37:00.000Z">04/04/2025 13h37</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026">BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026</a></h2>
         <p class="article-description" property="description">Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos</p>
@@ -800,7 +808,7 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-04T08:58:27.000Z">04/04/2025 08h58</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=Z7CZHKzENOk">Seminário Mulheres na Aviação - Ações para Regulação Inclusiva</a></h2>
         <p class="article-description" property="description">Neste seminário, serão apresentados os resultados da produção científica realizada pela UnB, intitulada “Projeto de Pesquisa Mulheres na Aviação Civil: estudos para uma regulação inclusiva no setor” que estudou as barreiras que impedem ou dificultem a participação de mulheres no mercado da aviação civil brasileira. O evento é fruto do Acordo de Cooperação Técnica, celebrado entre a Anac e os Ministérios de Portos e Aeroportos - MPor, dos Direitos Humanos e da Cidadania - MDHC, da Igualdade Racial - MIR, das Mulheres - MMulheres e do Turismo - MTur, no âmbito do programa Asas Para Todos. 
@@ -814,7 +822,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-03T16:32:00.000Z">03/04/2025 16h32</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/governo-federal-lanca-acoes-de-acolhimento-na-aviacao-para-pessoas-com-transtorno-do-espectro-autista">Governo Federal lança ações de acolhimento na aviação para pessoas com Transtorno do Espectro Autista</a></h2>
         <p class="article-description" property="description">Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos</p>
@@ -826,7 +834,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-03T12:08:00.000Z">03/04/2025 12h08</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4">Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4</a></h2>
         <p class="article-description" property="description">Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</p>
@@ -838,7 +846,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-03T11:31:00.000Z">03/04/2025 11h31</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-para-atualizacao-do-rbac-153-foi-prorrogada-ate-25-4">Consulta pública para atualização do RBAC 153 foi prorrogada até 25/4</a></h2>
         <p class="article-description" property="description">Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas</p>
@@ -850,22 +858,10 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-04-02T15:56:00.000Z">02/04/2025 15h56</time>
-          <span class="article-type type-notícia">notícia</span>
+          <span class="article-type type-notícia" onclick="filterByType('notícia')">notícia</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/novo-plano-de-acao-ambiental-da-anac-detalha-iniciativas-para-reduzir-impactos-ambientais-da-aviacao">Novo plano de ação ambiental da Anac detalha iniciativas para reduzir impactos ambientais da aviação</a></h2>
         <p class="article-description" property="description">Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</p>
-      </div>
-    </article>
-
-    <article data-type="notícia" typeof="NewsArticle">
-      
-      <div class="article-content">
-        <div class="article-meta">
-          <time property="datePublished" datetime="2025-04-01T09:04:00.000Z">01/04/2025 09h04</time>
-          <span class="article-type type-notícia">notícia</span>
-        </div>
-        <h2 property="headline"><a property="url" href="https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia">Startup Anac Segura é o mais novo projeto de transformação digital da Agência</a></h2>
-        <p class="article-description" property="description">A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</p>
       </div>
     </article>
 
@@ -874,7 +870,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-29T07:58:47.000Z">29/03/2025 07h58</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=plwxV4XNIjg">Semana +OM: Apresentação do Portal 145</a></h2>
         <p class="article-description" property="description">Perguntas pelo sli.do - <a href="https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ" target="_blank">https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ</a></p>
@@ -886,7 +882,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-28T08:09:05.000Z">28/03/2025 08h09</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=vLU6daq1zzY">Semana +OM: Jornada eAEV</a></h2>
         <p class="article-description" property="description">Download da apresentação - <a href="https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-4.pptx" target="_blank">https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-4.pptx</a></p>
@@ -898,7 +894,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-26T20:23:36.000Z">26/03/2025 20h23</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=ZvZ8Fj_kX8E">Semana +OM: Fatores humanos na manutenção e bate-papo sobre Certificação e Fiscalização</a></h2>
         <p class="article-description" property="description">Download da apresentação - <a href="https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-3.pptx" target="_blank">https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-3.pptx</a></p>
@@ -910,7 +906,7 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-26T06:13:43.000Z">26/03/2025 06h13</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=CL9vBVWl9vQ">5ª Reunião Deliberativa da Diretoria Colegiada (25/03/2025)</a></h2>
         <p class="article-description" property="description">Início - 16:41
@@ -924,7 +920,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-25T15:14:57.000Z">25/03/2025 15h14</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=67QilHvBlK4">Semana +OM: Modelos de MOM, MCQ, PTM e SGSO nas Oficinas</a></h2>
         <p class="article-description" property="description">Download da apresentação - <a href="https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-2.pptx" target="_blank">https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-2.pptx</a></p>
@@ -936,7 +932,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-25T08:14:36.000Z">25/03/2025 08h14</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=3YK90DVy_S0">Semana +OM: Revisões de IS relacionadas a oficinas - RBAC 145</a></h2>
         <p class="article-description" property="description">Download da apresentação - <a href="https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-1.pptx" target="_blank">https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-1.pptx</a></p>
@@ -948,7 +944,7 @@ Processo 00058.021107/2025-92 (extrapauta) - 25:32</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-19T06:39:19.000Z">19/03/2025 06h39</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=frUO2_Duta4">4ª Reunião Deliberativa da Diretoria Colegiada (18/03/2025)</a></h2>
         <p class="article-description" property="description">Processo 00058.032050/2020-42 
@@ -961,7 +957,7 @@ Processo 00058.033268/2023-67</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-13T22:34:41.000Z">13/03/2025 22h34</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=AocGNbmvotc">Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transporte aéreo</a></h2>
         <p class="article-description" property="description">A Consulta Pública nº 02/2025, propõe a revisão da Resolução nº 280 de 11 de julho de 2013, garantindo mais inclusão, autonomia e segurança para Passageiros com Necessidades de Assistência Especial (Pnae).  Acesse informações da proposta em:  <a href="https://www.gov.br/anac/pt-br/noticias/2025/anac-da-inicio-a-consulta-publica-sobre-novas-regras-de-acessibilidade-no-transporte-aereo" target="_blank">https://www.gov.br/anac/pt-br/noticias/2025/anac-da-inicio-a-consulta-publica-sobre-novas-regras-de-acessibilidade-no-transporte-aereo</a></p>
@@ -973,7 +969,7 @@ Processo 00058.033268/2023-67</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-03-12T06:55:48.000Z">12/03/2025 06h55</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=FzjCNk9IluY">3ª Reunião Deliberativa da Diretoria Colegiada (11/03/2025)</a></h2>
         <p class="article-description" property="description">Início - 1:31
@@ -988,7 +984,7 @@ Processo 00058.052059/2024-01 - 17:48</p>
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="2025-02-14T09:44:01.000Z">14/02/2025 09h44</time>
-          <span class="article-type type-vídeo">vídeo</span>
+          <span class="article-type type-vídeo" onclick="filterByType('vídeo')">vídeo</span>
         </div>
         <h2 property="headline"><a property="url" href="https://www.youtube.com/watch?v=VNrryz_m_rg">Webinário: Novas regras para exames MMA</a></h2>
         <p class="article-description" property="description">Faça seus questionamentos pelo sli.do - <a href="https://app.sli.do/event/qhdYwS6SMCQV3yrhc99EPi" target="_blank">https://app.sli.do/event/qhdYwS6SMCQV3yrhc99EPi</a></p>
@@ -998,7 +994,7 @@ Processo 00058.052059/2024-01 - 17:48</p>
   </main>
   <footer typeof="WPFooter">
     <div class="container">
-      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-05-07T19:18:24.074Z">2025-05-07T19:18:24.074Z (GMT)</time></small></p>
+      <p><small>Dados abertos para uso público • Atualizado em: <time datetime="2025-05-07T19:43:39.653Z">2025-05-07T19:43:39.653Z (GMT)</time></small></p>
       <div class="feed-links">
         <a href="data/rss.xml" target="_blank">RSS Feed</a>
         <a href="data/feed.json" target="_blank">JSON Feed</a>

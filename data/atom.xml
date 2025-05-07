@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ba422ea6-5c7e-46ee-8fad-1f9720909ae2</id>
-  <updated>2025-05-07T07:06:03.000Z</updated>
+  <id>urn:uuid:anac-feed-2058a81c-e540-417e-9c3d-45d4df4e4ae8</id>
+  <updated>2025-05-07T16:16:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente</id>
+    <published>2025-05-07T16:16:00.000Z</published>
+    <updated>2025-05-07T16:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100</summary>
+    <content type="html"><![CDATA[
+      <p>Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente/aero-boero/@@images/c743a63f-77fa-49b1-8808-d7b1f71d9881.jpeg" alt="Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1046,25 +1065,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     <summary type="html">Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</summary>
     <content type="html"><![CDATA[
       <p>Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Startup Anac Segura é o mais novo projeto de transformação digital da Agência</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia</id>
-    <published>2025-04-01T09:04:00.000Z</published>
-    <updated>2025-04-01T09:04:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</summary>
-    <content type="html"><![CDATA[
-      <p>A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

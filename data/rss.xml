@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 07 May 2025 19:18:24 GMT</pubDate>
-    <lastBuildDate>Wed, 07 May 2025 19:18:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 May 2025 19:43:39 GMT</pubDate>
+    <lastBuildDate>Wed, 07 May 2025 19:43:39 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente</link>
+      <description>Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100</description>
+      <pubDate>Wed, 07 May 2025 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-07T16:16:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente/aero-boero/@@images/c743a63f-77fa-49b1-8808-d7b1f71d9881.jpeg" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente/aero-boero/@@images/c743a63f-77fa-49b1-8808-d7b1f71d9881.jpeg" alt="Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -938,23 +955,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Startup Anac Segura é o mais novo projeto de transformação digital da Agência</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia</link>
-      <description>A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</description>
-      <pubDate>Tue, 01 Apr 2025 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/startup-anac-segura-e-o-mais-novo-projeto-de-transformacao-digital-da-agencia</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-04-01T09:04:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>A parceria firmada com o MGI acelera a implantação do Programa de Privacidade e Segurança da Informação (PPSI) e ajudará a Anac no combate a ataques cibernéticos</p>
         
       ]]></content:encoded>
     </item>
