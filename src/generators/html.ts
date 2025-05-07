@@ -264,8 +264,19 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       text-decoration: underline;
     }
   </style>
-  <script type="application/ld+json">
-    ${generateJsonLd(conteudos)}
+  <script>
+    function filterByType(type) {
+      const items = document.querySelectorAll('.feed-item, article');
+      items.forEach(item => {
+        item.style.display = (type === 'all' || item.dataset.type === type) ? 'block' : 'none';
+      });
+
+      // Atualizar o botão ativo
+      const buttons = document.querySelectorAll('.filter-buttons button');
+      buttons.forEach(button => {
+        button.classList.toggle('active', button.dataset.type === type);
+      });
+    }
   </script>
 </head>
 <body>
