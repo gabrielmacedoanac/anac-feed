@@ -264,19 +264,8 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       text-decoration: underline;
     }
   </style>
-  <script>
-    function filterByType(type) {
-      const items = document.querySelectorAll('.feed-item, article');
-      items.forEach(item => {
-        item.style.display = (type === 'all' || item.dataset.type === type) ? 'block' : 'none';
-      });
-
-      // Atualizar o botão ativo
-      const buttons = document.querySelectorAll('.filter-buttons button');
-      buttons.forEach(button => {
-        button.classList.toggle('active', button.dataset.type === type);
-      });
-    }
+  <script type="application/ld+json">
+    ${generateJsonLd(conteudos)}
   </script>
 </head>
 <body>
@@ -345,15 +334,26 @@ function getSchemaType(type: string): string {
  * Gera o JSON-LD para os conteúdos fornecidos.
  */
 function generateJsonLd(conteudos: ContentItem[]): string {
-  const jsonLd = conteudos.map(item => ({
-    "@context": "https://schema.org",
-    "@type": getSchemaType(item.type),
-    "name": item.name,
-    "description": item.description,
-    "uploadDate": item.uploadDate,
-    "thumbnailUrl": item.thumbnailUrl,
-    "contentUrl": item.contentUrl,
-    "embedUrl": item.embedUrl,
-  }));
+  const jsonLd = conteudos.map(item => {
+    const baseJsonLd: any = {
+      "@context": "https://schema.org",
+      "@type": getSchemaType(item.type),
+      "name": item.name,
+      "description": item.description,
+      "uploadDate": item.uploadDate,
+      "thumbnailUrl": item.thumbnailUrl,
+      "contentUrl": item.contentUrl,
+      "embedUrl": item.embedUrl,
+    };
+
+    // Adicionar campos específicos para "legislação"
+    if (item.type === "legislação") {
+      baseJsonLd.legislationIdentifier = item.identifier || "N/A";
+      baseJsonLd.legislationDate = item.date.toISOString();
+    }
+
+    return baseJsonLd;
+  });
+
   return JSON.stringify(jsonLd, null, 2);
 }
