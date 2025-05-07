@@ -5,7 +5,7 @@
   <title>Anac Feed</title>
   <meta name="description" content="Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)">
   <meta name="keywords" content="aviação, aviação civil, Anac, Brasil, notícias, vídeos , transporte aéreo, regulação">
-  <meta name="identifier" content="urn:uuid:anac-feed-50244cf1-fbdc-4ea0-8279-936c06e50cd9">
+  <meta name="identifier" content="urn:uuid:anac-feed-40d235c5-d8c9-4f09-a77d-9c4da03158dd">
   <meta name="license" content="https://creativecommons.org/licenses/by/4.0/">
   <style>
     .filters { text-align: center; margin-bottom: 1rem; }
@@ -820,9 +820,13 @@ Link no slido para perguntas e comentários: <a href="https://app.sli.do/event/5
   </footer>
   <script>
     function filterByType(type) {
-      const items = document.querySelectorAll('.feed-item');
+      const items = document.querySelectorAll('.feed-item, article');
       items.forEach(item => {
         item.style.display = (type === 'all' || item.dataset.type === type) ? 'block' : 'none';
+      });
+      const buttons = document.querySelectorAll('.filter-buttons button');
+      buttons.forEach(button => {
+        button.classList.toggle('active', button.dataset.type === type);
       });
     }
   </script>
