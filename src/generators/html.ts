@@ -349,7 +349,7 @@ function generateJsonLd(conteudos: ContentItem[]): string {
     // Adicionar campos específicos para "legislação"
     if (item.type === "legislação") {
       baseJsonLd.legislationIdentifier = item.identifier || "N/A";
-      baseJsonLd.legislationDate = item.date.toISOString();
+      baseJsonLd.legislationDate = new Date(item.date).toISOString(); // Garantir que item.date seja um objeto Date
     }
 
     return baseJsonLd;
