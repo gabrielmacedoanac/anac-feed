@@ -4,7 +4,7 @@ import { CONFIG } from "../config.ts";
 
 export async function fetchNoticias(): Promise<ContentItem[]> {
   try {
-    const res = await fetch(CONFIG.baseUrl, {
+    const res = await fetch(CONFIG.noticiaUrl, {
       headers: { "User-Agent": "Mozilla/5.0" }
     });
     const html = await res.text();

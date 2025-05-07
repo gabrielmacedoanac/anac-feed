@@ -9,7 +9,7 @@ export async function generateRssFeed(conteudos: ContentItem[], outputPath: stri
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>${escapeXml(FAIR_METADATA.title)}</title>
-    <link>${escapeXml(CONFIG.baseUrl)}</link>
+    <link>${escapeXml(CONFIG.noticiaUrl)}</link>
     <description>${escapeXml(FAIR_METADATA.description)}</description>
     <language>${FAIR_METADATA.language}</language>
     <pubDate>${generationDate.toUTCString()}</pubDate>

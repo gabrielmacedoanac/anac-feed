@@ -19,7 +19,7 @@ export const FAIR_METADATA = {
   };
   
 export const CONFIG = {
-    baseUrl: "https://www.gov.br/anac/pt-br/noticias",
+    noticiaUrl: "https://www.gov.br/anac/pt-br/noticias",
     maxNoticias: 25,
     youtubeChannelId: "UC5ynmbMZXolM-jo2hGR31qg",
     maxVideos: 25,

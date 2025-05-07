@@ -9,7 +9,7 @@ export async function generateAtomFeed(conteudos: ContentItem[], outputPath: str
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>${escapeXml(FAIR_METADATA.title)}</title>
   <subtitle>${escapeXml(FAIR_METADATA.description)}</subtitle>
-  <link href="${escapeXml(CONFIG.baseUrl)}" rel="alternate"/>
+  <link href="${escapeXml(CONFIG.noticiaUrl)}" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
   <id>${FAIR_METADATA.identifier}</id>
   <updated>${conteudos[0]?.iso || generationDate.toISOString()}</updated>
