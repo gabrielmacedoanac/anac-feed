@@ -42,10 +42,6 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
   </style>
 </head>
 <body>
-  <header>
-    <h1>${escapeXml(FAIR_METADATA.title)}</h1>
-    <p>${escapeXml(FAIR_METADATA.description)}</p>
-  </header>
   <div class="filters">
     <a href="#" onclick="filterByType('all')">[Todos]</a>
     <a href="#" onclick="filterByType('notícia')">[Notícias]</a>
