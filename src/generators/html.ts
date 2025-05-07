@@ -7,8 +7,8 @@ import { escapeXml } from "../utils.ts";
  */
 function parseAndGenerateLinks(description: string): string {
   return description.replace(
-    /(https?:\/\/[^\s]+)/g, // Detecta URLs que começam com http:// ou https://
-    '<a href="$1" target="_blank">$1</a>' // Transforma em links clicáveis
+    /(https?:\/\/[^\s]+)/g,
+    '<a href="$1" target="_blank">$1</a>'
   );
 }
 
@@ -28,7 +28,11 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Notícias ANAC</title>
+  <title>${escapeXml(FAIR_METADATA.title)}</title>
+  <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
+  <meta name="keywords" content="${FAIR_METADATA.keywords.join(', ')}">
+  <meta name="identifier" content="${FAIR_METADATA.identifier}">
+  <meta name="license" content="${FAIR_METADATA.license.url}">
   <style>
     .filters { text-align: center; margin-bottom: 1rem; }
     .filters a { margin: 0 0.5rem; text-decoration: none; color: blue; }
@@ -38,6 +42,10 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
   </style>
 </head>
 <body>
+  <header>
+    <h1>${escapeXml(FAIR_METADATA.title)}</h1>
+    <p>${escapeXml(FAIR_METADATA.description)}</p>
+  </header>
   <div class="filters">
     <a href="#" onclick="filterByType('all')">[Todos]</a>
     <a href="#" onclick="filterByType('notícia')">[Notícias]</a>
@@ -47,6 +55,14 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
   <div id="content">
     ${conteudos.map(item => buildFeedItem(item)).join('\n')}
   </div>
+  <footer>
+    <p>${FAIR_METADATA.rights}</p>
+    <div>
+      <a href="data/rss.xml" target="_blank">RSS Feed</a>
+      <a href="data/feed.json" target="_blank">JSON Feed</a>
+      <a href="data/atom.xml" target="_blank">ATOM Feed</a>
+    </div>
+  </footer>
   <script>
     function filterByType(type) {
       const items = document.querySelectorAll('.feed-item');
@@ -91,7 +107,7 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeXml(FAIR_METADATA.title)}</title>
   <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <meta name="license" content="${FAIR_METADATA.license.url}">
   <style>
     :root {
       --primary: #0066cc;
@@ -255,11 +271,7 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       const buttons = document.querySelectorAll('.filter-buttons button');
       
       articles.forEach(article => {
-        if (type === 'all' || article.dataset.type === type) {
-          article.style.display = 'block';
-        } else {
-          article.style.display = 'none';
-        }
+        article.style.display = (type === 'all' || article.dataset.type === type) ? 'block' : 'none';
       });
 
       buttons.forEach(button => {
@@ -315,7 +327,7 @@ function buildSemanticFeedItem(item: ContentItem): string {
       <div class="article-content">
         <div class="article-meta">
           <time property="datePublished" datetime="${item.iso}">${item.display}</time>
-          <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}">${item.type}</span>
+          <span class="article-type ${item.type === 'vídeo' ? 'type-vídeo' : item.type === 'legislação' ? 'type-legislação' : 'type-notícia'}" onclick="filterByType('${item.type}')">${item.type}</span>
         </div>
         <h2 property="headline"><a property="url" href="${escapeXml(item.link)}">${escapeXml(item.title)}</a></h2>
         <p class="article-description" property="description">${parseUrlDescription}</p>
