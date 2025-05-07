@@ -15,14 +15,29 @@ export async function fetchVideos(): Promise<ContentItem[]> {
       : [parsed.feed?.entry].filter(Boolean);
 
     return entries.slice(0, CONFIG.maxVideos).map((video: any) => {
+      // Capturar os metadados em variáveis intermediárias
       const date = video.published ? new Date(video.published) : new Date();
+      const videoId = video["yt:videoId"];
+      const title = video.title;
+      const link = video.link?.["@_href"] || "#";
+      const description = video["media:group"]?.["media:description"] || "";
+      const thumbnailUrl = video["media:group"]?.["media:thumbnail"]?.["@_url"] || null;
+      const contentUrl = `https://www.youtube.com/watch?v=${videoId}`;
+      const embedUrl = `https://www.youtube.com/embed/${videoId}`;
+
+      // Retornar o objeto final com os metadados
       return {
-        title: video.title,
-        link: video.link?.["@_href"] || "#",
-        date: date,
-        description: video["media:group"]?.["media:description"] || "",
-        image: video["media:group"]?.["media:thumbnail"]?.["@_url"] || null,
-        type: "vídeo"
+        title,
+        link,
+        date,
+        description,
+        image: thumbnailUrl,
+        type: "vídeo",
+        uploadDate: date.toISOString(),
+        name: title,
+        thumbnailUrl,
+        contentUrl,
+        embedUrl,
       };
     });
   } catch (error) {
