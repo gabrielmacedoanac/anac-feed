@@ -104,6 +104,7 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
   <title>${escapeXml(FAIR_METADATA.title)}</title>
   <meta name="description" content="${escapeXml(FAIR_METADATA.description)}">
   <meta name="license" content="${FAIR_METADATA.license.url}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <style>
     :root {
       --primary: #0066cc;
@@ -134,6 +135,7 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       text-align: center;
       margin-bottom: 2rem;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      width: 100%;
     }
     h1 {
       font-size: 2.2rem;
@@ -164,6 +166,9 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
       cursor: pointer;
       transition: background-color 0.3s;
     }
+    .filter-buttons button i {
+      margin-right: 0.5rem;
+    }
     .filter-buttons button:hover {
       background-color: var(--secondary);
     }
@@ -173,9 +178,10 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
     }
     .feed-container {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 1.5rem;
       padding: 1rem;
+      justify-content: center;
     }
     article {
       background: white;
@@ -289,10 +295,10 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
   </header>
   <main class="container">
     <div class="filter-buttons">
-      <button data-type="all" onclick="filterByType('all')" class="active">Todos</button>
-      <button data-type="notícia" onclick="filterByType('notícia')">Notícias</button>
-      <button data-type="vídeo" onclick="filterByType('vídeo')">Vídeos</button>
-      <button data-type="legislação" onclick="filterByType('legislação')">Legislações</button>
+      <button data-type="all" onclick="filterByType('all')" class="active"><i class="fas fa-list"></i>Todos</button>
+      <button data-type="notícia" onclick="filterByType('notícia')"><i class="fas fa-newspaper"></i>Notícias</button>
+      <button data-type="vídeo" onclick="filterByType('vídeo')"><i class="fas fa-video"></i>Vídeos</button>
+      <button data-type="legislação" onclick="filterByType('legislação')"><i class="fas fa-gavel"></i>Legislações</button>
     </div>
     <div class="feed-container">
       ${conteudos.map(item => buildSemanticFeedItem(item)).join('\n')}
