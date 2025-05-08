@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a8c3288b-9c9c-4eb9-905b-f3b7678599ad",
+  "identifier": "urn:uuid:anac-feed-2a569ef0-e9dd-483b-87d0-50d48da5ef93",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-08T18:32:56.696Z",
-  "dateModified": "2025-05-08T18:32:56.696Z",
+  "dateCreated": "2025-05-08T20:15:54.388Z",
+  "dateModified": "2025-05-08T20:15:54.388Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -35,7 +35,7 @@
   "items": [
     {
       "@type": "VideoObject",
-      "name": "Webinário - Consulta setorial sobre novo modelo de certificação de laboratórios de",
+      "name": "Consulta setorial sobre certificação de laboratórios de inflamabilidade",
       "url": "https://www.youtube.com/watch?v=IKV_zGVVsNU",
       "datePublished": "2025-05-07T21:57:18.000Z",
       "description": "Link do Slido: https://app.sli.do/event/qYvvRftqtcek3vqVUUf9BU",
@@ -115,22 +115,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16941/CRG, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16941",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Designa Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16940/CRG, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16940",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Designa Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
       "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
@@ -138,38 +122,6 @@
       "description": "Link para perguntas no slido: https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU",
       "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16925/SAF, 06/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16925",
-      "datePublished": "2025-05-06T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16931/SAF, 06/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16931",
-      "datePublished": "2025-05-06T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16926/SAF, 06/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16926",
-      "datePublished": "2025-05-06T00:00:00.000Z",
-      "description": "Designa Responsável pelo Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16916/SAF, 06/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16916",
-      "datePublished": "2025-05-06T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -197,46 +149,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16908/SIA, 05/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16908",
-      "datePublished": "2025-05-05T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0638 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16907/SIA, 05/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16907",
-      "datePublished": "2025-05-05T00:00:00.000Z",
-      "description": "Altera no cadastro de aeródromos a inscrição do aeródromo de uso público de São José do Rio Preto (SP), Código OACI: SBSR; Código CIAD: SP0006, que passa a ser denominado Professor Eribelto Manoel Reino",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16911/SAR, 05/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16911",
-      "datePublished": "2025-05-05T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificados Suplementares de Tipo - CSTs",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16910/SAF, 05/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16910",
-      "datePublished": "2025-05-05T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16913/SAF, 05/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16913",
-      "datePublished": "2025-05-05T00:00:00.000Z",
-      "description": "Torna pública a concessão de suprimento fundos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac lança o 1º Plano de Comunicação de Segurança Operacional",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional",
@@ -255,78 +167,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16904/SPO, 30/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16904",
-      "datePublished": "2025-04-30T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16903/SAF, 30/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16903",
-      "datePublished": "2025-04-30T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16905/SIA, 30/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16905",
-      "datePublished": "2025-04-30T00:00:00.000Z",
-      "description": "Concede Certificado Operacional de Aeroporto à JHSF Incorporações LTDA., operadora do Aeroporto São Paulo Catarina Aeroporto Executivo, código OACI: SBJH, código CIAD: SP1176, em São Roque (SP)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16896/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16896",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1122 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16891/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16891",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0637 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16889/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16889",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD SP0209 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16893/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16893",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD CE0057 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16892/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16892",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0092 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16887/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16887",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0250 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant",
@@ -334,30 +174,6 @@
       "description": "Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16886/SIA, 28/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16886",
-      "datePublished": "2025-04-28T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0475 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16881/SIA, 28/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16881",
-      "datePublished": "2025-04-28T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1491 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16884/SPO, 28/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16884",
-      "datePublished": "2025-04-28T00:00:00.000Z",
-      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa TRI TÁXI AÉREO LTDA.",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -378,14 +194,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16868/SGP, 25/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16868",
-      "datePublished": "2025-04-25T00:00:00.000Z",
-      "description": "Estabelece orientações e critérios a serem adotados para a autorização de teletrabalho integral com residência no exterior",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Aberto o curso gratuito Aviation English Level 3",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3",
@@ -393,14 +201,6 @@
       "description": "As inscrições e teste de nivelamento podem ser feitos até o dia 23 de maio",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16864/SPO, 24/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16864",
-      "datePublished": "2025-04-24T00:00:00.000Z",
-      "description": "Torna público o cancelamento do Certificado de Organização de Manutenção da INTERIORS SERVICE - SERVIÇOS AERONÁUTICOS LTDA.",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
