@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'src/**' # Dispara o workflow quando qualquer arquivo dentro de "src" for comitado
+      - '.github/workflows/feed.yml' # Dispara o workflow quando o próprio arquivo "feed.yml" for comitado
   schedule:
     - cron: '0 */4 * * *'  # Executa a cada 4h
   workflow_dispatch:      # Permite execução manual
