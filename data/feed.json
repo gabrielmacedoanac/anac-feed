@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c313cb42-3448-4762-85c5-a5f668836476",
+  "identifier": "urn:uuid:anac-feed-2204de0c-0038-4231-8f27-138daf3f9050",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-08T17:51:54.337Z",
-  "dateModified": "2025-05-08T17:51:54.337Z",
+  "dateCreated": "2025-05-08T17:59:07.642Z",
+  "dateModified": "2025-05-08T17:59:07.642Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -256,6 +256,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16904/SPO, 30/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16904",
+      "datePublished": "2025-04-30T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16903/SAF, 30/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16903",
       "datePublished": "2025-04-30T00:00:00.000Z",
@@ -316,22 +324,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16887",
       "datePublished": "2025-04-29T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0250 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16890/SIA, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16890",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0911 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16894/SPL, 29/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16894",
-      "datePublished": "2025-04-29T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 1.296/SIA, de 20 de abril de 2018",
       "type": "legislação"
     },
     {
@@ -401,6 +393,14 @@
       "description": "As inscrições e teste de nivelamento podem ser feitos até o dia 23 de maio",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/aberto-o-o-curso-gratuito-aviation-english-level-3/linkedin.png/@@images/ad11d3d4-e953-450f-ace1-43bf4df43e71.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16864/SPO, 24/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16864",
+      "datePublished": "2025-04-24T00:00:00.000Z",
+      "description": "Torna público o cancelamento do Certificado de Organização de Manutenção da INTERIORS SERVICE - SERVIÇOS AERONÁUTICOS LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
