@@ -252,6 +252,8 @@ function buildSemanticHtml(conteudos: ContentItem[]): string {
     .article-description {
       color: #495057;
       margin-bottom: 1rem;
+      word-wrap: break-word; /* Quebra links longos */
+      overflow-wrap: break-word; /* Compatibilidade adicional */
     }
     footer {
       background-color: var(--dark);
