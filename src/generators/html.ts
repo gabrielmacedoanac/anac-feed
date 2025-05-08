@@ -39,6 +39,9 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
     .filters a:hover { text-decoration: underline; }
     .feed-item { margin-bottom: 1rem; }
     .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; }
+    footer { font-size: 0.8rem; text-align: center; margin-top: 2rem; color: #555; }
+    footer a { color: blue; text-decoration: none; margin: 0 0.5rem; }
+    footer a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
