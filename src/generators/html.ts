@@ -84,9 +84,7 @@ function buildFeedItem(item: ContentItem): string {
   return `
     <div class="feed-item" data-type="${item.type}">
       <a href="${escapeXml(item.link)}" target="_blank" class="feed-item-title">
-        ${escapeXml(item.title)} 
-        <span class="feed-item-meta">(${item.display} - ${item.type})</span>
-      </a>
+        ${escapeXml(item.title)}</a> <span class="feed-item-meta">(${item.display} - ${item.type})</span>
       <div class="feed-item-description">${parseUrlDescription}</div>
     </div>`;
 }
