@@ -39,7 +39,9 @@ function buildSimpleHtml(conteudos: ContentItem[]): string {
     .filters a:hover { text-decoration: underline; }
     .feed-item { margin-bottom: 1rem; }
     .feed-item-description { margin-top: 0.5rem; font-size: 0.9rem; color: #222; }
-    footer { font-size: 0.8rem; text-align: center; margin-top: 2rem; color: #555; }
+    .feed-item-title { font-size: 1rem; }
+    .feed-item-meta { font-size: 0.8rem; vertical-align: super; color: #555; }
+    footer { font-size: 0.8rem; text-align: center; margin-top: 1rem; color: #555; }
     footer a { color: blue; text-decoration: none; margin: 0 0.5rem; }
     footer a:hover { text-decoration: underline; }
   </style>
@@ -81,7 +83,10 @@ function buildFeedItem(item: ContentItem): string {
   const parseUrlDescription = parseAndGenerateLinks(item.description);
   return `
     <div class="feed-item" data-type="${item.type}">
-      <a href="${escapeXml(item.link)}" target="_blank">${escapeXml(item.title)}</a> (${item.display}) - ${item.type}
+      <a href="${escapeXml(item.link)}" target="_blank" class="feed-item-title">
+        ${escapeXml(item.title)} 
+        <span class="feed-item-meta">(${item.display} - ${item.type})</span>
+      </a>
       <div class="feed-item-description">${parseUrlDescription}</div>
     </div>`;
 }
