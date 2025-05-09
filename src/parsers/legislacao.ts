@@ -76,25 +76,16 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
       return legislacoes;
     }
 
-    const articles = resultsContainer.querySelectorAll("div.tileItem");
+    const articles = resultsContainer.querySelectorAll("div.tileItem h2.tileHeadline a");
     if (articles.length === 0) {
-      console.warn("Nenhum item encontrado dentro de 'tileItem'.");
+      console.warn("Nenhum item encontrado dentro de 'tileHeadline'.");
       return legislacoes;
     }
 
     for (const el of Array.from(articles)) {
       try {
-        const titleElement = el.querySelector("h2.tileHeadline a");
-        const descriptionElement = el.querySelector("p span.description");
-
-        if (!titleElement) {
-          console.warn("Elemento de título não encontrado para um item. Ignorando...");
-          continue;
-        }
-
-        const title = titleElement.textContent?.trim() || "Sem título";
-        const link = titleElement.getAttribute("href") || "#";
-        const description = descriptionElement?.textContent?.trim() || "Sem descrição";
+        const title = el.textContent?.trim() || "Sem título";
+        const link = el.getAttribute("href") || "#";
 
         // Extraindo a data do título, se disponível
         const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
@@ -104,7 +95,7 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
           title,
           link,
           date, // Usa a data extraída do título, se disponível
-          description,
+          description: "Descrição não disponível", // Ajuste se necessário
           image: null,
           type: "legislação"
         });
