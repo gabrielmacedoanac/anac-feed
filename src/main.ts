@@ -1,6 +1,6 @@
 import { fetchNoticias } from "./parsers/news.ts";
 import { fetchVideos } from "./parsers/videos.ts";
-import { fetchLegislacao } from "./parsers/legislacao.ts";
+import { fetchLegislacao, fetchLegislacaoPlone } from "./parsers/legislacao.ts";
 import { generateSimpleHtml } from "./generators/html.ts";
 import { generateSemanticHtml } from "./generators/html.ts";
 import { generateJsonFeed } from "./generators/json.ts";
@@ -13,16 +13,20 @@ import { CONFIG } from "./config.ts";
 async function main() {
   console.log("⏳ Iniciando coleta de dados...");
   
-  const [noticias, videos, legislacao] = await Promise.all([
+  const [noticias, videos, legislacao, legislacaoPlone] = await Promise.all([
     fetchNoticias(),
     fetchVideos(),
-    fetchLegislacao()
+    fetchLegislacao(),
+    fetchLegislacaoPlone()
   ]);
 
-  console.log(`✅ ${noticias.length} notícias, ${videos.length} vídeos e ${legislacao.length} legislações coletadas`);
+  console.log(`✅ ${noticias.length} notícias, ${videos.length} vídeos, ${legislacao.length} legislações e ${legislacaoPlone.length} legislações (Plone) coletadas`);
+
+  // Combina todas as legislações
+  const todasLegislacoes = [...legislacao, ...legislacaoPlone];
 
   // Processa todos os itens garantindo datas válidas
-  const conteudos: ContentItem[] = [...noticias, ...videos, ...legislacao].map(item => {
+  const conteudos: ContentItem[] = [...noticias, ...videos, ...todasLegislacoes].map(item => {
     const dateInfo = parseCustomDate(item.date);
     return {
       ...item,
@@ -31,7 +35,6 @@ async function main() {
       dateObj: dateInfo.obj
     };
   });
-  
 
   // Ordena por data (mais recente primeiro)
   conteudos.sort((a, b) => b.dateObj.getTime() - a.dateObj.getTime());

@@ -18,12 +18,13 @@ export const FAIR_METADATA = {
     coverage: "Brasil"
   };
   
-export const CONFIG = {
+  export const CONFIG = {
     noticiaUrl: "https://www.gov.br/anac/pt-br/noticias",
     maxNoticias: 25,
     youtubeChannelId: "UC5ynmbMZXolM-jo2hGR31qg",
     maxVideos: 25,
     legislacaoUrl: "https://www.anac.gov.br/assuntos/legislacao/ultimos-atos-publicados",
-    maxLegislacao: 25,
+    legislacaoPloneUrl: "https://www.anac.gov.br/assuntos/legislacao/busca-legislacao#b_start=0&c6=CT&c6=Decis%C3%A3o&c6=Decreto&c6=Decreto-Lei&c6=IAC&c6=IS&c6=Instru%C3%A7%C3%A3o+Normativa&c6=Lei&c6=Lei+Complementar&c6=Medida+Provis%C3%B3ria&c6=PNAVSEC&c6=PNIAVSEC&c6=PROFAL&c6=PSO+-+BR&c6=PSOE+-+ANAC&c6=Portaria+Conjunta&c6=RBAC&c6=RBAC-E&c6=RBHA&c6=Resolu%C3%A7%C3%A3o&c6=SELO+ANAC&c6=TP&c6=iBR2020",
+    maxLegislacao: 50,
     outputDir: "data"
-  };
+};

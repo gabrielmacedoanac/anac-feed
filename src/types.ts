@@ -8,7 +8,11 @@ export interface ContentItem {
     display?: string;
     iso?: string;
     dateObj?: Date;
-  }
+    metadata?: {
+        publishedDate: string;
+        modifiedDate: string;
+    };
+}
   
   export interface DateInfo {
     display: string;
