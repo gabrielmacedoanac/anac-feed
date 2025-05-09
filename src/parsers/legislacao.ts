@@ -100,8 +100,8 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
           type: "legislação"
         });
 
-        // Para a coleta quando atingir o número máximo de legislações
-        if (legislacoes.length >= CONFIG.maxLegislacao) {
+        // Limita a coleta a 20 itens
+        if (legislacoes.length >= 20) {
           break;
         }
       } catch (e) {
