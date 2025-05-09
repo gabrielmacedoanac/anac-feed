@@ -70,22 +70,31 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     if (!doc) throw new Error("Falha ao parsear HTML");
 
     const legislacoes: ContentItem[] = [];
-    const resultsContainer = doc.querySelector("#faceted-results > div > div");
+    const resultsContainer = doc.querySelector("#faceted-results div.eea-preview-items");
     if (!resultsContainer) {
-      console.warn("Contêiner de resultados não encontrado.");
+      console.warn("Contêiner de resultados 'eea-preview-items' não encontrado.");
       return legislacoes;
     }
 
-    const articles = resultsContainer.querySelectorAll("div.tileItem h2.tileHeadline a");
+    const articles = resultsContainer.querySelectorAll("div.tileItem");
     if (articles.length === 0) {
-      console.warn("Nenhum item encontrado dentro de 'tileHeadline'.");
+      console.warn("Nenhum item encontrado dentro de 'tileItem'.");
       return legislacoes;
     }
 
     for (const el of Array.from(articles)) {
       try {
-        const title = el.textContent?.trim() || "Sem título";
-        const link = el.getAttribute("href") || "#";
+        const titleElement = el.querySelector("h2.tileHeadline a");
+        const descriptionElement = el.querySelector("p span.description");
+
+        if (!titleElement) {
+          console.warn("Elemento de título não encontrado para um item. Ignorando...");
+          continue;
+        }
+
+        const title = titleElement.textContent?.trim() || "Sem título";
+        const link = titleElement.getAttribute("href") || "#";
+        const description = descriptionElement?.textContent?.trim() || "Sem descrição";
 
         // Extraindo a data do título, se disponível
         const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
@@ -95,7 +104,7 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
           title,
           link,
           date, // Usa a data extraída do título, se disponível
-          description: "Descrição não disponível", // Ajuste se necessário
+          description,
           image: null,
           type: "legislação"
         });
