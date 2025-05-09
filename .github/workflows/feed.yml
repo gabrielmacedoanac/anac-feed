@@ -21,11 +21,6 @@ jobs:
         uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-
-      - name: Install Playwright
-        run: |
-          npm install playwright
-          npx playwright install
               
       - name: ▶️ Executar script Deno
         run: deno run --allow-net --allow-read --allow-write src/main.ts    
