@@ -25,7 +25,7 @@ export const CONFIG = {
     maxVideos: 25,
     legislacaoUrl: "https://www.anac.gov.br/assuntos/legislacao/ultimos-atos-publicados",
     maxLegislacao: 20, // Quantidade máxima para legislacao
-    legislacaoPloneUrl: "https://www.anac.gov.br/assuntos/legislacao/busca-legislacao#b_start=0&c6=CT&c6=Decis%C3%A3o&c6=Decreto&c6=Decreto-Lei&c6=IAC&c6=IS&c6=Instru%C3%A7%C3%A3o+Normativa&c6=Lei&c6=Lei+Complementar&c6=Medida+Provis%C3%B3ria&c6=PNAVSEC&c6=PNIAVSEC&c6=PROFAL&c6=PSO+-+BR&c6=PSOE+-+ANAC&c6=Portaria+Conjunta&c6=RBAC&c6=RBAC-E&c6=RBHA&c6=Resolu%C3%A7%C3%A3o&c6=SELO+ANAC&c6=TP&c6=iBR2020",
+    legislacaoPloneUrl: "https://www.anac.gov.br/assuntos/legislacao/busca-legislacao/@@faceted_query?b_start%5B%5D=0&c6%5B%5D=CT&c6%5B%5D=Decis%C3%A3o&c6%5B%5D=Decreto&c6%5B%5D=Decreto-Lei&c6%5B%5D=IAC&c6%5B%5D=IS&c6%5B%5D=Instru%C3%A7%C3%A3o+Normativa&c6%5B%5D=Lei&c6%5B%5D=Lei+Complementar&c6%5B%5D=Medida+Provis%C3%B3ria&c6%5B%5D=PNAVSEC&c6%5B%5D=PNIAVSEC&c6%5B%5D=PROFAL&c6%5B%5D=PSO+-+BR&c6%5B%5D=PSOE+-+ANAC&c6%5B%5D=Portaria+Conjunta&c6%5B%5D=RBAC&c6%5B%5D=RBAC-E&c6%5B%5D=RBHA&c6%5B%5D=Resolu%C3%A7%C3%A3o&c6%5B%5D=SELO+ANAC&c6%5B%5D=TP&c6%5B%5D=iBR2020",
     maxLegislacaoPlone: 20, // Quantidade máxima para legislacaoPlone
     outputDir: "data"
 };
