@@ -70,20 +70,47 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     if (!doc) throw new Error("Falha ao parsear HTML");
 
     const legislacoes: ContentItem[] = [];
-    const articles = doc.querySelectorAll("div.eea-preview-items div.tileItem");
+    const contentCore = doc.querySelector("div#content-core");
+    if (!contentCore) {
+      console.warn("Div com id 'content-core' não encontrada.");
+      return legislacoes;
+    }
+
+    const centerContentArea = contentCore.querySelector("div#center-content-area");
+    if (!centerContentArea) {
+      console.warn("Div com id 'center-content-area' não encontrada.");
+      return legislacoes;
+    }
+
+    const articles = centerContentArea.querySelectorAll("div.eea-preview-items div.tileItem");
+    if (articles.length === 0) {
+      console.warn("Nenhum item encontrado dentro de 'eea-preview-items'.");
+      return legislacoes;
+    }
 
     for (const el of Array.from(articles)) {
       try {
-        const title = el.querySelector("h2.tileHeadline a")?.textContent?.trim() || "Sem título";
-        const link = el.querySelector("h2.tileHeadline a")?.getAttribute("href") || "#";
-        const description = el.querySelector("p span.description")?.textContent?.trim() || "Sem descrição";
+        const titleElement = el.querySelector("h2.tileHeadline a");
+        const descriptionElement = el.querySelector("p span.description");
+
+        if (!titleElement) {
+          console.warn("Elemento de título não encontrado para um item. Ignorando...");
+          continue;
+        }
+
+        const title = titleElement.textContent?.trim() || "Sem título";
+        const link = titleElement.getAttribute("href") || "#";
+        const description = descriptionElement?.textContent?.trim() || "Sem descrição";
 
         // Acessa o link para capturar as datas de publicação e modificação
         const detailRes = await fetch(link, { headers: { "User-Agent": "Mozilla/5.0" } });
         const detailHtml = await detailRes.text();
         const detailDoc = new DOMParser().parseFromString(detailHtml, "text/html");
 
-        if (!detailDoc) throw new Error("Falha ao parsear HTML do detalhe");
+        if (!detailDoc) {
+          console.warn(`Falha ao parsear HTML do detalhe para o link: ${link}`);
+          continue;
+        }
 
         const publishedDateMatch = detailDoc.querySelector("span.documentPublished")?.textContent?.match(/(\d{2}\/\d{2}\/\d{4})/);
         const modifiedDateMatch = detailDoc.querySelector("span.documentModified")?.textContent?.match(/(\d{2}\/\d{2}\/\d{4})/);
