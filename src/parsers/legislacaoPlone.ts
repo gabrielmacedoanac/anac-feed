@@ -1,41 +1,43 @@
-import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { ContentItem } from "../types.ts";
 import { CONFIG } from "../config.ts";
 
 export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
   try {
-    const res = await fetch(CONFIG.legislacaoPloneUrl, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-        "Accept": "*/*",
-        "X-Requested-With": "XMLHttpRequest",
-        "Referer": "https://www.anac.gov.br/assuntos/legislacao/busca-legislacao",
-      },
+    // Executa o comando curl para capturar o HTML
+    const process = Deno.run({
+      cmd: [
+        "curl",
+        "-s",
+        "-k", // Ignora erros de certificado SSL
+        "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "-H", "Accept: */*",
+        "-H", "X-Requested-With: XMLHttpRequest",
+        CONFIG.legislacaoPloneUrl,
+      ],
+      stdout: "piped",
+      stderr: "piped",
     });
 
-    if (!res.ok) {
-      throw new Error(`Erro ao acessar a API: ${res.statusText}`);
+    const output = await process.output();
+    const decoder = new TextDecoder();
+    const html = decoder.decode(output);
+    process.close();
+
+    // Verifica se o HTML foi capturado
+    if (!html) {
+      throw new Error("Erro ao capturar o HTML da página.");
     }
 
-    const html = await res.text();
-    const doc = new DOMParser().parseFromString(html, "text/html");
-
-    if (!doc) {
-      throw new Error("Erro ao parsear o HTML retornado pela API.");
-    }
-
+    // Faz o parser do HTML usando RegEx
     const legislacoes: ContentItem[] = [];
-    const articles = doc.querySelectorAll("#faceted-results div.tileItem");
+    const matches = html.matchAll(/<div class="tileItem">.*?<h2 class="tileHeadline"><a href="(.*?)".*?>(.*?)<\/a>.*?<p><span class="description">(.*?)<\/span>/gs);
 
-    articles.forEach((el) => {
-      const titleElement = el.querySelector("h2.tileHeadline a");
-      const descriptionElement = el.querySelector("p span.description");
+    for (const match of matches) {
+      const link = match[1]?.trim() || "#";
+      const title = match[2]?.trim() || "Sem título";
+      const description = match[3]?.trim() || "Sem descrição";
 
-      const title = titleElement?.textContent?.trim() || "Sem título";
-      const link = titleElement?.getAttribute("href") || "#";
-      const description = descriptionElement?.textContent?.trim() || "Sem descrição";
-
+      // Extração opcional da data do título
       const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
       const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : "ND";
 
@@ -47,7 +49,7 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
         image: null,
         type: "legislação",
       });
-    });
+    }
 
     return legislacoes;
   } catch (error) {

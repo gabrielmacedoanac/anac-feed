@@ -23,7 +23,7 @@ jobs:
           deno-version: v1.x
               
       - name: ▶️ Executar script Deno
-        run: deno run --allow-net --allow-read --allow-write --unsafely-ignore-certificate-errors src/main.ts    
+        run: deno run --allow-net --allow-read --allow-write --unsafely-ignore-certificate-errors --allow-run src/main.ts    
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
