@@ -4,13 +4,28 @@ import { CONFIG } from "../config.ts";
 
 export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
   try {
-    const res = await fetch(CONFIG.legislacaoPloneUrl, {
+    // Primeira requisição para capturar cookies
+    const initialRes = await fetch(CONFIG.legislacaoPloneUrl, {
       headers: {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
         "Connection": "keep-alive",
         "Cache-Control": "no-cache"
+      }
+    });
+
+    const cookies = initialRes.headers.get("set-cookie") || "";
+
+    // Segunda requisição com os cookies capturados
+    const res = await fetch(CONFIG.legislacaoPloneUrl, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Connection": "keep-alive",
+        "Cache-Control": "no-cache",
+        "Cookie": cookies // Envia os cookies capturados
       }
     });
 
