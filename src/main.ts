@@ -1,3 +1,16 @@
+import { fetchNoticias } from "./parsers/news.ts";
+import { fetchVideos } from "./parsers/videos.ts";
+import { fetchLegislacao } from "./parsers/legislacao.ts";
+import { fetchLegislacaoPlone } from "./parsers/legislacaoPlone.ts";
+import { generateSimpleHtml } from "./generators/html.ts";
+import { generateSemanticHtml } from "./generators/html.ts";
+import { generateJsonFeed } from "./generators/json.ts";
+import { generateRssFeed } from "./generators/rss.ts";
+import { generateAtomFeed } from "./generators/atom.ts";
+import { parseCustomDate } from "./utils.ts";
+import { ContentItem } from "./types.ts";
+import { CONFIG } from "./config.ts";
+
 async function main() {
   console.log("⏳ Iniciando coleta de dados...");
   
