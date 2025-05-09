@@ -70,30 +70,15 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     if (!doc) throw new Error("Falha ao parsear HTML");
 
     const legislacoes: ContentItem[] = [];
-    const resultsContainer = doc.querySelector("#faceted-results div.eea-preview-items");
-    if (!resultsContainer) {
-      console.warn("Contêiner de resultados 'eea-preview-items' não encontrado.");
-      return legislacoes;
-    }
+    const articles = doc.querySelectorAll("#faceted-results div.tileItem");
 
-    const articles = resultsContainer.querySelectorAll("div.tileItem");
-    if (articles.length === 0) {
-      console.warn("Nenhum item encontrado dentro de 'tileItem'.");
-      return legislacoes;
-    }
-
-    for (const el of Array.from(articles)) {
+    articles.forEach((el) => {
       try {
         const titleElement = el.querySelector("h2.tileHeadline a");
         const descriptionElement = el.querySelector("p span.description");
 
-        if (!titleElement) {
-          console.warn("Elemento de título não encontrado para um item. Ignorando...");
-          continue;
-        }
-
-        const title = titleElement.textContent?.trim() || "Sem título";
-        const link = titleElement.getAttribute("href") || "#";
+        const title = titleElement?.textContent?.trim() || "Sem título";
+        const link = titleElement?.getAttribute("href") || "#";
         const description = descriptionElement?.textContent?.trim() || "Sem descrição";
 
         // Extraindo a data do título, se disponível
@@ -108,15 +93,10 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
           image: null,
           type: "legislação"
         });
-
-        // Limita a coleta a 20 itens
-        if (legislacoes.length >= 20) {
-          break;
-        }
       } catch (e) {
-        console.warn("Erro ao processar legislação:", e);
+        console.warn("Erro ao processar item:", e);
       }
-    }
+    });
 
     return legislacoes;
   } catch (error) {
