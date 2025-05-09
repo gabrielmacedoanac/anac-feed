@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-78b4f9a0-81b5-40f8-b2ba-4a5f4f78d032",
+  "identifier": "urn:uuid:anac-feed-6db7f7e8-fe39-4ea5-86c2-21d0a814503e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-09T19:22:02.864Z",
-  "dateModified": "2025-05-09T19:22:02.864Z",
+  "dateCreated": "2025-05-09T20:15:45.065Z",
+  "dateModified": "2025-05-09T20:15:45.065Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-26T20:23:36.000Z",
-    "endDate": "2025-05-09T19:22:02.862Z"
+    "endDate": "2025-05-09T20:15:45.063Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-09T19:22:02.862Z",
+      "datePublished": "2025-05-09T20:15:45.063Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Dado primeiro passo para a implantação do Diário de Bordo Eletrônico em operações de carga regulares",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares",
+      "datePublished": "2025-05-09T17:08:00.000Z",
+      "description": "Contrato assinado na quarta-feira marcará o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares/whatsapp-image-2025-05-09-at-10-09-45-1.jpeg/@@images/119f4ec3-b22e-43a9-8301-38c67867e9dd.jpeg",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -47,6 +56,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-inscricoes-abertas-ate-19-5-para-concorrer-ao-sorteio-de-voos-e-palestras",
       "datePublished": "2025-05-09T15:33:00.000Z",
       "description": "Pessoas com deficiência poderão ser sorteadas para realizar um voo durante evento que ocorre no dia 11 de junho, em Campinas (SP)",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-inscricoes-abertas-ate-19-5-para-concorrer-ao-sorteio-de-voos-e-palestras/aviacao_inclusiva___linkedin___.png/@@images/add8ab3a-96f7-47e0-8673-6cba735e486d.png",
       "type": "notícia"
     },
     {
@@ -508,14 +518,6 @@
       "datePublished": "2025-04-03T12:08:00.000Z",
       "description": "Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Consulta pública para atualização do RBAC 153 foi prorrogada até 25/4",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-para-atualizacao-do-rbac-153-foi-prorrogada-ate-25-4",
-      "datePublished": "2025-04-03T11:31:00.000Z",
-      "description": "Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas",
       "type": "notícia"
     },
     {

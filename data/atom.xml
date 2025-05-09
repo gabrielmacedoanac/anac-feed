@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-78b4f9a0-81b5-40f8-b2ba-4a5f4f78d032</id>
-  <updated>2025-05-09T19:22:02.862Z</updated>
+  <id>urn:uuid:anac-feed-6db7f7e8-fe39-4ea5-86c2-21d0a814503e</id>
+  <updated>2025-05-09T20:15:45.063Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 14/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</id>
-    <published>2025-05-09T19:22:02.862Z</published>
-    <updated>2025-05-09T19:22:02.862Z</updated>
+    <published>2025-05-09T20:15:45.063Z</published>
+    <updated>2025-05-09T20:15:45.063Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Dado primeiro passo para a implantação do Diário de Bordo Eletrônico em operações de carga regulares</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares</id>
+    <published>2025-05-09T17:08:00.000Z</published>
+    <updated>2025-05-09T17:08:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contrato assinado na quarta-feira marcará o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro</summary>
+    <content type="html"><![CDATA[
+      <p>Contrato assinado na quarta-feira marcará o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares/whatsapp-image-2025-05-09-at-10-09-45-1.jpeg/@@images/119f4ec3-b22e-43a9-8301-38c67867e9dd.jpeg" alt="Dado primeiro passo para a implantação do Diário de Bordo Eletrônico em operações de carga regulares">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -44,7 +63,7 @@
     <summary type="html">Pessoas com deficiência poderão ser sorteadas para realizar um voo durante evento que ocorre no dia 11 de junho, em Campinas (SP)</summary>
     <content type="html"><![CDATA[
       <p>Pessoas com deficiência poderão ser sorteadas para realizar um voo durante evento que ocorre no dia 11 de junho, em Campinas (SP)</p>
-      
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-inscricoes-abertas-ate-19-5-para-concorrer-ao-sorteio-de-voos-e-palestras/aviacao_inclusiva___linkedin___.png/@@images/add8ab3a-96f7-47e0-8673-6cba735e486d.png" alt="Dia da Aviação Inclusiva: inscrições abertas até 19/5 para concorrer ao sorteio de voos e palestras">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1085,25 +1104,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     <content type="html"><![CDATA[
       <p>Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png" alt="Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Consulta pública para atualização do RBAC 153 foi prorrogada até 25/4</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-para-atualizacao-do-rbac-153-foi-prorrogada-ate-25-4" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-para-atualizacao-do-rbac-153-foi-prorrogada-ate-25-4</id>
-    <published>2025-04-03T11:31:00.000Z</published>
-    <updated>2025-04-03T11:31:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas</summary>
-    <content type="html"><![CDATA[
-      <p>Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
