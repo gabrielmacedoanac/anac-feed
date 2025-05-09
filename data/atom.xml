@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-dc2f7242-635e-44d3-be2a-aac606ffa481</id>
-  <updated>2025-05-09T16:16:52.883Z</updated>
+  <id>urn:uuid:anac-feed-650e0f5e-fadd-41d8-a546-a99b118f09b8</id>
+  <updated>2025-05-09T18:36:48.582Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 14/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</id>
-    <published>2025-05-09T16:16:52.883Z</published>
-    <updated>2025-05-09T16:16:52.883Z</updated>
+    <published>2025-05-09T18:36:48.582Z</published>
+    <updated>2025-05-09T18:36:48.582Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Dia da Aviação Inclusiva: inscrições abertas até 19/5 para concorrer ao sorteio de voos e palestras</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-inscricoes-abertas-ate-19-5-para-concorrer-ao-sorteio-de-voos-e-palestras" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-inscricoes-abertas-ate-19-5-para-concorrer-ao-sorteio-de-voos-e-palestras</id>
+    <published>2025-05-09T15:33:00.000Z</published>
+    <updated>2025-05-09T15:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Pessoas com deficiência poderão ser sorteadas para realizar um voo durante evento que ocorre no dia 11 de junho, em Campinas (SP)</summary>
+    <content type="html"><![CDATA[
+      <p>Pessoas com deficiência poderão ser sorteadas para realizar um voo durante evento que ocorre no dia 11 de junho, em Campinas (SP)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -282,25 +301,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16940/CRG, 07/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16940" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16940</id>
-    <published>2025-05-07T00:00:00.000Z</published>
-    <updated>2025-05-07T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Comissão de Processo Administrativo Disciplinar</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
     <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
@@ -350,25 +350,6 @@ Processo00058.041142/2024-47</p>
     <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
     <content type="html"><![CDATA[
       <p>Designa Equipe de Planejamento da Contratação</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16926/SAF, 06/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16926" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16926</id>
-    <published>2025-05-06T00:00:00.000Z</published>
-    <updated>2025-05-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Responsável pelo Planejamento da Contratação</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Responsável pelo Planejamento da Contratação</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -711,25 +692,6 @@ Processo00058.041142/2024-47</p>
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD SP1491 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD SP1491 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16884/SPO, 28/04/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16884" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16884</id>
-    <published>2025-04-28T00:00:00.000Z</published>
-    <updated>2025-04-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação do Certificado de Operador Aéreo Empresa TRI TÁXI AÉREO LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação do Certificado de Operador Aéreo Empresa TRI TÁXI AÉREO LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1141,25 +1103,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     <summary type="html">Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas</summary>
     <content type="html"><![CDATA[
       <p>Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Novo plano de ação ambiental da Anac detalha iniciativas para reduzir impactos ambientais da aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novo-plano-de-acao-ambiental-da-anac-detalha-iniciativas-para-reduzir-impactos-ambientais-da-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/novo-plano-de-acao-ambiental-da-anac-detalha-iniciativas-para-reduzir-impactos-ambientais-da-aviacao</id>
-    <published>2025-04-02T15:56:00.000Z</published>
-    <updated>2025-04-02T15:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</summary>
-    <content type="html"><![CDATA[
-      <p>Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

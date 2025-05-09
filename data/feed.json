@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-dc2f7242-635e-44d3-be2a-aac606ffa481",
+  "identifier": "urn:uuid:anac-feed-650e0f5e-fadd-41d8-a546-a99b118f09b8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-09T16:16:52.885Z",
-  "dateModified": "2025-05-09T16:16:52.885Z",
+  "dateCreated": "2025-05-09T18:36:48.586Z",
+  "dateModified": "2025-05-09T18:36:48.586Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-26T20:23:36.000Z",
-    "endDate": "2025-05-09T16:16:52.883Z"
+    "endDate": "2025-05-09T18:36:48.582Z"
   },
   "distribution": [
     {
@@ -37,9 +37,17 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-09T16:16:52.883Z",
+      "datePublished": "2025-05-09T18:36:48.582Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Dia da Aviação Inclusiva: inscrições abertas até 19/5 para concorrer ao sorteio de voos e palestras",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-inscricoes-abertas-ate-19-5-para-concorrer-ao-sorteio-de-voos-e-palestras",
+      "datePublished": "2025-05-09T15:33:00.000Z",
+      "description": "Pessoas com deficiência poderão ser sorteadas para realizar um voo durante evento que ocorre no dia 11 de junho, em Campinas (SP)",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -155,14 +163,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16940/CRG, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16940",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Designa Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
       "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
@@ -185,14 +185,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16931",
       "datePublished": "2025-05-06T00:00:00.000Z",
       "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16926/SAF, 06/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16926",
-      "datePublished": "2025-05-06T00:00:00.000Z",
-      "description": "Designa Responsável pelo Planejamento da Contratação",
       "type": "legislação"
     },
     {
@@ -341,14 +333,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16881",
       "datePublished": "2025-04-28T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD SP1491 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16884/SPO, 28/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16884",
-      "datePublished": "2025-04-28T00:00:00.000Z",
-      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa TRI TÁXI AÉREO LTDA.",
       "type": "legislação"
     },
     {
@@ -532,14 +516,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-para-atualizacao-do-rbac-153-foi-prorrogada-ate-25-4",
       "datePublished": "2025-04-03T11:31:00.000Z",
       "description": "Proposta atualiza regras relacionadas à remoção de aeronaves inoperantes e desinterdição de pistas",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novo plano de ação ambiental da Anac detalha iniciativas para reduzir impactos ambientais da aviação",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novo-plano-de-acao-ambiental-da-anac-detalha-iniciativas-para-reduzir-impactos-ambientais-da-aviacao",
-      "datePublished": "2025-04-02T15:56:00.000Z",
-      "description": "Novos instrumentos de ação ambiental visam mitigar poluentes, promover a transição energética e fortalecer a sustentabilidade do setor.",
       "type": "notícia"
     },
     {
