@@ -102,33 +102,17 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
         const link = titleElement.getAttribute("href") || "#";
         const description = descriptionElement?.textContent?.trim() || "Sem descrição";
 
-        // Acessa o link para capturar as datas de publicação e modificação
-        const detailRes = await fetch(link, { headers: { "User-Agent": "Mozilla/5.0" } });
-        const detailHtml = await detailRes.text();
-        const detailDoc = new DOMParser().parseFromString(detailHtml, "text/html");
-
-        if (!detailDoc) {
-          console.warn(`Falha ao parsear HTML do detalhe para o link: ${link}`);
-          continue;
-        }
-
-        const publishedDateMatch = detailDoc.querySelector("span.documentPublished")?.textContent?.match(/(\d{2}\/\d{2}\/\d{4})/);
-        const modifiedDateMatch = detailDoc.querySelector("span.documentModified")?.textContent?.match(/(\d{2}\/\d{2}\/\d{4})/);
-
-        const publishedDate = publishedDateMatch ? publishedDateMatch[1].split("/").reverse().join("-") : "ND";
-        const modifiedDate = modifiedDateMatch ? modifiedDateMatch[1].split("/").reverse().join("-") : "ND";
+        // Extraindo a data do título, se disponível
+        const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
+        const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : "ND";
 
         legislacoes.push({
           title,
           link,
-          date: publishedDate, // Usa a data de publicação como a principal
+          date, // Usa a data extraída do título, se disponível
           description,
           image: null,
-          type: "legislação",
-          metadata: {
-            publishedDate,
-            modifiedDate
-          }
+          type: "legislação"
         });
 
         // Para a coleta quando atingir o número máximo de legislações
