@@ -1,15 +1,3 @@
-import { fetchNoticias } from "./parsers/news.ts";
-import { fetchVideos } from "./parsers/videos.ts";
-import { fetchLegislacao, fetchLegislacaoPlone } from "./parsers/legislacao.ts";
-import { generateSimpleHtml } from "./generators/html.ts";
-import { generateSemanticHtml } from "./generators/html.ts";
-import { generateJsonFeed } from "./generators/json.ts";
-import { generateRssFeed } from "./generators/rss.ts";
-import { generateAtomFeed } from "./generators/atom.ts";
-import { parseCustomDate } from "./utils.ts";
-import { ContentItem } from "./types.ts";
-import { CONFIG } from "./config.ts";
-
 async function main() {
   console.log("⏳ Iniciando coleta de dados...");
   
@@ -22,19 +10,13 @@ async function main() {
 
   console.log(`✅ ${noticias.length} notícias, ${videos.length} vídeos, ${legislacao.length} legislações e ${legislacaoPlone.length} legislações (Plone) coletadas`);
 
-  // Combina todas as legislações
-  const todasLegislacoes = [...legislacao, ...legislacaoPlone];
-
   // Processa todos os itens garantindo datas válidas
-  const conteudos: ContentItem[] = [...noticias, ...videos, ...todasLegislacoes].map(item => {
-    const dateInfo = parseCustomDate(item.date);
-    return {
-      ...item,
-      display: dateInfo.display,
-      iso: dateInfo.iso,
-      dateObj: dateInfo.obj
-    };
-  });
+  const conteudos: ContentItem[] = [
+    ...noticias.map(item => processarItem(item)),
+    ...videos.map(item => processarItem(item)),
+    ...legislacao.map(item => processarItem(item)),
+    ...legislacaoPlone.map(item => processarItem(item))
+  ];
 
   // Ordena por data (mais recente primeiro)
   conteudos.sort((a, b) => b.dateObj.getTime() - a.dateObj.getTime());
@@ -53,5 +35,3 @@ async function main() {
 
   console.log("✅ Todos os arquivos foram gerados com sucesso!");
 }
-
-await main();
