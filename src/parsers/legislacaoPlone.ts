@@ -1,3 +1,4 @@
+import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { chromium } from "playwright";
 import { ContentItem } from "../types.ts";
 import { CONFIG } from "../config.ts";
