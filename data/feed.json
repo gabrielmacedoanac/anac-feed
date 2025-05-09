@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6db7f7e8-fe39-4ea5-86c2-21d0a814503e",
+  "identifier": "urn:uuid:anac-feed-8c802ab7-265e-492d-a5db-f97e0b0980a4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-09T20:15:45.065Z",
-  "dateModified": "2025-05-09T20:15:45.065Z",
+  "dateCreated": "2025-05-09T20:28:20.039Z",
+  "dateModified": "2025-05-09T20:28:20.039Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-26T20:23:36.000Z",
-    "endDate": "2025-05-09T20:15:45.063Z"
+    "endDate": "2025-05-09T20:28:20.034Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-09T20:15:45.063Z",
+      "datePublished": "2025-05-09T20:28:20.034Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
       "type": "legislação"
     },
