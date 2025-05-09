@@ -27,9 +27,6 @@ jobs:
           npm install playwright
           npx playwright install
               
-      - name: Install Puppeteer
-        run: npm install puppeteer
-
       - name: ▶️ Executar script Deno
         run: deno run --allow-net --allow-read --allow-write src/main.ts    
 
