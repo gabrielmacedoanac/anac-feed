@@ -48,3 +48,16 @@ async function main() {
 
   console.log("✅ Todos os arquivos foram gerados com sucesso!");
 }
+
+// Função para processar itens (garantindo datas válidas)
+function processarItem(item: ContentItem): ContentItem {
+  const dateInfo = parseCustomDate(item.date);
+  return {
+    ...item,
+    display: dateInfo.display,
+    iso: dateInfo.iso,
+    dateObj: dateInfo.obj
+  };
+}
+
+await main();
