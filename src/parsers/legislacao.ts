@@ -70,21 +70,15 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     if (!doc) throw new Error("Falha ao parsear HTML");
 
     const legislacoes: ContentItem[] = [];
-    const contentCore = doc.querySelector("div#content-core");
-    if (!contentCore) {
-      console.warn("Div com id 'content-core' não encontrada.");
+    const resultsContainer = doc.querySelector("#faceted-results > div > div");
+    if (!resultsContainer) {
+      console.warn("Contêiner de resultados não encontrado.");
       return legislacoes;
     }
 
-    const centerContentArea = contentCore.querySelector("div#center-content-area");
-    if (!centerContentArea) {
-      console.warn("Div com id 'center-content-area' não encontrada.");
-      return legislacoes;
-    }
-
-    const articles = centerContentArea.querySelectorAll("div.eea-preview-items div.tileItem");
+    const articles = resultsContainer.querySelectorAll("div.tileItem");
     if (articles.length === 0) {
-      console.warn("Nenhum item encontrado dentro de 'eea-preview-items'.");
+      console.warn("Nenhum item encontrado dentro de 'tileItem'.");
       return legislacoes;
     }
 
