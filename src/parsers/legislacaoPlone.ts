@@ -1,5 +1,4 @@
-import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import puppeteer from "puppeteer";
+import { chromium } from "playwright";
 import { ContentItem } from "../types.ts";
 import { CONFIG } from "../config.ts";
 
@@ -51,44 +50,40 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     return legislacoes;
   } catch (error) {
     console.error("Erro ao buscar legislações do Plone com fetch:", error);
-    return await fetchLegislacaoPloneWithPuppeteer();
+    return await fetchLegislacaoPloneWithPlaywright();
   }
 }
 
-export async function fetchLegislacaoPloneWithPuppeteer(): Promise<ContentItem[]> {
-  const browser = await puppeteer.launch({ headless: true });
+export async function fetchLegislacaoPloneWithPlaywright(): Promise<ContentItem[]> {
+  const browser = await chromium.launch();
   const page = await browser.newPage();
 
   try {
-    await page.goto(CONFIG.legislacaoPloneUrl, { waitUntil: "networkidle2" });
+    await page.goto(CONFIG.legislacaoPloneUrl, { waitUntil: "networkidle" });
 
     const legislacoes = await page.evaluate(() => {
       const items: ContentItem[] = [];
       const articles = document.querySelectorAll("#faceted-results div.tileItem");
 
       articles.forEach((el) => {
-        try {
-          const titleElement = el.querySelector("h2.tileHeadline a");
-          const descriptionElement = el.querySelector("p span.description");
+        const titleElement = el.querySelector("h2.tileHeadline a");
+        const descriptionElement = el.querySelector("p span.description");
 
-          const title = titleElement?.textContent?.trim() || "Sem título";
-          const link = titleElement?.getAttribute("href") || "#";
-          const description = descriptionElement?.textContent?.trim() || "Sem descrição";
+        const title = titleElement?.textContent?.trim() || "Sem título";
+        const link = titleElement?.getAttribute("href") || "#";
+        const description = descriptionElement?.textContent?.trim() || "Sem descrição";
 
-          const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
-          const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : "ND";
+        const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
+        const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : "ND";
 
-          items.push({
-            title,
-            link,
-            date,
-            description,
-            image: null,
-            type: "legislação"
-          });
-        } catch (e) {
-          console.warn("Erro ao processar item:", e);
-        }
+        items.push({
+          title,
+          link,
+          date,
+          description,
+          image: null,
+          type: "legislação"
+        });
       });
 
       return items;
@@ -96,7 +91,7 @@ export async function fetchLegislacaoPloneWithPuppeteer(): Promise<ContentItem[]
 
     return legislacoes;
   } catch (error) {
-    console.error("Erro ao buscar legislações do Plone com Puppeteer:", error);
+    console.error("Erro ao buscar legislações do Plone com Playwright:", error);
     return [];
   } finally {
     await browser.close();
