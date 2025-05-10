@@ -32,6 +32,7 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     const matches = html.matchAll(/<div class="tileItem">.*?<h2 class="tileHeadline">\s*<a href="(.*?)".*?>(.*?)<\/a>.*?<span class="description">(.*?)<\/span>/gs);
 
     for (const match of matches) {
+      console.log("Match encontrado:", match);
       const link = match[1]?.trim() || "#";
       const title = match[2]?.trim() || "Sem título";
       const description = match[3]?.trim() || "Sem descrição";
@@ -45,10 +46,12 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
 
       // Se a data não for encontrada no título, acessa o link para capturar as datas
       if (!date && link !== "#") {
+        console.log("Acessando link:", link);
         const pageRes = await fetch(link, {
           headers: { "User-Agent": "Mozilla/5.0" },
         });
         const pageHtml = await pageRes.text();
+        console.log("HTML da página acessada:", pageHtml);
 
         // Limpa o HTML da página acessada
         const cleanedPageHtml = pageHtml.replace(/\s+/g, " ").trim();
@@ -86,13 +89,4 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     console.error("Erro ao buscar legislações do Plone:", error);
     return [];
   }
-}
-
-const matches = html.matchAll(/<div class="tileItem">.*?<h2 class="tileHeadline">\s*<a href="(.*?)".*?>(.*?)<\/a>.*?<span class="description">(.*?)<\/span>/gs);
-for (const match of matches) {
-  console.log("Match encontrado:", match);
-  const link = match[1];
-  const pageHtml = await fetch(link).then(response => response.text());
-  console.log("Acessando link:", link);
-  console.log("HTML da página acessada:", pageHtml);
 }
