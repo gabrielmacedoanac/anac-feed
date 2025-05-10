@@ -21,8 +21,6 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     const html = decoder.decode(output);
     process.close();
 
-    console.log("HTML capturado:", html);
-
     if (!html) {
       throw new Error("Erro ao capturar o HTML da página.");
     }
@@ -37,11 +35,6 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
       const title = match[2]?.trim() || "Sem título";
       const description = match[3]?.trim() || "Sem descrição";
 
-      console.log("Match encontrado:");
-      console.log("Título:", title);
-      console.log("Link:", link);
-      console.log("Descrição:", description);
-
       // Extrai a data do título
       const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
       const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : null;
@@ -51,12 +44,10 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
 
       // Se a data não for encontrada no título, acessa o link para capturar as datas
       if (!date && link !== "#") {
-        console.log("Acessando link:", link);
         const pageRes = await fetch(link, {
           headers: { "User-Agent": "Mozilla/5.0" },
         });
         const pageHtml = await pageRes.text();
-        console.log("HTML da página acessada:", pageHtml);
 
         // Limpa o HTML da página acessada
         const cleanedPageHtml = pageHtml.replace(/\s+/g, " ").trim();
