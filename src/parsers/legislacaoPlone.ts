@@ -21,7 +21,6 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     const html = decoder.decode(output);
     process.close();
 
-    // Adicione o log aqui, após a definição de `html`
     console.log("HTML capturado:", html);
 
     if (!html) {
@@ -29,13 +28,19 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     }
 
     const legislacoes: ContentItem[] = [];
-    const matches = html.matchAll(/<div class="tileItem">.*?<h2 class="tileHeadline">\s*<a href="(.*?)".*?>(.*?)<\/a>.*?<span class="description">(.*?)<\/span>/gs);
+    const matches = html.matchAll(
+      /<div class="tileContent">.*?<a href="(.*?)" class="summary url">(.*?)<\/a>.*?<span class="description">(.*?)<\/span>/gs,
+    );
 
     for (const match of matches) {
-      console.log("Match encontrado:", match);
       const link = match[1]?.trim() || "#";
       const title = match[2]?.trim() || "Sem título";
       const description = match[3]?.trim() || "Sem descrição";
+
+      console.log("Match encontrado:");
+      console.log("Título:", title);
+      console.log("Link:", link);
+      console.log("Descrição:", description);
 
       // Extrai a data do título
       const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
@@ -57,20 +62,17 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
         const cleanedPageHtml = pageHtml.replace(/\s+/g, " ").trim();
 
         // Extrai a data de publicação
-        const publishedMatch = cleanedPageHtml.match(/<span class="documentPublished">.*?<span>publicado<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/);
+        const publishedMatch = cleanedPageHtml.match(
+          /<span class="documentPublished">.*?<span>publicado<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/,
+        );
         publishedDate = publishedMatch ? publishedMatch[1] : null;
 
         // Extrai a data da última modificação
-        const modifiedMatch = cleanedPageHtml.match(/<span class="documentModified">.*?<span>última modificação<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/);
+        const modifiedMatch = cleanedPageHtml.match(
+          /<span class="documentModified">.*?<span>última modificação<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/,
+        );
         modifiedDate = modifiedMatch ? modifiedMatch[1] : null;
       }
-
-      console.log("Título:", title);
-      console.log("Link:", link);
-      console.log("Descrição:", description);
-      console.log("Data:", date);
-      console.log("Data de Publicação:", publishedDate);
-      console.log("Data da Última Modificação:", modifiedDate);
 
       legislacoes.push({
         title,
