@@ -30,13 +30,3 @@ export const CONFIG = {
     outputDir: "data"
 };
 
-console.log("HTML capturado:", html);
-
-const matches = html.matchAll(/<div class="tileItem">.*?<h2 class="tileHeadline">\s*<a href="(.*?)".*?>(.*?)<\/a>.*?<span class="description">(.*?)<\/span>/gs);
-for (const match of matches) {
-  console.log("Match encontrado:", match);
-  const link = match[1];
-  const pageHtml = await fetch(link).then(response => response.text());
-  console.log("Acessando link:", link);
-  console.log("HTML da página acessada:", pageHtml);
-}

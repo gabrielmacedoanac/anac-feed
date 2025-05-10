@@ -21,6 +21,9 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     const html = decoder.decode(output);
     process.close();
 
+    // Adicione o log aqui, após a definição de `html`
+    console.log("HTML capturado:", html);
+
     if (!html) {
       throw new Error("Erro ao capturar o HTML da página.");
     }
@@ -83,4 +86,13 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
     console.error("Erro ao buscar legislações do Plone:", error);
     return [];
   }
+}
+
+const matches = html.matchAll(/<div class="tileItem">.*?<h2 class="tileHeadline">\s*<a href="(.*?)".*?>(.*?)<\/a>.*?<span class="description">(.*?)<\/span>/gs);
+for (const match of matches) {
+  console.log("Match encontrado:", match);
+  const link = match[1];
+  const pageHtml = await fetch(link).then(response => response.text());
+  console.log("Acessando link:", link);
+  console.log("HTML da página acessada:", pageHtml);
 }
