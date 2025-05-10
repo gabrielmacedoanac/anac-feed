@@ -3,16 +3,15 @@ import { CONFIG } from "../config.ts";
 
 export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
   try {
+    // Executa o comando curl para capturar o HTML da página
     const process = Deno.run({
       cmd: [
         "curl",
         "-s",
         "-k",
         "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-        "-H", "Accept: */*",
-        "-H", "X-Requested-With: XMLHttpRequest",
         CONFIG.legislacaoPloneUrl,
-      ],  
+      ],
       stdout: "piped",
       stderr: "piped",
     });
@@ -34,16 +33,41 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
       const title = match[2]?.trim() || "Sem título";
       const description = match[3]?.trim() || "Sem descrição";
 
+      // Extrai a data do título
       const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
-      const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : "ND";
+      const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : null;
+
+      let publishedDate = null;
+      let modifiedDate = null;
+
+      // Se a data não for encontrada no título, acessa o link para capturar as datas
+      if (!date && link !== "#") {
+        const pageRes = await fetch(link, {
+          headers: { "User-Agent": "Mozilla/5.0" },
+        });
+        const pageHtml = await pageRes.text();
+
+        // Limpa o HTML da página acessada
+        const cleanedPageHtml = pageHtml.replace(/\s+/g, " ").trim();
+
+        // Extrai a data de publicação
+        const publishedMatch = cleanedPageHtml.match(/<span class="documentPublished">.*?<span>publicado<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/);
+        publishedDate = publishedMatch ? publishedMatch[1] : null;
+
+        // Extrai a data da última modificação
+        const modifiedMatch = cleanedPageHtml.match(/<span class="documentModified">.*?<span>última modificação<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/);
+        modifiedDate = modifiedMatch ? modifiedMatch[1] : null;
+      }
 
       legislacoes.push({
         title,
         link,
-        date,
+        date: date || publishedDate || "ND",
         description,
         image: null,
         type: "legislação",
+        publishedDate: publishedDate || "ND",
+        modifiedDate: modifiedDate || "ND",
       });
     }
 
