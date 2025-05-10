@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b98dfe98-abc2-4f86-93e5-65e3cc580e42",
+  "identifier": "urn:uuid:anac-feed-913186b7-5372-4677-80da-ad6189bbfb17",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-10T19:23:28.252Z",
-  "dateModified": "2025-05-10T19:23:28.252Z",
+  "dateCreated": "2025-05-10T19:27:53.184Z",
+  "dateModified": "2025-05-10T19:27:53.184Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2023-08-25T10:32:00.000Z",
-    "endDate": "2025-05-10T19:23:28.250Z"
+    "startDate": "2025-02-10T00:00:00.000Z",
+    "endDate": "2025-05-10T19:27:53.182Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-10T19:23:28.250Z",
+      "datePublished": "2025-05-10T19:27:53.182Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
       "type": "legislação"
     },
@@ -424,6 +424,22 @@
       "type": "legislação"
     },
     {
+      "@type": "Legislation",
+      "name": "IS 90-001A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001",
+      "datePublished": "2025-04-15T18:14:00.000Z",
+      "description": "Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 117-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001",
+      "datePublished": "2025-04-15T18:11:00.000Z",
+      "description": "Conceitos básicos sobre fadiga humana",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil",
@@ -443,17 +459,9 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 90-001A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001",
-      "datePublished": "2025-04-11T18:20:00.000Z",
-      "description": "Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 90-002A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002",
-      "datePublished": "2025-04-11T18:03:00.000Z",
+      "datePublished": "2025-04-11T18:04:00.000Z",
       "description": "Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90",
       "type": "legislação"
     },
@@ -498,6 +506,14 @@
       "datePublished": "2025-04-09T10:42:00.000Z",
       "description": "Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 21-004H",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004",
+      "datePublished": "2025-04-08T14:51:00.000Z",
+      "description": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -554,6 +570,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "IS 21.197-001A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a",
+      "datePublished": "2025-03-31T10:28:00.000Z",
+      "description": "Autorização Especial de Voo (AEV)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
       "datePublished": "2025-03-31T00:00:00.000Z",
@@ -568,14 +592,6 @@
       "description": "Perguntas pelo sli.do - https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ",
       "image": "https://i1.ytimg.com/vi/plwxV4XNIjg/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21.197-001A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a",
-      "datePublished": "2025-03-28T14:12:00.000Z",
-      "description": "Autorização Especial de Voo (AEV)",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -605,6 +621,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "IS 20-001C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001",
+      "datePublished": "2025-03-21T15:26:00.000Z",
+      "description": "Classificação de alterações em aeronaves e processo de aprovação simplificada de dados técnicos para grandes alterações",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "IS 120-017A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-017",
       "datePublished": "2025-03-20T19:02:00.000Z",
@@ -629,6 +653,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "IS 108-001I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001",
+      "datePublished": "2025-03-11T14:36:00.000Z",
+      "description": "Segurança da aviação contra atos de interferência ilícita – operador aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 209, 10/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209",
       "datePublished": "2025-03-10T00:00:00.000Z",
@@ -637,9 +669,17 @@
     },
     {
       "@type": "Legislation",
+      "name": "IS 21.231-001D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001",
+      "datePublished": "2025-03-07T15:00:00.000Z",
+      "description": "Certificação de Organização de Projeto",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "IS 00-010B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010",
-      "datePublished": "2025-03-07T14:04:00.000Z",
+      "datePublished": "2025-03-07T14:22:00.000Z",
       "description": "Treinamento de Gerenciamento de Recursos de Equipes (Corporate Resource Management - CRM)",
       "type": "legislação"
     },
@@ -665,46 +705,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-206-10-02-2025",
       "datePublished": "2025-02-10T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 188, de 27 de março de 2023",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 117-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001",
-      "datePublished": "2024-10-15T10:34:00.000Z",
-      "description": "Conceitos básicos sobre fadiga humana",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 108-001I",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001",
-      "datePublished": "2024-01-30T16:57:00.000Z",
-      "description": "Segurança da aviação contra atos de interferência ilícita – operador aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21.231-001D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001",
-      "datePublished": "2024-01-30T11:39:00.000Z",
-      "description": "Certificação de Organização de Projeto",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21-004H",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004",
-      "datePublished": "2023-09-11T15:48:00.000Z",
-      "description": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 20-001C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001",
-      "datePublished": "2023-08-25T10:32:00.000Z",
-      "description": "Classificação de alterações em aeronaves e processo de aprovação simplificada de dados técnicos para grandes alterações",
       "type": "legislação"
     }
   ]

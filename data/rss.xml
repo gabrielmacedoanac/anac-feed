@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Sat, 10 May 2025 19:23:28 GMT</pubDate>
-    <lastBuildDate>Sat, 10 May 2025 19:23:28 GMT</lastBuildDate>
+    <pubDate>Sat, 10 May 2025 19:27:53 GMT</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 19:27:53 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -15,10 +15,10 @@
       <title>EDITAL Nº 14/ANAC/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</link>
       <description>Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento &quot;Dia de Promoção da Aviação Inclusiva&quot;, no âmbito do Projeto Voar é para Todos do Programa Asas para Todos</description>
-      <pubDate>Sat, 10 May 2025 19:23:28 GMT</pubDate>
+      <pubDate>Sat, 10 May 2025 19:27:53 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-10T19:23:28.250Z</dc:date>
+      <dc:date>2025-05-10T19:27:53.182Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
@@ -800,6 +800,40 @@ Processo 00058.098660/2024-32 - 22:04</p>
     
     
     <item>
+      <title>IS 90-001A</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001</link>
+      <description>Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90</description>
+      <pubDate>Tue, 15 Apr 2025 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-04-15T18:14:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>IS 117-001B</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001</link>
+      <description>Conceitos básicos sobre fadiga humana</description>
+      <pubDate>Tue, 15 Apr 2025 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-04-15T18:11:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Conceitos básicos sobre fadiga humana</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil</link>
       <description>Ação incentiva o interesse de jovens de baixa renda para as carreiras da aviação civil por meio de visitas a aeroportos</description>
@@ -834,30 +868,13 @@ Processo 00058.098660/2024-32 - 22:04</p>
     
     
     <item>
-      <title>IS 90-001A</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001</link>
-      <description>Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90</description>
-      <pubDate>Fri, 11 Apr 2025 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-04-11T18:20:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>IS 90-002A</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002</link>
       <description>Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90</description>
-      <pubDate>Fri, 11 Apr 2025 18:03:00 GMT</pubDate>
+      <pubDate>Fri, 11 Apr 2025 18:04:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-04-11T18:03:00.000Z</dc:date>
+      <dc:date>2025-04-11T18:04:00.000Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
@@ -947,6 +964,23 @@ Processo 00058.098660/2024-32 - 22:04</p>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>IS 21-004H</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</link>
+      <description>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</description>
+      <pubDate>Tue, 08 Apr 2025 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-04-08T14:51:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</p>
         
       ]]></content:encoded>
     </item>
@@ -1063,6 +1097,23 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     
     
     <item>
+      <title>IS 21.197-001A</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a</link>
+      <description>Autorização Especial de Voo (AEV)</description>
+      <pubDate>Mon, 31 Mar 2025 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-03-31T10:28:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Autorização Especial de Voo (AEV)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210</link>
       <description>Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC</description>
@@ -1092,23 +1143,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <content:encoded><![CDATA[
         <p>Perguntas pelo sli.do - https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ</p>
         <img src="https://i1.ytimg.com/vi/plwxV4XNIjg/hqdefault.jpg" alt="Semana +OM: Apresentação do Portal 145">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 21.197-001A</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a</link>
-      <description>Autorização Especial de Voo (AEV)</description>
-      <pubDate>Fri, 28 Mar 2025 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-03-28T14:12:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Autorização Especial de Voo (AEV)</p>
-        
       ]]></content:encoded>
     </item>
     
@@ -1165,6 +1199,23 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     
     
     <item>
+      <title>IS 20-001C</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001</link>
+      <description>Classificação de alterações em aeronaves e processo de aprovação simplificada de dados técnicos para grandes alterações</description>
+      <pubDate>Fri, 21 Mar 2025 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-03-21T15:26:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Classificação de alterações em aeronaves e processo de aprovação simplificada de dados técnicos para grandes alterações</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>IS 120-017A</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-017</link>
       <description>Programa de Confiabilidade – Padrões para determinar limitações de tempo</description>
@@ -1216,6 +1267,23 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     
     
     <item>
+      <title>IS 108-001I</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001</link>
+      <description>Segurança da aviação contra atos de interferência ilícita – operador aéreo</description>
+      <pubDate>Tue, 11 Mar 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-03-11T14:36:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Segurança da aviação contra atos de interferência ilícita – operador aéreo</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>INSTRUÇÃO NORMATIVA Nº 209, 10/03/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209</link>
       <description>Institui a Política de Inteligência Artificial e a Estratégia de Inteligência Artificial da ANAC</description>
@@ -1233,13 +1301,30 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     
     
     <item>
+      <title>IS 21.231-001D</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001</link>
+      <description>Certificação de Organização de Projeto</description>
+      <pubDate>Fri, 07 Mar 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-03-07T15:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Certificação de Organização de Projeto</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>IS 00-010B</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010</link>
       <description>Treinamento de Gerenciamento de Recursos de Equipes (Corporate Resource Management - CRM)</description>
-      <pubDate>Fri, 07 Mar 2025 14:04:00 GMT</pubDate>
+      <pubDate>Fri, 07 Mar 2025 14:22:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-03-07T14:04:00.000Z</dc:date>
+      <dc:date>2025-03-07T14:22:00.000Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
@@ -1295,91 +1380,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Altera a Instrução Normativa nº 188, de 27 de março de 2023</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 117-001B</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001</link>
-      <description>Conceitos básicos sobre fadiga humana</description>
-      <pubDate>Tue, 15 Oct 2024 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2024-10-15T10:34:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Conceitos básicos sobre fadiga humana</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 108-001I</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001</link>
-      <description>Segurança da aviação contra atos de interferência ilícita – operador aéreo</description>
-      <pubDate>Tue, 30 Jan 2024 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2024-01-30T16:57:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Segurança da aviação contra atos de interferência ilícita – operador aéreo</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 21.231-001D</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001</link>
-      <description>Certificação de Organização de Projeto</description>
-      <pubDate>Tue, 30 Jan 2024 11:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2024-01-30T11:39:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Certificação de Organização de Projeto</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 21-004H</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</link>
-      <description>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</description>
-      <pubDate>Mon, 11 Sep 2023 15:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2023-09-11T15:48:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 20-001C</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001</link>
-      <description>Classificação de alterações em aeronaves e processo de aprovação simplificada de dados técnicos para grandes alterações</description>
-      <pubDate>Fri, 25 Aug 2023 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2023-08-25T10:32:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Classificação de alterações em aeronaves e processo de aprovação simplificada de dados técnicos para grandes alterações</p>
         
       ]]></content:encoded>
     </item>
