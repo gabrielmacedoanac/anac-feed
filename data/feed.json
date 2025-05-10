@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c5455bdb-434d-445f-a928-e79b0e53820a",
+  "identifier": "urn:uuid:anac-feed-f73f2be8-3fb0-4670-9402-2a7d66ed899d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-10T01:04:40.904Z",
-  "dateModified": "2025-05-10T01:04:40.904Z",
+  "dateCreated": "2025-05-10T04:15:22.637Z",
+  "dateModified": "2025-05-10T04:15:22.637Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-26T20:23:36.000Z",
-    "endDate": "2025-05-10T01:04:40.899Z"
+    "endDate": "2025-05-10T04:15:22.635Z"
   },
   "distribution": [
     {
@@ -37,16 +37,25 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-10T01:04:40.899Z",
+      "datePublished": "2025-05-10T04:15:22.635Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
       "type": "legislação"
     },
     {
       "@type": "NewsArticle",
-      "name": "Dado primeiro passo para a implantação do Diário de Bordo Eletrônico em operações de carga regulares",
+      "name": "Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos",
+      "datePublished": "2025-05-09T22:07:00.000Z",
+      "description": "Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos/aena-cgh-00261.jpg/@@images/3d629ae1-1bda-4102-baf6-430688daddf7.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Diário de Bordo Eletrônico será implementado em operações de carga regulares",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares",
       "datePublished": "2025-05-09T17:08:00.000Z",
-      "description": "Contrato assinado na quarta-feira marcará o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro",
+      "description": "Contrato assinado no dia 7/5 marca o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares/whatsapp-image-2025-05-09-at-10-09-45-1.jpeg/@@images/119f4ec3-b22e-43a9-8301-38c67867e9dd.jpeg",
       "type": "notícia"
     },
@@ -509,15 +518,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/governo-federal-lanca-acoes-de-acolhimento-na-aviacao-para-pessoas-com-transtorno-do-espectro-autista",
       "datePublished": "2025-04-03T16:32:00.000Z",
       "description": "Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4",
-      "datePublished": "2025-04-03T12:08:00.000Z",
-      "description": "Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png",
       "type": "notícia"
     },
     {

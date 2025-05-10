@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c5455bdb-434d-445f-a928-e79b0e53820a</id>
-  <updated>2025-05-10T01:04:40.899Z</updated>
+  <id>urn:uuid:anac-feed-f73f2be8-3fb0-4670-9402-2a7d66ed899d</id>
+  <updated>2025-05-10T04:15:22.635Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 14/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</id>
-    <published>2025-05-10T01:04:40.899Z</published>
-    <updated>2025-05-10T01:04:40.899Z</updated>
+    <published>2025-05-10T04:15:22.635Z</published>
+    <updated>2025-05-10T04:15:22.635Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -33,7 +33,26 @@
   
   
   <entry>
-    <title type="html">Dado primeiro passo para a implantação do Diário de Bordo Eletrônico em operações de carga regulares</title>
+    <title type="html">Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos</id>
+    <published>2025-05-09T22:07:00.000Z</published>
+    <updated>2025-05-09T22:07:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas</summary>
+    <content type="html"><![CDATA[
+      <p>Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos/aena-cgh-00261.jpg/@@images/3d629ae1-1bda-4102-baf6-430688daddf7.jpeg" alt="Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Diário de Bordo Eletrônico será implementado em operações de carga regulares</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares</id>
     <published>2025-05-09T17:08:00.000Z</published>
@@ -41,10 +60,10 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Contrato assinado na quarta-feira marcará o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro</summary>
+    <summary type="html">Contrato assinado no dia 7/5 marca o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro</summary>
     <content type="html"><![CDATA[
-      <p>Contrato assinado na quarta-feira marcará o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares/whatsapp-image-2025-05-09-at-10-09-45-1.jpeg/@@images/119f4ec3-b22e-43a9-8301-38c67867e9dd.jpeg" alt="Dado primeiro passo para a implantação do Diário de Bordo Eletrônico em operações de carga regulares">
+      <p>Contrato assinado no dia 7/5 marca o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares/whatsapp-image-2025-05-09-at-10-09-45-1.jpeg/@@images/119f4ec3-b22e-43a9-8301-38c67867e9dd.jpeg" alt="Diário de Bordo Eletrônico será implementado em operações de carga regulares">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1085,25 +1104,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     <content type="html"><![CDATA[
       <p>Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4</id>
-    <published>2025-04-03T12:08:00.000Z</published>
-    <updated>2025-04-03T12:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</summary>
-    <content type="html"><![CDATA[
-      <p>Revisão altera requisitos médicos para pilotos, comissários e mecânicos de voo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/prazo-para-contribuicoes-na-revisao-do-rbac-no-67-e-prorrogado-para-11-4/linkedin.png/@@images/c6abb10d-fb66-4fc5-bc9a-ac91b6e94b57.png" alt="Prazo para contribuições na revisão do RBAC nº 67 é prorrogado para 11/4">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
