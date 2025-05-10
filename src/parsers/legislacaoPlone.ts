@@ -68,7 +68,7 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
       legislacoes.push({
         title,
         link,
-        date: date || publishedDate || "ND",
+        date: date || modifiedDate || publishedDate || "ND",
         description,
         image: null,
         type: "legislação",
