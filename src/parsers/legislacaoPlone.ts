@@ -59,6 +59,13 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
         modifiedDate = modifiedMatch ? modifiedMatch[1] : null;
       }
 
+      console.log("Título:", title);
+      console.log("Link:", link);
+      console.log("Descrição:", description);
+      console.log("Data:", date);
+      console.log("Data de Publicação:", publishedDate);
+      console.log("Data da Última Modificação:", modifiedDate);
+
       legislacoes.push({
         title,
         link,
