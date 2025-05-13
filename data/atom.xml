@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-84aabb52-cadf-4be8-a095-b48ba30581f8</id>
-  <updated>2025-05-12T20:16:04.219Z</updated>
+  <id>urn:uuid:anac-feed-d4244baf-a640-43d2-814f-b9918a06adaf</id>
+  <updated>2025-05-13T01:08:43.043Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 13/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13</id>
-    <published>2025-05-12T20:16:04.219Z</published>
-    <updated>2025-05-12T20:16:04.219Z</updated>
+    <published>2025-05-13T01:08:43.043Z</published>
+    <updated>2025-05-13T01:08:43.043Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">EDITAL Nº 14/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</id>
-    <published>2025-05-12T20:16:04.219Z</published>
-    <updated>2025-05-12T20:16:04.219Z</updated>
+    <published>2025-05-13T01:08:43.043Z</published>
+    <updated>2025-05-13T01:08:43.043Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,101 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Digital Week  - Dia 30/05 - EVENTO EXTERNO</title>
+    <link href="https://www.youtube.com/watch?v=Mrc-DnVMbeY" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=Mrc-DnVMbeY</id>
+    <published>2025-05-12T20:50:55.000Z</published>
+    <updated>2025-05-12T20:50:55.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg" alt="Digital Week  - Dia 30/05 - EVENTO EXTERNO">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Digital Week  - Dia 29/05 - EVENTO EXTERNO</title>
+    <link href="https://www.youtube.com/watch?v=aQXaMrKaNyg" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=aQXaMrKaNyg</id>
+    <published>2025-05-12T20:49:21.000Z</published>
+    <updated>2025-05-12T20:49:21.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg" alt="Digital Week  - Dia 29/05 - EVENTO EXTERNO">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Digital Week  - Dia 28/05 - EVENTO EXTERNO</title>
+    <link href="https://www.youtube.com/watch?v=crgpnzzFz9s" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=crgpnzzFz9s</id>
+    <published>2025-05-12T20:47:30.000Z</published>
+    <updated>2025-05-12T20:47:30.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg" alt="Digital Week  - Dia 28/05 - EVENTO EXTERNO">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Digital Week  - Dia 27/05 - EVENTO EXTERNO</title>
+    <link href="https://www.youtube.com/watch?v=_IhhgDfFcN0" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=_IhhgDfFcN0</id>
+    <published>2025-05-12T20:45:40.000Z</published>
+    <updated>2025-05-12T20:45:40.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg" alt="Digital Week  - Dia 27/05 - EVENTO EXTERNO">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Digital Week  - Dia 26/05 - EVENTO EXTERNO</title>
+    <link href="https://www.youtube.com/watch?v=Q4YcEPd0ZLM" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=Q4YcEPd0ZLM</id>
+    <published>2025-05-12T20:42:38.000Z</published>
+    <updated>2025-05-12T20:42:38.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i2.ytimg.com/vi/Q4YcEPd0ZLM/hqdefault.jpg" alt="Digital Week  - Dia 26/05 - EVENTO EXTERNO">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1084,29 +1179,6 @@ Processo 00058.098660/2024-32 - 22:04</p>
   
   
   <entry>
-    <title type="html">Mensagem dos ministros – Embarque Numa Boa</title>
-    <link href="https://www.youtube.com/watch?v=b7dlo9wb2N0" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=b7dlo9wb2N0</id>
-    <published>2025-04-04T18:43:47.000Z</published>
-    <updated>2025-04-04T18:43:47.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A campanha, promovida pela Anac em parceria com os Ministério da Igualdade Racial, Ministério das Mulheres, Ministério dos Direitos Humanos e da Cidadania, do Ministério do Turismo e Ministério de Portos e Aeroportos, reforça que os procedimentos de inspeção nos aeroportos devem ser justos, transparentes e livres de discriminação. 
-Nas últimas semanas publicamos um vasto material para que você conheça os seus direitos e compreenda e importância dos procedimentos de inspeção para a segurança de todos o setor aéreo.
-Com informação e compromisso, garantimos um embarque mais seguro e respeitoso para todos! Conheça os procedimentos e a campanha! https://lnkd.in/g2aM2tna</summary>
-    <content type="html"><![CDATA[
-      <p>A campanha, promovida pela Anac em parceria com os Ministério da Igualdade Racial, Ministério das Mulheres, Ministério dos Direitos Humanos e da Cidadania, do Ministério do Turismo e Ministério de Portos e Aeroportos, reforça que os procedimentos de inspeção nos aeroportos devem ser justos, transparentes e livres de discriminação. 
-Nas últimas semanas publicamos um vasto material para que você conheça os seus direitos e compreenda e importância dos procedimentos de inspeção para a segurança de todos o setor aéreo.
-Com informação e compromisso, garantimos um embarque mais seguro e respeitoso para todos! Conheça os procedimentos e a campanha! https://lnkd.in/g2aM2tna</p>
-      <img src="https://i3.ytimg.com/vi/b7dlo9wb2N0/hqdefault.jpg" alt="Mensagem dos ministros – Embarque Numa Boa">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao</id>
@@ -1160,29 +1232,6 @@ Com informação e compromisso, garantimos um embarque mais seguro e respeitoso 
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Seminário Mulheres na Aviação - Ações para Regulação Inclusiva</title>
-    <link href="https://www.youtube.com/watch?v=Z7CZHKzENOk" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=Z7CZHKzENOk</id>
-    <published>2025-04-04T08:58:27.000Z</published>
-    <updated>2025-04-04T08:58:27.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Neste seminário, serão apresentados os resultados da produção científica realizada pela UnB, intitulada “Projeto de Pesquisa Mulheres na Aviação Civil: estudos para uma regulação inclusiva no setor” que estudou as barreiras que impedem ou dificultem a participação de mulheres no mercado da aviação civil brasileira. O evento é fruto do Acordo de Cooperação Técnica, celebrado entre a Anac e os Ministérios de Portos e Aeroportos - MPor, dos Direitos Humanos e da Cidadania - MDHC, da Igualdade Racial - MIR, das Mulheres - MMulheres e do Turismo - MTur, no âmbito do programa Asas Para Todos. 
-
-Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQJQeFdyTFAonh</summary>
-    <content type="html"><![CDATA[
-      <p>Neste seminário, serão apresentados os resultados da produção científica realizada pela UnB, intitulada “Projeto de Pesquisa Mulheres na Aviação Civil: estudos para uma regulação inclusiva no setor” que estudou as barreiras que impedem ou dificultem a participação de mulheres no mercado da aviação civil brasileira. O evento é fruto do Acordo de Cooperação Técnica, celebrado entre a Anac e os Ministérios de Portos e Aeroportos - MPor, dos Direitos Humanos e da Cidadania - MDHC, da Igualdade Racial - MIR, das Mulheres - MMulheres e do Turismo - MTur, no âmbito do programa Asas Para Todos. 
-
-Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQJQeFdyTFAonh</p>
-      <img src="https://i3.ytimg.com/vi/Z7CZHKzENOk/hqdefault.jpg" alt="Seminário Mulheres na Aviação - Ações para Regulação Inclusiva">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1244,44 +1293,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
   
   
   <entry>
-    <title type="html">Semana +OM: Apresentação do Portal 145</title>
-    <link href="https://www.youtube.com/watch?v=plwxV4XNIjg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=plwxV4XNIjg</id>
-    <published>2025-03-29T07:58:47.000Z</published>
-    <updated>2025-03-29T07:58:47.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Perguntas pelo sli.do - https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ</summary>
-    <content type="html"><![CDATA[
-      <p>Perguntas pelo sli.do - https://app.sli.do/event/w2Gp48zT79mygXn2xV9CDJ</p>
-      <img src="https://i1.ytimg.com/vi/plwxV4XNIjg/hqdefault.jpg" alt="Semana +OM: Apresentação do Portal 145">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana +OM: Jornada eAEV</title>
-    <link href="https://www.youtube.com/watch?v=vLU6daq1zzY" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=vLU6daq1zzY</id>
-    <published>2025-03-28T08:09:05.000Z</published>
-    <updated>2025-03-28T08:09:05.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-4.pptx</summary>
-    <content type="html"><![CDATA[
-      <p>Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-4.pptx</p>
-      <img src="https://i3.ytimg.com/vi/vLU6daq1zzY/hqdefault.jpg" alt="Semana +OM: Jornada eAEV">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RESOLUÇÃO Nº 769, 27/03/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769</id>
@@ -1297,25 +1308,6 @@ Link no slido para perguntas e comentários: https://app.sli.do/event/5JcxrCQkYQ
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana +OM: Fatores humanos na manutenção e bate-papo sobre Certificação e Fiscalização</title>
-    <link href="https://www.youtube.com/watch?v=ZvZ8Fj_kX8E" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=ZvZ8Fj_kX8E</id>
-    <published>2025-03-26T20:23:36.000Z</published>
-    <updated>2025-03-26T20:23:36.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-3.pptx</summary>
-    <content type="html"><![CDATA[
-      <p>Download da apresentação - https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/arquivos/semana-om/webinarios-semana-om-dia-3.pptx</p>
-      <img src="https://i3.ytimg.com/vi/ZvZ8Fj_kX8E/hqdefault.jpg" alt="Semana +OM: Fatores humanos na manutenção e bate-papo sobre Certificação e Fiscalização">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
