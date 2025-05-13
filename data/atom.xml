@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6a94f8e3-dcf5-47a6-b56f-6a2d5699bf1f</id>
-  <updated>2025-05-13T08:19:42.163Z</updated>
+  <id>urn:uuid:anac-feed-158eafec-a7f7-4c70-ac0f-0674f2c52571</id>
+  <updated>2025-05-13T12:28:52.159Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 13/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13</id>
-    <published>2025-05-13T08:19:42.163Z</published>
-    <updated>2025-05-13T08:19:42.163Z</updated>
+    <published>2025-05-13T12:28:52.159Z</published>
+    <updated>2025-05-13T12:28:52.159Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">EDITAL Nº 14/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</id>
-    <published>2025-05-13T08:19:42.163Z</published>
-    <updated>2025-05-13T08:19:42.163Z</updated>
+    <published>2025-05-13T12:28:52.159Z</published>
+    <updated>2025-05-13T12:28:52.159Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac promove encontro com ASTM International sobre normas técnicas da aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-encontro-com-astm-international-sobre-normas-tecnicas-da-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-encontro-com-astm-international-sobre-normas-tecnicas-da-aviacao-civil</id>
+    <published>2025-05-13T08:10:00.000Z</published>
+    <updated>2025-05-13T08:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência quer ampliar a participação do Brasil no desenvolvimento de normas internacionais</summary>
+    <content type="html"><![CDATA[
+      <p>Agência quer ampliar a participação do Brasil no desenvolvimento de normas internacionais</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1229,25 +1248,6 @@ Processo 00058.098660/2024-32 - 22:04</p>
     <content type="html"><![CDATA[
       <p>Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png" alt="BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Governo Federal lança ações de acolhimento na aviação para pessoas com Transtorno do Espectro Autista</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/governo-federal-lanca-acoes-de-acolhimento-na-aviacao-para-pessoas-com-transtorno-do-espectro-autista" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/governo-federal-lanca-acoes-de-acolhimento-na-aviacao-para-pessoas-com-transtorno-do-espectro-autista</id>
-    <published>2025-04-03T16:32:00.000Z</published>
-    <updated>2025-04-03T16:32:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos</summary>
-    <content type="html"><![CDATA[
-      <p>Entre as medidas, estão o lançamento de cartilha sobre inclusão de passageiros neurodivergentes e a inauguração de salas multissensoriais em aeroportos</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
