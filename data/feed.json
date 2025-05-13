@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-158eafec-a7f7-4c70-ac0f-0674f2c52571",
+  "identifier": "urn:uuid:anac-feed-f7cd78ff-4b63-4c3c-870c-164fefc25e59",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-13T12:28:52.161Z",
-  "dateModified": "2025-05-13T12:28:52.161Z",
+  "dateCreated": "2025-05-13T14:08:22.019Z",
+  "dateModified": "2025-05-13T14:08:22.019Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-02-10T00:00:00.000Z",
-    "endDate": "2025-05-13T12:28:52.159Z"
+    "startDate": "2025-03-07T14:22:00.000Z",
+    "endDate": "2025-10-03T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -35,9 +35,33 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 209, 10/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209",
+      "datePublished": "2025-10-03T00:00:00.000Z",
+      "description": "Institui a Política de Inteligência Artificial e a Estratégia de Inteligência Artificial da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 206, 10/02/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-206-10-02-2025",
+      "datePublished": "2025-10-02T00:00:00.000Z",
+      "description": "Altera a Instrução Normativa nº 188, de 27 de março de 2023",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 706, 07/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706",
+      "datePublished": "2025-07-05T00:00:00.000Z",
+      "description": "Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "EDITAL Nº 13/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13",
-      "datePublished": "2025-05-13T12:28:52.159Z",
+      "datePublished": "2025-05-13T14:08:22.017Z",
       "description": "Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025",
       "type": "legislação"
     },
@@ -45,8 +69,56 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-13T12:28:52.159Z",
+      "datePublished": "2025-05-13T14:08:22.017Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 211, 17/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-211",
+      "datePublished": "2025-05-13T14:08:22.017Z",
+      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
+      "datePublished": "2025-05-13T14:08:22.017Z",
+      "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 769, 27/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769",
+      "datePublished": "2025-05-13T14:08:22.017Z",
+      "description": "Altera a Resolução nº 739, de 21 de março de 2024",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA CONJUNTA RFB/ANAC Nº 524, 19/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-rfb-anac-524",
+      "datePublished": "2025-05-13T14:08:22.017Z",
+      "description": "Dispõe sobre a participação da Agência Nacional de Aviação Civil - Anac no Programa Brasileiro de Operador Econômico Autorizado - Programa OEA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 768, 14/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-768",
+      "datePublished": "2025-05-13T14:08:22.017Z",
+      "description": "Aprova a Emenda 36 ao RBAC nº 33",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 207, 17/02/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-207-17-02-2025",
+      "datePublished": "2025-05-13T14:08:22.017Z",
+      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
       "type": "legislação"
     },
     {
@@ -259,14 +331,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 706, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
       "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
@@ -338,6 +402,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16908",
       "datePublished": "2025-05-05T00:00:00.000Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0638 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 208, 05/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-208",
+      "datePublished": "2025-05-03T00:00:00.000Z",
+      "description": "Altera a Instrução Normativa nº 187, de 27 de março de 2023",
       "type": "legislação"
     },
     {
@@ -451,14 +523,6 @@
       "description": "Início - 0:55\nProcesso 00058.085246/2023-82 - 1:26\nProcesso 00058.098660/2024-32 - 22:04",
       "image": "https://i2.ytimg.com/vi/aVJjHlgEKNs/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 211, 17/04/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-211",
-      "datePublished": "2025-04-17T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -597,22 +661,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
-      "datePublished": "2025-03-31T00:00:00.000Z",
-      "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 769, 27/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769",
-      "datePublished": "2025-03-27T00:00:00.000Z",
-      "description": "Altera a Resolução nº 739, de 21 de março de 2024",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 20-001C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-20-001",
       "datePublished": "2025-03-21T15:26:00.000Z",
@@ -629,34 +677,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA CONJUNTA RFB/ANAC Nº 524, 19/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-rfb-anac-524",
-      "datePublished": "2025-03-19T00:00:00.000Z",
-      "description": "Dispõe sobre a participação da Agência Nacional de Aviação Civil - Anac no Programa Brasileiro de Operador Econômico Autorizado - Programa OEA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 768, 14/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-768",
-      "datePublished": "2025-03-14T00:00:00.000Z",
-      "description": "Aprova a Emenda 36 ao RBAC nº 33",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 108-001I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001",
       "datePublished": "2025-03-11T14:36:00.000Z",
       "description": "Segurança da aviação contra atos de interferência ilícita – operador aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 209, 10/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209",
-      "datePublished": "2025-03-10T00:00:00.000Z",
-      "description": "Institui a Política de Inteligência Artificial e a Estratégia de Inteligência Artificial da ANAC",
       "type": "legislação"
     },
     {
@@ -673,30 +697,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010",
       "datePublished": "2025-03-07T14:22:00.000Z",
       "description": "Treinamento de Gerenciamento de Recursos de Equipes (Corporate Resource Management - CRM)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 208, 05/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-208",
-      "datePublished": "2025-03-05T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 187, de 27 de março de 2023",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 207, 17/02/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-207-17-02-2025",
-      "datePublished": "2025-02-17T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 206, 10/02/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-206-10-02-2025",
-      "datePublished": "2025-02-10T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 188, de 27 de março de 2023",
       "type": "legislação"
     }
   ]
