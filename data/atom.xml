@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-468124c2-09e5-477c-983f-babc2b419863</id>
-  <updated>2025-05-13T16:18:10.616Z</updated>
+  <id>urn:uuid:anac-feed-54479cd4-3f2d-4301-b242-8f0824b7bc72</id>
+  <updated>2025-05-13T20:15:54.450Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 13/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13</id>
-    <published>2025-05-13T16:18:10.616Z</published>
-    <updated>2025-05-13T16:18:10.616Z</updated>
+    <published>2025-05-13T20:15:54.450Z</published>
+    <updated>2025-05-13T20:15:54.450Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -33,21 +33,21 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 14/ANAC/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14</id>
-    <published>2025-05-13T16:18:10.616Z</published>
-    <updated>2025-05-13T16:18:10.616Z</updated>
+    <title type="html">Tetos das tarifas aeroportuárias do Galeão e de Confins são reajustados</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-galeao-e-de-confins-sao-reajustados" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-galeao-e-de-confins-sao-reajustados</id>
+    <published>2025-05-13T16:44:00.000Z</published>
+    <updated>2025-05-13T16:44:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento &quot;Dia de Promoção da Aviação Inclusiva&quot;, no âmbito do Projeto Voar é para Todos do Programa Asas para Todos</summary>
+    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</summary>
     <content type="html"><![CDATA[
-      <p>Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento "Dia de Promoção da Aviação Inclusiva", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos</p>
+      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -253,6 +253,25 @@
     <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Tancredo Neves, localizado nos municípios de Confins (MG) e de Lagoa Santa (MG)</summary>
     <content type="html"><![CDATA[
       <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Tancredo Neves, localizado nos municípios de Confins (MG) e de Lagoa Santa (MG)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16947/SIA, 08/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16947" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16947</id>
+    <published>2025-05-08T00:00:00.000Z</published>
+    <updated>2025-05-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ARABIA I (9PRH)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ARABIA I (9PRH)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -491,44 +510,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16936/SAF, 07/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16936" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16936</id>
-    <published>2025-05-07T00:00:00.000Z</published>
-    <updated>2025-05-07T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Equipe de Planejamento da Contratação</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16939/CRG, 07/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16939" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16939</id>
-    <published>2025-05-07T00:00:00.000Z</published>
-    <updated>2025-05-07T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prorroga Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Prorroga Comissão de Processo Administrativo Disciplinar</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 706, 07/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706</id>
@@ -563,6 +544,44 @@ Processo00058.041142/2024-47</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16920/SIA, 06/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16920" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16920</id>
+    <published>2025-05-06T00:00:00.000Z</published>
+    <updated>2025-05-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MS0606 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MS0606 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16921/SIA, 06/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16921" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16921</id>
+    <published>2025-05-06T00:00:00.000Z</published>
+    <updated>2025-05-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD RS0093 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD RS0093 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -749,25 +768,6 @@ Processo00058.041142/2024-47</p>
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MA0206 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD MA0206 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16912/SIA, 05/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16912" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16912</id>
-    <published>2025-05-05T00:00:00.000Z</published>
-    <updated>2025-05-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Exclui o Heliponto de uso privativo ao nível do solo Costa de Guadalupe (PE) no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Exclui o Heliponto de uso privativo ao nível do solo Costa de Guadalupe (PE) no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1229,25 +1229,6 @@ Processo 00058.098660/2024-32 - 22:04</p>
     <content type="html"><![CDATA[
       <p>O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg" alt="Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026</id>
-    <published>2025-04-04T13:37:00.000Z</published>
-    <updated>2025-04-04T13:37:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos</summary>
-    <content type="html"><![CDATA[
-      <p>Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png" alt="BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

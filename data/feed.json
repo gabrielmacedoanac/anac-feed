@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-468124c2-09e5-477c-983f-babc2b419863",
+  "identifier": "urn:uuid:anac-feed-54479cd4-3f2d-4301-b242-8f0824b7bc72",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-13T16:18:10.618Z",
-  "dateModified": "2025-05-13T16:18:10.618Z",
+  "dateCreated": "2025-05-13T20:15:54.453Z",
+  "dateModified": "2025-05-13T20:15:54.453Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-10T00:00:00.000Z",
-    "endDate": "2025-05-13T16:18:10.616Z"
+    "endDate": "2025-05-13T20:15:54.450Z"
   },
   "distribution": [
     {
@@ -37,17 +37,17 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 13/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13",
-      "datePublished": "2025-05-13T16:18:10.616Z",
+      "datePublished": "2025-05-13T20:15:54.450Z",
       "description": "Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025",
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 14/ANAC/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-13T16:18:10.616Z",
-      "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
-      "type": "legislação"
+      "@type": "NewsArticle",
+      "name": "Tetos das tarifas aeroportuárias do Galeão e de Confins são reajustados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-galeao-e-de-confins-sao-reajustados",
+      "datePublished": "2025-05-13T16:44:00.000Z",
+      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -143,6 +143,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16952",
       "datePublished": "2025-05-09T00:00:00.000Z",
       "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Tancredo Neves, localizado nos municípios de Confins (MG) e de Lagoa Santa (MG)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16947/SIA, 08/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16947",
+      "datePublished": "2025-05-08T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ARABIA I (9PRH)",
       "type": "legislação"
     },
     {
@@ -252,22 +260,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16936/SAF, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16936",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16939/CRG, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16939",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 706, 07/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706",
       "datePublished": "2025-05-07T00:00:00.000Z",
@@ -282,6 +274,22 @@
       "description": "Link para perguntas no slido: https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU",
       "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16920/SIA, 06/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16920",
+      "datePublished": "2025-05-06T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0606 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16921/SIA, 06/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16921",
+      "datePublished": "2025-05-06T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD RS0093 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -362,14 +370,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16906",
       "datePublished": "2025-05-05T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MA0206 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16912/SIA, 05/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16912",
-      "datePublished": "2025-05-05T00:00:00.000Z",
-      "description": "Exclui o Heliponto de uso privativo ao nível do solo Costa de Guadalupe (PE) no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -576,15 +576,6 @@
       "datePublished": "2025-04-04T16:01:00.000Z",
       "description": "O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "BASeT convida interessados para compor subgrupos temáticos para o ciclo 2025/2026",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026",
-      "datePublished": "2025-04-04T13:37:00.000Z",
-      "description": "Quatro subgrupos debaterão estratégias e ações sobre segurança contra atos ilícitos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2025-2026/e-mail_mkt_baset_topo.png/@@images/0c37a45d-6368-4dd8-bca5-dc8998604941.png",
       "type": "notícia"
     },
     {
