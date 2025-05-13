@@ -41,12 +41,7 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
       const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
       let date: string | null = null;
       if (dateMatch) {
-        const dateParts = dateMatch[1].split("/");
-        const day = parseInt(dateParts[0], 10);
-        const month = parseInt(dateParts[1], 10) - 1; // Mês é 0-indexado
-        const year = parseInt(dateParts[2], 10);
-        const dateObj = new Date(year, month, day);
-        date = !isNaN(dateObj.getTime()) ? dateParts[0] + "/" + dateParts[1] + "/" + dateParts[2] : null;
+        date = dateMatch[1]; // Mantém a data no formato DD/MM/AAAA
       }
 
       let publishedDate: string | null = null;
