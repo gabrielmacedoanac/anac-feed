@@ -1,15 +1,18 @@
+   
 import { ContentItem } from "../types.ts";
+import { parseCustomDate } from "../utils.ts"; // Importe a função parseCustomDate
 import { CONFIG } from "../config.ts";
-
+    
 export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
   try {
-    // Executa o comando curl para capturar o HTML da página
+    // ... (código para buscar o HTML da página)
     const process = Deno.run({
       cmd: [
         "curl",
         "-s",
         "-k",
-        "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "-H",
+        "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
         CONFIG.legislacaoPloneUrl,
       ],
       stdout: "piped",
@@ -37,10 +40,12 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
 
       // Extrai a data do título
       const dateMatch = title.match(/(\d{2}\/\d{2}\/\d{4})/);
-      const date = dateMatch ? dateMatch[1].split("/").reverse().join("-") : null;
+      const dateString = dateMatch ? dateMatch[1] : null;
+      const dateInfo = dateString ? parseCustomDate(dateString) : null;
+      const date = dateInfo ? dateInfo.display : null;
 
-      let publishedDate = null;
-      let modifiedDate = null;
+      let publishedDate: string | null = null;
+      let modifiedDate: string | null = null;
 
       // Se a data não for encontrada no título, acessa o link para capturar as datas
       if (!date && link !== "#") {
@@ -56,13 +61,17 @@ export async function fetchLegislacaoPlone(): Promise<ContentItem[]> {
         const publishedMatch = cleanedPageHtml.match(
           /<span class="documentPublished">.*?<span>publicado<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/,
         );
-        publishedDate = publishedMatch ? publishedMatch[1] : null;
+        publishedDate = publishedMatch
+          ? parseCustomDate(publishedMatch[1]).display
+          : null;
 
         // Extrai a data da última modificação
         const modifiedMatch = cleanedPageHtml.match(
           /<span class="documentModified">.*?<span>última modificação<\/span>\s*(\d{2}\/\d{2}\/\d{4}\s*\d{2}h\d{2})/,
         );
-        modifiedDate = modifiedMatch ? modifiedMatch[1] : null;
+        modifiedDate = modifiedMatch
+          ? parseCustomDate(modifiedMatch[1]).display
+          : null;
       }
 
       legislacoes.push({
