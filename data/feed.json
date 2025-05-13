@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f7cd78ff-4b63-4c3c-870c-164fefc25e59",
+  "identifier": "urn:uuid:anac-feed-b0001d25-c6a0-45dd-b7f3-4be707a0c53b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-13T14:08:22.019Z",
-  "dateModified": "2025-05-13T14:08:22.019Z",
+  "dateCreated": "2025-05-13T14:15:10.083Z",
+  "dateModified": "2025-05-13T14:15:10.083Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 13/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025",
       "type": "legislação"
     },
@@ -69,7 +69,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 14/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-14",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Seleção pública por meio de sorteio de pessoas com deficiência para participação no evento \"Dia de Promoção da Aviação Inclusiva\", no âmbito do Projeto Voar é para Todos do Programa Asas para Todos",
       "type": "legislação"
     },
@@ -77,7 +77,7 @@
       "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 211, 17/04/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-211",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
       "type": "legislação"
     },
@@ -85,7 +85,7 @@
       "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
       "type": "legislação"
     },
@@ -93,7 +93,7 @@
       "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 769, 27/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Altera a Resolução nº 739, de 21 de março de 2024",
       "type": "legislação"
     },
@@ -101,7 +101,7 @@
       "@type": "Legislation",
       "name": "PORTARIA CONJUNTA RFB/ANAC Nº 524, 19/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-rfb-anac-524",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Dispõe sobre a participação da Agência Nacional de Aviação Civil - Anac no Programa Brasileiro de Operador Econômico Autorizado - Programa OEA",
       "type": "legislação"
     },
@@ -109,7 +109,7 @@
       "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 768, 14/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-768",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Aprova a Emenda 36 ao RBAC nº 33",
       "type": "legislação"
     },
@@ -117,7 +117,7 @@
       "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 207, 17/02/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-207-17-02-2025",
-      "datePublished": "2025-05-13T14:08:22.017Z",
+      "datePublished": "2025-05-13T14:15:10.080Z",
       "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
       "type": "legislação"
     },
