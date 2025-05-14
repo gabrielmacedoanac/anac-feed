@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-54479cd4-3f2d-4301-b242-8f0824b7bc72",
+  "identifier": "urn:uuid:anac-feed-e933b8af-8dc5-41dc-ab16-dbf66bdcaa86",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-13T20:15:54.453Z",
-  "dateModified": "2025-05-13T20:15:54.453Z",
+  "dateCreated": "2025-05-14T01:07:18.155Z",
+  "dateModified": "2025-05-14T01:07:18.155Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-10T00:00:00.000Z",
-    "endDate": "2025-05-13T20:15:54.450Z"
+    "endDate": "2025-05-14T01:07:18.153Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 13/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13",
-      "datePublished": "2025-05-13T20:15:54.450Z",
+      "datePublished": "2025-05-14T01:07:18.153Z",
       "description": "Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Digital Week 2025 – 27/05, das 14h às 18h",
+      "url": "https://www.youtube.com/watch?v=N757SyNl7sY",
+      "datePublished": "2025-05-13T20:16:24.000Z",
+      "description": "",
+      "image": "https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
@@ -442,15 +451,6 @@
       "description": "Movimentação doméstica e internacional apresentam recorde para o período",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-10-2-milhoes-de-passageiros-setor-aereo-tem-melhor-mes-de-marco-desde-2000/card-6-1.png/@@images/bcd089a4-f603-4af6-972e-26262cdc3400.png",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "6ª Reunião Deliberativa da Diretoria Colegiada (22/04/2025)",
-      "url": "https://www.youtube.com/watch?v=aVJjHlgEKNs",
-      "datePublished": "2025-04-23T06:50:52.000Z",
-      "description": "Início - 0:55\nProcesso 00058.085246/2023-82 - 1:26\nProcesso 00058.098660/2024-32 - 22:04",
-      "image": "https://i2.ytimg.com/vi/aVJjHlgEKNs/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "Legislation",
