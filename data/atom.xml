@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ca8b8dc3-974e-4668-9146-135256fda8f7</id>
-  <updated>2025-05-14T12:15:00.000Z</updated>
+  <id>urn:uuid:anac-feed-343be262-bc03-4449-af6e-9e9fd0ff0a8b</id>
+  <updated>2025-05-14T16:48:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo</id>
+    <published>2025-05-14T16:48:00.000Z</published>
+    <updated>2025-05-14T16:48:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento ocorre no dia 30/5, entre as 14h e 16h, e poderá ser acessado diretamente pelo canal de Youtube da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Evento ocorre no dia 30/5, entre as 14h e 16h, e poderá ser acessado diretamente pelo canal de Youtube da Agência</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo/portal-1.png/@@images/c9dcbef4-c477-4fae-94cf-1ef8cf61c6cb.png" alt="Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Participe da semana de encontros para profissionais da manutenção aeronáutica</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/participe-da-semana-de-encontros-para-profissionais-da-manutencao-aeronautica" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/participe-da-semana-de-encontros-para-profissionais-da-manutencao-aeronautica</id>
+    <published>2025-05-14T16:03:00.000Z</published>
+    <updated>2025-05-14T16:03:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Semana do MMA acontecerá entre 19 e 23/5, online, com transmissão ao vivo</summary>
+    <content type="html"><![CDATA[
+      <p>Semana do MMA acontecerá entre 19 e 23/5, online, com transmissão ao vivo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -356,17 +394,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16953/SRA, 09/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16953" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16953</id>
-    <published>2025-05-09T00:00:00.000Z</published>
-    <updated>2025-05-09T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 16948/SIA, 08/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16948" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16948</id>
+    <published>2025-05-08T00:00:00.000Z</published>
+    <updated>2025-05-08T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional do Rio de Janeiro/Galeão – Antônio Carlos Jobim, localizado no município do Rio de Janeiro (RJ)</summary>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0253 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional do Rio de Janeiro/Galeão – Antônio Carlos Jobim, localizado no município do Rio de Janeiro (RJ)</p>
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0253 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -375,17 +413,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16952/SRA, 09/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16952" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16952</id>
-    <published>2025-05-09T00:00:00.000Z</published>
-    <updated>2025-05-09T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 16945/SIA, 08/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16945" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16945</id>
+    <published>2025-05-08T00:00:00.000Z</published>
+    <updated>2025-05-08T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Tancredo Neves, localizado nos municípios de Confins (MG) e de Lagoa Santa (MG)</summary>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0070 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Tancredo Neves, localizado nos municípios de Confins (MG) e de Lagoa Santa (MG)</p>
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0070 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -605,6 +643,63 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 16942/SIA, 07/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16942" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16942</id>
+    <published>2025-05-07T00:00:00.000Z</published>
+    <updated>2025-05-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0065 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0065 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16938/SIA, 07/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16938" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16938</id>
+    <published>2025-05-07T00:00:00.000Z</published>
+    <updated>2025-05-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Atualiza e altera a inscrição do Aeródromo de uso privativo CIAD SP0347 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Atualiza e altera a inscrição do Aeródromo de uso privativo CIAD SP0347 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16937/SIA, 07/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16937" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16937</id>
+    <published>2025-05-07T00:00:00.000Z</published>
+    <updated>2025-05-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0526 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0526 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 16934/SIA, 07/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16934" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16934</id>
@@ -749,25 +844,6 @@ Processo00058.041142/2024-47</p>
     <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1492 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1492 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16917/SIA, 06/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16917" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16917</id>
-    <published>2025-05-06T00:00:00.000Z</published>
-    <updated>2025-05-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0398 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0398 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1175,25 +1251,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">Alterado prazo para entrada em vigor da norma que extingue as categorias de registro de aeronaves</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/alterado-prazo-para-entrada-em-vigor-da-norma-que-extingue-o-registro-de-categorias-de-aeronaves-no-rab-digital" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/alterado-prazo-para-entrada-em-vigor-da-norma-que-extingue-o-registro-de-categorias-de-aeronaves-no-rab-digital</id>
-    <published>2025-04-09T10:42:00.000Z</published>
-    <updated>2025-04-09T10:42:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026</summary>
-    <content type="html"><![CDATA[
-      <p>Prevista inicialmente para vigorar em abril de 2025, a resolução que extingue o conceito de categorias de registro de aeronaves no Brasil passará a valer a partir de 1º de janeiro de 2026</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 21-004H</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</id>
@@ -1209,25 +1266,6 @@ Processo00058.041142/2024-47</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao</id>
-    <published>2025-04-04T18:26:00.000Z</published>
-    <updated>2025-04-04T18:26:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento apresentou resultados de pesquisa sobre barreiras à participação feminina no setor aéreo e reforçou ações do programa Asas Para Todos</summary>
-    <content type="html"><![CDATA[
-      <p>Evento apresentou resultados de pesquisa sobre barreiras à participação feminina no setor aéreo e reforçou ações do programa Asas Para Todos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png" alt="Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
