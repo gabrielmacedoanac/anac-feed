@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-495c5407-d38f-419e-9f28-6799b843eee6</id>
-  <updated>2025-05-14T12:28:01.368Z</updated>
+  <id>urn:uuid:anac-feed-ca8b8dc3-974e-4668-9146-135256fda8f7</id>
+  <updated>2025-05-14T12:15:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,21 +14,21 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 13/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13</id>
-    <published>2025-05-14T12:28:01.368Z</published>
-    <updated>2025-05-14T12:28:01.368Z</updated>
+    <title type="html">Participe do Webinário BHEST sobre gestão do risco meteorológico em helicópteros, no dia 29/5, às 16h</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h</id>
+    <published>2025-05-14T12:15:00.000Z</published>
+    <updated>2025-05-14T12:15:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025</summary>
+    <summary type="html">Evento online reunirá especialistas para discutir prevenção de riscos em operações com helicópteros e será transmitido ao vivo no YouTube</summary>
     <content type="html"><![CDATA[
-      <p>Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025</p>
-      
+      <p>Evento online reunirá especialistas para discutir prevenção de riscos em operações com helicópteros e será transmitido ao vivo no YouTube</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h/linkedin-bhest.png/@@images/56853241-8b04-4607-8b75-32f0f87744b9.png" alt="Participe do Webinário BHEST sobre gestão do risco meteorológico em helicópteros, no dia 29/5, às 16h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -185,6 +185,82 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 16963, 12/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16963" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16963</id>
+    <published>2025-05-12T00:00:00.000Z</published>
+    <updated>2025-05-12T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revisa os parâmetros de acompanhamento, indicadores e metas estratégicas da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Revisa os parâmetros de acompanhamento, indicadores e metas estratégicas da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16964/SIA, 12/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16964" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16964</id>
+    <published>2025-05-12T00:00:00.000Z</published>
+    <updated>2025-05-12T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 00) Aeroporto Bartolomeu de Gusmão, Código OACI: SBAQ; Código CIAD: SP0012, em Araraquara (SP)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 00) Aeroporto Bartolomeu de Gusmão, Código OACI: SBAQ; Código CIAD: SP0012, em Araraquara (SP)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16965/SIA, 12/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16965" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16965</id>
+    <published>2025-05-12T00:00:00.000Z</published>
+    <updated>2025-05-12T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto de Uruguaiana - Rubem Berta, Código OACI: SBUG; Código CIAD: RS0012, em Uruguaiana (RS)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto de Uruguaiana - Rubem Berta, Código OACI: SBUG; Código CIAD: RS0012, em Uruguaiana (RS)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16974/SAF, 12/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16974" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16974</id>
+    <published>2025-05-12T00:00:00.000Z</published>
+    <updated>2025-05-12T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Equipe de Planejamento da Contratação</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos</id>
@@ -238,6 +314,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16960/SAF, 09/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16960" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16960</id>
+    <published>2025-05-09T00:00:00.000Z</published>
+    <updated>2025-05-09T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16961/SAF, 09/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16961" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16961</id>
+    <published>2025-05-09T00:00:00.000Z</published>
+    <updated>2025-05-09T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Equipe de Planejamento da Contratação</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -491,17 +605,17 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16932/SIA, 07/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16932" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16932</id>
+    <title type="html">PORTARIA Nº 16934/SIA, 07/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16934" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16934</id>
     <published>2025-05-07T00:00:00.000Z</published>
     <updated>2025-05-07T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 04) do Aeroporto Internacional Cataratas, Código OACI: SBFI; Código CIAD: PR0002, em Foz do Iguaçu (PR)</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1105 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 04) do Aeroporto Internacional Cataratas, Código OACI: SBFI; Código CIAD: PR0002, em Foz do Iguaçu (PR)</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1105 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -510,17 +624,17 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">DECISÃO Nº 706, 07/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706</id>
+    <title type="html">PORTARIA Nº 16935/SIA, 07/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16935" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16935</id>
     <published>2025-05-07T00:00:00.000Z</published>
     <updated>2025-05-07T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1118 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1118 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -662,44 +776,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16922/SPL, 06/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16922" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16922</id>
-    <published>2025-05-06T00:00:00.000Z</published>
-    <updated>2025-05-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta</summary>
-    <content type="html"><![CDATA[
-      <p>Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16924/SPL, 06/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16924" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16924</id>
-    <published>2025-05-06T00:00:00.000Z</published>
-    <updated>2025-05-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publica ação administrativa de cassação de licenças e habilitações técnicas</summary>
-    <content type="html"><![CDATA[
-      <p>Publica ação administrativa de cassação de licenças e habilitações técnicas</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac lança pesquisa sobre o perfil do profissional da aviação para futura oferta de bolsas de estudo</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo</id>
@@ -776,25 +852,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16906/SIA, 05/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16906" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16906</id>
-    <published>2025-05-05T00:00:00.000Z</published>
-    <updated>2025-05-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MA0206 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MA0206 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac lança o 1º Plano de Comunicação de Segurança Operacional</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional</id>
@@ -829,25 +886,6 @@ Processo00058.041142/2024-47</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16902/SIA, 30/04/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16902" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16902</id>
-    <published>2025-04-30T00:00:00.000Z</published>
-    <updated>2025-04-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD BA0496 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD BA0496 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1042,25 +1080,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16807/SPO, 14/04/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16807" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16807</id>
-    <published>2025-04-14T00:00:00.000Z</published>
-    <updated>2025-04-14T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação de Certificado de Operador Aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação de Certificado de Operador Aéreo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 90-002A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002</id>
@@ -1206,25 +1225,6 @@ Processo00058.041142/2024-47</p>
     <content type="html"><![CDATA[
       <p>Evento apresentou resultados de pesquisa sobre barreiras à participação feminina no setor aéreo e reforçou ações do programa Asas Para Todos</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-unb-reforcam-a-importancia-da-inclusao-feminina-no-setor-aereo-durante-seminario-mulheres-na-aviacao/seminariomulheresaviacao2025-0-3.png/@@images/a152c040-b8ad-408a-aa73-ce388ef891bc.png" alt="Anac e UnB reforçam a importância da inclusão feminina no setor aéreo durante Seminário ‘’Mulheres na Aviação’’">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao</id>
-    <published>2025-04-04T16:01:00.000Z</published>
-    <updated>2025-04-04T16:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste</summary>
-    <content type="html"><![CDATA[
-      <p>O objetivo do evento foi ouvir a comunidade local e propor formas adequadas de implementar a cultura de segurança operacional na aviação civil aplicada às peculiaridades da região Nordeste</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-em-recife-trata-da-implementacao-da-cultura-de-seguranca-operacional-na-aviacao-e-apresenta-casos-reais-de-acidentes-na-regiao/whatsapp-image-2025-04-04-at-12-41-35.jpeg/@@images/5207f3e4-d5f6-447b-8ad3-c2c09f65d7f9.jpeg" alt="Semana Safety, em Recife, trata da implementação da cultura de Segurança Operacional na aviação e apresenta casos reais de acidentes na região">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
