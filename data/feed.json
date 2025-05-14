@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4becce6e-0b04-4b68-9761-50a9878a8879",
+  "identifier": "urn:uuid:anac-feed-dd20b47c-936b-4627-8bdc-1903378bca4f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-14T04:18:49.771Z",
-  "dateModified": "2025-05-14T04:18:49.771Z",
+  "dateCreated": "2025-05-14T08:18:58.921Z",
+  "dateModified": "2025-05-14T08:18:58.921Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-10T00:00:00.000Z",
-    "endDate": "2025-05-14T04:18:49.769Z"
+    "endDate": "2025-05-14T08:18:58.919Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 13/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-13",
-      "datePublished": "2025-05-14T04:18:49.769Z",
+      "datePublished": "2025-05-14T08:18:58.919Z",
       "description": "Comunica o resultado final da seleção de servidores para participação no Programa de Capacitação em Idiomas - PCI ano 2025",
       "type": "legislação"
     },
