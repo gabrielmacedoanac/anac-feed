@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-66fa75be-ef42-4b8d-9f48-05c4f8a94537",
+  "identifier": "urn:uuid:anac-feed-44b2c50b-dd71-4a75-9eef-fe52bb0427a0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-15T16:17:40.773Z",
-  "dateModified": "2025-05-15T16:17:40.773Z",
+  "dateCreated": "2025-05-15T20:15:50.501Z",
+  "dateModified": "2025-05-15T20:15:50.501Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-06T00:00:00.000Z",
-    "endDate": "2025-05-14T16:48:00.000Z"
+    "endDate": "2025-05-15T14:26:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria",
+      "datePublished": "2025-05-15T14:26:00.000Z",
+      "description": "Avaliação destacou agenda regulatória, impacto das normas e participação social",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo",
@@ -147,34 +155,50 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16967/SPL, 12/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16967",
+      "datePublished": "2025-05-12T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16971/SPO, 12/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16971",
+      "datePublished": "2025-05-12T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa HG AVIATION LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16972/SPO, 12/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16972",
+      "datePublished": "2025-05-12T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa RTS-ROTA DO SOL TÁXI AÉREO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16968/SPO, 12/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16968",
+      "datePublished": "2025-05-12T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa COSTEIRA TÁXI AÉREO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16969/SIA, 12/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16969",
+      "datePublished": "2025-05-12T00:00:00.000Z",
+      "description": "Torna público o cancelamento do Certificado de Organização de Manutenção da HELICENTRO DO PONTAL - PONTAL HELICOPTER CLUB LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16963, 12/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16963",
       "datePublished": "2025-05-12T00:00:00.000Z",
       "description": "Revisa os parâmetros de acompanhamento, indicadores e metas estratégicas da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16964/SIA, 12/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16964",
-      "datePublished": "2025-05-12T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 00) Aeroporto Bartolomeu de Gusmão, Código OACI: SBAQ; Código CIAD: SP0012, em Araraquara (SP)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16965/SIA, 12/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16965",
-      "datePublished": "2025-05-12T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto de Uruguaiana - Rubem Berta, Código OACI: SBUG; Código CIAD: RS0012, em Uruguaiana (RS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16974/SAF, 12/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16974",
-      "datePublished": "2025-05-12T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
       "type": "legislação"
     },
     {
@@ -206,18 +230,26 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16960/SAF, 09/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16960",
+      "name": "PORTARIA Nº 16959/SIA, 09/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16959",
       "datePublished": "2025-05-09T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 78 (9PTK)",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16961/SAF, 09/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16961",
+      "name": "PORTARIA Nº 16951/SIA, 09/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16951",
       "datePublished": "2025-05-09T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0430 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16958/SIA, 09/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16958",
+      "datePublished": "2025-05-09T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade MOP-1 (9PHJ)",
       "type": "legislação"
     },
     {
@@ -234,14 +266,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16945",
       "datePublished": "2025-05-08T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0070 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16947/SIA, 08/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16947",
-      "datePublished": "2025-05-08T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ARABIA I (9PRH)",
       "type": "legislação"
     },
     {
@@ -351,22 +375,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16934/SIA, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16934",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1105 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16935/SIA, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16935",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1118 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 706, 07/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706",
       "datePublished": "2025-05-07T00:00:00.000Z",
@@ -406,6 +414,14 @@
       "datePublished": "2025-05-05T15:53:00.000Z",
       "description": "Classificação coloca agência no segundo melhor grupo de avaliação do Idecor",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16915/SPO, 05/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16915",
+      "datePublished": "2025-05-05T00:00:00.000Z",
+      "description": "Torna público o cancelamento do Certificado de Organização de Manutenção da HELICENTRO DO PONTAL - PONTAL HELICOPTER CLUB LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -543,15 +559,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/premio-acessibilidade-e-inovacao-2025-tera-sete-concorrentes",
       "datePublished": "2025-04-10T17:05:00.000Z",
       "description": "Despacho homologou a participação de operadores aéreo e de aeroportos nacionais",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Reunião entre Anac e TSA avalia níveis de segurança da aviação civil em aeroportos brasileiros",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros",
-      "datePublished": "2025-04-09T16:59:00.000Z",
-      "description": "Encontro também tratou da proteção contra ataques cibernéticos e de resultados de visitas anteriores a terminais brasileiros",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/reuniao-entre-anac-etsaavalia-niveis-de-seguranca-da-aviacao-civil-em-aeroportos-brasileiros/img_4576.jpg/@@images/11b09080-25eb-46e6-95ed-83129c989000.jpeg",
       "type": "notícia"
     },
     {
