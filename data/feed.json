@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-cddbd7bb-56c4-440b-aea1-badf2ac070b7",
+  "identifier": "urn:uuid:anac-feed-a749e894-35e1-44ab-8776-47739079886b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-16T12:28:07.728Z",
-  "dateModified": "2025-05-16T12:28:07.728Z",
+  "dateCreated": "2025-05-16T16:17:11.375Z",
+  "dateModified": "2025-05-16T16:17:11.375Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -66,6 +66,22 @@
       "description": "Evento online reunirá especialistas para discutir prevenção de riscos em operações com helicópteros e será transmitido ao vivo no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h/linkedin-bhest.png/@@images/56853241-8b04-4607-8b75-32f0f87744b9.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16981/SPL, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16981",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16982/SPO, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16982",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Torna pública a suspenção do certificado de operador aéreo da ALPHAJETS TÁXI AÉREO LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -191,14 +207,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16969",
       "datePublished": "2025-05-12T00:00:00.000Z",
       "description": "Torna público o cancelamento do Certificado de Organização de Manutenção da HELICENTRO DO PONTAL - PONTAL HELICOPTER CLUB LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16963, 12/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16963",
-      "datePublished": "2025-05-12T00:00:00.000Z",
-      "description": "Revisa os parâmetros de acompanhamento, indicadores e metas estratégicas da ANAC",
       "type": "legislação"
     },
     {
@@ -363,14 +371,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16938",
       "datePublished": "2025-05-07T00:00:00.000Z",
       "description": "Atualiza e altera a inscrição do Aeródromo de uso privativo CIAD SP0347 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16937/SIA, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16937",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0526 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
