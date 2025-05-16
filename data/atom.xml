@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a749e894-35e1-44ab-8776-47739079886b</id>
-  <updated>2025-05-15T14:26:00.000Z</updated>
+  <id>urn:uuid:anac-feed-543ca25f-35d0-41d8-a508-00f73f6cd8eb</id>
+  <updated>2025-05-16T17:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac participa de atividades educacionais para jovens em São José dos Campos (SP)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp</id>
+    <published>2025-05-16T17:01:00.000Z</published>
+    <updated>2025-05-16T17:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio</summary>
+    <content type="html"><![CDATA[
+      <p>Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp/20250513_104747.jpg/@@images/4f0b0ceb-0796-41b8-b5d2-5ce7812d3034.jpeg" alt="Anac participa de atividades educacionais para jovens em São José dos Campos (SP)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1167,25 +1186,6 @@ Processo00058.041142/2024-47</p>
     <summary type="html">Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves</summary>
     <content type="html"><![CDATA[
       <p>Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Prêmio Acessibilidade e Inovação 2025 terá sete concorrentes</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/premio-acessibilidade-e-inovacao-2025-tera-sete-concorrentes" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/premio-acessibilidade-e-inovacao-2025-tera-sete-concorrentes</id>
-    <published>2025-04-10T17:05:00.000Z</published>
-    <updated>2025-04-10T17:05:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Despacho homologou a participação de operadores aéreo e de aeroportos nacionais</summary>
-    <content type="html"><![CDATA[
-      <p>Despacho homologou a participação de operadores aéreo e de aeroportos nacionais</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

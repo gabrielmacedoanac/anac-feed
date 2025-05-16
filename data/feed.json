@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a749e894-35e1-44ab-8776-47739079886b",
+  "identifier": "urn:uuid:anac-feed-543ca25f-35d0-41d8-a508-00f73f6cd8eb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-16T16:17:11.375Z",
-  "dateModified": "2025-05-16T16:17:11.375Z",
+  "dateCreated": "2025-05-16T20:15:19.088Z",
+  "dateModified": "2025-05-16T20:15:19.088Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-06T00:00:00.000Z",
-    "endDate": "2025-05-15T14:26:00.000Z"
+    "endDate": "2025-05-16T17:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac participa de atividades educacionais para jovens em São José dos Campos (SP)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp",
+      "datePublished": "2025-05-16T17:01:00.000Z",
+      "description": "Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp/20250513_104747.jpg/@@images/4f0b0ceb-0796-41b8-b5d2-5ce7812d3034.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória",
@@ -551,14 +560,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-alerta-operacional-sobre-equipamentos-portateis-com-conexao-via-satelite",
       "datePublished": "2025-04-11T13:53:00.000Z",
       "description": "Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Prêmio Acessibilidade e Inovação 2025 terá sete concorrentes",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/premio-acessibilidade-e-inovacao-2025-tera-sete-concorrentes",
-      "datePublished": "2025-04-10T17:05:00.000Z",
-      "description": "Despacho homologou a participação de operadores aéreo e de aeroportos nacionais",
       "type": "notícia"
     },
     {
