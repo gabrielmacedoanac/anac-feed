@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-543ca25f-35d0-41d8-a508-00f73f6cd8eb",
+  "identifier": "urn:uuid:anac-feed-0c955ded-9b61-4b95-8a69-ff8a09db48ac",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-16T20:15:19.088Z",
-  "dateModified": "2025-05-16T20:15:19.088Z",
+  "dateCreated": "2025-05-17T01:06:44.861Z",
+  "dateModified": "2025-05-17T01:06:44.861Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-06T00:00:00.000Z",
-    "endDate": "2025-05-16T17:01:00.000Z"
+    "endDate": "2025-05-16T19:30:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,40 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Pousos e decolagens da aviação geral em Congonhas terão novas regras",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pousos-e-decolagens-da-aviacao-geral-em-congonhas-terao-novas-regras",
+      "datePublished": "2025-05-16T19:30:00.000Z",
+      "description": "Mudanças serão implementadas após estruturação realizada por Anac, Decea e concessionária. Objetivo é aprimorar a utilização da infraestrutura do aeroporto.",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo",
+      "datePublished": "2025-05-16T17:56:00.000Z",
+      "description": "Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo/img_9899-1-2.png/@@images/fc289ab8-6eb4-4d4e-9cd3-eb385b22a05c.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Alitalia: passageiros ainda podem solicitar reembolso de bilhetes e vouchers não utilizados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados",
+      "datePublished": "2025-05-16T17:30:00.000Z",
+      "description": "Empresa encerrou atividades outubro de 2021 e criou canal para orientar passageiros afetados",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados/linkedin.png/@@images/38554d5b-834f-48d6-a715-c0dcb56faf61.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Digital Week: inscrições abertas para o evento de transformação digital da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac",
+      "datePublished": "2025-05-16T17:15:00.000Z",
+      "description": "Agência reúne especialistas para abordar como a inteligência artificial impacta em inovação e eficiência na aviação civil",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac participa de atividades educacionais para jovens em São José dos Campos (SP)",
@@ -520,47 +554,12 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Programa Asas para Todos leva 227 jovens para conhecer aeroportos pelo Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil",
-      "datePublished": "2025-04-15T10:26:00.000Z",
-      "description": "Ação incentiva o interesse de jovens de baixa renda para as carreiras da aviação civil por meio de visitas a aeroportos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-leva-227-jovens-para-conhecer-aeroportos-pelo-brasil/visita-congonhas-1.jpg/@@images/249f9614-c9a6-43c7-84de-f44d15b7924b.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Cuiabá (MT) receberá a próxima etapa da Semana Safety, nos dias 13 a 15/5",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5",
-      "datePublished": "2025-04-14T14:19:00.000Z",
-      "description": "Anac abre a oportunidade para regulados sugerirem temas a serem abordados durante o evento, que destacará as particularidades da segurança operacional na região centro-oeste do país",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cuiaba-mt-recebera-a-proxima-etapa-da-semana-safety-nos-dias-13-a-15-5/copy_of_Safety___LINKEDIN___.png/@@images/33afd709-ac0a-48e0-8f26-3271bce40045.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "IS 90-002A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002",
       "datePublished": "2025-04-11T18:04:00.000Z",
       "description": "Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac firma termos de admissão para desenvolver projetos e regulação para vertiportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos",
-      "datePublished": "2025-04-11T17:29:00.000Z",
-      "description": "Empresas irão desenvolver e testar estruturas, ajudando a Agência a definir regras para o segmento de eVTOL",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-termos-de-admissao-para-desenvolver-projetos-e-regulacao-para-vertiportos/20250411_112108-1.jpg/@@images/567587a4-bad8-4831-bfc3-b25ef4a72602.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac emite alerta operacional  sobre equipamentos portáteis com conexão via satélite",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-alerta-operacional-sobre-equipamentos-portateis-com-conexao-via-satelite",
-      "datePublished": "2025-04-11T13:53:00.000Z",
-      "description": "Aviso traz orientações sobre os equipamentos de navegação e seu uso em aeronaves",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
