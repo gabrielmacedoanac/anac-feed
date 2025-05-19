@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ed078302-46ee-4283-bf90-2b02fff13cc1",
+  "identifier": "urn:uuid:anac-feed-c2221395-9da1-4b45-83b8-4ca83ccb8f9e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-19T12:28:50.473Z",
-  "dateModified": "2025-05-19T12:28:50.473Z",
+  "dateCreated": "2025-05-19T16:17:38.162Z",
+  "dateModified": "2025-05-19T16:17:38.162Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-02-06T00:00:00.000Z",
+    "startDate": "2025-02-10T00:00:00.000Z",
     "endDate": "2025-05-16T19:30:00.000Z"
   },
   "distribution": [
@@ -85,6 +85,46 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16998/ASTEC, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16998",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Define os procedimentos para concessão de vista de documento ou processo administrativo com informações sigilosas no âmbito da Agência Nacional de Aviação Civil - ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 709, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 708, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 709, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 708, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo",
@@ -112,6 +152,30 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16984/SAF, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16984",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16988/SIA, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16988",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Revoga a Portaria nº 998/GC5, de 30 de dezembro de 2002",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16989/SIA, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16989",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Revoga a Portaria nº 1.234/GC5, de 27 de outubro de 2005",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16981/SPL, 14/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16981",
       "datePublished": "2025-05-14T00:00:00.000Z",
@@ -124,14 +188,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16982",
       "datePublished": "2025-05-14T00:00:00.000Z",
       "description": "Torna pública a suspenção do certificado de operador aéreo da ALPHAJETS TÁXI AÉREO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 707, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Revisa o Fluxo de Caixa Marginal aprovado pela Decisão nº 698, de 14 de janeiro de 2025, do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
       "type": "legislação"
     },
     {
@@ -304,22 +360,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16948/SIA, 08/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16948",
-      "datePublished": "2025-05-08T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0253 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16945/SIA, 08/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16945",
-      "datePublished": "2025-05-08T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0070 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Consulta setorial sobre certificação de laboratórios de inflamabilidade",
       "url": "https://www.youtube.com/watch?v=IKV_zGVVsNU",
@@ -399,22 +439,6 @@
       "description": "Processo 00058.085388/2023-40\nProcesso00058.041142/2024-47",
       "image": "https://i1.ytimg.com/vi/DX2A7mifn9M/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16942/SIA, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16942",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0065 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16938/SIA, 07/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16938",
-      "datePublished": "2025-05-07T00:00:00.000Z",
-      "description": "Atualiza e altera a inscrição do Aeródromo de uso privativo CIAD SP0347 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -635,14 +659,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 21.231-001D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-231-001",
-      "datePublished": "2025-03-07T15:00:00.000Z",
-      "description": "Certificação de Organização de Projeto",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 00-010B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010",
       "datePublished": "2025-03-07T14:22:00.000Z",
@@ -687,22 +703,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16354",
       "datePublished": "2025-02-10T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD RS0222 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 206, 10/02/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-206-10-02-2025",
-      "datePublished": "2025-02-10T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 188, de 27 de março de 2023",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16336/SIA, 06/02/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16336",
-      "datePublished": "2025-02-06T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1106 no cadastro de aeródromos",
       "type": "legislação"
     }
   ]
