@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c2221395-9da1-4b45-83b8-4ca83ccb8f9e</id>
-  <updated>2025-05-16T19:30:00.000Z</updated>
+  <id>urn:uuid:anac-feed-9cbd7ec8-cfa3-4da2-b8b4-0a0a42665913</id>
+  <updated>2025-05-19T20:09:55.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana MMA - Carreira para MMA de aeronaves de asa fixa</title>
+    <link href="https://www.youtube.com/watch?v=9NlpEhaSVv4" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=9NlpEhaSVv4</id>
+    <published>2025-05-19T20:09:55.000Z</published>
+    <updated>2025-05-19T20:09:55.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link Slido: https://app.sli.do/event/kZjLp9rhRMvkX2DLiqX1gd</summary>
+    <content type="html"><![CDATA[
+      <p>Link Slido: https://app.sli.do/event/kZjLp9rhRMvkX2DLiqX1gd</p>
+      <img src="https://i2.ytimg.com/vi/9NlpEhaSVv4/hqdefault.jpg" alt="Semana MMA - Carreira para MMA de aeronaves de asa fixa">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -843,25 +862,6 @@
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</p>
       <img src="https://i4.ytimg.com/vi/_9gw_ysGyHg/hqdefault.jpg" alt="Semana MMA - Carreira para MMA de aeronaves de asa rotativa">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana MMA - Carreira para MMA de aeronaves de asa fixa</title>
-    <link href="https://www.youtube.com/watch?v=9NlpEhaSVv4" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=9NlpEhaSVv4</id>
-    <published>2025-05-07T21:49:53.000Z</published>
-    <updated>2025-05-07T21:49:53.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link Slido: https://app.sli.do/event/kZjLp9rhRMvkX2DLiqX1gd</summary>
-    <content type="html"><![CDATA[
-      <p>Link Slido: https://app.sli.do/event/kZjLp9rhRMvkX2DLiqX1gd</p>
-      <img src="https://i2.ytimg.com/vi/9NlpEhaSVv4/hqdefault.jpg" alt="Semana MMA - Carreira para MMA de aeronaves de asa fixa">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
