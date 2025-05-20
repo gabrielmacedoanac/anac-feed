@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1d38ff0e-bcca-4bca-86c1-c083cc92df1b",
+  "identifier": "urn:uuid:anac-feed-3223c84b-67e4-4f9f-adc3-dd6344b76bcf",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-20T16:17:28.795Z",
-  "dateModified": "2025-05-20T16:17:28.795Z",
+  "dateCreated": "2025-05-20T20:15:48.642Z",
+  "dateModified": "2025-05-20T20:15:48.642Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-17T00:00:00.000Z",
-    "endDate": "2025-05-19T20:09:55.000Z"
+    "endDate": "2025-05-20T20:12:50.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Semana MMA - Carreira para MMA de helicópteros",
+      "url": "https://www.youtube.com/watch?v=_9gw_ysGyHg",
+      "datePublished": "2025-05-20T20:12:50.000Z",
+      "description": "Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk",
+      "image": "https://i4.ytimg.com/vi/_9gw_ysGyHg/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Movimentação de passageiros em abril bate novo recorde",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde",
+      "datePublished": "2025-05-20T16:52:00.000Z",
+      "description": "Fluxo doméstico alcançou 7,9 milhões de passageiros, enquanto o setor internacional pela primeira vez ultrapassa 2 milhões de passageiros movimentados em abril",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA de aeronaves de asa fixa",
@@ -154,6 +172,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17001/SPL, 16/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17001",
+      "datePublished": "2025-05-16T00:00:00.000Z",
+      "description": "Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17002/SPO, 16/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17002",
       "datePublished": "2025-05-16T00:00:00.000Z",
@@ -182,14 +208,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
       "datePublished": "2025-05-15T00:00:00.000Z",
       "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 708, 15/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708",
-      "datePublished": "2025-05-15T00:00:00.000Z",
-      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
       "type": "legislação"
     },
     {
@@ -236,6 +254,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 16987/SPO, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16987",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 16984/SAF, 14/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16984",
       "datePublished": "2025-05-14T00:00:00.000Z",
@@ -256,22 +282,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16989",
       "datePublished": "2025-05-14T00:00:00.000Z",
       "description": "Revoga a Portaria nº 1.234/GC5, de 27 de outubro de 2005",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16981/SPL, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16981",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16982/SPO, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16982",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Torna pública a suspenção do certificado de operador aéreo da ALPHAJETS TÁXI AÉREO LTDA.",
       "type": "legislação"
     },
     {
@@ -306,6 +316,22 @@
       "datePublished": "2025-05-13T08:10:00.000Z",
       "description": "Agência quer ampliar a participação do Brasil no desenvolvimento de normas internacionais",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16979/SIA, 13/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16979",
+      "datePublished": "2025-05-13T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0283 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16976/SIA, 13/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16976",
+      "datePublished": "2025-05-13T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PARCEL DOS MEROS (9POF)",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -358,14 +384,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16973",
       "datePublished": "2025-05-12T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade TIDAL ACTION (9PBL)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16967/SPL, 12/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16967",
-      "datePublished": "2025-05-12T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -473,15 +491,6 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Semana MMA - Carreira para MMA de aeronaves de asa rotativa",
-      "url": "https://www.youtube.com/watch?v=_9gw_ysGyHg",
-      "datePublished": "2025-05-07T21:50:53.000Z",
-      "description": "Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk",
-      "image": "https://i4.ytimg.com/vi/_9gw_ysGyHg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
       "name": "Sorteio – Dia da Aviação Inclusiva",
       "url": "https://www.youtube.com/watch?v=CztDhJl9EGQ",
       "datePublished": "2025-05-07T21:43:20.000Z",
@@ -582,15 +591,6 @@
       "datePublished": "2025-04-28T08:02:00.000Z",
       "description": "Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato",
-      "datePublished": "2025-04-25T18:20:00.000Z",
-      "description": "Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg",
       "type": "notícia"
     },
     {

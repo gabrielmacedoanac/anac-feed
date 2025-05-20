@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1d38ff0e-bcca-4bca-86c1-c083cc92df1b</id>
-  <updated>2025-05-19T20:09:55.000Z</updated>
+  <id>urn:uuid:anac-feed-3223c84b-67e4-4f9f-adc3-dd6344b76bcf</id>
+  <updated>2025-05-20T20:12:50.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana MMA - Carreira para MMA de helicópteros</title>
+    <link href="https://www.youtube.com/watch?v=_9gw_ysGyHg" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=_9gw_ysGyHg</id>
+    <published>2025-05-20T20:12:50.000Z</published>
+    <updated>2025-05-20T20:12:50.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</summary>
+    <content type="html"><![CDATA[
+      <p>Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</p>
+      <img src="https://i4.ytimg.com/vi/_9gw_ysGyHg/hqdefault.jpg" alt="Semana MMA - Carreira para MMA de helicópteros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Movimentação de passageiros em abril bate novo recorde</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde</id>
+    <published>2025-05-20T16:52:00.000Z</published>
+    <updated>2025-05-20T16:52:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Fluxo doméstico alcançou 7,9 milhões de passageiros, enquanto o setor internacional pela primeira vez ultrapassa 2 milhões de passageiros movimentados em abril</summary>
+    <content type="html"><![CDATA[
+      <p>Fluxo doméstico alcançou 7,9 milhões de passageiros, enquanto o setor internacional pela primeira vez ultrapassa 2 milhões de passageiros movimentados em abril</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png" alt="Movimentação de passageiros em abril bate novo recorde">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -280,6 +318,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17001/SPL, 16/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17001</id>
+    <published>2025-05-16T00:00:00.000Z</published>
+    <updated>2025-05-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17002/SPO, 16/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17002</id>
@@ -348,25 +405,6 @@
     <summary type="html">Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)</summary>
     <content type="html"><![CDATA[
       <p>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 708, 15/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708</id>
-    <published>2025-05-15T00:00:00.000Z</published>
-    <updated>2025-05-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Decisão nº 533, de 7 de junho de 2022</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Decisão nº 533, de 7 de junho de 2022</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -470,6 +508,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 16987/SPO, 14/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16987" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16987</id>
+    <published>2025-05-14T00:00:00.000Z</published>
+    <updated>2025-05-14T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a suspensão de Certificado de Organização de Manutenção</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a suspensão de Certificado de Organização de Manutenção</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 16984/SAF, 14/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16984" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16984</id>
@@ -519,44 +576,6 @@
     <summary type="html">Revoga a Portaria nº 1.234/GC5, de 27 de outubro de 2005</summary>
     <content type="html"><![CDATA[
       <p>Revoga a Portaria nº 1.234/GC5, de 27 de outubro de 2005</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16981/SPL, 14/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16981" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16981</id>
-    <published>2025-05-14T00:00:00.000Z</published>
-    <updated>2025-05-14T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16982/SPO, 14/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16982" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16982</id>
-    <published>2025-05-14T00:00:00.000Z</published>
-    <updated>2025-05-14T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a suspenção do certificado de operador aéreo da ALPHAJETS TÁXI AÉREO LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a suspenção do certificado de operador aéreo da ALPHAJETS TÁXI AÉREO LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -637,6 +656,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16979/SIA, 13/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16979" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16979</id>
+    <published>2025-05-13T00:00:00.000Z</published>
+    <updated>2025-05-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD BA0283 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD BA0283 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 16976/SIA, 13/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16976" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16976</id>
+    <published>2025-05-13T00:00:00.000Z</published>
+    <updated>2025-05-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PARCEL DOS MEROS (9POF)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PARCEL DOS MEROS (9POF)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -747,25 +804,6 @@
     <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade TIDAL ACTION (9PBL)</summary>
     <content type="html"><![CDATA[
       <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade TIDAL ACTION (9PBL)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16967/SPL, 12/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16967" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16967</id>
-    <published>2025-05-12T00:00:00.000Z</published>
-    <updated>2025-05-12T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1002,25 +1040,6 @@
   
   
   <entry>
-    <title type="html">Semana MMA - Carreira para MMA de aeronaves de asa rotativa</title>
-    <link href="https://www.youtube.com/watch?v=_9gw_ysGyHg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=_9gw_ysGyHg</id>
-    <published>2025-05-07T21:50:53.000Z</published>
-    <updated>2025-05-07T21:50:53.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</summary>
-    <content type="html"><![CDATA[
-      <p>Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</p>
-      <img src="https://i4.ytimg.com/vi/_9gw_ysGyHg/hqdefault.jpg" alt="Semana MMA - Carreira para MMA de aeronaves de asa rotativa">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Sorteio – Dia da Aviação Inclusiva</title>
     <link href="https://www.youtube.com/watch?v=CztDhJl9EGQ" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=CztDhJl9EGQ</id>
@@ -1244,25 +1263,6 @@ Processo00058.041142/2024-47</p>
     <content type="html"><![CDATA[
       <p>Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png" alt="Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato</id>
-    <published>2025-04-25T18:20:00.000Z</published>
-    <updated>2025-04-25T18:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas</summary>
-    <content type="html"><![CDATA[
-      <p>Anac suspende restrições mediante cumprimento de condicionantes que garantam a segurança das operações aéreas</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aerodromo-de-parintins-am-podera-retomar-operacoes-com-avioes-a-jato/whatsapp-image-2025-04-25-at-18-17-06.jpeg/@@images/096469f4-95c0-4af0-9714-9dfa70e55878.jpeg" alt="Aeródromo de Parintins (AM) poderá retomar operações com aviões a jato">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
