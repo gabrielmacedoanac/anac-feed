@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a5a25084-1909-47ca-ba46-4e3acaed6a85",
+  "identifier": "urn:uuid:anac-feed-51410492-cb13-41ce-984a-ba890b9a3233",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-21T12:28:03.856Z",
-  "dateModified": "2025-05-21T12:28:03.856Z",
+  "dateCreated": "2025-05-21T16:17:56.475Z",
+  "dateModified": "2025-05-21T16:17:56.475Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -52,6 +52,30 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17018/SAF, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17018",
+      "datePublished": "2025-05-20T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17021/SAF, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17021",
+      "datePublished": "2025-05-20T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17022/SAF, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17022",
+      "datePublished": "2025-05-20T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA de aeronaves de asa fixa",
       "url": "https://www.youtube.com/watch?v=9NlpEhaSVv4",
@@ -89,10 +113,50 @@
     },
     {
       "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 213, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-213",
+      "name": "PORTARIA Nº 17009/SAF, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17009",
       "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Estabelece os critérios e procedimentos para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório na ANAC",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17013/SAF, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17013",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17010/SAF, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17010",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17012/SAF, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17012",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17015/SAF, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17015",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17014/SAF, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17014",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
@@ -105,26 +169,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17007, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17007",
-      "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Aprova a revisão do Plano de Diretrizes Estratégicas da ANAC para o biênio 2024-2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 212, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-212",
-      "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Institui a Política de Governança e Gestão de Contratações da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 213, 19/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-213",
       "datePublished": "2025-05-19T00:00:00.000Z",
       "description": "Estabelece os critérios e procedimentos para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17006/SPL, 17/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17006",
+      "datePublished": "2025-05-17T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -179,36 +235,12 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17002/SPO, 16/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17002",
-      "datePublished": "2025-05-16T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 1.142, de 10 de maio de 2016",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria",
       "datePublished": "2025-05-15T14:26:00.000Z",
       "description": "Avaliação destacou agenda regulatória, impacto das normas e participação social",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16998/ASTEC, 15/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16998",
-      "datePublished": "2025-05-15T00:00:00.000Z",
-      "description": "Define os procedimentos para concessão de vista de documento ou processo administrativo com informações sigilosas no âmbito da Agência Nacional de Aviação Civil - ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 709, 15/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
-      "datePublished": "2025-05-15T00:00:00.000Z",
-      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -258,30 +290,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16987",
       "datePublished": "2025-05-14T00:00:00.000Z",
       "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16984/SAF, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16984",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16988/SIA, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16988",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 998/GC5, de 30 de dezembro de 2002",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16989/SIA, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16989",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 1.234/GC5, de 27 de outubro de 2005",
       "type": "legislação"
     },
     {
@@ -494,7 +502,7 @@
       "name": "Sorteio – Dia da Aviação Inclusiva",
       "url": "https://www.youtube.com/watch?v=CztDhJl9EGQ",
       "datePublished": "2025-05-07T21:43:20.000Z",
-      "description": "",
+      "description": "Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk",
       "image": "https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -532,14 +540,6 @@
       "description": "Link para perguntas no slido: https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU",
       "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16928/SIA, 06/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16928",
-      "datePublished": "2025-05-06T00:00:00.000Z",
-      "description": "Torna pública a aplicação de medida cautelar de restrição às operações de pouso no aeródromo público Ceará-Mirim, localizado em Ceará-Mirim (RN)",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
