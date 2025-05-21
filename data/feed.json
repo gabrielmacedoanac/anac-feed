@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-51410492-cb13-41ce-984a-ba890b9a3233",
+  "identifier": "urn:uuid:anac-feed-1a70d497-8c64-4747-a966-4afe74d979bd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-21T16:17:56.475Z",
-  "dateModified": "2025-05-21T16:17:56.475Z",
+  "dateCreated": "2025-05-21T20:15:20.378Z",
+  "dateModified": "2025-05-21T20:15:20.378Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-17T00:00:00.000Z",
-    "endDate": "2025-05-20T20:12:50.000Z"
+    "endDate": "2025-05-21T20:14:34.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo",
+      "url": "https://www.youtube.com/watch?v=3NmzEj-43cI",
+      "datePublished": "2025-05-21T20:14:34.000Z",
+      "description": "Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV",
+      "image": "https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA de helicópteros",
@@ -486,15 +495,6 @@
       "datePublished": "2025-05-07T21:53:22.000Z",
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo",
-      "url": "https://www.youtube.com/watch?v=3NmzEj-43cI",
-      "datePublished": "2025-05-07T21:51:49.000Z",
-      "description": "Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV",
-      "image": "https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg",
       "type": "vídeo"
     },
     {

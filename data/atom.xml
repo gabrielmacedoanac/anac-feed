@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-51410492-cb13-41ce-984a-ba890b9a3233</id>
-  <updated>2025-05-20T20:12:50.000Z</updated>
+  <id>urn:uuid:anac-feed-1a70d497-8c64-4747-a966-4afe74d979bd</id>
+  <updated>2025-05-21T20:14:34.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo</title>
+    <link href="https://www.youtube.com/watch?v=3NmzEj-43cI" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=3NmzEj-43cI</id>
+    <published>2025-05-21T20:14:34.000Z</published>
+    <updated>2025-05-21T20:14:34.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV</summary>
+    <content type="html"><![CDATA[
+      <p>Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV</p>
+      <img src="https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg" alt="Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1033,25 +1052,6 @@
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</p>
       <img src="https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg" alt="Semana MMA - Cultura de Segurança na Manutenção Aeronáutica">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo</title>
-    <link href="https://www.youtube.com/watch?v=3NmzEj-43cI" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=3NmzEj-43cI</id>
-    <published>2025-05-07T21:51:49.000Z</published>
-    <updated>2025-05-07T21:51:49.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV</summary>
-    <content type="html"><![CDATA[
-      <p>Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV</p>
-      <img src="https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg" alt="Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
