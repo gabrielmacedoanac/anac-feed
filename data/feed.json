@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1a8a7c53-5b4c-4ae4-bcdd-0158bfba4d14",
+  "identifier": "urn:uuid:anac-feed-1c1c54fe-2710-4e47-ad47-126545be181a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-22T16:17:43.868Z",
-  "dateModified": "2025-05-22T16:17:43.868Z",
+  "dateCreated": "2025-05-22T20:15:43.915Z",
+  "dateModified": "2025-05-22T20:15:43.915Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-02-17T00:00:00.000Z",
+    "startDate": "2024-12-18T12:43:49.000Z",
     "endDate": "2025-05-22T10:48:00.000Z"
   },
   "distribution": [
@@ -551,15 +551,6 @@
       "type": "legislação"
     },
     {
-      "@type": "VideoObject",
-      "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
-      "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
-      "datePublished": "2025-05-06T14:20:16.000Z",
-      "description": "Link para perguntas no slido: https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU",
-      "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac lança pesquisa sobre o perfil do profissional da aviação para futura oferta de bolsas de estudo",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo",
@@ -704,6 +695,15 @@
       "datePublished": "2025-02-17T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)",
+      "url": "https://www.youtube.com/watch?v=TFiMAkohtiw",
+      "datePublished": "2024-12-18T12:43:49.000Z",
+      "description": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)\n\nPauta:\nProcesso 00058.040824/2019-75: Proposta de instauração de consulta pública sobre proposta de edição do RBAC nº 100 - tema 9 da Agenda Regulatória 2025-2026",
+      "image": "https://i1.ytimg.com/vi/TFiMAkohtiw/hqdefault.jpg",
+      "type": "vídeo"
     }
   ]
 }

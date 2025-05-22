@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1a8a7c53-5b4c-4ae4-bcdd-0158bfba4d14</id>
+  <id>urn:uuid:anac-feed-1c1c54fe-2710-4e47-ad47-126545be181a</id>
   <updated>2025-05-22T10:48:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -1175,25 +1175,6 @@ Processo00058.041142/2024-47</p>
   
   
   <entry>
-    <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
-    <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
-    <published>2025-05-06T14:20:16.000Z</published>
-    <updated>2025-05-06T14:20:16.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link para perguntas no slido: https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU</summary>
-    <content type="html"><![CDATA[
-      <p>Link para perguntas no slido: https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU</p>
-      <img src="https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg" alt="Webinário BHEST: gestão do risco meteorológico em helicópteros">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac lança pesquisa sobre o perfil do profissional da aviação para futura oferta de bolsas de estudo</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo</id>
@@ -1532,6 +1513,31 @@ Processo00058.041142/2024-47</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)</title>
+    <link href="https://www.youtube.com/watch?v=TFiMAkohtiw" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=TFiMAkohtiw</id>
+    <published>2024-12-18T12:43:49.000Z</published>
+    <updated>2024-12-18T12:43:49.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)
+
+Pauta:
+Processo 00058.040824/2019-75: Proposta de instauração de consulta pública sobre proposta de edição do RBAC nº 100 - tema 9 da Agenda Regulatória 2025-2026</summary>
+    <content type="html"><![CDATA[
+      <p>8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)
+
+Pauta:
+Processo 00058.040824/2019-75: Proposta de instauração de consulta pública sobre proposta de edição do RBAC nº 100 - tema 9 da Agenda Regulatória 2025-2026</p>
+      <img src="https://i1.ytimg.com/vi/TFiMAkohtiw/hqdefault.jpg" alt="8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
 </feed>
