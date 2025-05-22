@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-24a25e95-08c9-4124-8598-bc17892f074f",
+  "identifier": "urn:uuid:anac-feed-1a8a7c53-5b4c-4ae4-bcdd-0158bfba4d14",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-22T12:28:42.019Z",
-  "dateModified": "2025-05-22T12:28:42.019Z",
+  "dateCreated": "2025-05-22T16:17:43.868Z",
+  "dateModified": "2025-05-22T16:17:43.868Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-17T00:00:00.000Z",
-    "endDate": "2025-05-22T02:31:16.000Z"
+    "endDate": "2025-05-22T10:48:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "\"Assédio Não Decola\": Anac e Mpor lançam guia para combater assédio e importunação sexual na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil",
+      "datePublished": "2025-05-22T10:48:00.000Z",
+      "description": "Iniciativa tem o objetivo de orientar e combater ações de assédio nos aeroportos e aeronaves",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil/whatsapp-image-2025-05-22-at-10-23-38.jpeg/@@images/9d944286-a07a-4d54-8dfe-598b8919afea.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Com apoio da Anac, Newton in a Box chega para estimular jovens a conhecer o mundo da aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-apoio-da-anac-newton-in-a-box-chega-ao-brasil-para-estimular-jovens-a-conhecer-o-mundo-da-aviacao",
+      "datePublished": "2025-05-22T10:02:00.000Z",
+      "description": "Brasil foi o primeiro país do Hemisfério Sul a receber o projeto com oficinas em Ciências, Tecnologia, Engenharia e Matemática",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-apoio-da-anac-newton-in-a-box-chega-ao-brasil-para-estimular-jovens-a-conhecer-o-mundo-da-aviacao/20250520_123804.jpg/@@images/f54dd618-6a07-4f83-becb-bc25ce7a026c.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Sorteio – Dia da Aviação Inclusiva",
@@ -65,7 +83,7 @@
       "name": "Movimentação de passageiros em abril bate novo recorde",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde",
       "datePublished": "2025-05-20T16:52:00.000Z",
-      "description": "Fluxo doméstico alcançou 7,9 milhões de passageiros, enquanto o setor internacional pela primeira vez ultrapassa 2 milhões de passageiros movimentados em abril",
+      "description": "Fluxo doméstico alcançou 7,9 milhões de passageiros; setor internacional pela primeira vez supera a marca de 2 milhões de passageiros em abril",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png",
       "type": "notícia"
     },
@@ -259,6 +277,14 @@
       "datePublished": "2025-05-15T14:26:00.000Z",
       "description": "Avaliação destacou agenda regulatória, impacto das normas e participação social",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16991/SPL, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16991",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronautas",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -472,14 +498,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16944/SIA, 08/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16944",
-      "datePublished": "2025-05-08T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0398 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Consulta setorial sobre certificação de laboratórios de inflamabilidade",
       "url": "https://www.youtube.com/watch?v=IKV_zGVVsNU",
@@ -573,24 +591,6 @@
       "datePublished": "2025-04-30T18:05:00.000Z",
       "description": "Documento elenca principais atividades de comunicação relacionadas ao tema safety em realização pela Agência em 2025 e planeja ações para 2026",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-o-1o-plano-de-comunicacao-de-seguranca-operacional/card-whatsapp-plano-comunic-safety.png/@@images/93c5cff1-6b28-43ad-a1eb-68bbe49f7bea.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac promove Avsec & Cyber Week em junho com foco em segurança aérea e cibersegurança",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca",
-      "datePublished": "2025-04-30T16:29:00.000Z",
-      "description": "Evento reunirá especialistas para debater inovações tecnológicas, boas práticas e cooperação internacional na aviação civil",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-avsec-cyber-week-em-junho-com-foco-em-seguranca-aerea-e-ciberseguranca/pecas-avsec-cyberweek-2025__linkedin.png/@@images/05f34692-2c80-46d3-9487-48e83052cf9a.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Cadastro de drones fica mais rápido e intuitivo com novas melhorias no Sisant",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant",
-      "datePublished": "2025-04-28T08:02:00.000Z",
-      "description": "Reformulação do sistema traz interface amigável, cadastro em lote e mais flexibilidade para empresas",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cadastro-de-drones-fica-mais-rapido-e-intuitivo-com-novas-melhorias-no-sisant/sisant___linkedin___.png/@@images/31c8114d-099c-459c-9907-2fc65fa6680f.png",
       "type": "notícia"
     },
     {
