@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1792b7f7-9030-48f1-9643-421e3d641af8</id>
-  <updated>2025-05-21T20:14:34.000Z</updated>
+  <id>urn:uuid:anac-feed-9f653d0e-b97d-46a8-92b7-56e650ebbe4f</id>
+  <updated>2025-05-22T02:31:16.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Sorteio – Dia da Aviação Inclusiva</title>
+    <link href="https://www.youtube.com/watch?v=CztDhJl9EGQ" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=CztDhJl9EGQ</id>
+    <published>2025-05-22T02:31:16.000Z</published>
+    <updated>2025-05-22T02:31:16.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk</summary>
+    <content type="html"><![CDATA[
+      <p>Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk</p>
+      <img src="https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg" alt="Sorteio – Dia da Aviação Inclusiva">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1052,25 +1071,6 @@
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</p>
       <img src="https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg" alt="Semana MMA - Cultura de Segurança na Manutenção Aeronáutica">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Sorteio – Dia da Aviação Inclusiva</title>
-    <link href="https://www.youtube.com/watch?v=CztDhJl9EGQ" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=CztDhJl9EGQ</id>
-    <published>2025-05-07T21:43:20.000Z</published>
-    <updated>2025-05-07T21:43:20.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk</summary>
-    <content type="html"><![CDATA[
-      <p>Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk</p>
-      <img src="https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg" alt="Sorteio – Dia da Aviação Inclusiva">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1792b7f7-9030-48f1-9643-421e3d641af8",
+  "identifier": "urn:uuid:anac-feed-9f653d0e-b97d-46a8-92b7-56e650ebbe4f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-22T01:08:02.336Z",
-  "dateModified": "2025-05-22T01:08:02.336Z",
+  "dateCreated": "2025-05-22T04:18:50.871Z",
+  "dateModified": "2025-05-22T04:18:50.871Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-17T00:00:00.000Z",
-    "endDate": "2025-05-21T20:14:34.000Z"
+    "endDate": "2025-05-22T02:31:16.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Sorteio – Dia da Aviação Inclusiva",
+      "url": "https://www.youtube.com/watch?v=CztDhJl9EGQ",
+      "datePublished": "2025-05-22T02:31:16.000Z",
+      "description": "Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk",
+      "image": "https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo",
@@ -495,15 +504,6 @@
       "datePublished": "2025-05-07T21:53:22.000Z",
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Sorteio – Dia da Aviação Inclusiva",
-      "url": "https://www.youtube.com/watch?v=CztDhJl9EGQ",
-      "datePublished": "2025-05-07T21:43:20.000Z",
-      "description": "Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk",
-      "image": "https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg",
       "type": "vídeo"
     },
     {
