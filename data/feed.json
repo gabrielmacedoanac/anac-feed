@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8ecad4c5-2077-493e-b139-f2d07049eea3",
+  "identifier": "urn:uuid:anac-feed-7fc6de01-5244-4a69-8ea4-c4202cac23d3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-23T04:17:27.944Z",
-  "dateModified": "2025-05-23T04:17:27.944Z",
+  "dateCreated": "2025-05-23T08:18:44.814Z",
+  "dateModified": "2025-05-23T08:18:44.814Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2024-12-18T12:43:49.000Z",
-    "endDate": "2025-05-23T03:05:28.000Z"
+    "startDate": "2025-02-17T00:00:00.000Z",
+    "endDate": "2025-05-23T06:39:33.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)",
+      "url": "https://www.youtube.com/watch?v=TFiMAkohtiw",
+      "datePublished": "2025-05-23T06:39:33.000Z",
+      "description": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)\n\nPauta:\nProcesso 00058.040824/2019-75: Proposta de instauração de consulta pública sobre proposta de edição do RBAC nº 100 - tema 9 da Agenda Regulatória 2025-2026",
+      "image": "https://i1.ytimg.com/vi/TFiMAkohtiw/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Semana MMA - Cultura de Segurança na Manutenção Aeronáutica",
@@ -695,15 +704,6 @@
       "datePublished": "2025-02-17T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
       "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)",
-      "url": "https://www.youtube.com/watch?v=TFiMAkohtiw",
-      "datePublished": "2024-12-18T12:43:49.000Z",
-      "description": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)\n\nPauta:\nProcesso 00058.040824/2019-75: Proposta de instauração de consulta pública sobre proposta de edição do RBAC nº 100 - tema 9 da Agenda Regulatória 2025-2026",
-      "image": "https://i1.ytimg.com/vi/TFiMAkohtiw/hqdefault.jpg",
-      "type": "vídeo"
     }
   ]
 }
