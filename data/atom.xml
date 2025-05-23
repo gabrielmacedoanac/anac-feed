@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0c95147e-88ba-4105-b439-f76a511ef0a6</id>
-  <updated>2025-05-22T10:48:00.000Z</updated>
+  <id>urn:uuid:anac-feed-8ecad4c5-2077-493e-b139-f2d07049eea3</id>
+  <updated>2025-05-23T03:05:28.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana MMA - Cultura de Segurança na Manutenção Aeronáutica</title>
+    <link href="https://www.youtube.com/watch?v=cqjm3nFOH_c" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=cqjm3nFOH_c</id>
+    <published>2025-05-23T03:05:28.000Z</published>
+    <updated>2025-05-23T03:05:28.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</summary>
+    <content type="html"><![CDATA[
+      <p>Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</p>
+      <img src="https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg" alt="Semana MMA - Cultura de Segurança na Manutenção Aeronáutica">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1090,25 +1109,6 @@
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg</p>
       <img src="https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg" alt="Semana MMA - Formação e Futuro do MMA">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana MMA - Cultura de Segurança na Manutenção Aeronáutica</title>
-    <link href="https://www.youtube.com/watch?v=cqjm3nFOH_c" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=cqjm3nFOH_c</id>
-    <published>2025-05-07T21:53:22.000Z</published>
-    <updated>2025-05-07T21:53:22.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</summary>
-    <content type="html"><![CDATA[
-      <p>Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</p>
-      <img src="https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg" alt="Semana MMA - Cultura de Segurança na Manutenção Aeronáutica">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

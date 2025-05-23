@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0c95147e-88ba-4105-b439-f76a511ef0a6",
+  "identifier": "urn:uuid:anac-feed-8ecad4c5-2077-493e-b139-f2d07049eea3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-23T01:07:52.661Z",
-  "dateModified": "2025-05-23T01:07:52.661Z",
+  "dateCreated": "2025-05-23T04:17:27.944Z",
+  "dateModified": "2025-05-23T04:17:27.944Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2024-12-18T12:43:49.000Z",
-    "endDate": "2025-05-22T10:48:00.000Z"
+    "endDate": "2025-05-23T03:05:28.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Semana MMA - Cultura de Segurança na Manutenção Aeronáutica",
+      "url": "https://www.youtube.com/watch?v=cqjm3nFOH_c",
+      "datePublished": "2025-05-23T03:05:28.000Z",
+      "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
+      "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "\"Assédio Não Decola\": Anac e Mpor lançam guia para combater assédio e importunação sexual na aviação civil",
@@ -513,15 +522,6 @@
       "datePublished": "2025-05-07T21:54:47.000Z",
       "description": "Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg",
       "image": "https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Semana MMA - Cultura de Segurança na Manutenção Aeronáutica",
-      "url": "https://www.youtube.com/watch?v=cqjm3nFOH_c",
-      "datePublished": "2025-05-07T21:53:22.000Z",
-      "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
-      "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
       "type": "vídeo"
     },
     {
