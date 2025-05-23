@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 23 May 2025 16:16:34 GMT</pubDate>
-    <lastBuildDate>Fri, 23 May 2025 16:16:34 GMT</lastBuildDate>
+    <pubDate>Fri, 23 May 2025 20:15:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 May 2025 20:15:31 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -137,6 +137,40 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
+      <title>PORTARIA Nº 17033/SPL, 21/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17033</link>
+      <description>Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</description>
+      <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17033</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-21T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17031/SPO, 21/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17031</link>
+      <description>Torna pública a suspensão de Certificado de Organização de Manutenção</description>
+      <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17031</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-21T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a suspensão de Certificado de Organização de Manutenção</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>Semana MMA - Carreira para MMA de helicópteros</title>
       <link>https://www.youtube.com/watch?v=_9gw_ysGyHg</link>
       <description>Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</description>
@@ -171,6 +205,40 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
+      <title>PORTARIA Nº 17023/SPO, 20/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17023</link>
+      <description>Torna pública a revogação do Certificado de Operador Aéreo Empresa  ELO TÁXI AÉREO LTDA.</description>
+      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17023</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-20T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a revogação do Certificado de Operador Aéreo Empresa  ELO TÁXI AÉREO LTDA.</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17017/SIA, 20/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17017</link>
+      <description>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)</description>
+      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17017</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-20T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17026/SIA, 20/05/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17026</link>
       <description>Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Orlando Bezerra de Menezes, Código OACI: SBJU; Código CIAD: CE0002, em Juazeiro do Norte (CE)</description>
@@ -182,57 +250,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Orlando Bezerra de Menezes, Código OACI: SBJU; Código CIAD: CE0002, em Juazeiro do Norte (CE)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17018/SAF, 20/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17018</link>
-      <description>Designa Equipe de Gestão e Fiscalização do Contrato</description>
-      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17018</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-20T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17021/SAF, 20/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17021</link>
-      <description>Designa Equipe de Gestão e Fiscalização do Contrato</description>
-      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17021</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-20T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17022/SAF, 20/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17022</link>
-      <description>Designa Equipe de Gestão e Fiscalização do Contrato</description>
-      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17022</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-20T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
         
       ]]></content:encoded>
     </item>
@@ -375,40 +392,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
-      <title>PORTARIA Nº 17015/SAF, 19/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17015</link>
-      <description>Designa Gestor de Contrato</description>
-      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17015</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-19T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Designa Gestor de Contrato</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17014/SAF, 19/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17014</link>
-      <description>Designa Equipe de Gestão e Fiscalização do Contrato</description>
-      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17014</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-19T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>INSTRUÇÃO NORMATIVA Nº 212, 19/05/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-212</link>
       <description>Institui a Política de Governança e Gestão de Contratações da ANAC</description>
@@ -437,23 +420,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Estabelece os critérios e procedimentos para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório na ANAC</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17006/SPL, 17/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17006</link>
-      <description>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</description>
-      <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17006</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-17T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
         
       ]]></content:encoded>
     </item>
@@ -545,6 +511,40 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
+      <title>PORTARIA Nº 17000/SIA, 16/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17000</link>
+      <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0641 no cadastro de aeródromos</description>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17000</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-16T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0641 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 16999/SIA, 16/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16999</link>
+      <description>Altera a inscrição do Aeródromo de uso privativo CIAD MG0510 no cadastro de aeródromos</description>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16999</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-16T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a inscrição do Aeródromo de uso privativo CIAD MG0510 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17003/SIA, 16/05/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17003</link>
       <description>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Presidente João Suassuna, Código OACI: SBKG; Código CIAD: PB0003, em Campina Grande (PB)</description>
@@ -562,23 +562,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
-      <title>PORTARIA Nº 17001/SPL, 16/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17001</link>
-      <description>Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA</description>
-      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-16T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria</link>
       <description>Avaliação destacou agenda regulatória, impacto das normas e participação social</description>
@@ -590,6 +573,57 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Avaliação destacou agenda regulatória, impacto das normas e participação social</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 16996/SIA, 15/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16996</link>
+      <description>Altera a inscrição do Aeródromo de uso privativo CIAD PB0013 no cadastro de aeródromos</description>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16996</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-15T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a inscrição do Aeródromo de uso privativo CIAD PB0013 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 16995/SIA, 15/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16995</link>
+      <description>Altera a inscrição do Aeródromo de uso privativo CIAD MT0126 no cadastro de aeródromos</description>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16995</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-15T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a inscrição do Aeródromo de uso privativo CIAD MT0126 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 16994/SIA, 15/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16994</link>
+      <description>Altera a inscrição do Aeródromo de uso privativo CIAD MT0956 no cadastro de aeródromos</description>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16994</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-15T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a inscrição do Aeródromo de uso privativo CIAD MT0956 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
@@ -749,23 +783,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
-      <title>PORTARIA Nº 16987/SPO, 14/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16987</link>
-      <description>Torna pública a suspensão de Certificado de Organização de Manutenção</description>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16987</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-14T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Torna pública a suspensão de Certificado de Organização de Manutenção</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>DECISÃO Nº 707, 14/05/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707</link>
       <description>Revisa o Fluxo de Caixa Marginal aprovado pela Decisão nº 698, de 14 de janeiro de 2025, do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)</description>
@@ -834,34 +851,17 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     
     
     <item>
-      <title>PORTARIA Nº 16979/SIA, 13/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16979</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD BA0283 no cadastro de aeródromos</description>
+      <title>PORTARIA Nº 16975/SGM, 13/05/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16975</link>
+      <description>Aprova Manuais de Procedimentos</description>
       <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16979</guid>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16975</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-05-13T00:00:00.000Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD BA0283 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 16976/SIA, 13/05/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16976</link>
-      <description>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PARCEL DOS MEROS (9POF)</description>
-      <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16976</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-13T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PARCEL DOS MEROS (9POF)</p>
+        <p>Aprova Manuais de Procedimentos</p>
         
       ]]></content:encoded>
     </item>
