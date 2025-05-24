@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-156252da-b63f-4098-b134-469554fab678",
+  "identifier": "urn:uuid:anac-feed-83d78ca9-0545-40af-9958-70bdf1590a8e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-24T04:17:55.665Z",
-  "dateModified": "2025-05-24T04:17:55.665Z",
+  "dateCreated": "2025-05-24T08:16:02.079Z",
+  "dateModified": "2025-05-24T08:16:02.079Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-02-17T00:00:00.000Z",
-    "endDate": "2025-05-23T09:12:00.000Z"
+    "endDate": "2025-05-24T07:46:09.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Semana MMA - Formação e Futuro do MMA",
+      "url": "https://www.youtube.com/watch?v=GRshpkISEuM",
+      "datePublished": "2025-05-24T07:46:09.000Z",
+      "description": "Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg",
+      "image": "https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac certifica novo modelo Gulfstream G700",
@@ -531,15 +540,6 @@
       "datePublished": "2025-05-07T21:57:18.000Z",
       "description": "Link do Slido: https://app.sli.do/event/qYvvRftqtcek3vqVUUf9BU",
       "image": "https://i2.ytimg.com/vi/IKV_zGVVsNU/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Semana MMA - Formação e Futuro do MMA",
-      "url": "https://www.youtube.com/watch?v=GRshpkISEuM",
-      "datePublished": "2025-05-07T21:54:47.000Z",
-      "description": "Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg",
-      "image": "https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg",
       "type": "vídeo"
     },
     {

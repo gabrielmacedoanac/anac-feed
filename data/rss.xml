@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Sat, 24 May 2025 04:17:55 GMT</pubDate>
-    <lastBuildDate>Sat, 24 May 2025 04:17:55 GMT</lastBuildDate>
+    <pubDate>Sat, 24 May 2025 08:16:02 GMT</pubDate>
+    <lastBuildDate>Sat, 24 May 2025 08:16:02 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Semana MMA - Formação e Futuro do MMA</title>
+      <link>https://www.youtube.com/watch?v=GRshpkISEuM</link>
+      <description>Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg</description>
+      <pubDate>Sat, 24 May 2025 07:46:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GRshpkISEuM</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-05-24T07:46:09.000Z</dc:date>
+      <enclosure url="https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg" type="image/jpeg"/>
+      <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg</p>
+        <img src="https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg" alt="Semana MMA - Formação e Futuro do MMA">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -1016,23 +1033,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
       <content:encoded><![CDATA[
         <p>Link do Slido: https://app.sli.do/event/qYvvRftqtcek3vqVUUf9BU</p>
         <img src="https://i2.ytimg.com/vi/IKV_zGVVsNU/hqdefault.jpg" alt="Consulta setorial sobre certificação de laboratórios de inflamabilidade">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Semana MMA - Formação e Futuro do MMA</title>
-      <link>https://www.youtube.com/watch?v=GRshpkISEuM</link>
-      <description>Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg</description>
-      <pubDate>Wed, 07 May 2025 21:54:47 GMT</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=GRshpkISEuM</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-05-07T21:54:47.000Z</dc:date>
-      <enclosure url="https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg" type="image/jpeg"/>
-      <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg</p>
-        <img src="https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg" alt="Semana MMA - Formação e Futuro do MMA">
       ]]></content:encoded>
     </item>
     
