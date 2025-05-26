@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-32faa980-2c82-460a-ab57-0fae4d9e92db",
+  "identifier": "urn:uuid:anac-feed-a0e62d21-4049-4935-8745-2b9be61752ad",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-26T12:27:16.487Z",
-  "dateModified": "2025-05-26T12:27:16.487Z",
+  "dateCreated": "2025-05-26T16:16:39.399Z",
+  "dateModified": "2025-05-26T16:16:39.399Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -97,6 +97,30 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17041/SPL, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17041",
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17040/SPL, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17040",
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17039/SPL, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17039",
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo",
       "url": "https://www.youtube.com/watch?v=3NmzEj-43cI",
@@ -104,6 +128,38 @@
       "description": "Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV",
       "image": "https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17038/SPL, 21/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17038",
+      "datePublished": "2025-05-21T00:00:00.000Z",
+      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17036/SPL, 21/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17036",
+      "datePublished": "2025-05-21T00:00:00.000Z",
+      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17037/SPL, 21/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17037",
+      "datePublished": "2025-05-21T00:00:00.000Z",
+      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17035/SPL, 21/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17035",
+      "datePublished": "2025-05-21T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -141,6 +197,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17027/SAF, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17027",
+      "datePublished": "2025-05-20T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17023/SPO, 20/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17023",
       "datePublished": "2025-05-20T00:00:00.000Z",
@@ -153,14 +217,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17017",
       "datePublished": "2025-05-20T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17026/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17026",
-      "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Orlando Bezerra de Menezes, Código OACI: SBJU; Código CIAD: CE0002, em Juazeiro do Norte (CE)",
       "type": "legislação"
     },
     {
@@ -198,38 +254,6 @@
       "description": "Lista com as inscrições homologadas para participar do sorteio será divulgada no dia 20/5 no portal da Anac",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-sorteio-para-participar-dos-voos-de-incentivo-sera-realizado-no-dia-21-5-as-10h/a-_inclusiva__campinas___linkedin___.png/@@images/8d536dbb-648c-4631-8d4d-2f5f16e10c4b.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17009/SAF, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17009",
-      "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17013/SAF, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17013",
-      "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17010/SAF, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17010",
-      "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17012/SAF, 19/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17012",
-      "datePublished": "2025-05-19T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -307,14 +331,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17003/SIA, 16/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17003",
-      "datePublished": "2025-05-16T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Presidente João Suassuna, Código OACI: SBKG; Código CIAD: PB0003, em Campina Grande (PB)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria",
@@ -364,14 +380,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16991/SPL, 15/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16991",
-      "datePublished": "2025-05-15T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronautas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 709, 15/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
       "datePublished": "2025-05-15T00:00:00.000Z",
@@ -411,14 +419,6 @@
       "description": "Evento online reunirá especialistas para discutir prevenção de riscos em operações com helicópteros e será transmitido ao vivo no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h/linkedin-bhest.png/@@images/56853241-8b04-4607-8b75-32f0f87744b9.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 16985/SIA, 14/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16985",
-      "datePublished": "2025-05-14T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD CE0031 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
