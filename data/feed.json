@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4dcf9594-fa16-473f-89af-ed39cf3b2304",
+  "identifier": "urn:uuid:anac-feed-09918268-180d-4118-9e49-04f55d907bed",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-27T16:17:45.468Z",
-  "dateModified": "2025-05-27T16:17:45.468Z",
+  "dateCreated": "2025-05-27T20:15:46.868Z",
+  "dateModified": "2025-05-27T20:15:46.868Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-02-17T00:00:00.000Z",
-    "endDate": "2025-05-27T03:28:38.000Z"
+    "startDate": "2025-03-05T00:00:00.000Z",
+    "endDate": "2025-05-27T20:15:46.866Z"
   },
   "distribution": [
     {
@@ -33,6 +33,55 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 183-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
+      "datePublished": "2025-05-27T20:15:46.866Z",
+      "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 183-002I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
+      "datePublished": "2025-05-27T20:15:46.866Z",
+      "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Consulta setorial sobre peças de aeronaves está aberta até o dia 7/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-setorial-sobre-pecas-de-aeronaves-esta-aberta-ate-o-dia-7-7",
+      "datePublished": "2025-05-27T17:05:00.000Z",
+      "description": "Proposta da Anac pretende estabelecer Diretriz de Aeronavegabilidade para checagem e eventual substituição de componentes fabricados pela empresa H8 ALS",
+      "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 183-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
+      "datePublished": "2025-05-27T16:33:00.000Z",
+      "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 183-002I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
+      "datePublished": "2025-05-27T16:25:00.000Z",
+      "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Com abertura de consulta setorial, Anac altera data de webinário sobre atuação de laboratórios de requisitos de inflamabilidade",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade",
+      "datePublished": "2025-05-27T15:23:00.000Z",
+      "description": "Alterações normativas serão apresentadas em evento online no dia 6 de junho",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade/portal-2.png/@@images/0fdce1c8-e698-409a-ac39-61b5a61274c1.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Digital Week  - Dia 26/05 - EVENTO EXTERNO",
@@ -77,6 +126,14 @@
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17048/CRG, 23/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17048",
+      "datePublished": "2025-05-23T00:00:00.000Z",
+      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -131,7 +188,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17043/CGR, 22/05/2025",
+      "name": "PORTARIA Nº 17043/CRG, 22/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17043",
       "datePublished": "2025-05-22T00:00:00.000Z",
       "description": "Prorroga Comissão de Processo Administrativo para Apuração da Responsabilidade de Pessoa Jurídica",
@@ -219,14 +276,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17031/SPO, 21/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17031",
-      "datePublished": "2025-05-21T00:00:00.000Z",
-      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA de helicópteros",
       "url": "https://www.youtube.com/watch?v=_9gw_ysGyHg",
@@ -258,14 +307,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17027",
       "datePublished": "2025-05-20T00:00:00.000Z",
       "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17023/SPO, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17023",
-      "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa  ELO TÁXI AÉREO LTDA.",
       "type": "legislação"
     },
     {
@@ -364,14 +405,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17000/SIA, 16/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17000",
-      "datePublished": "2025-05-16T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0641 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria",
@@ -439,10 +472,10 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Digital Week   - A evolução digital do Registro Aeronáutico Brasileiro -",
+      "name": "27/05 - Digital Week 2025, das 16h30 às 18h",
       "url": "https://www.youtube.com/watch?v=N757SyNl7sY",
       "datePublished": "2025-05-13T20:16:24.000Z",
-      "description": "14h às 16h\nPalestra: A evolução digital do Registro Aeronáutico Brasileiro \nLink do Slido (perguntas): https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ\n--------------------------------\n16h30 às 18h00\nPalestra: Safety Intelligence com IA \nLink do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn",
+      "description": "Seja bem-vindo!\nPalestra: Safety Intelligence com IA \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn\nModerador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac\nPainelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\nParticipe!",
       "image": "https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -499,10 +532,10 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Digital Week  - Dia 27/05",
+      "name": "27/05 - Digital Week, das 10h às 12h",
       "url": "https://www.youtube.com/watch?v=_IhhgDfFcN0",
       "datePublished": "2025-05-12T20:45:40.000Z",
-      "description": "Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
+      "description": "Moderação: Felipe Cruz, da Anac\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos Serviços de Transporte Aéreo de Passageiros da Anac\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
       "image": "https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -575,22 +608,6 @@
       "datePublished": "2025-05-05T17:52:00.000Z",
       "description": "Dados ajudarão a Agência a fomentar o crescimento do setor, aproveitando o potencial da população brasileira",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo/linkedn.png/@@images/a82ecb24-4d0a-4bf4-8f3c-7121aa71190f.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Relatório de Atividades: confira os resultados de atuação da Anac em 2024",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/relatorio-de-atividades-confira-os-resultados-de-atuacao-da-anac-em-2024",
-      "datePublished": "2025-05-05T16:58:00.000Z",
-      "description": "Documento revela números do setor e informações sobre a gestão estratégica da Agência no ano",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac é classificada no Grupo 2 de índice de desempenho da Corregedoria-Geral da União",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-classificada-no-grupo-2-de-indice-de-desempenho-da-corregedoria-geral-da-uniao",
-      "datePublished": "2025-05-05T15:53:00.000Z",
-      "description": "Classificação coloca agência no segundo melhor grupo de avaliação do Idecor",
       "type": "notícia"
     },
     {
@@ -683,26 +700,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 00-010B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010",
-      "datePublished": "2025-03-07T14:22:00.000Z",
-      "description": "Treinamento de Gerenciamento de Recursos de Equipes (Corporate Resource Management - CRM)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 208, 05/03/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-208",
       "datePublished": "2025-03-05T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 187, de 27 de março de 2023",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 207, 17/02/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-no-207-17-02-2025",
-      "datePublished": "2025-02-17T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
       "type": "legislação"
     }
   ]
