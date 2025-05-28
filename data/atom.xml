@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-647b3133-350c-4d45-a9bf-b400f51b0172</id>
-  <updated>2025-05-28T08:19:16.919Z</updated>
+  <id>urn:uuid:anac-feed-de42d4da-f924-4140-9ba5-5f0c8739709b</id>
+  <updated>2025-05-28T12:28:54.131Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 183-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-28T08:19:16.919Z</published>
-    <updated>2025-05-28T08:19:16.919Z</updated>
+    <published>2025-05-28T12:28:54.131Z</published>
+    <updated>2025-05-28T12:28:54.131Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-28T08:19:16.919Z</published>
-    <updated>2025-05-28T08:19:16.919Z</updated>
+    <published>2025-05-28T12:28:54.131Z</published>
+    <updated>2025-05-28T12:28:54.131Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,39 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">27/05 - Digital Week 2025, das 16h30 às 18h</title>
+    <link href="https://www.youtube.com/watch?v=N757SyNl7sY" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=N757SyNl7sY</id>
+    <published>2025-05-28T08:52:19.000Z</published>
+    <updated>2025-05-28T08:52:19.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Seja bem-vindo!
+Palestra: Safety Intelligence com IA 
+Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
+Link do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn
+Moderador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac
+Painelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</summary>
+    <content type="html"><![CDATA[
+      <p>Seja bem-vindo!
+Palestra: Safety Intelligence com IA 
+Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
+Link do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn
+Moderador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac
+Painelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</p>
+      <img src="https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg" alt="27/05 - Digital Week 2025, das 16h30 às 18h">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -199,6 +232,25 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17076/SAF, 27/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17076" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17076</id>
+    <published>2025-05-27T00:00:00.000Z</published>
+    <updated>2025-05-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Equipe de Planejamento da Contratação</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -600,25 +652,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
     <content type="html"><![CDATA[
       <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17033/SPL, 21/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17033" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17033</id>
-    <published>2025-05-21T00:00:00.000Z</published>
-    <updated>2025-05-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1060,39 +1093,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">27/05 - Digital Week 2025, das 16h30 às 18h</title>
-    <link href="https://www.youtube.com/watch?v=N757SyNl7sY" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=N757SyNl7sY</id>
-    <published>2025-05-13T20:16:24.000Z</published>
-    <updated>2025-05-13T20:16:24.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Seja bem-vindo!
-Palestra: Safety Intelligence com IA 
-Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
-Link do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn
-Moderador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac
-Painelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac
-Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
-Participe!</summary>
-    <content type="html"><![CDATA[
-      <p>Seja bem-vindo!
-Palestra: Safety Intelligence com IA 
-Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
-Link do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn
-Moderador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac
-Painelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac
-Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
-Participe!</p>
-      <img src="https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg" alt="27/05 - Digital Week 2025, das 16h30 às 18h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
