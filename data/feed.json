@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ad41cf08-0c37-4a77-bc18-f429245c545a",
+  "identifier": "urn:uuid:anac-feed-283ae69f-132a-4cd4-84d2-3249bc50e17e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-28T16:16:15.994Z",
-  "dateModified": "2025-05-28T16:16:15.994Z",
+  "dateCreated": "2025-05-28T20:15:45.314Z",
+  "dateModified": "2025-05-28T20:15:45.314Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-28T16:16:15.992Z"
+    "endDate": "2025-05-28T20:15:45.311Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-28T16:16:15.992Z",
+      "datePublished": "2025-05-28T20:15:45.311Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-28T16:16:15.992Z",
+      "datePublished": "2025-05-28T20:15:45.311Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
     },
@@ -54,7 +54,7 @@
       "name": "27/05 - Digital Week 2025, das 16h30 às 18h",
       "url": "https://www.youtube.com/watch?v=N757SyNl7sY",
       "datePublished": "2025-05-28T08:52:19.000Z",
-      "description": "Seja bem-vindo!\nPalestra: Safety Intelligence com IA \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn\nModerador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac\nPainelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\nParticipe!",
+      "description": "Seja bem-vindo!\n\nPalestra: Safety Intelligence com IA \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn\n\nModerador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac\nPainelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -63,7 +63,7 @@
       "name": "27/05 - Digital Week, das 10h às 12h",
       "url": "https://www.youtube.com/watch?v=_IhhgDfFcN0",
       "datePublished": "2025-05-28T02:56:08.000Z",
-      "description": "Moderação: Felipe Cruz, da Anac\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos Serviços de Transporte Aéreo de Passageiros da Anac\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
+      "description": "Moderação: Felipe Cruz, da Anac\n\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos \n\nServiços de Transporte Aéreo de Passageiros da Anac\n\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
       "image": "https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -540,10 +540,10 @@
     },
     {
       "@type": "VideoObject",
-      "name": "28/05 - Digital Week 2025, das 14h às 16h",
+      "name": "28/05 - Digital Week 2025, das 16h30 às 18h",
       "url": "https://www.youtube.com/watch?v=crgpnzzFz9s",
       "datePublished": "2025-05-12T20:47:30.000Z",
-      "description": "Seja bem-vindo!\nPainel: Novas perspectivas para digitalização do Diário de Bordo e aumento da eficiência do Setor\nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/3nUdTKkyedEyxkJeqynyGh\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 1: Mariana Altóe, diretora da Anac\nPainelista 2: Bruno Del Bel, superintendente de Padrões Operacionais da Anac\nPainelista 3: Guilherme Morelli Faria, diretor de Produto e Tecnologia da Plane It\nPainelista 4: Márcio Paula de Oliveira, diretor de Operações de Voo da Modern Logistics\nPainelista 5: Saulo Goes Galdino, diretor de Manutenção da Líder Táxi Aéreo\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\nParticipe!",
+      "description": "Seja bem-vindo!\n\nPainel: SuperApp e Citizen Experience - Avançado para o Governo Proativo \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/aDKcWpJ2s5KDin8c7MyTXV\n\nModerador: Felipe Cruz, gerente de Soluções Digitais da Anac\n\nPainelista 1: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 2: Marcos Moreira, coordenador-geral de Interação e Inteligência do Ministério da Gestão e da Inovação do Serviço Público\nPainelista 3: Sheila Valeriano Lopes Antonioli, head of Customer Happiness do SERPRO\nPainelista 4: Rafael Cunha, secretário de Transformação Digital e Ciência e Tecnologia da Prefeitura da cidade de Recife\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg",
       "type": "vídeo"
     },
