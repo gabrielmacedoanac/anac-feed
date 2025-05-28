@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-09918268-180d-4118-9e49-04f55d907bed</id>
-  <updated>2025-05-27T20:15:46.866Z</updated>
+  <id>urn:uuid:anac-feed-d6cefe02-4e58-4105-aec3-39ce6f3d22a8</id>
+  <updated>2025-05-28T01:08:55.111Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 183-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-27T20:15:46.866Z</published>
-    <updated>2025-05-27T20:15:46.866Z</updated>
+    <published>2025-05-28T01:08:55.111Z</published>
+    <updated>2025-05-28T01:08:55.111Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,75 @@
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-27T20:15:46.866Z</published>
-    <updated>2025-05-27T20:15:46.866Z</updated>
+    <published>2025-05-28T01:08:55.111Z</published>
+    <updated>2025-05-28T01:08:55.111Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados</summary>
+    <content type="html"><![CDATA[
+      <p>Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos</title>
+    <link href="https://www.youtube.com/watch?v=974dC6O1zPk" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=974dC6O1zPk</id>
+    <published>2025-05-27T21:46:38.000Z</published>
+    <updated>2025-05-27T21:46:38.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Seja bem-vindo!
+Webinário - Consulta Pública Tema 11 Agenda Regulatória - SGSO em fabricantes aeronáuticos, dia 12 de junho, das 14h às 16h.
+O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.
+Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9HWuWuoncugZ
+Mais informações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-consulta-publica-tema-11-agenda-regulatoria-sgso-em-fabricantes-aeronauticos
+Participe!</summary>
+    <content type="html"><![CDATA[
+      <p>Seja bem-vindo!
+Webinário - Consulta Pública Tema 11 Agenda Regulatória - SGSO em fabricantes aeronáuticos, dia 12 de junho, das 14h às 16h.
+O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.
+Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9HWuWuoncugZ
+Mais informações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-consulta-publica-tema-11-agenda-regulatoria-sgso-em-fabricantes-aeronauticos
+Participe!</p>
+      <img src="https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg" alt="Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 183-003B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
+    <published>2025-05-27T18:24:00.000Z</published>
+    <updated>2025-05-27T18:24:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica</summary>
+    <content type="html"><![CDATA[
+      <p>Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 183-002I</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
+    <published>2025-05-27T18:16:00.000Z</published>
+    <updated>2025-05-27T18:16:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -71,45 +138,7 @@
   
   
   <entry>
-    <title type="html">IS 183-003B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-27T16:33:00.000Z</published>
-    <updated>2025-05-27T16:33:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica</summary>
-    <content type="html"><![CDATA[
-      <p>Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 183-002I</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-27T16:25:00.000Z</published>
-    <updated>2025-05-27T16:25:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados</summary>
-    <content type="html"><![CDATA[
-      <p>Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Com abertura de consulta setorial, Anac altera data de webinário sobre atuação de laboratórios de requisitos de inflamabilidade</title>
+    <title type="html">Anac altera data de webinário sobre atuação de laboratórios de requisitos de inflamabilidade</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade</id>
     <published>2025-05-27T15:23:00.000Z</published>
@@ -120,7 +149,7 @@
     <summary type="html">Alterações normativas serão apresentadas em evento online no dia 6 de junho</summary>
     <content type="html"><![CDATA[
       <p>Alterações normativas serão apresentadas em evento online no dia 6 de junho</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade/portal-2.png/@@images/0fdce1c8-e698-409a-ac39-61b5a61274c1.png" alt="Com abertura de consulta setorial, Anac altera data de webinário sobre atuação de laboratórios de requisitos de inflamabilidade">
+      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1098,7 +1127,7 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Digital Week  - Dia 30/05 - EVENTO EXTERNO</title>
+    <title type="html">30/05 - Digital Week 2025, das 10h às 12h</title>
     <link href="https://www.youtube.com/watch?v=Mrc-DnVMbeY" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=Mrc-DnVMbeY</id>
     <published>2025-05-12T20:50:55.000Z</published>
@@ -1106,10 +1135,26 @@ Participe!</p>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html"></summary>
+    <summary type="html">Seja bem-vindo!
+Painel: O Futuro da Regulação na Era da IA 
+Formato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube 
+Link do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3
+Moderador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac
+Painelista 1: Mirian Wimmer, diretora da ANPD
+Painelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</summary>
     <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg" alt="Digital Week  - Dia 30/05 - EVENTO EXTERNO">
+      <p>Seja bem-vindo!
+Painel: O Futuro da Regulação na Era da IA 
+Formato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube 
+Link do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3
+Moderador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac
+Painelista 1: Mirian Wimmer, diretora da ANPD
+Painelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</p>
+      <img src="https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg" alt="30/05 - Digital Week 2025, das 10h às 12h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
@@ -1117,7 +1162,7 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Digital Week  - Dia 29/05 - EVENTO EXTERNO</title>
+    <title type="html">29/05 - Digital Week 2025, das 14h às 16h</title>
     <link href="https://www.youtube.com/watch?v=aQXaMrKaNyg" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=aQXaMrKaNyg</id>
     <published>2025-05-12T20:49:21.000Z</published>
@@ -1125,10 +1170,24 @@ Participe!</p>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html"></summary>
+    <summary type="html">Seja bem-vindo!
+Palestra: Aplicando SRE a serviço digitais (site Reliability Engineering)
+Formato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.
+Link do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe
+Moderador: Felipe Sarmanho, da Anac
+Painelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</summary>
     <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg" alt="Digital Week  - Dia 29/05 - EVENTO EXTERNO">
+      <p>Seja bem-vindo!
+Palestra: Aplicando SRE a serviço digitais (site Reliability Engineering)
+Formato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.
+Link do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe
+Moderador: Felipe Sarmanho, da Anac
+Painelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</p>
+      <img src="https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg" alt="29/05 - Digital Week 2025, das 14h às 16h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
@@ -1136,7 +1195,7 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Digital Week  - Dia 28/05 - EVENTO EXTERNO</title>
+    <title type="html">28/05 - Digital Week 2025, das 14h às 16h</title>
     <link href="https://www.youtube.com/watch?v=crgpnzzFz9s" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=crgpnzzFz9s</id>
     <published>2025-05-12T20:47:30.000Z</published>
@@ -1144,10 +1203,32 @@ Participe!</p>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html"></summary>
+    <summary type="html">Seja bem-vindo!
+Painel: Novas perspectivas para digitalização do Diário de Bordo e aumento da eficiência do Setor
+Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
+Link do Slido (perguntas): https://app.sli.do/event/3nUdTKkyedEyxkJeqynyGh
+Moderador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac
+Painelista 1: Mariana Altóe, diretora da Anac
+Painelista 2: Bruno Del Bel, superintendente de Padrões Operacionais da Anac
+Painelista 3: Guilherme Morelli Faria, diretor de Produto e Tecnologia da Plane It
+Painelista 4: Márcio Paula de Oliveira, diretor de Operações de Voo da Modern Logistics
+Painelista 5: Saulo Goes Galdino, diretor de Manutenção da Líder Táxi Aéreo
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</summary>
     <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg" alt="Digital Week  - Dia 28/05 - EVENTO EXTERNO">
+      <p>Seja bem-vindo!
+Painel: Novas perspectivas para digitalização do Diário de Bordo e aumento da eficiência do Setor
+Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
+Link do Slido (perguntas): https://app.sli.do/event/3nUdTKkyedEyxkJeqynyGh
+Moderador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac
+Painelista 1: Mariana Altóe, diretora da Anac
+Painelista 2: Bruno Del Bel, superintendente de Padrões Operacionais da Anac
+Painelista 3: Guilherme Morelli Faria, diretor de Produto e Tecnologia da Plane It
+Painelista 4: Márcio Paula de Oliveira, diretor de Operações de Voo da Modern Logistics
+Painelista 5: Saulo Goes Galdino, diretor de Manutenção da Líder Táxi Aéreo
+Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+Participe!</p>
+      <img src="https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg" alt="28/05 - Digital Week 2025, das 14h às 16h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
@@ -1273,27 +1354,6 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)</title>
-    <link href="https://www.youtube.com/watch?v=DX2A7mifn9M" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=DX2A7mifn9M</id>
-    <published>2025-05-07T07:06:03.000Z</published>
-    <updated>2025-05-07T07:06:03.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo 00058.085388/2023-40
-Processo00058.041142/2024-47</summary>
-    <content type="html"><![CDATA[
-      <p>Processo 00058.085388/2023-40
-Processo00058.041142/2024-47</p>
-      <img src="https://i1.ytimg.com/vi/DX2A7mifn9M/hqdefault.jpg" alt="7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
