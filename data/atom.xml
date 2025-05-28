@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-de42d4da-f924-4140-9ba5-5f0c8739709b</id>
-  <updated>2025-05-28T12:28:54.131Z</updated>
+  <id>urn:uuid:anac-feed-ad41cf08-0c37-4a77-bc18-f429245c545a</id>
+  <updated>2025-05-28T16:16:15.992Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 183-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-28T12:28:54.131Z</published>
-    <updated>2025-05-28T12:28:54.131Z</updated>
+    <published>2025-05-28T16:16:15.992Z</published>
+    <updated>2025-05-28T16:16:15.992Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-28T12:28:54.131Z</published>
-    <updated>2025-05-28T12:28:54.131Z</updated>
+    <published>2025-05-28T16:16:15.992Z</published>
+    <updated>2025-05-28T16:16:15.992Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -270,6 +270,25 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17056/SPL, 24/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17056-spl-24-05-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17056-spl-24-05-2025</id>
+    <published>2025-05-24T00:00:00.000Z</published>
+    <updated>2025-05-24T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
+    <content type="html"><![CDATA[
+      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1131,25 +1150,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 16975/SGM, 13/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16975" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16975</id>
-    <published>2025-05-13T00:00:00.000Z</published>
-    <updated>2025-05-13T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova Manuais de Procedimentos</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova Manuais de Procedimentos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
