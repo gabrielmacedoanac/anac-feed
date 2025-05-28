@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d6cefe02-4e58-4105-aec3-39ce6f3d22a8</id>
-  <updated>2025-05-28T01:08:55.111Z</updated>
+  <id>urn:uuid:anac-feed-1f4c9652-4f71-4232-ae92-f45a8975afcb</id>
+  <updated>2025-05-28T04:18:43.435Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 183-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-28T01:08:55.111Z</published>
-    <updated>2025-05-28T01:08:55.111Z</updated>
+    <published>2025-05-28T04:18:43.435Z</published>
+    <updated>2025-05-28T04:18:43.435Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-28T01:08:55.111Z</published>
-    <updated>2025-05-28T01:08:55.111Z</updated>
+    <published>2025-05-28T04:18:43.435Z</published>
+    <updated>2025-05-28T04:18:43.435Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,33 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">27/05 - Digital Week, das 10h às 12h</title>
+    <link href="https://www.youtube.com/watch?v=_IhhgDfFcN0" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=_IhhgDfFcN0</id>
+    <published>2025-05-28T02:56:08.000Z</published>
+    <updated>2025-05-28T02:56:08.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Moderação: Felipe Cruz, da Anac
+Painelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC
+Painelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka
+Painelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos Serviços de Transporte Aéreo de Passageiros da Anac
+Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</summary>
+    <content type="html"><![CDATA[
+      <p>Moderação: Felipe Cruz, da Anac
+Painelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC
+Painelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka
+Painelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos Serviços de Transporte Aéreo de Passageiros da Anac
+Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
+      <img src="https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg" alt="27/05 - Digital Week, das 10h às 12h">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1229,33 +1256,6 @@ Painelista 5: Saulo Goes Galdino, diretor de Manutenção da Líder Táxi Aéreo
 Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
 Participe!</p>
       <img src="https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg" alt="28/05 - Digital Week 2025, das 14h às 16h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">27/05 - Digital Week, das 10h às 12h</title>
-    <link href="https://www.youtube.com/watch?v=_IhhgDfFcN0" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=_IhhgDfFcN0</id>
-    <published>2025-05-12T20:45:40.000Z</published>
-    <updated>2025-05-12T20:45:40.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Moderação: Felipe Cruz, da Anac
-Painelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC
-Painelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka
-Painelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos Serviços de Transporte Aéreo de Passageiros da Anac
-Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</summary>
-    <content type="html"><![CDATA[
-      <p>Moderação: Felipe Cruz, da Anac
-Painelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC
-Painelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka
-Painelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos Serviços de Transporte Aéreo de Passageiros da Anac
-Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
-      <img src="https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg" alt="27/05 - Digital Week, das 10h às 12h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
