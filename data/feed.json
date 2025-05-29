@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-283ae69f-132a-4cd4-84d2-3249bc50e17e",
+  "identifier": "urn:uuid:anac-feed-8c432fd3-d7ab-4719-87d8-7d1c966dbdc3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-28T20:15:45.314Z",
-  "dateModified": "2025-05-28T20:15:45.314Z",
+  "dateCreated": "2025-05-29T01:08:54.970Z",
+  "dateModified": "2025-05-29T01:08:54.970Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-28T20:15:45.311Z"
+    "endDate": "2025-05-29T01:08:54.968Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-28T20:15:45.311Z",
+      "datePublished": "2025-05-29T01:08:54.968Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,9 +45,27 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-28T20:15:45.311Z",
+      "datePublished": "2025-05-29T01:08:54.968Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "28/05 - Digital Week 2025, das 16h30 às 18h",
+      "url": "https://www.youtube.com/watch?v=crgpnzzFz9s",
+      "datePublished": "2025-05-28T21:41:32.000Z",
+      "description": "Seja bem-vindo!\n\nPainel: SuperApp e Citizen Experience - Avançado para o Governo Proativo \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/aDKcWpJ2s5KDin8c7MyTXV\n\nModerador: Felipe Cruz, gerente de Soluções Digitais da Anac\n\nPainelista 1: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 2: Marcos Moreira, coordenador-geral de Interação e Inteligência do Ministério da Gestão e da Inovação do Serviço Público\nPainelista 3: Sheila Valeriano Lopes Antonioli, head of Customer Happiness do SERPRO\nPainelista 4: Rafael Cunha, secretário de Transformação Digital e Ciência e Tecnologia da Prefeitura da cidade de Recife\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
+      "image": "https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Gol e Aena conquistam o Prêmio Acessibilidade e Inovação 2025",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025",
+      "datePublished": "2025-05-28T18:29:00.000Z",
+      "description": "Vencedores nas categorias empresa aérea e operador aeroportuário reforçam compromisso do setor aéreo com práticas inovadoras de acessibilidade",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025/20250527_195340.jpg/@@images/27363153-8889-43fa-aa36-dbd80573c18f.jpeg",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -539,15 +557,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "VideoObject",
-      "name": "28/05 - Digital Week 2025, das 16h30 às 18h",
-      "url": "https://www.youtube.com/watch?v=crgpnzzFz9s",
-      "datePublished": "2025-05-12T20:47:30.000Z",
-      "description": "Seja bem-vindo!\n\nPainel: SuperApp e Citizen Experience - Avançado para o Governo Proativo \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/aDKcWpJ2s5KDin8c7MyTXV\n\nModerador: Felipe Cruz, gerente de Soluções Digitais da Anac\n\nPainelista 1: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 2: Marcos Moreira, coordenador-geral de Interação e Inteligência do Ministério da Gestão e da Inovação do Serviço Público\nPainelista 3: Sheila Valeriano Lopes Antonioli, head of Customer Happiness do SERPRO\nPainelista 4: Rafael Cunha, secretário de Transformação Digital e Ciência e Tecnologia da Prefeitura da cidade de Recife\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
-      "image": "https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos",
@@ -599,15 +608,6 @@
       "datePublished": "2025-05-07T00:00:00.000Z",
       "description": "Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac lança pesquisa sobre o perfil do profissional da aviação para futura oferta de bolsas de estudo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo",
-      "datePublished": "2025-05-05T17:52:00.000Z",
-      "description": "Dados ajudarão a Agência a fomentar o crescimento do setor, aproveitando o potencial da população brasileira",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-pesquisa-sobre-o-perfil-do-profissional-da-aviacao-para-futura-oferta-de-bolsas-de-estudo/linkedn.png/@@images/a82ecb24-4d0a-4bf4-8f3c-7121aa71190f.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
