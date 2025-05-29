@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e86ad0e0-3422-4192-b370-0bec30f6950e</id>
-  <updated>2025-05-29T16:17:32.728Z</updated>
+  <id>urn:uuid:anac-feed-662de2b3-2014-4af3-b93a-b11160d0d31a</id>
+  <updated>2025-05-29T20:15:54.191Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 183-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-29T16:17:32.728Z</published>
-    <updated>2025-05-29T16:17:32.728Z</updated>
+    <published>2025-05-29T20:15:54.191Z</published>
+    <updated>2025-05-29T20:15:54.191Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-29T16:17:32.728Z</published>
-    <updated>2025-05-29T16:17:32.728Z</updated>
+    <published>2025-05-29T20:15:54.191Z</published>
+    <updated>2025-05-29T20:15:54.191Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -320,7 +320,7 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Digital Week  - Dia 26/05 - EVENTO EXTERNO</title>
+    <title type="html">26/05 - Digital Week, das 10h às 12h</title>
     <link href="https://www.youtube.com/watch?v=Q4YcEPd0ZLM" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=Q4YcEPd0ZLM</id>
     <published>2025-05-27T03:28:38.000Z</published>
@@ -328,10 +328,10 @@ Participe!</p>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html"></summary>
+    <summary type="html">Link do Slido (perguntas): https://app.sli.do/event/6Ejb5AXeCjpBcxD2EG9dFw</summary>
     <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i2.ytimg.com/vi/Q4YcEPd0ZLM/hqdefault.jpg" alt="Digital Week  - Dia 26/05 - EVENTO EXTERNO">
+      <p>Link do Slido (perguntas): https://app.sli.do/event/6Ejb5AXeCjpBcxD2EG9dFw</p>
+      <img src="https://i2.ytimg.com/vi/Q4YcEPd0ZLM/hqdefault.jpg" alt="26/05 - Digital Week, das 10h às 12h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
@@ -1301,21 +1301,29 @@ Participe!</p>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Seja bem-vindo!
+
 Palestra: Aplicando SRE a serviço digitais (site Reliability Engineering)
 Formato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.
 Link do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe
+
 Moderador: Felipe Sarmanho, da Anac
+
 Painelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO
 Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+
 Participe!</summary>
     <content type="html"><![CDATA[
       <p>Seja bem-vindo!
+
 Palestra: Aplicando SRE a serviço digitais (site Reliability Engineering)
 Formato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.
 Link do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe
+
 Moderador: Felipe Sarmanho, da Anac
+
 Painelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO
 Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
+
 Participe!</p>
       <img src="https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg" alt="29/05 - Digital Week 2025, das 14h às 16h">
     ]]></content>
@@ -1382,25 +1390,6 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Consulta setorial sobre certificação de laboratórios de inflamabilidade</title>
-    <link href="https://www.youtube.com/watch?v=IKV_zGVVsNU" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=IKV_zGVVsNU</id>
-    <published>2025-05-07T21:57:18.000Z</published>
-    <updated>2025-05-07T21:57:18.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link do Slido: https://app.sli.do/event/qYvvRftqtcek3vqVUUf9BU</summary>
-    <content type="html"><![CDATA[
-      <p>Link do Slido: https://app.sli.do/event/qYvvRftqtcek3vqVUUf9BU</p>
-      <img src="https://i2.ytimg.com/vi/IKV_zGVVsNU/hqdefault.jpg" alt="Consulta setorial sobre certificação de laboratórios de inflamabilidade">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 706, 07/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706</id>
@@ -1416,6 +1405,45 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
+    <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
+    <published>2025-05-06T14:20:16.000Z</published>
+    <updated>2025-05-06T14:20:16.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Seja bem-vindo!
+ 
+Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
+ 
+O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
+ 
+Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
+ 
+Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
+ 
+Participe!</summary>
+    <content type="html"><![CDATA[
+      <p>Seja bem-vindo!
+ 
+Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
+ 
+O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
+ 
+Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
+ 
+Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
+ 
+Participe!</p>
+      <img src="https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg" alt="Webinário BHEST: gestão do risco meteorológico em helicópteros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
