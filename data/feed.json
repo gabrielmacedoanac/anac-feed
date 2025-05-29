@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c699cc13-090a-409b-91da-b53edff43595",
+  "identifier": "urn:uuid:anac-feed-e86ad0e0-3422-4192-b370-0bec30f6950e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-29T12:28:12.925Z",
-  "dateModified": "2025-05-29T12:28:12.925Z",
+  "dateCreated": "2025-05-29T16:17:32.730Z",
+  "dateModified": "2025-05-29T16:17:32.730Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-29T12:28:12.923Z"
+    "endDate": "2025-05-29T16:17:32.728Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-29T12:28:12.923Z",
+      "datePublished": "2025-05-29T16:17:32.728Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,9 +45,17 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-29T12:28:12.923Z",
+      "datePublished": "2025-05-29T16:17:32.728Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "BASeT disponibiliza manuais sobre vistorias de perímetro operacional aeroportuário e captura de drones em ambientes aeroportuários",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/baset-disponibiliza-manuais-sobre-vistorias-de-perimetro-operacional-aeroportuario-e-captura-de-drones-em-ambientes-aeroportuarios",
+      "datePublished": "2025-05-29T12:58:00.000Z",
+      "description": "Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -144,6 +152,14 @@
       "type": "legislação"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17059/SIA, 26/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17059",
+      "datePublished": "2025-05-26T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Presidente Castro Pinto, Código OACI: SBJP; Código CIAD: PB0001, em João Pessoa (PB)",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Semana MMA - Formação e Futuro do MMA",
       "url": "https://www.youtube.com/watch?v=GRshpkISEuM",
@@ -186,6 +202,22 @@
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17049/SIA, 23/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17049",
+      "datePublished": "2025-05-23T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0841 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17047/SIA, 23/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17047",
+      "datePublished": "2025-05-23T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0208 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -248,6 +280,30 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17046/SPL, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17046",
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17045/SPL, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17045",
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17044/SIA, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17044",
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0510 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17043/CRG, 22/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17043",
       "datePublished": "2025-05-22T00:00:00.000Z",
@@ -260,22 +316,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17041",
       "datePublished": "2025-05-22T00:00:00.000Z",
       "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17040/SPL, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17040",
-      "datePublished": "2025-05-22T00:00:00.000Z",
-      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17039/SPL, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17039",
-      "datePublished": "2025-05-22T00:00:00.000Z",
-      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -293,38 +333,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17032",
       "datePublished": "2025-05-21T00:00:00.000Z",
       "description": "Tornar pública a revogação da suspensão do Certificado de Organização de Manutenção da ONA - OFICINA NASARIO DE AVIACAO LTDA. - ME",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17038/SPL, 21/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17038",
-      "datePublished": "2025-05-21T00:00:00.000Z",
-      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17036/SPL, 21/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17036",
-      "datePublished": "2025-05-21T00:00:00.000Z",
-      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17037/SPL, 21/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17037",
-      "datePublished": "2025-05-21T00:00:00.000Z",
-      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17035/SPL, 21/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17035",
-      "datePublished": "2025-05-21T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -347,18 +355,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17029/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17029",
+      "name": "PORTARIA Nº 17016/SIA, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17016",
       "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NAN HAI BA HAO (9PMU)",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MA0205 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17027/SAF, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17027",
+      "name": "PORTARIA Nº 17029/SIA, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17029",
       "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NAN HAI BA HAO (9PMU)",
       "type": "legislação"
     },
     {
@@ -591,15 +599,6 @@
       "description": "Link do Slido: https://app.sli.do/event/qYvvRftqtcek3vqVUUf9BU",
       "image": "https://i2.ytimg.com/vi/IKV_zGVVsNU/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Centro de Treinamento da Anac, em Brasília, recebe avião Aero Boero para exposição permanente",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente",
-      "datePublished": "2025-05-07T16:16:00.000Z",
-      "description": "Modelo utilizado largamente na formação de pilotos ficará exposto em frente ao prédio junto ao Phenon 100",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/centro-de-treinamento-da-anac-em-brasilia-recebe-aviao-aero-boero-para-exposicao-permanente/aero-boero/@@images/c743a63f-77fa-49b1-8808-d7b1f71d9881.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
