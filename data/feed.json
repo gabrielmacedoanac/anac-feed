@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-737cab48-80cd-48b7-ad57-8913893edcde",
+  "identifier": "urn:uuid:anac-feed-b8ba34a6-2628-4372-b0fa-4bce6ef7ac81",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-29T04:19:36.713Z",
-  "dateModified": "2025-05-29T04:19:36.713Z",
+  "dateCreated": "2025-05-29T08:19:31.412Z",
+  "dateModified": "2025-05-29T08:19:31.412Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-29T04:19:36.711Z"
+    "endDate": "2025-05-29T08:19:31.410Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-29T04:19:36.711Z",
+      "datePublished": "2025-05-29T08:19:31.410Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-29T04:19:36.711Z",
+      "datePublished": "2025-05-29T08:19:31.410Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
     },
