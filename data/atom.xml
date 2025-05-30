@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-662de2b3-2014-4af3-b93a-b11160d0d31a</id>
-  <updated>2025-05-29T20:15:54.191Z</updated>
+  <id>urn:uuid:anac-feed-be6c8642-45ed-4d00-a75a-bb8ca2d7e3a7</id>
+  <updated>2025-05-30T01:06:39.226Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 183-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-05-29T20:15:54.191Z</published>
-    <updated>2025-05-29T20:15:54.191Z</updated>
+    <published>2025-05-30T01:06:39.226Z</published>
+    <updated>2025-05-30T01:06:39.226Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
-    <published>2025-05-29T20:15:54.191Z</published>
-    <updated>2025-05-29T20:15:54.191Z</updated>
+    <published>2025-05-30T01:06:39.226Z</published>
+    <updated>2025-05-30T01:06:39.226Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,45 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
+    <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
+    <published>2025-05-29T21:23:16.000Z</published>
+    <updated>2025-05-29T21:23:16.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Seja bem-vindo!
+ 
+Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
+ 
+O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
+ 
+Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
+ 
+Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
+ 
+Participe!</summary>
+    <content type="html"><![CDATA[
+      <p>Seja bem-vindo!
+ 
+Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
+ 
+O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
+ 
+Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
+ 
+Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
+ 
+Participe!</p>
+      <img src="https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg" alt="Webinário BHEST: gestão do risco meteorológico em helicópteros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1405,45 +1444,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
-    <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
-    <published>2025-05-06T14:20:16.000Z</published>
-    <updated>2025-05-06T14:20:16.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Seja bem-vindo!
- 
-Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
- 
-O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
- 
-Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
- 
-Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
- 
-Participe!</summary>
-    <content type="html"><![CDATA[
-      <p>Seja bem-vindo!
- 
-Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
- 
-O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
- 
-Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
- 
-Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
- 
-Participe!</p>
-      <img src="https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg" alt="Webinário BHEST: gestão do risco meteorológico em helicópteros">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-662de2b3-2014-4af3-b93a-b11160d0d31a",
+  "identifier": "urn:uuid:anac-feed-be6c8642-45ed-4d00-a75a-bb8ca2d7e3a7",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-29T20:15:54.193Z",
-  "dateModified": "2025-05-29T20:15:54.193Z",
+  "dateCreated": "2025-05-30T01:06:39.228Z",
+  "dateModified": "2025-05-30T01:06:39.228Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-29T20:15:54.191Z"
+    "endDate": "2025-05-30T01:06:39.226Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-29T20:15:54.191Z",
+      "datePublished": "2025-05-30T01:06:39.226Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,9 +45,18 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-29T20:15:54.191Z",
+      "datePublished": "2025-05-30T01:06:39.226Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
+      "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
+      "datePublished": "2025-05-29T21:23:16.000Z",
+      "description": "Seja bem-vindo!\n \nWebinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.\n \nO objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  \n \nPara perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU\n \nMais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros\n \nParticipe!",
+      "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
@@ -598,15 +607,6 @@
       "datePublished": "2025-05-07T00:00:00.000Z",
       "description": "Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero",
       "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
-      "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
-      "datePublished": "2025-05-06T14:20:16.000Z",
-      "description": "Seja bem-vindo!\n \nWebinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.\n \nO objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  \n \nPara perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU\n \nMais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros\n \nParticipe!",
-      "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "Legislation",
