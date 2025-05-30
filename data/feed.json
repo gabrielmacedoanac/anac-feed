@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-254c11f9-f045-4ab3-bc82-cc486b639fe5",
+  "identifier": "urn:uuid:anac-feed-0d612cd2-334c-42a2-b47e-cf2799351406",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-30T04:18:30.781Z",
-  "dateModified": "2025-05-30T04:18:30.781Z",
+  "dateCreated": "2025-05-30T08:18:47.739Z",
+  "dateModified": "2025-05-30T08:18:47.739Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-30T04:18:30.779Z"
+    "endDate": "2025-05-30T08:18:47.737Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-30T04:18:30.779Z",
+      "datePublished": "2025-05-30T08:18:47.737Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,9 +45,18 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-30T04:18:30.779Z",
+      "datePublished": "2025-05-30T08:18:47.737Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "29/05 - Digital Week 2025, das 14h às 16h",
+      "url": "https://www.youtube.com/watch?v=aQXaMrKaNyg",
+      "datePublished": "2025-05-30T07:15:34.000Z",
+      "description": "Seja bem-vindo!\n\nPalestra: Aplicando SRE a serviço digitais (site Reliability Engineering)\nFormato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.\nLink do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe\n\nModerador: Felipe Sarmanho, da Anac\n\nPainelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
+      "image": "https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "VideoObject",
@@ -562,15 +571,6 @@
       "datePublished": "2025-05-12T20:50:55.000Z",
       "description": "Seja bem-vindo!\nPainel: O Futuro da Regulação na Era da IA \nFormato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube \nLink do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 1: Mirian Wimmer, diretora da ANPD\nPainelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\nParticipe!",
       "image": "https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "29/05 - Digital Week 2025, das 14h às 16h",
-      "url": "https://www.youtube.com/watch?v=aQXaMrKaNyg",
-      "datePublished": "2025-05-12T20:49:21.000Z",
-      "description": "Seja bem-vindo!\n\nPalestra: Aplicando SRE a serviço digitais (site Reliability Engineering)\nFormato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.\nLink do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe\n\nModerador: Felipe Sarmanho, da Anac\n\nPainelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
-      "image": "https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg",
       "type": "vídeo"
     },
     {
