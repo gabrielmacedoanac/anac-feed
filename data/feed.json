@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ea3c32cd-b817-4ea3-96e6-f76c677ff251",
+  "identifier": "urn:uuid:anac-feed-04774199-422e-47d7-9df0-67e9d5a3d9d5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-30T16:17:18.073Z",
-  "dateModified": "2025-05-30T16:17:18.073Z",
+  "dateCreated": "2025-05-30T20:15:26.111Z",
+  "dateModified": "2025-05-30T20:15:26.111Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-30T16:17:18.070Z"
+    "startDate": "2022-10-14T00:00:00.000Z",
+    "endDate": "2025-05-30T10:50:00.000Z"
   },
   "distribution": [
     {
@@ -33,14 +33,6 @@
     }
   ],
   "items": [
-    {
-      "@type": "Legislation",
-      "name": "IS 183-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-30T16:17:18.070Z",
-      "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
-      "type": "legislação"
-    },
     {
       "@type": "NewsArticle",
       "name": "Anac facilita regras para credenciamento de profissionais da área de aeronavegabilidade",
@@ -163,6 +155,46 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17067/SPL, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17067",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17079/SPO, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17079",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Torna pública a revisão do certificado de operador aéreo da  SKYLINE TÁXI AÉREO",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17074/SPO, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17074",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa  RIO PURUS TÁXI AÉREO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17068/SPO, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17068",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa TROPIC AIR TÁXI AÉREO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17081/SPO, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17081",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17082/SIA, 27/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17082",
       "datePublished": "2025-05-27T00:00:00.000Z",
@@ -187,10 +219,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17076/SAF, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17076",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
+      "name": "PORTARIA Nº 17058/SIA, 26/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17058",
+      "datePublished": "2025-05-26T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD RS0223 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -202,14 +234,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17059/SIA, 26/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17059",
-      "datePublished": "2025-05-26T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Presidente Castro Pinto, Código OACI: SBJP; Código CIAD: PB0001, em João Pessoa (PB)",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Semana MMA - Formação e Futuro do MMA",
       "url": "https://www.youtube.com/watch?v=GRshpkISEuM",
@@ -217,14 +241,6 @@
       "description": "Link Slido: https://app.sli.do/event/cVsSg9Tt9R9kyjSPk3kQQg",
       "image": "https://i4.ytimg.com/vi/GRshpkISEuM/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17056/SPL, 24/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17056-spl-24-05-2025",
-      "datePublished": "2025-05-24T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -286,14 +302,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17048/CRG, 23/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17048",
-      "datePublished": "2025-05-23T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "\"Assédio Não Decola\": Anac e Mpor lançam guia para combater assédio e importunação sexual na aviação civil",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil",
@@ -334,14 +342,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17045",
       "datePublished": "2025-05-22T00:00:00.000Z",
       "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17044/SIA, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17044",
-      "datePublished": "2025-05-22T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0510 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -393,14 +393,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17024",
       "datePublished": "2025-05-20T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD PA0431 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17016/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17016",
-      "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MA0205 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -701,6 +693,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-208",
       "datePublished": "2025-03-05T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 187, de 27 de março de 2023",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 9525, 14/10/2022",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9525",
+      "datePublished": "2022-10-14T00:00:00.000Z",
+      "description": "Altera a Portaria nº 1.887, de 18 de junho de 2018",
       "type": "legislação"
     }
   ]
