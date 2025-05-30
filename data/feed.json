@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0d612cd2-334c-42a2-b47e-cf2799351406",
+  "identifier": "urn:uuid:anac-feed-69c10c4d-ab74-46bc-9b67-23286af034ca",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-05-30T08:18:47.739Z",
-  "dateModified": "2025-05-30T08:18:47.739Z",
+  "dateCreated": "2025-05-30T12:27:55.118Z",
+  "dateModified": "2025-05-30T12:27:55.118Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-05T00:00:00.000Z",
-    "endDate": "2025-05-30T08:18:47.737Z"
+    "endDate": "2025-05-30T12:27:55.116Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 183-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-30T08:18:47.737Z",
+      "datePublished": "2025-05-30T12:27:55.116Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 183-002I",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-30T08:18:47.737Z",
+      "datePublished": "2025-05-30T12:27:55.116Z",
       "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
     },
@@ -569,7 +569,7 @@
       "name": "30/05 - Digital Week 2025, das 10h às 12h",
       "url": "https://www.youtube.com/watch?v=Mrc-DnVMbeY",
       "datePublished": "2025-05-12T20:50:55.000Z",
-      "description": "Seja bem-vindo!\nPainel: O Futuro da Regulação na Era da IA \nFormato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube \nLink do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 1: Mirian Wimmer, diretora da ANPD\nPainelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\nParticipe!",
+      "description": "Seja bem-vindo!\n\nPainel: O Futuro da Regulação na Era da IA \nFormato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube \n\nLink do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3\n\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação \nDigital da Anac\n\nPainelista 1: Mirian Wimmer, diretora da ANPD\nPainelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg",
       "type": "vídeo"
     },
