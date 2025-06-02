@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4956f6f8-6ba3-4fdf-80f6-0c31498a8452",
+  "identifier": "urn:uuid:anac-feed-c21a5b58-a75b-413b-b74f-84432f558572",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-02T12:28:53.695Z",
-  "dateModified": "2025-06-02T12:28:53.695Z",
+  "dateCreated": "2025-06-02T16:18:21.885Z",
+  "dateModified": "2025-06-02T16:18:21.885Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2022-10-14T00:00:00.000Z",
-    "endDate": "2025-05-31T03:00:21.000Z"
+    "startDate": "2022-10-11T00:00:00.000Z",
+    "endDate": "2025-06-02T12:27:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac apresenta proposta para modernizar regras na operação de drones no dia 3/6",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6",
+      "datePublished": "2025-06-02T12:27:00.000Z",
+      "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "30/05 - Digital Week 2025, das 10h às 12h",
@@ -60,6 +69,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17114/SGM, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17114",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa membros do Comitê Técnico de Fiscalização da ANAC",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
       "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
@@ -75,6 +92,14 @@
       "datePublished": "2025-05-29T12:58:00.000Z",
       "description": "Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17108/SPL, 29/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17108",
+      "datePublished": "2025-05-29T00:00:00.000Z",
+      "description": "Suspende cautelarmente a instalação móvel para treinamento prático com fogo - Nível 2, de propriedade da OE-SESCINC ENSEG SERVIÇOS ENGENHARIA E SERGURANÇA LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -111,6 +136,46 @@
       "description": "Moderação: Felipe Cruz, da Anac\n\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos \n\nServiços de Transporte Aéreo de Passageiros da Anac\n\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
       "image": "https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17103/SPO, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17103",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimento - MPR/SPO-058-R01",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17091/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17091",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17094, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17094-28-05-2025",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Aprova a Instrução Suplementar nº 121-022A.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17095/SPL, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17095-spl-28-05-2025",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Autoriza o centro de instrução AZUL LINHAS AÉREAS BRASILEIRAS S.A. a ministrar cursos em Segurança da Aviação Civil contra Atos de  Interferência Ilícita - AVSEC.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17087/SPO, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17087-spo-28-05-2025",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa ASES TÁXI AÉREO LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -196,50 +261,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17081/SPO, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17081",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17082/SIA, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17082",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Altera a Portaria nº 14.129/SIA, de 18 de março de 2024",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17080/SIA, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17080",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Revoga a  Portaria nº 2.661/SIA, de 04 de agosto de 2017",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17077/SIA, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17077",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Altera a Portaria nº 3.994/SIA, de 26 de dezembro de 2018",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17058/SIA, 26/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17058",
       "datePublished": "2025-05-26T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD RS0223 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17057/SIA, 26/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17057",
-      "datePublished": "2025-05-26T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0155 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -279,38 +304,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17054/SIA, 23/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17054",
-      "datePublished": "2025-05-23T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0644 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17051/SIA, 23/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17051",
-      "datePublished": "2025-05-23T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PA0080 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17049/SIA, 23/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17049",
-      "datePublished": "2025-05-23T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0841 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17047/SIA, 23/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17047",
-      "datePublished": "2025-05-23T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0208 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "\"Assédio Não Decola\": Anac e Mpor lançam guia para combater assédio e importunação sexual na aviação civil",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil",
@@ -339,18 +332,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17046/SPL, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17046",
+      "name": "PORTARIA Nº 17042/SIA, 22/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17042-sia-22-05-2025",
       "datePublished": "2025-05-22T00:00:00.000Z",
-      "description": "Publica ação administrativa de cassação de licenças e habilitações técnicas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17045/SPL, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17045",
-      "datePublished": "2025-05-22T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0657 no cadastro de aeródromos.",
       "type": "legislação"
     },
     {
@@ -361,14 +346,6 @@
       "description": "Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV",
       "image": "https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17034/SIA, 21/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17034",
-      "datePublished": "2025-05-21T00:00:00.000Z",
-      "description": "Aprova a petição de Nível Equivalente de Segurança aos requisitos 153.415(a)(6), 153.415(b)(2), 153.419(a), 153.419(b), 153.419(d), 153.425(b)(1)(i), 153.425(c), 153.427(a)(2) e 153.427(b)(1) do RBAC nº 153, que tratam das atividades do Operador de Sistema de Comunicação (OC) do Sistema de Resposta à Emergência Aeroportuária (SREA), para os aeroportos listados nesta Portaria, sob administração da CONCESSIONÁRIA DO BLOCO CENTRAL S.A., CONCESSIONÁRIA DO BLOCO SUL S.A. e CONCESSIONÁRIA DO AEROPORTO DA PAMPULHA S.A.",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -390,18 +367,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17028/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17028",
+      "name": "PORTARIA Nº 17025/SIA, 20/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17025-sia-20-05-2025",
       "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0138 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17024/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17024",
-      "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0431 no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0658 no cadastro de aeródromos.",
       "type": "legislação"
     },
     {
@@ -500,6 +469,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17004, 16/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17004",
+      "datePublished": "2025-05-16T00:00:00.000Z",
+      "description": "Aprova o Anexo I ao Plano de Supervisão da Segurança Operacional da ANAC -  2023 a 2025",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria",
@@ -580,15 +557,6 @@
       "datePublished": "2025-05-09T22:07:00.000Z",
       "description": "Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos/aena-cgh-00261.jpg/@@images/3d629ae1-1bda-4102-baf6-430688daddf7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Diário de Bordo Eletrônico será implementado em operações de carga regulares",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares",
-      "datePublished": "2025-05-09T17:08:00.000Z",
-      "description": "Contrato assinado no dia 7/5 marca o início da adoção do eDB por empresa certificada pelo RBAC nº 121 para operações regulares de transporte cargueiro",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/dado-primeiro-passo-para-a-implantacao-do-diario-de-bordo-eletronico-em-operacoes-de-carga-regulares/whatsapp-image-2025-05-09-at-10-09-45-1.jpeg/@@images/119f4ec3-b22e-43a9-8301-38c67867e9dd.jpeg",
       "type": "notícia"
     },
     {
@@ -697,10 +665,42 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 9954/SPO, 06/12/2022",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9954",
+      "datePublished": "2022-12-06T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 9636/SPO, 27/10/2022",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9636",
+      "datePublished": "2022-10-27T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da FÊNIX HELICÓPTEROS (ASAS MANUTENÇÃO E RECUPERAÇÃO DE AERONAVES LTDA)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 9583/SIA, 21/10/2022",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9583",
+      "datePublished": "2022-10-21T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade Aquarius Brasil (9PHI)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 9525, 14/10/2022",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9525",
       "datePublished": "2022-10-14T00:00:00.000Z",
       "description": "Altera a Portaria nº 1.887, de 18 de junho de 2018",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 9504/SPL, 11/10/2022",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9504",
+      "datePublished": "2022-10-11T00:00:00.000Z",
+      "description": "Autoriza a mudança do CNPJ da Filial da FRISONFLY ESCOLA DE AVIAÇÃO CIVIL LTDA que passa a atuar como MATRIZ",
       "type": "legislação"
     }
   ]
