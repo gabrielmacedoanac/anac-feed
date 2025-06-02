@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c21a5b58-a75b-413b-b74f-84432f558572",
+  "identifier": "urn:uuid:anac-feed-8d4f38ee-64b6-4bd0-b3b2-522afb35aa96",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-02T16:18:21.885Z",
-  "dateModified": "2025-06-02T16:18:21.885Z",
+  "dateCreated": "2025-06-02T20:15:37.594Z",
+  "dateModified": "2025-06-02T20:15:37.594Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -41,6 +41,30 @@
       "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17121, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17121",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Aprova o Plano de Atuação Internacional - PAI da ANAC para o ano de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Estabelece diretrizes para a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Estabelece diretrizes para a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -226,46 +250,6 @@
       "description": "Link do Slido (perguntas): https://app.sli.do/event/6Ejb5AXeCjpBcxD2EG9dFw",
       "image": "https://i2.ytimg.com/vi/Q4YcEPd0ZLM/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17067/SPL, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17067",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17079/SPO, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17079",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Torna pública a revisão do certificado de operador aéreo da  SKYLINE TÁXI AÉREO",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17074/SPO, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17074",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa  RIO PURUS TÁXI AÉREO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17068/SPO, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17068",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa TROPIC AIR TÁXI AÉREO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17058/SIA, 26/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17058",
-      "datePublished": "2025-05-26T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD RS0223 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -657,10 +641,26 @@
     },
     {
       "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 208, 05/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-208",
-      "datePublished": "2025-03-05T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 187, de 27 de março de 2023",
+      "name": "PORTARIA Nº 11332/SPO, 16/05/2023",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-11332",
+      "datePublished": "2023-05-16T00:00:00.000Z",
+      "description": "Sem descrição",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 11331/SPO, 16/05/2023",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-11331",
+      "datePublished": "2023-05-16T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 10325/SPO, 20/01/2023",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-10325",
+      "datePublished": "2023-01-20T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
       "type": "legislação"
     },
     {
@@ -669,6 +669,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9954",
       "datePublished": "2022-12-06T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 9904/SPL, 30/11/2022",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9904",
+      "datePublished": "2022-11-30T00:00:00.000Z",
+      "description": "Credencia médico em conformidade com o RBAC nº 67 - Murilo Fonseca Bortolozzi, CRM/MG 42008, MC 279",
       "type": "legislação"
     },
     {
@@ -685,14 +693,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9583",
       "datePublished": "2022-10-21T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto privado a bordo da unidade Aquarius Brasil (9PHI)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 9525, 14/10/2022",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9525",
-      "datePublished": "2022-10-14T00:00:00.000Z",
-      "description": "Altera a Portaria nº 1.887, de 18 de junho de 2018",
       "type": "legislação"
     },
     {
