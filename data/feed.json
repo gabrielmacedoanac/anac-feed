@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b78e3344-251d-442d-b836-e4995410b737",
+  "identifier": "urn:uuid:anac-feed-89ba1e50-f3dd-4277-8f9d-27c1f9ce140f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-03T01:10:08.735Z",
-  "dateModified": "2025-06-03T01:10:08.735Z",
+  "dateCreated": "2025-06-03T04:21:17.006Z",
+  "dateModified": "2025-06-03T04:21:17.006Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2022-10-11T00:00:00.000Z",
-    "endDate": "2025-06-03T01:10:08.733Z"
+    "endDate": "2025-06-03T04:21:17.004Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-03T01:10:08.733Z",
+      "datePublished": "2025-06-03T04:21:17.004Z",
       "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
       "type": "legislação"
     },
