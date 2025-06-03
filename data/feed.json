@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6ee5756b-e4c8-4ce9-837f-af3a167fa41c",
+  "identifier": "urn:uuid:anac-feed-c78a3cf1-8baf-4848-94eb-ec8565fc0fbe",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-03T08:20:23.697Z",
-  "dateModified": "2025-06-03T08:20:23.697Z",
+  "dateCreated": "2025-06-03T12:28:56.750Z",
+  "dateModified": "2025-06-03T12:28:56.750Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2022-10-11T00:00:00.000Z",
-    "endDate": "2025-06-03T08:20:23.693Z"
+    "endDate": "2025-06-03T12:28:56.748Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-03T08:20:23.693Z",
+      "datePublished": "2025-06-03T12:28:56.748Z",
       "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
       "type": "legislação"
     },
@@ -117,14 +117,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17114/SGM, 30/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17114",
-      "datePublished": "2025-05-30T00:00:00.000Z",
-      "description": "Designa membros do Comitê Técnico de Fiscalização da ANAC",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário BHEST: gestão do risco meteorológico em helicópteros",
       "url": "https://www.youtube.com/watch?v=eP_kUuagOIg",
@@ -143,10 +135,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17108/SPL, 29/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17108",
+      "name": "PORTARIA Nº 17107/SPO, 29/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17107",
       "datePublished": "2025-05-29T00:00:00.000Z",
-      "description": "Suspende cautelarmente a instalação móvel para treinamento prático com fogo - Nível 2, de propriedade da OE-SESCINC ENSEG SERVIÇOS ENGENHARIA E SERGURANÇA LTDA.",
+      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
@@ -191,30 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17103",
       "datePublished": "2025-05-28T00:00:00.000Z",
       "description": "Aprova o Manual de Procedimento - MPR/SPO-058-R01",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17091/SAF, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17091",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17094/SPO, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17094",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Aprova a Instrução Suplementar nº 121-022A.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17095/SPL, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17095",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Autoriza o centro de instrução AZUL LINHAS AÉREAS BRASILEIRAS S.A. a ministrar cursos em Segurança da Aviação Civil contra Atos de  Interferência Ilícita - AVSEC.",
       "type": "legislação"
     },
     {
@@ -266,6 +234,46 @@
       "description": "Link do Slido (perguntas): https://app.sli.do/event/6Ejb5AXeCjpBcxD2EG9dFw",
       "image": "https://i2.ytimg.com/vi/Q4YcEPd0ZLM/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17078/SPL, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17078",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17075/SPO, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17075",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0158 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17083/SPO, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17083",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da WDF CONSULTORIA E SERVICOS EM AVIACAO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17072/SIA, 27/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17072",
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0393 no cadastro de aeródromos.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17066/SIA, 26/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17066",
+      "datePublished": "2025-05-26T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0028 no cadastro de aeródromos.",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -331,14 +339,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17042/SIA, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17042",
-      "datePublished": "2025-05-22T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0657 no cadastro de aeródromos.",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo",
       "url": "https://www.youtube.com/watch?v=3NmzEj-43cI",
@@ -364,14 +364,6 @@
       "description": "Fluxo doméstico alcançou 7,9 milhões de passageiros; setor internacional pela primeira vez supera a marca de 2 milhões de passageiros em abril",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17025/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17025",
-      "datePublished": "2025-05-20T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0658 no cadastro de aeródromos.",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -423,6 +415,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-213",
       "datePublished": "2025-05-19T00:00:00.000Z",
       "description": "Estabelece os critérios e procedimentos para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 16623/SIA, 18/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16623",
+      "datePublished": "2025-05-18T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0683 no cadastro de aeródromos.",
       "type": "legislação"
     },
     {
