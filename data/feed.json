@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8d4f38ee-64b6-4bd0-b3b2-522afb35aa96",
+  "identifier": "urn:uuid:anac-feed-b78e3344-251d-442d-b836-e4995410b737",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-02T20:15:37.594Z",
-  "dateModified": "2025-06-02T20:15:37.594Z",
+  "dateCreated": "2025-06-03T01:10:08.735Z",
+  "dateModified": "2025-06-03T01:10:08.735Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2022-10-11T00:00:00.000Z",
-    "endDate": "2025-06-02T12:27:00.000Z"
+    "endDate": "2025-06-03T01:10:08.733Z"
   },
   "distribution": [
     {
@@ -33,6 +33,30 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 121-022A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
+      "datePublished": "2025-06-03T01:10:08.733Z",
+      "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-022A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
+      "datePublished": "2025-06-02T18:20:00.000Z",
+      "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Tomada de subsídios recebe contribuições sobre licença e habilitação de Mecânico de Manutenção Aeronáutica até 14/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-recebe-contribuicoes-sobre-licenca-e-habilitacao-de-mecanico-de-manutencaoaeronautica-ate-17-7",
+      "datePublished": "2025-06-02T17:02:00.000Z",
+      "description": "Procedimento pretende receber contribuições para definir temas prioritários da revisão das regras de habilitação e atuação desses profissionais",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac apresenta proposta para modernizar regras na operação de drones no dia 3/6",
@@ -179,8 +203,8 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17094, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17094-28-05-2025",
+      "name": "PORTARIA Nº 17094/SPO, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17094",
       "datePublished": "2025-05-28T00:00:00.000Z",
       "description": "Aprova a Instrução Suplementar nº 121-022A.",
       "type": "legislação"
@@ -188,17 +212,9 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17095/SPL, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17095-spl-28-05-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17095",
       "datePublished": "2025-05-28T00:00:00.000Z",
       "description": "Autoriza o centro de instrução AZUL LINHAS AÉREAS BRASILEIRAS S.A. a ministrar cursos em Segurança da Aviação Civil contra Atos de  Interferência Ilícita - AVSEC.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17087/SPO, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17087-spo-28-05-2025",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa ASES TÁXI AÉREO LTDA.",
       "type": "legislação"
     },
     {
@@ -317,7 +333,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17042/SIA, 22/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17042-sia-22-05-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17042",
       "datePublished": "2025-05-22T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0657 no cadastro de aeródromos.",
       "type": "legislação"
@@ -352,7 +368,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17025/SIA, 20/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17025-sia-20-05-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17025",
       "datePublished": "2025-05-20T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0658 no cadastro de aeródromos.",
       "type": "legislação"
@@ -535,15 +551,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos",
-      "datePublished": "2025-05-09T22:07:00.000Z",
-      "description": "Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos/aena-cgh-00261.jpg/@@images/3d629ae1-1bda-4102-baf6-430688daddf7.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 706, 07/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706",
@@ -629,14 +636,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-768",
       "datePublished": "2025-03-14T00:00:00.000Z",
       "description": "Aprova a Emenda 36 ao RBAC nº 33",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 209, 10/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209",
-      "datePublished": "2025-03-10T00:00:00.000Z",
-      "description": "Institui a Política de Inteligência Artificial e a Estratégia de Inteligência Artificial da ANAC",
       "type": "legislação"
     },
     {

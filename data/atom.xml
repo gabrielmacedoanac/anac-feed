@@ -4,13 +4,70 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8d4f38ee-64b6-4bd0-b3b2-522afb35aa96</id>
-  <updated>2025-06-02T12:27:00.000Z</updated>
+  <id>urn:uuid:anac-feed-b78e3344-251d-442d-b836-e4995410b737</id>
+  <updated>2025-06-03T01:10:08.733Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 121-022A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022</id>
+    <published>2025-06-03T01:10:08.733Z</published>
+    <updated>2025-06-03T01:10:08.733Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)</summary>
+    <content type="html"><![CDATA[
+      <p>Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 121-022A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022</id>
+    <published>2025-06-02T18:20:00.000Z</published>
+    <updated>2025-06-02T18:20:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)</summary>
+    <content type="html"><![CDATA[
+      <p>Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Tomada de subsídios recebe contribuições sobre licença e habilitação de Mecânico de Manutenção Aeronáutica até 14/7</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-recebe-contribuicoes-sobre-licenca-e-habilitacao-de-mecanico-de-manutencaoaeronautica-ate-17-7" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-recebe-contribuicoes-sobre-licenca-e-habilitacao-de-mecanico-de-manutencaoaeronautica-ate-17-7</id>
+    <published>2025-06-02T17:02:00.000Z</published>
+    <updated>2025-06-02T17:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimento pretende receber contribuições para definir temas prioritários da revisão das regras de habilitação e atuação desses profissionais</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimento pretende receber contribuições para definir temas prioritários da revisão das regras de habilitação e atuação desses profissionais</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -475,9 +532,9 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17094, 28/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17094-28-05-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17094-28-05-2025</id>
+    <title type="html">PORTARIA Nº 17094/SPO, 28/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17094" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17094</id>
     <published>2025-05-28T00:00:00.000Z</published>
     <updated>2025-05-28T00:00:00.000Z</updated>
     <author>
@@ -495,8 +552,8 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
   
   <entry>
     <title type="html">PORTARIA Nº 17095/SPL, 28/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17095-spl-28-05-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17095-spl-28-05-2025</id>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17095" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17095</id>
     <published>2025-05-28T00:00:00.000Z</published>
     <updated>2025-05-28T00:00:00.000Z</updated>
     <author>
@@ -505,25 +562,6 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
     <summary type="html">Autoriza o centro de instrução AZUL LINHAS AÉREAS BRASILEIRAS S.A. a ministrar cursos em Segurança da Aviação Civil contra Atos de  Interferência Ilícita - AVSEC.</summary>
     <content type="html"><![CDATA[
       <p>Autoriza o centro de instrução AZUL LINHAS AÉREAS BRASILEIRAS S.A. a ministrar cursos em Segurança da Aviação Civil contra Atos de  Interferência Ilícita - AVSEC.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17087/SPO, 28/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17087-spo-28-05-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17087-spo-28-05-2025</id>
-    <published>2025-05-28T00:00:00.000Z</published>
-    <updated>2025-05-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação do Certificado de Operador Aéreo Empresa ASES TÁXI AÉREO LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação do Certificado de Operador Aéreo Empresa ASES TÁXI AÉREO LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -796,8 +834,8 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   <entry>
     <title type="html">PORTARIA Nº 17042/SIA, 22/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17042-sia-22-05-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17042-sia-22-05-2025</id>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17042" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17042</id>
     <published>2025-05-22T00:00:00.000Z</published>
     <updated>2025-05-22T00:00:00.000Z</updated>
     <author>
@@ -872,8 +910,8 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   <entry>
     <title type="html">PORTARIA Nº 17025/SIA, 20/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17025-sia-20-05-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17025-sia-20-05-2025</id>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17025</id>
     <published>2025-05-20T00:00:00.000Z</published>
     <updated>2025-05-20T00:00:00.000Z</updated>
     <author>
@@ -1289,25 +1327,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   
   <entry>
-    <title type="html">Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos</id>
-    <published>2025-05-09T22:07:00.000Z</published>
-    <updated>2025-05-09T22:07:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas</summary>
-    <content type="html"><![CDATA[
-      <p>Companhia não cumpriu meta de regularidade de voos e posições da temporada atual poderão ser disponibilizadas a outras empresas</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aereas-poderao-utilizar-temporariamente-slots-da-voepass-em-congonhas-e-guarulhos/aena-cgh-00261.jpg/@@images/3d629ae1-1bda-4102-baf6-430688daddf7.jpeg" alt="Aéreas poderão utilizar temporariamente slots da Voepass em Congonhas e Guarulhos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 706, 07/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706</id>
@@ -1509,25 +1528,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <summary type="html">Aprova a Emenda 36 ao RBAC nº 33</summary>
     <content type="html"><![CDATA[
       <p>Aprova a Emenda 36 ao RBAC nº 33</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">INSTRUÇÃO NORMATIVA Nº 209, 10/03/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-209</id>
-    <published>2025-03-10T00:00:00.000Z</published>
-    <updated>2025-03-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Institui a Política de Inteligência Artificial e a Estratégia de Inteligência Artificial da ANAC</summary>
-    <content type="html"><![CDATA[
-      <p>Institui a Política de Inteligência Artificial e a Estratégia de Inteligência Artificial da ANAC</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
