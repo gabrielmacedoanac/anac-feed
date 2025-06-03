@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c78a3cf1-8baf-4848-94eb-ec8565fc0fbe",
+  "identifier": "urn:uuid:anac-feed-be71b142-9208-4208-9494-6d6b0d237945",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-03T12:28:56.750Z",
-  "dateModified": "2025-06-03T12:28:56.750Z",
+  "dateCreated": "2025-06-03T16:19:09.339Z",
+  "dateModified": "2025-06-03T16:19:09.339Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2022-10-11T00:00:00.000Z",
-    "endDate": "2025-06-03T12:28:56.748Z"
+    "endDate": "2025-06-03T16:19:09.336Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-03T12:28:56.748Z",
+      "datePublished": "2025-06-03T16:19:09.336Z",
       "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre consulta pública para atualizar regras de operação de drones",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-para-atualizar-regras-de-operacao-de-drones",
+      "datePublished": "2025-06-03T13:10:00.000Z",
+      "description": "Proposta busca modernizar o regulamento de 2017, ampliar a segurança das operações e fortalecer o desenvolvimento do setor",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-para-atualizar-regras-de-operacao-de-drones/linkedin-1.png/@@images/cdd8f2ae-4735-43da-817c-c1b5eeda5b7a.png",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -245,7 +254,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17075/SPO, 27/05/2025",
+      "name": "PORTARIA Nº 17075/SIA, 27/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17075",
       "datePublished": "2025-05-27T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD TO0158 no cadastro de aeródromos",
@@ -540,14 +549,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-galeao-e-de-confins-sao-reajustados",
       "datePublished": "2025-05-13T16:44:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac promove encontro com ASTM International sobre normas técnicas da aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-encontro-com-astm-international-sobre-normas-tecnicas-da-aviacao-civil",
-      "datePublished": "2025-05-13T08:10:00.000Z",
-      "description": "Agência quer ampliar a participação do Brasil no desenvolvimento de normas internacionais",
       "type": "notícia"
     },
     {
