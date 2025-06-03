@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-be71b142-9208-4208-9494-6d6b0d237945</id>
-  <updated>2025-06-03T16:19:09.336Z</updated>
+  <id>urn:uuid:anac-feed-fe62d222-107e-4644-96cd-160b983c0c87</id>
+  <updated>2025-06-03T20:16:10.026Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 121-022A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022</id>
-    <published>2025-06-03T16:19:09.336Z</published>
-    <updated>2025-06-03T16:19:09.336Z</updated>
+    <published>2025-06-03T20:16:10.026Z</published>
+    <updated>2025-06-03T20:16:10.026Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia</id>
+    <published>2025-06-03T16:36:00.000Z</published>
+    <updated>2025-06-03T16:36:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Cinco pessoas com deficiência foram sorteadas e farão um voo de incentivo em uma aeronave adaptada para pilotos com deficiência nos membros inferiores</summary>
+    <content type="html"><![CDATA[
+      <p>Cinco pessoas com deficiência foram sorteadas e farão um voo de incentivo em uma aeronave adaptada para pilotos com deficiência nos membros inferiores</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia/aviacao_inclusiva__youtube-2.png/@@images/8e984abd-cc56-405a-9775-d3a11c3feb42.png" alt="Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário sobre certificação de laboratórios será reagendado</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/webinario-sobre-certificacao-de-laboratorios-sera-reagendado" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/webinario-sobre-certificacao-de-laboratorios-sera-reagendado</id>
+    <published>2025-06-03T15:20:00.000Z</published>
+    <updated>2025-06-03T15:20:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Nova data do evento será divulgada futuramente no portal da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Nova data do evento será divulgada futuramente no portal da Agência</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -273,6 +311,25 @@ Participe!</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17120/SIA, 30/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17120" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17120</id>
+    <published>2025-05-30T00:00:00.000Z</published>
+    <updated>2025-05-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a aplicação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Internacional de Belém/Val de Cans/Júlio Cezar Ribeiro (Código OACI: SBBE; Código CIAD: SP0002)</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a aplicação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Internacional de Belém/Val de Cans/Júlio Cezar Ribeiro (Código OACI: SBBE; Código CIAD: SP0002)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
     <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
@@ -494,25 +551,6 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17103/SPO, 28/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17103" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17103</id>
-    <published>2025-05-28T00:00:00.000Z</published>
-    <updated>2025-05-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Manual de Procedimento - MPR/SPO-058-R01</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Manual de Procedimento - MPR/SPO-058-R01</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos</title>
     <link href="https://www.youtube.com/watch?v=974dC6O1zPk" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=974dC6O1zPk</id>
@@ -702,9 +740,9 @@ Participe!</p>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MS0393 no cadastro de aeródromos.</summary>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MS0393 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MS0393 no cadastro de aeródromos.</p>
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MS0393 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -721,9 +759,9 @@ Participe!</p>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0028 no cadastro de aeródromos.</summary>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0028 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0028 no cadastro de aeródromos.</p>
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0028 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1270,25 +1308,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   
   <entry>
-    <title type="html">Participe do Webinário BHEST sobre gestão do risco meteorológico em helicópteros, no dia 29/5, às 16h</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h</id>
-    <published>2025-05-14T12:15:00.000Z</published>
-    <updated>2025-05-14T12:15:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento online reunirá especialistas para discutir prevenção de riscos em operações com helicópteros e será transmitido ao vivo no YouTube</summary>
-    <content type="html"><![CDATA[
-      <p>Evento online reunirá especialistas para discutir prevenção de riscos em operações com helicópteros e será transmitido ao vivo no YouTube</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/participe-do-webinario-bhest-sobre-gestao-do-risco-meteorologico-em-helicopteros-no-dia-29-5-as-16h/linkedin-bhest.png/@@images/56853241-8b04-4607-8b75-32f0f87744b9.png" alt="Participe do Webinário BHEST sobre gestão do risco meteorológico em helicópteros, no dia 29/5, às 16h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 707, 14/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707</id>
@@ -1304,25 +1323,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tetos das tarifas aeroportuárias do Galeão e de Confins são reajustados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-galeao-e-de-confins-sao-reajustados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-galeao-e-de-confins-sao-reajustados</id>
-    <published>2025-05-13T16:44:00.000Z</published>
-    <updated>2025-05-13T16:44:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</summary>
-    <content type="html"><![CDATA[
-      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1544,9 +1544,9 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Sem descrição</summary>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
     <content type="html"><![CDATA[
-      <p>Sem descrição</p>
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
