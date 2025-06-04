@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-17eaaafb-47f5-4ce4-8b50-d179ca175405",
+  "identifier": "urn:uuid:anac-feed-75ae4e06-eab9-4e56-a78e-be040c9b149c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-04T12:28:45.324Z",
-  "dateModified": "2025-06-04T12:28:45.324Z",
+  "dateCreated": "2025-06-04T16:16:31.206Z",
+  "dateModified": "2025-06-04T16:16:31.206Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2022-11-30T00:00:00.000Z",
-    "endDate": "2025-06-04T12:28:45.322Z"
+    "endDate": "2025-06-04T16:16:31.204Z"
   },
   "distribution": [
     {
@@ -37,9 +37,17 @@
       "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-04T12:28:45.322Z",
+      "datePublished": "2025-06-04T16:16:31.204Z",
       "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac revoga suspensão de transporte aéreo de mala postal após acordo operacional entre Correios e empresas aéreas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-revoga-suspensao-de-transporte-aereo-de-mala-postal-apos-apresentacao-de-acordo-operacional-entre-correios-e-empresas-aereas",
+      "datePublished": "2025-06-04T12:50:00.000Z",
+      "description": "Prevista para vigorar a partir desta quarta-feira, 4/6, medida foi adotada para garantir cumprimento de requisitos de segurança operacional",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -560,14 +568,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Participe da semana de encontros para profissionais da manutenção aeronáutica",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/participe-da-semana-de-encontros-para-profissionais-da-manutencao-aeronautica",
-      "datePublished": "2025-05-14T16:03:00.000Z",
-      "description": "Semana do MMA acontecerá entre 19 e 23/5, online, com transmissão ao vivo",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 707, 14/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707",
@@ -684,14 +684,6 @@
       "name": "PORTARIA Nº 10325/SPO, 20/01/2023",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-10325",
       "datePublished": "2023-01-20T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 9954/SPO, 06/12/2022",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9954",
-      "datePublished": "2022-12-06T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
       "type": "legislação"
     },

@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-17eaaafb-47f5-4ce4-8b50-d179ca175405</id>
-  <updated>2025-06-04T12:28:45.322Z</updated>
+  <id>urn:uuid:anac-feed-75ae4e06-eab9-4e56-a78e-be040c9b149c</id>
+  <updated>2025-06-04T16:16:31.204Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 121-022A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022</id>
-    <published>2025-06-04T12:28:45.322Z</published>
-    <updated>2025-06-04T12:28:45.322Z</updated>
+    <published>2025-06-04T16:16:31.204Z</published>
+    <updated>2025-06-04T16:16:31.204Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac revoga suspensão de transporte aéreo de mala postal após acordo operacional entre Correios e empresas aéreas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-revoga-suspensao-de-transporte-aereo-de-mala-postal-apos-apresentacao-de-acordo-operacional-entre-correios-e-empresas-aereas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-revoga-suspensao-de-transporte-aereo-de-mala-postal-apos-apresentacao-de-acordo-operacional-entre-correios-e-empresas-aereas</id>
+    <published>2025-06-04T12:50:00.000Z</published>
+    <updated>2025-06-04T12:50:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Prevista para vigorar a partir desta quarta-feira, 4/6, medida foi adotada para garantir cumprimento de requisitos de segurança operacional</summary>
+    <content type="html"><![CDATA[
+      <p>Prevista para vigorar a partir desta quarta-feira, 4/6, medida foi adotada para garantir cumprimento de requisitos de segurança operacional</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1368,25 +1387,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   
   <entry>
-    <title type="html">Participe da semana de encontros para profissionais da manutenção aeronáutica</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/participe-da-semana-de-encontros-para-profissionais-da-manutencao-aeronautica" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/participe-da-semana-de-encontros-para-profissionais-da-manutencao-aeronautica</id>
-    <published>2025-05-14T16:03:00.000Z</published>
-    <updated>2025-05-14T16:03:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Semana do MMA acontecerá entre 19 e 23/5, online, com transmissão ao vivo</summary>
-    <content type="html"><![CDATA[
-      <p>Semana do MMA acontecerá entre 19 e 23/5, online, com transmissão ao vivo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 707, 14/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707</id>
@@ -1658,25 +1658,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-10325</id>
     <published>2023-01-20T00:00:00.000Z</published>
     <updated>2023-01-20T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 9954/SPO, 06/12/2022</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9954" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9954</id>
-    <published>2022-12-06T00:00:00.000Z</published>
-    <updated>2022-12-06T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
