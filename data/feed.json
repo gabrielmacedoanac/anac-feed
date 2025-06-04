@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-75ae4e06-eab9-4e56-a78e-be040c9b149c",
+  "identifier": "urn:uuid:anac-feed-76bcb7b6-54ce-4c1d-b4d3-c7a1474c5be1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-04T16:16:31.206Z",
-  "dateModified": "2025-06-04T16:16:31.206Z",
+  "dateCreated": "2025-06-04T20:12:49.900Z",
+  "dateModified": "2025-06-04T20:12:49.900Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2022-11-30T00:00:00.000Z",
-    "endDate": "2025-06-04T16:16:31.204Z"
+    "startDate": "2025-03-14T00:00:00.000Z",
+    "endDate": "2025-06-04T20:12:49.898Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-04T16:16:31.204Z",
+      "datePublished": "2025-06-04T20:12:49.898Z",
       "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
       "type": "legislação"
     },
@@ -111,18 +111,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17121, 02/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17121",
+      "name": "PORTARIA Nº 17125/SAF, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17125",
       "datePublished": "2025-06-02T00:00:00.000Z",
-      "description": "Aprova o Plano de Atuação Internacional - PAI da ANAC para o ano de 2025",
+      "description": "Designa Gestor de Contrato",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
+      "name": "PORTARIA Nº 17122/SAF, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17122",
       "datePublished": "2025-06-02T00:00:00.000Z",
-      "description": "Estabelece diretrizes para a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC",
+      "description": "Designa Gestor de Contrato",
       "type": "legislação"
     },
     {
@@ -158,6 +158,30 @@
       "description": "Seja bem-vindo!\n\nPalestra: Aplicando SRE a serviço digitais (site Reliability Engineering)\nFormato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.\nLink do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe\n\nModerador: Felipe Sarmanho, da Anac\n\nPainelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17116/SAF, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17116",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17118/SAF, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17118",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17113/SAF, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17113",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -235,6 +259,62 @@
       "description": "Moderação: Felipe Cruz, da Anac\n\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos \n\nServiços de Transporte Aéreo de Passageiros da Anac\n\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
       "image": "https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17097/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17097",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17101/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17101",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17099/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17099",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17098/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17098",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17102/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17102",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17100/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17100",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17096/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17096",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -317,46 +397,6 @@
       "description": "Link do Slido (perguntas): https://app.sli.do/event/6Ejb5AXeCjpBcxD2EG9dFw",
       "image": "https://i2.ytimg.com/vi/Q4YcEPd0ZLM/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17078/SPL, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17078",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17075/SIA, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17075",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0158 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17083/SPO, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17083",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da WDF CONSULTORIA E SERVICOS EM AVIACAO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17072/SIA, 27/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17072",
-      "datePublished": "2025-05-27T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0393 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17066/SIA, 26/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17066",
-      "datePublished": "2025-05-26T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0028 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -661,38 +701,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-768",
       "datePublished": "2025-03-14T00:00:00.000Z",
       "description": "Aprova a Emenda 36 ao RBAC nº 33",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 11332/SPO, 16/05/2023",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-11332",
-      "datePublished": "2023-05-16T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 11331/SPO, 16/05/2023",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-11331",
-      "datePublished": "2023-05-16T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 10325/SPO, 20/01/2023",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-no-10325",
-      "datePublished": "2023-01-20T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 9904/SPL, 30/11/2022",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2022/portaria-no-9904",
-      "datePublished": "2022-11-30T00:00:00.000Z",
-      "description": "Credencia médico em conformidade com o RBAC nº 67 - Murilo Fonseca Bortolozzi, CRM/MG 42008, MC 279",
       "type": "legislação"
     }
   ]
