@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d9ee0dfc-40c0-442f-96c0-9ce849b905ee",
+  "identifier": "urn:uuid:anac-feed-d298b339-165b-4a04-bd4a-a470939e9c64",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-05T08:19:23.904Z",
-  "dateModified": "2025-06-05T08:19:23.904Z",
+  "dateCreated": "2025-06-05T12:28:56.662Z",
+  "dateModified": "2025-06-05T12:28:56.662Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-05T08:19:23.902Z"
+    "endDate": "2025-06-04T12:50:00.000Z"
   },
   "distribution": [
     {
@@ -33,14 +33,6 @@
     }
   ],
   "items": [
-    {
-      "@type": "Legislation",
-      "name": "IS 121-022A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-05T08:19:23.902Z",
-      "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
-      "type": "legislação"
-    },
     {
       "@type": "NewsArticle",
       "name": "Anac revoga suspensão de transporte aéreo de mala postal após acordo operacional entre Correios e empresas aéreas",
@@ -123,6 +115,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17122",
       "datePublished": "2025-06-02T00:00:00.000Z",
       "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17124/SIA, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17124",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Autoriza a AIRBUS HELICOPTERS INC., a conduzir treinamentos e respectivos exames segundo o RBAC nº 142",
       "type": "legislação"
     },
     {
@@ -214,14 +214,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17106",
       "datePublished": "2025-05-29T00:00:00.000Z",
       "description": "Exclui os aeródromos de uso privativo abaixo listados do cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17107/SPO, 29/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17107",
-      "datePublished": "2025-05-29T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
