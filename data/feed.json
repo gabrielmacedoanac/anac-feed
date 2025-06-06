@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-93d0aad5-86a6-4da7-9cc8-5e0b63298cd9",
+  "identifier": "urn:uuid:anac-feed-93931ae9-397a-48ce-8600-8bd4807426e9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-06T08:20:50.601Z",
-  "dateModified": "2025-06-06T08:20:50.601Z",
+  "dateCreated": "2025-06-06T12:27:57.263Z",
+  "dateModified": "2025-06-06T12:27:57.263Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -60,6 +60,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17132/SIA, 04/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17132",
+      "datePublished": "2025-06-04T00:00:00.000Z",
+      "description": "Exclui o Aeródromo de uso privativo Fazenda Formosa (BA) no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia",
@@ -87,6 +95,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17129/SPL, 03/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17129",
+      "datePublished": "2025-06-03T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
       "datePublished": "2025-06-02T18:20:00.000Z",
@@ -109,6 +125,14 @@
       "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17123/SIA, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17123",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Aprova o Plano Diretor do Aeroporto Comandante Antonio Amilton Beraldo / Ponta Grossa, PR (SBPG) - (CIAD: PR0012)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -170,6 +194,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17110/SIA, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17110",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD MG0632 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17116/SAF, 30/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17116",
       "datePublished": "2025-05-30T00:00:00.000Z",
@@ -190,14 +222,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17113",
       "datePublished": "2025-05-30T00:00:00.000Z",
       "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17120/SIA, 30/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17120",
-      "datePublished": "2025-05-30T00:00:00.000Z",
-      "description": "Torna pública a aplicação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Internacional de Belém/Val de Cans/Júlio Cezar Ribeiro (Código OACI: SBBE; Código CIAD: SP0002)",
       "type": "legislação"
     },
     {
@@ -319,34 +343,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17089/SIA, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17089",
+      "name": "PORTARIA Nº 17086/SIA, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17086",
       "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1129 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17085/SIA, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17085",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD RS0224 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17084/SIA, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17084",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0095 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17088/SPL, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17088",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Revoga credenciamento de médico em conformidade com o RBAC nº 67",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD SP1228 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -434,6 +434,14 @@
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17053/SIA, 23/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17053",
+      "datePublished": "2025-05-23T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD MG0643 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
