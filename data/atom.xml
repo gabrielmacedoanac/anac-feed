@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-93931ae9-397a-48ce-8600-8bd4807426e9</id>
-  <updated>2025-06-05T17:51:00.000Z</updated>
+  <id>urn:uuid:anac-feed-ddd8e9b9-fd02-49a7-82a1-8593846280cb</id>
+  <updated>2025-06-06T11:56:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Provas teóricas da Anac aplicadas pela FGV estão suspensas temporariamente</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente</id>
+    <published>2025-06-06T11:56:00.000Z</published>
+    <updated>2025-06-06T11:56:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Exames para obtenção de licenças e habilitações de profissionais da aviação não poderão ser agendados a partir de 6/6</summary>
+    <content type="html"><![CDATA[
+      <p>Exames para obtenção de licenças e habilitações de profissionais da aviação não poderão ser agendados a partir de 6/6</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente/portal.png/@@images/b19c7c7f-38ee-470a-9307-8b7e78d3cae7.png" alt="Provas teóricas da Anac aplicadas pela FGV estão suspensas temporariamente">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -89,6 +108,25 @@ Contamos com sua participação para promover o alinhamento técnico e regulató
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17138/CRG, 04/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17138" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17138</id>
+    <published>2025-06-04T00:00:00.000Z</published>
+    <updated>2025-06-04T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reconduz Comissão de Processo Administrativo Disciplinar</summary>
+    <content type="html"><![CDATA[
+      <p>Reconduz Comissão de Processo Administrativo Disciplinar</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -577,25 +615,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17106/SIA, 29/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17106" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17106</id>
-    <published>2025-05-29T00:00:00.000Z</published>
-    <updated>2025-05-29T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Exclui os aeródromos de uso privativo abaixo listados do cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Exclui os aeródromos de uso privativo abaixo listados do cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1418,25 +1437,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp/20250513_104747.jpg/@@images/4f0b0ceb-0796-41b8-b5d2-5ce7812d3034.jpeg" alt="Anac participa de atividades educacionais para jovens em São José dos Campos (SP)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac é reconhecida com Selo Ouro da Fiesp por excelência regulatória</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-reconhecida-com-selo-ouro-da-fiesp-por-excelencia-regulatoria</id>
-    <published>2025-05-15T14:26:00.000Z</published>
-    <updated>2025-05-15T14:26:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Avaliação destacou agenda regulatória, impacto das normas e participação social</summary>
-    <content type="html"><![CDATA[
-      <p>Avaliação destacou agenda regulatória, impacto das normas e participação social</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
