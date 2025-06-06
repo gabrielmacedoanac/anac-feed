@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-7050f286-f42d-4971-94d7-cf14302da422</id>
-  <updated>2025-06-04T12:50:00.000Z</updated>
+  <id>urn:uuid:anac-feed-8cde39a9-85c0-4417-94a8-e3f48eb5d9a2</id>
+  <updated>2025-06-05T17:51:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac promove webinário sobre SGSO para fabricantes aeronáuticos no dia 12/6</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6</id>
+    <published>2025-06-05T17:51:00.000Z</published>
+    <updated>2025-06-05T17:51:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor</summary>
+    <content type="html"><![CDATA[
+      <p>Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6/linkedin_webinarios_anac_sgso_fabricantes.png/@@images/08738640-991a-43e5-a4a6-117ac317c61f.png" alt="Anac promove webinário sobre SGSO para fabricantes aeronáuticos no dia 12/6">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1440,25 +1459,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo</id>
-    <published>2025-05-14T16:48:00.000Z</published>
-    <updated>2025-05-14T16:48:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento ocorre no dia 30/5, entre as 14h e 16h, e poderá ser acessado diretamente pelo canal de Youtube da Agência</summary>
-    <content type="html"><![CDATA[
-      <p>Evento ocorre no dia 30/5, entre as 14h e 16h, e poderá ser acessado diretamente pelo canal de Youtube da Agência</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo/portal-1.png/@@images/c9dcbef4-c477-4fae-94cf-1ef8cf61c6cb.png" alt="Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

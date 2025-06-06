@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7050f286-f42d-4971-94d7-cf14302da422",
+  "identifier": "urn:uuid:anac-feed-8cde39a9-85c0-4417-94a8-e3f48eb5d9a2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-05T20:13:24.044Z",
-  "dateModified": "2025-06-05T20:13:24.044Z",
+  "dateCreated": "2025-06-06T01:09:20.563Z",
+  "dateModified": "2025-06-06T01:09:20.563Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-04T12:50:00.000Z"
+    "endDate": "2025-06-05T17:51:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac promove webinário sobre SGSO para fabricantes aeronáuticos no dia 12/6",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6",
+      "datePublished": "2025-06-05T17:51:00.000Z",
+      "description": "Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6/linkedin_webinarios_anac_sgso_fabricantes.png/@@images/08738640-991a-43e5-a4a6-117ac317c61f.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac revoga suspensão de transporte aéreo de mala postal após acordo operacional entre Correios e empresas aéreas",
@@ -589,15 +598,6 @@
       "datePublished": "2025-05-15T00:00:00.000Z",
       "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realiza webinário sobre novas regras sobre a atuação de laboratórios de ensaios de inflamabilidade no setor aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo",
-      "datePublished": "2025-05-14T16:48:00.000Z",
-      "description": "Evento ocorre no dia 30/5, entre as 14h e 16h, e poderá ser acessado diretamente pelo canal de Youtube da Agência",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-novas-regras-sobre-a-atuacao-de-laboratorios-de-ensaios-de-inflamabilidade-no-setor-aereo/portal-1.png/@@images/c9dcbef4-c477-4fae-94cf-1ef8cf61c6cb.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
