@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 09 Jun 2025 08:21:01 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Jun 2025 08:21:01 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 12:28:46 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 12:28:46 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -41,6 +41,23 @@
       <content:encoded><![CDATA[
         <p>Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6/linkedin_webinarios_anac_sgso_fabricantes.png/@@images/08738640-991a-43e5-a4a6-117ac317c61f.png" alt="Anac promove webinário sobre SGSO para fabricantes aeronáuticos no dia 12/6">
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17145/SPL, 05/06/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17145</link>
+      <description>Torna público a suspensão do Certificado de Centro de Instrução de Aviação Civil emitido em favor do Aeroclube de Batatais</description>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17145</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-06-05T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna público a suspensão do Certificado de Centro de Instrução de Aviação Civil emitido em favor do Aeroclube de Batatais</p>
+        
       ]]></content:encoded>
     </item>
     
@@ -300,23 +317,6 @@ Contamos com sua participação para promover o alinhamento técnico e regulató
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Designa Gestor de Contrato</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17124/SIA, 02/06/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17124</link>
-      <description>Autoriza a AIRBUS HELICOPTERS INC., a conduzir treinamentos e respectivos exames segundo o RBAC nº 142</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17124</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-06-02T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Autoriza a AIRBUS HELICOPTERS INC., a conduzir treinamentos e respectivos exames segundo o RBAC nº 142</p>
         
       ]]></content:encoded>
     </item>

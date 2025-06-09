@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0eef3393-3823-4849-a6b9-d11aa2f9ffb4</id>
+  <id>urn:uuid:anac-feed-5015f6c1-4fed-4236-a024-cadb0c8d44e1</id>
   <updated>2025-06-06T11:56:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -48,6 +48,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17145/SPL, 05/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17145" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17145</id>
+    <published>2025-06-05T00:00:00.000Z</published>
+    <updated>2025-06-05T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público a suspensão do Certificado de Centro de Instrução de Aviação Civil emitido em favor do Aeroclube de Batatais</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público a suspensão do Certificado de Centro de Instrução de Aviação Civil emitido em favor do Aeroclube de Batatais</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -332,25 +351,6 @@ Contamos com sua participação para promover o alinhamento técnico e regulató
     <summary type="html">Designa Gestor de Contrato</summary>
     <content type="html"><![CDATA[
       <p>Designa Gestor de Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17124/SIA, 02/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17124" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17124</id>
-    <published>2025-06-02T00:00:00.000Z</published>
-    <updated>2025-06-02T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Autoriza a AIRBUS HELICOPTERS INC., a conduzir treinamentos e respectivos exames segundo o RBAC nº 142</summary>
-    <content type="html"><![CDATA[
-      <p>Autoriza a AIRBUS HELICOPTERS INC., a conduzir treinamentos e respectivos exames segundo o RBAC nº 142</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
