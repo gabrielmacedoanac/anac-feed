@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-637a20db-9824-453b-86aa-393ef31431cc",
+  "identifier": "urn:uuid:anac-feed-284a6a5a-98fa-48ab-9f2f-526285532fd9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-09T16:18:17.169Z",
-  "dateModified": "2025-06-09T16:18:17.169Z",
+  "dateCreated": "2025-06-09T20:15:48.254Z",
+  "dateModified": "2025-06-09T20:15:48.254Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-09T14:00:47.000Z"
+    "endDate": "2025-06-09T15:31:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre consulta setorial sobre aprovação de sistemas de contenção para crianças",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
+      "datePublished": "2025-06-09T15:31:00.000Z",
+      "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones",
@@ -581,15 +589,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac",
       "datePublished": "2025-05-16T17:15:00.000Z",
       "description": "Agência reúne especialistas para abordar como a inteligência artificial impacta em inovação e eficiência na aviação civil",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac participa de atividades educacionais para jovens em São José dos Campos (SP)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp",
-      "datePublished": "2025-05-16T17:01:00.000Z",
-      "description": "Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp/20250513_104747.jpg/@@images/4f0b0ceb-0796-41b8-b5d2-5ce7812d3034.jpeg",
       "type": "notícia"
     },
     {

@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-637a20db-9824-453b-86aa-393ef31431cc</id>
-  <updated>2025-06-09T14:00:47.000Z</updated>
+  <id>urn:uuid:anac-feed-284a6a5a-98fa-48ab-9f2f-526285532fd9</id>
+  <updated>2025-06-09T15:31:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac abre consulta setorial sobre aprovação de sistemas de contenção para crianças</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas</id>
+    <published>2025-06-09T15:31:00.000Z</published>
+    <updated>2025-06-09T15:31:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1440,25 +1459,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Agência reúne especialistas para abordar como a inteligência artificial impacta em inovação e eficiência na aviação civil</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac participa de atividades educacionais para jovens em São José dos Campos (SP)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp</id>
-    <published>2025-05-16T17:01:00.000Z</published>
-    <updated>2025-05-16T17:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio</summary>
-    <content type="html"><![CDATA[
-      <p>Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp/20250513_104747.jpg/@@images/4f0b0ceb-0796-41b8-b5d2-5ce7812d3034.jpeg" alt="Anac participa de atividades educacionais para jovens em São José dos Campos (SP)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
