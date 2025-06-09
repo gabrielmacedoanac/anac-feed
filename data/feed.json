@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-edd9646f-046b-44a0-8a79-6432674bb232",
+  "identifier": "urn:uuid:anac-feed-e64c7751-deb0-423d-9c1b-8ee134b49b52",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-09T01:13:00.370Z",
-  "dateModified": "2025-06-09T01:13:00.370Z",
+  "dateCreated": "2025-06-09T04:26:31.304Z",
+  "dateModified": "2025-06-09T04:26:31.304Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-05-16T17:01:00.000Z",
+    "startDate": "2025-03-14T00:00:00.000Z",
     "endDate": "2025-06-06T11:56:00.000Z"
   },
   "distribution": [
@@ -69,6 +69,22 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17138/CRG, 04/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17138",
+      "datePublished": "2025-06-04T00:00:00.000Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17132/SIA, 04/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17132",
+      "datePublished": "2025-06-04T00:00:00.000Z",
+      "description": "Exclui o Aeródromo de uso privativo Fazenda Formosa (BA) no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia",
@@ -95,6 +111,22 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17129/SPL, 03/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17129",
+      "datePublished": "2025-06-03T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-022A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
+      "datePublished": "2025-06-02T18:20:00.000Z",
+      "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Tomada de subsídios recebe contribuições sobre licença e habilitação de Mecânico de Manutenção Aeronáutica até 14/7",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-recebe-contribuicoes-sobre-licenca-e-habilitacao-de-mecanico-de-manutencaoaeronautica-ate-17-7",
@@ -110,6 +142,46 @@
       "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17123/SIA, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17123",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Aprova o Plano Diretor do Aeroporto Comandante Antonio Amilton Beraldo / Ponta Grossa, PR (SBPG) - (CIAD: PR0012)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17125/SAF, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17125",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17122/SAF, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17122",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17124/SIA, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17124",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Autoriza a AIRBUS HELICOPTERS INC., a conduzir treinamentos e respectivos exames segundo o RBAC nº 142",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Estabelece diretrizes para a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -136,6 +208,38 @@
       "description": "Seja bem-vindo!\n\nPalestra: Aplicando SRE a serviço digitais (site Reliability Engineering)\nFormato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.\nLink do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe\n\nModerador: Felipe Sarmanho, da Anac\n\nPainelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17110/SIA, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17110",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD MG0632 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17116/SAF, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17116",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17118/SAF, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17118",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17113/SAF, 30/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17113",
+      "datePublished": "2025-05-30T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -191,6 +295,70 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17097/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17097",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17101/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17101",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17099/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17099",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17098/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17098",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17102/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17102",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17100/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17100",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17096/SAF, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17096",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17086/SIA, 28/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17086",
+      "datePublished": "2025-05-28T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD SP1228 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos",
       "url": "https://www.youtube.com/watch?v=974dC6O1zPk",
@@ -198,6 +366,22 @@
       "description": "Seja bem-vindo!\nWebinário - Consulta Pública Tema 11 Agenda Regulatória - SGSO em fabricantes aeronáuticos, dia 12 de junho, das 14h às 16h.\nO evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.\nPara perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9HWuWuoncugZ\nMais informações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-consulta-publica-tema-11-agenda-regulatoria-sgso-em-fabricantes-aeronauticos\nParticipe!",
       "image": "https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 183-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
+      "datePublished": "2025-05-27T18:24:00.000Z",
+      "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 183-002I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
+      "datePublished": "2025-05-27T18:16:00.000Z",
+      "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -259,6 +443,14 @@
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17053/SIA, 23/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17053",
+      "datePublished": "2025-05-23T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD MG0643 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -342,6 +534,22 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 212, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-212",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Institui a Política de Governança e Gestão de Contratações da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 213, 19/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-213",
+      "datePublished": "2025-05-19T00:00:00.000Z",
+      "description": "Estabelece os critérios e procedimentos para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório na ANAC",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Pousos e decolagens da aviação geral em Congonhas terão novas regras",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pousos-e-decolagens-da-aviacao-geral-em-congonhas-terao-novas-regras",
@@ -383,6 +591,118 @@
       "description": "Apoiado pela Agência, projeto Newton In A Box chega ao Brasil com oficinas de Ciências, Tecnologia, Engenharia e Matemática para estudantes de ensino médio",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-atividades-educacionais-para-jovens-em-sao-jose-dos-campos-sp/20250513_104747.jpg/@@images/4f0b0ceb-0796-41b8-b5d2-5ce7812d3034.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 709, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 708, 15/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708",
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 707, 14/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-707",
+      "datePublished": "2025-05-14T00:00:00.000Z",
+      "description": "Revisa o Fluxo de Caixa Marginal aprovado pela Decisão nº 698, de 14 de janeiro de 2025, do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 706, 07/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-706",
+      "datePublished": "2025-05-07T00:00:00.000Z",
+      "description": "Define a Receita Teto do Aeroporto Santos Dumont, localizado no Rio de Janeiro (RJ), administrado pela Empresa Brasileira de Infraestrutura Aeroportuária - Infraero",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 211, 17/04/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-211",
+      "datePublished": "2025-04-17T00:00:00.000Z",
+      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 90-001A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-001",
+      "datePublished": "2025-04-15T18:14:00.000Z",
+      "description": "Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 90",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 117-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001",
+      "datePublished": "2025-04-15T18:11:00.000Z",
+      "description": "Conceitos básicos sobre fadiga humana",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 90-002A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002",
+      "datePublished": "2025-04-11T18:04:00.000Z",
+      "description": "Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 21.197-001A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001a",
+      "datePublished": "2025-03-31T10:28:00.000Z",
+      "description": "Autorização Especial de Voo (AEV)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
+      "datePublished": "2025-03-31T00:00:00.000Z",
+      "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 769, 27/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769",
+      "datePublished": "2025-03-27T00:00:00.000Z",
+      "description": "Altera a Resolução nº 739, de 21 de março de 2024",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 120-017A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-017",
+      "datePublished": "2025-03-20T19:02:00.000Z",
+      "description": "Programa de Confiabilidade – Padrões para determinar limitações de tempo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA CONJUNTA RFB/ANAC Nº 524, 19/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-rfb-anac-524",
+      "datePublished": "2025-03-19T00:00:00.000Z",
+      "description": "Dispõe sobre a participação da Agência Nacional de Aviação Civil - Anac no Programa Brasileiro de Operador Econômico Autorizado - Programa OEA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 768, 14/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-768",
+      "datePublished": "2025-03-14T00:00:00.000Z",
+      "description": "Aprova a Emenda 36 ao RBAC nº 33",
+      "type": "legislação"
     }
   ]
 }
