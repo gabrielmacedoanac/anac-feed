@@ -4,13 +4,54 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5015f6c1-4fed-4236-a024-cadb0c8d44e1</id>
-  <updated>2025-06-06T11:56:00.000Z</updated>
+  <id>urn:uuid:anac-feed-637a20db-9824-453b-86aa-393ef31431cc</id>
+  <updated>2025-06-09T14:00:47.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones</title>
+    <link href="https://www.youtube.com/watch?v=I1BtI840LHs" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=I1BtI840LHs</id>
+    <published>2025-06-09T14:00:47.000Z</published>
+    <updated>2025-06-09T14:00:47.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.
+
+Programação: 
+• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto
+• 1h20 subsequentes - Apresentação do assunto:
+o Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)
+o Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)
+o Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)
+o Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)
+• 30 minutos finais - Esclarecimento de dúvidas.
+
+Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</summary>
+    <content type="html"><![CDATA[
+      <p>O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.
+
+Programação: 
+• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto
+• 1h20 subsequentes - Apresentação do assunto:
+o Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)
+o Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)
+o Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)
+o Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)
+• 30 minutos finais - Esclarecimento de dúvidas.
+
+Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</p>
+      <img src="https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg" alt="Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -763,6 +804,25 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17090/SPO, 28/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17090" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17090</id>
+    <published>2025-05-28T00:00:00.000Z</published>
+    <updated>2025-05-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Manual de Procedimento - MPR/SPO-150-R00</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Manual de Procedimento - MPR/SPO-150-R00</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17097/SAF, 28/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17097" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17097</id>
@@ -888,25 +948,6 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
     <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
     <content type="html"><![CDATA[
       <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17086/SIA, 28/05/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17086" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17086</id>
-    <published>2025-05-28T00:00:00.000Z</published>
-    <updated>2025-05-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Heliponto de uso privativo elevado CIAD SP1228 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Heliponto de uso privativo elevado CIAD SP1228 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1209,25 +1250,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV</p>
       <img src="https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg" alt="Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana MMA - Carreira para MMA de helicópteros</title>
-    <link href="https://www.youtube.com/watch?v=_9gw_ysGyHg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=_9gw_ysGyHg</id>
-    <published>2025-05-20T20:12:50.000Z</published>
-    <updated>2025-05-20T20:12:50.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</summary>
-    <content type="html"><![CDATA[
-      <p>Link Slido: https://app.sli.do/event/aZTqZYB1RDiH2SFYW7DQQk</p>
-      <img src="https://i4.ytimg.com/vi/_9gw_ysGyHg/hqdefault.jpg" alt="Semana MMA - Carreira para MMA de helicópteros">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
