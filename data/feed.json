@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-08186a9c-243b-4252-998b-61da5b64484b",
+  "identifier": "urn:uuid:anac-feed-a89f2b57-60ed-41ca-a8cc-e67203401832",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-10T12:29:25.255Z",
-  "dateModified": "2025-06-10T12:29:25.255Z",
+  "dateCreated": "2025-06-10T16:18:22.905Z",
+  "dateModified": "2025-06-10T16:18:22.905Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-09T15:31:00.000Z"
+    "endDate": "2025-06-10T11:47:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6",
+      "datePublished": "2025-06-10T11:47:00.000Z",
+      "description": "Evento gratuito e aberto ao público terá transmissão ao vivo e espaço para envio de perguntas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6/linkedin.png/@@images/222e77bc-fc5e-4da7-8adb-ace84bf93649.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac abre consulta setorial sobre aprovação de sistemas de contenção para crianças",
@@ -241,14 +250,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17129/SPL, 03/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17129",
-      "datePublished": "2025-06-03T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
       "datePublished": "2025-06-02T18:20:00.000Z",
@@ -346,6 +347,14 @@
       "datePublished": "2025-05-29T12:58:00.000Z",
       "description": "Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17109/SIA, 29/05/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17109",
+      "datePublished": "2025-05-29T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimentos MPR/SIA 804-R05",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -589,14 +598,6 @@
       "datePublished": "2025-05-16T17:30:00.000Z",
       "description": "Empresa encerrou atividades outubro de 2021 e criou canal para orientar passageiros afetados",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados/linkedin.png/@@images/38554d5b-834f-48d6-a715-c0dcb56faf61.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Digital Week: inscrições abertas para o evento de transformação digital da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac",
-      "datePublished": "2025-05-16T17:15:00.000Z",
-      "description": "Agência reúne especialistas para abordar como a inteligência artificial impacta em inovação e eficiência na aviação civil",
       "type": "notícia"
     },
     {

@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-08186a9c-243b-4252-998b-61da5b64484b</id>
-  <updated>2025-06-09T15:31:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a89f2b57-60ed-41ca-a8cc-e67203401832</id>
+  <updated>2025-06-10T11:47:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6</id>
+    <published>2025-06-10T11:47:00.000Z</published>
+    <updated>2025-06-10T11:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento gratuito e aberto ao público terá transmissão ao vivo e espaço para envio de perguntas</summary>
+    <content type="html"><![CDATA[
+      <p>Evento gratuito e aberto ao público terá transmissão ao vivo e espaço para envio de perguntas</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6/linkedin.png/@@images/222e77bc-fc5e-4da7-8adb-ace84bf93649.png" alt="Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -533,25 +552,6 @@ Contamos com sua participação para promover o alinhamento técnico e regulató
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17129/SPL, 03/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17129" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17129</id>
-    <published>2025-06-03T00:00:00.000Z</published>
-    <updated>2025-06-03T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 121-022A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022</id>
@@ -846,6 +846,25 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17109/SIA, 29/05/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17109" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17109</id>
+    <published>2025-05-29T00:00:00.000Z</published>
+    <updated>2025-05-29T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Manual de Procedimentos MPR/SIA 804-R05</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Manual de Procedimentos MPR/SIA 804-R05</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1459,25 +1478,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Empresa encerrou atividades outubro de 2021 e criou canal para orientar passageiros afetados</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados/linkedin.png/@@images/38554d5b-834f-48d6-a715-c0dcb56faf61.png" alt="Alitalia: passageiros ainda podem solicitar reembolso de bilhetes e vouchers não utilizados">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Digital Week: inscrições abertas para o evento de transformação digital da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac</id>
-    <published>2025-05-16T17:15:00.000Z</published>
-    <updated>2025-05-16T17:15:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência reúne especialistas para abordar como a inteligência artificial impacta em inovação e eficiência na aviação civil</summary>
-    <content type="html"><![CDATA[
-      <p>Agência reúne especialistas para abordar como a inteligência artificial impacta em inovação e eficiência na aviação civil</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
