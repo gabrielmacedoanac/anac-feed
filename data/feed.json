@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-11d1305d-8653-4cea-b4c1-a8e8aaf3427e",
+  "identifier": "urn:uuid:anac-feed-e364322a-904f-4c49-90c0-95481dc5eae0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-11T08:19:40.683Z",
-  "dateModified": "2025-06-11T08:19:40.683Z",
+  "dateCreated": "2025-06-11T12:29:03.412Z",
+  "dateModified": "2025-06-11T12:29:03.412Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -43,6 +43,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARI Nº 17154/SIA, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac abre consulta setorial sobre aprovação de sistemas de contenção para crianças",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
@@ -60,6 +68,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17168/SPL, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17168",
+      "datePublished": "2025-06-09T00:00:00.000Z",
+      "description": "Revoga as autorizações de funcionamento e as homologações dos cursos teóricos e práticos, de acordo com os autos do processo 00065.008673/2024-39",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Provas teóricas da Anac aplicadas pela FGV estão suspensas temporariamente",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente",
@@ -70,10 +86,34 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17158/SIA, 06/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17158",
+      "datePublished": "2025-06-06T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto de Pelotas, Código OACI: SBPK; Código CIAD: RS0005, em Pelotas (RS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17162/SPL, 06/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17162",
+      "datePublished": "2025-06-06T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "DECISÃO Nº 710, 06/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-710",
       "datePublished": "2025-06-06T00:00:00.000Z",
       "description": "Revoga as Decisões nºs 26, de 21 de março de 2018, e 537 de 7 de junho de 2022, relacionadas à coordenação do Aeroporto de Belo Horizonte/Pampulha - Carlos Drummond de Andrade (SBBH)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17153/SIA, 06/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17153",
+      "datePublished": "2025-06-06T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CASTORO 10 (9PKV)",
       "type": "legislação"
     },
     {
@@ -110,30 +150,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17149/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17149",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17151/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17151",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17148/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17148",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 710, 06/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-710",
       "datePublished": "2025-06-06T00:00:00.000Z",
@@ -151,10 +167,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17145/SPL, 05/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17145",
+      "name": "PORTARIA Nº 17143/SPO, 05/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17143",
       "datePublished": "2025-06-05T00:00:00.000Z",
-      "description": "Torna público a suspensão do Certificado de Centro de Instrução de Aviação Civil emitido em favor do Aeroclube de Batatais",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa ICON G TÁXI AÉREO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17144/SPO, 05/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17144",
+      "datePublished": "2025-06-05T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da AERO TAXI POTY LTDA.",
       "type": "legislação"
     },
     {
@@ -173,6 +197,14 @@
       "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.",
       "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17136/SIA, 04/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17136",
+      "datePublished": "2025-06-04T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0378 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -196,22 +228,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17133",
       "datePublished": "2025-06-04T00:00:00.000Z",
       "description": "Autoriza a CIRRUS DESIGN CORPORATION a conduzir treinamentos e respectivos exames teóricos e práticos de acordo com o RBAC nº 142",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17138/CRG, 04/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17138",
-      "datePublished": "2025-06-04T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17132/SIA, 04/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17132",
-      "datePublished": "2025-06-04T00:00:00.000Z",
-      "description": "Exclui o Aeródromo de uso privativo Fazenda Formosa (BA) no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -283,14 +299,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17123/SIA, 02/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17123",
-      "datePublished": "2025-06-02T00:00:00.000Z",
-      "description": "Aprova o Plano Diretor do Aeroporto Comandante Antonio Amilton Beraldo / Ponta Grossa, PR (SBPG) - (CIAD: PR0012)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
       "datePublished": "2025-06-02T00:00:00.000Z",
@@ -322,14 +330,6 @@
       "description": "Seja bem-vindo!\n\nPalestra: Aplicando SRE a serviço digitais (site Reliability Engineering)\nFormato: Presencial no Auditório da Sede da ANAC, com transmissão pelo Canal Oficial do YouTube.\nLink do Slido (perguntas): https://app.sli.do/event/gbetPBeFzBEF5upm1M9SPe\n\nModerador: Felipe Sarmanho, da Anac\n\nPainelista 1: José Eduardo Nogueira, observability specialist, da Ipnet by VIVO\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17110/SIA, 30/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17110",
-      "datePublished": "2025-05-30T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo elevado CIAD MG0632 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
