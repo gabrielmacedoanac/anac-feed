@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0e24bec4-6e3c-4796-b65a-3fb89de84f05",
+  "identifier": "urn:uuid:anac-feed-94b8a53c-7659-433c-86ca-c2f25d348519",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-11T16:18:39.665Z",
-  "dateModified": "2025-06-11T16:18:39.665Z",
+  "dateCreated": "2025-06-11T20:14:50.121Z",
+  "dateModified": "2025-06-11T20:14:50.121Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-10T11:47:00.000Z"
+    "endDate": "2025-06-11T14:32:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac receives contributions for public consultation on aeronautical product and article certification",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-receives-contributions-for-public-consultation-on-aeronautical-product-and-article-certification",
+      "datePublished": "2025-06-11T14:32:00.000Z",
+      "description": "Suggestions can be submitted until July 14th through the Participa + Brasil website",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6",
@@ -48,14 +56,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17178",
       "datePublished": "2025-06-10T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARI Nº 17154/SIA, 10/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154",
-      "datePublished": "2025-06-10T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)",
       "type": "legislação"
     },
     {
@@ -99,6 +99,14 @@
       "description": "Exames para obtenção de licenças e habilitações de profissionais da aviação não poderão ser agendados a partir de 6/6",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente/portal.png/@@images/b19c7c7f-38ee-470a-9307-8b7e78d3cae7.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARI Nº 17154/SIA, 06/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154",
+      "datePublished": "2025-06-06T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -580,15 +588,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pousos-e-decolagens-da-aviacao-geral-em-congonhas-terao-novas-regras",
       "datePublished": "2025-05-16T19:30:00.000Z",
       "description": "Mudanças serão implementadas após estruturação realizada por Anac, Decea e concessionária. Objetivo é aprimorar a utilização da infraestrutura do aeroporto.",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo",
-      "datePublished": "2025-05-16T17:56:00.000Z",
-      "description": "Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo/img_9899-1-2.png/@@images/fc289ab8-6eb4-4d4e-9cd3-eb385b22a05c.png",
       "type": "notícia"
     },
     {

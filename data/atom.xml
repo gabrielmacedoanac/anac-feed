@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0e24bec4-6e3c-4796-b65a-3fb89de84f05</id>
-  <updated>2025-06-10T11:47:00.000Z</updated>
+  <id>urn:uuid:anac-feed-94b8a53c-7659-433c-86ca-c2f25d348519</id>
+  <updated>2025-06-11T14:32:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac receives contributions for public consultation on aeronautical product and article certification</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-receives-contributions-for-public-consultation-on-aeronautical-product-and-article-certification" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-receives-contributions-for-public-consultation-on-aeronautical-product-and-article-certification</id>
+    <published>2025-06-11T14:32:00.000Z</published>
+    <updated>2025-06-11T14:32:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Suggestions can be submitted until July 14th through the Participa + Brasil website</summary>
+    <content type="html"><![CDATA[
+      <p>Suggestions can be submitted until July 14th through the Participa + Brasil website</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -44,25 +63,6 @@
     <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
     <content type="html"><![CDATA[
       <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARI Nº 17154/SIA, 10/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154</id>
-    <published>2025-06-10T00:00:00.000Z</published>
-    <updated>2025-06-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -184,6 +184,25 @@ Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARI Nº 17154/SIA, 06/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154</id>
+    <published>2025-06-06T00:00:00.000Z</published>
+    <updated>2025-06-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Guararapes - Gilberto Freyre, Código OACI: SBRF; Código CIAD: PE0001, em Recife (PE)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1440,25 +1459,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Mudanças serão implementadas após estruturação realizada por Anac, Decea e concessionária. Objetivo é aprimorar a utilização da infraestrutura do aeroporto.</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo</id>
-    <published>2025-05-16T17:56:00.000Z</published>
-    <updated>2025-05-16T17:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas</summary>
-    <content type="html"><![CDATA[
-      <p>Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo/img_9899-1-2.png/@@images/fc289ab8-6eb4-4d4e-9cd3-eb385b22a05c.png" alt="Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
