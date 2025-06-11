@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e364322a-904f-4c49-90c0-95481dc5eae0",
+  "identifier": "urn:uuid:anac-feed-0e24bec4-6e3c-4796-b65a-3fb89de84f05",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-11T12:29:03.412Z",
-  "dateModified": "2025-06-11T12:29:03.412Z",
+  "dateCreated": "2025-06-11T16:18:39.665Z",
+  "dateModified": "2025-06-11T16:18:39.665Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -44,6 +44,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17178/SAF, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17178",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARI Nº 17154/SIA, 10/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17154",
       "datePublished": "2025-06-10T00:00:00.000Z",
@@ -66,6 +74,14 @@
       "description": "O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.\n\nProgramação: \n• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto\n• 1h20 subsequentes - Apresentação do assunto:\no Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)\no Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)\no Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)\no Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)\n• 30 minutos finais - Esclarecimento de dúvidas.\n\nDúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb",
       "image": "https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17172/SAF, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17172",
+      "datePublished": "2025-06-09T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -128,22 +144,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17160/SPL, 06/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17160",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17152/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17152",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Credencia médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17150/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17150",
       "datePublished": "2025-06-06T00:00:00.000Z",
       "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
       "type": "legislação"
