@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-92a9c3d5-c053-4310-b6aa-56a41ba1e8d3",
+  "identifier": "urn:uuid:anac-feed-79990055-9cd4-437a-bc0a-243b6dc3bab6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-12T04:21:21.419Z",
-  "dateModified": "2025-06-12T04:21:21.419Z",
+  "dateCreated": "2025-06-12T12:28:26.799Z",
+  "dateModified": "2025-06-12T12:28:26.799Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-10T11:47:00.000Z"
+    "endDate": "2025-06-12T07:55:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 183-002I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
+      "datePublished": "2025-06-12T07:55:00.000Z",
+      "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6",
@@ -44,10 +52,34 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17184/SPL, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17184",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de mecânico de manutenção aeronáutica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17180/SPL, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17180",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17178/SAF, 10/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17178",
       "datePublished": "2025-06-10T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17181/SPL, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17181",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -77,6 +109,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17170/SPO, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17170",
+      "datePublished": "2025-06-09T00:00:00.000Z",
+      "description": "Torna pública a suspensão a pedido do Cadastro de FOREST AVIATION LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17168/SPL, 09/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17168",
       "datePublished": "2025-06-09T00:00:00.000Z",
@@ -91,6 +131,22 @@
       "description": "Exames para obtenção de licenças e habilitações de profissionais da aviação não poderão ser agendados a partir de 6/6",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente/portal.png/@@images/b19c7c7f-38ee-470a-9307-8b7e78d3cae7.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17161/SIA, 06/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17161",
+      "datePublished": "2025-06-06T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE CARAGUATATUBA (9PJT)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17155/SPO, 06/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17155",
+      "datePublished": "2025-06-06T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Operador Aéreo Empresa VISTA AVIATION LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -134,22 +190,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17159/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17159",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17160/SPL, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17160",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 710, 06/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-710",
       "datePublished": "2025-06-06T00:00:00.000Z",
@@ -164,6 +204,22 @@
       "description": "Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6/linkedin_webinarios_anac_sgso_fabricantes.png/@@images/08738640-991a-43e5-a4a6-117ac317c61f.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17141/SIA, 05/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17141-sia-05-06-2025",
+      "datePublished": "2025-06-05T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD RJ0114 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17146/SIA, 05/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17146",
+      "datePublished": "2025-06-05T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0500 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -207,30 +263,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17135/SIA, 04/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17135",
-      "datePublished": "2025-06-04T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1486 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17137/SIA, 04/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17137",
-      "datePublished": "2025-06-04T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD CE0180 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17133/SPL, 04/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17133",
-      "datePublished": "2025-06-04T00:00:00.000Z",
-      "description": "Autoriza a CIRRUS DESIGN CORPORATION a conduzir treinamentos e respectivos exames teóricos e práticos de acordo com o RBAC nº 142",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia",
@@ -258,14 +290,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17131/SIA, 03/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17131",
-      "datePublished": "2025-06-03T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0201 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 121-022A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
       "datePublished": "2025-06-02T18:20:00.000Z",
@@ -288,14 +312,6 @@
       "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17128/SIA, 02/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17128",
-      "datePublished": "2025-06-02T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0401 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -393,14 +409,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17090/SPO, 28/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17090",
-      "datePublished": "2025-05-28T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/SPO-150-R00",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos",
       "url": "https://www.youtube.com/watch?v=974dC6O1zPk",
@@ -415,14 +423,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
       "datePublished": "2025-05-27T18:24:00.000Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 183-002I",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-05-27T18:16:00.000Z",
-      "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
       "type": "legislação"
     },
     {
