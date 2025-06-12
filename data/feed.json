@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-79990055-9cd4-437a-bc0a-243b6dc3bab6",
+  "identifier": "urn:uuid:anac-feed-43f8397d-065c-4d05-810d-f590843249eb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-12T12:28:26.799Z",
-  "dateModified": "2025-06-12T12:28:26.799Z",
+  "dateCreated": "2025-06-12T16:17:34.709Z",
+  "dateModified": "2025-06-12T16:17:34.709Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -413,7 +413,7 @@
       "name": "Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos",
       "url": "https://www.youtube.com/watch?v=974dC6O1zPk",
       "datePublished": "2025-05-27T21:46:38.000Z",
-      "description": "Seja bem-vindo!\nWebinário - Consulta Pública Tema 11 Agenda Regulatória - SGSO em fabricantes aeronáuticos, dia 12 de junho, das 14h às 16h.\nO evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.\nPara perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9HWuWuoncugZ\nMais informações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-consulta-publica-tema-11-agenda-regulatoria-sgso-em-fabricantes-aeronauticos\nParticipe!",
+      "description": "O webinário visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.\n\nPara dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9H\n\nPara participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.",
       "image": "https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg",
       "type": "vídeo"
     },
