@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-48a88564-2887-4367-8603-6ab7fa59002f</id>
-  <updated>2025-06-13T06:39:47.000Z</updated>
+  <id>urn:uuid:anac-feed-b740b659-f268-4147-95fc-5ccc06fcf24b</id>
+  <updated>2025-06-13T15:27:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Seminário discute proteção do consumidor e judicialização no transporte aéreo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo</id>
+    <published>2025-06-13T15:27:00.000Z</published>
+    <updated>2025-06-13T15:27:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento reuniu integrantes do Ministério Público e da Agência em Brasília (DF) para aprofundar debates sobre regulação e atuação estatal</summary>
+    <content type="html"><![CDATA[
+      <p>Evento reuniu integrantes do Ministério Público e da Agência em Brasília (DF) para aprofundar debates sobre regulação e atuação estatal</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo/whatsapp-image-2025-06-13-at-15-56-40.jpeg/@@images/7e909b5b-8ed6-4f44-9f06-d06747e09b0a.jpeg" alt="Seminário discute proteção do consumidor e judicialização no transporte aéreo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac quer saber: como foi cadastrar seu drone?</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone</id>
+    <published>2025-06-13T14:24:00.000Z</published>
+    <updated>2025-06-13T14:24:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência busca aprimorar o sistema de cadastro, o Sisant, com base nas experiências dos usuários</summary>
+    <content type="html"><![CDATA[
+      <p>Agência busca aprimorar o sistema de cadastro, o Sisant, com base nas experiências dos usuários</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone/whatsapp-image-2025-06-13-at-14-25-35.jpeg/@@images/0c48435a-ae00-4741-a93c-7f685f46033b.jpeg" alt="Anac quer saber: como foi cadastrar seu drone?">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1438,44 +1476,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Mudanças serão implementadas após estruturação realizada por Anac, Decea e concessionária. Objetivo é aprimorar a utilização da infraestrutura do aeroporto.</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo</id>
-    <published>2025-05-16T17:56:00.000Z</published>
-    <updated>2025-05-16T17:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas</summary>
-    <content type="html"><![CDATA[
-      <p>Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo/img_9899-1-2.png/@@images/fc289ab8-6eb4-4d4e-9cd3-eb385b22a05c.png" alt="Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Alitalia: passageiros ainda podem solicitar reembolso de bilhetes e vouchers não utilizados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados</id>
-    <published>2025-05-16T17:30:00.000Z</published>
-    <updated>2025-05-16T17:30:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Empresa encerrou atividades outubro de 2021 e criou canal para orientar passageiros afetados</summary>
-    <content type="html"><![CDATA[
-      <p>Empresa encerrou atividades outubro de 2021 e criou canal para orientar passageiros afetados</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados/linkedin.png/@@images/38554d5b-834f-48d6-a715-c0dcb56faf61.png" alt="Alitalia: passageiros ainda podem solicitar reembolso de bilhetes e vouchers não utilizados">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

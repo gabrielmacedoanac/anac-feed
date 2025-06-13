@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-48a88564-2887-4367-8603-6ab7fa59002f",
+  "identifier": "urn:uuid:anac-feed-b740b659-f268-4147-95fc-5ccc06fcf24b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-13T16:17:55.537Z",
-  "dateModified": "2025-06-13T16:17:55.537Z",
+  "dateCreated": "2025-06-13T20:15:49.065Z",
+  "dateModified": "2025-06-13T20:15:49.065Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-13T06:39:47.000Z"
+    "endDate": "2025-06-13T15:27:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Seminário discute proteção do consumidor e judicialização no transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo",
+      "datePublished": "2025-06-13T15:27:00.000Z",
+      "description": "Evento reuniu integrantes do Ministério Público e da Agência em Brasília (DF) para aprofundar debates sobre regulação e atuação estatal",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo/whatsapp-image-2025-06-13-at-15-56-40.jpeg/@@images/7e909b5b-8ed6-4f44-9f06-d06747e09b0a.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac quer saber: como foi cadastrar seu drone?",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone",
+      "datePublished": "2025-06-13T14:24:00.000Z",
+      "description": "Agência busca aprimorar o sistema de cadastro, o Sisant, com base nas experiências dos usuários",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone/whatsapp-image-2025-06-13-at-14-25-35.jpeg/@@images/0c48435a-ae00-4741-a93c-7f685f46033b.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos",
@@ -580,24 +598,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pousos-e-decolagens-da-aviacao-geral-em-congonhas-terao-novas-regras",
       "datePublished": "2025-05-16T19:30:00.000Z",
       "description": "Mudanças serão implementadas após estruturação realizada por Anac, Decea e concessionária. Objetivo é aprimorar a utilização da infraestrutura do aeroporto.",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Semana Safety etapa Cuiabá: diálogo, cooperação e fortalecimento da segurança operacional na aviação da cidade e do campo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo",
-      "datePublished": "2025-05-16T17:56:00.000Z",
-      "description": "Evento reuniu especialistas, operadores e representantes da aviação civil para debater desafios e promover ações integradas em prol da segurança na Região Centro-Oeste incluindo as operações aeroagrícolas",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-etapa-cuiaba-dialogo-cooperacao-e-fortalecimento-da-seguranca-operacional-na-aviacao-da-cidade-e-do-campo/img_9899-1-2.png/@@images/fc289ab8-6eb4-4d4e-9cd3-eb385b22a05c.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Alitalia: passageiros ainda podem solicitar reembolso de bilhetes e vouchers não utilizados",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados",
-      "datePublished": "2025-05-16T17:30:00.000Z",
-      "description": "Empresa encerrou atividades outubro de 2021 e criou canal para orientar passageiros afetados",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/alitalia-passageiros-ainda-podem-solicitar-reembolso-de-bilhetes-e-vouchers-nao-utilizados/linkedin.png/@@images/38554d5b-834f-48d6-a715-c0dcb56faf61.png",
       "type": "notícia"
     },
     {
