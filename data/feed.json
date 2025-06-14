@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b740b659-f268-4147-95fc-5ccc06fcf24b",
+  "identifier": "urn:uuid:anac-feed-fa84cb40-b95e-4168-818e-1cd1bb9e227e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-13T20:15:49.065Z",
-  "dateModified": "2025-06-13T20:15:49.065Z",
+  "dateCreated": "2025-06-14T01:07:25.661Z",
+  "dateModified": "2025-06-14T01:07:25.661Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-14T00:00:00.000Z",
-    "endDate": "2025-06-13T15:27:00.000Z"
+    "endDate": "2025-06-13T20:30:10.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones",
+      "url": "https://www.youtube.com/watch?v=I1BtI840LHs",
+      "datePublished": "2025-06-13T20:30:10.000Z",
+      "description": "O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.\n\nProgramação: \n• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto\n• 1h20 subsequentes - Apresentação do assunto:\no Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)\no Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)\no Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)\no Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)\n• 30 minutos finais - Esclarecimento de dúvidas.\n\nDúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb",
+      "image": "https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Seminário discute proteção do consumidor e judicialização no transporte aéreo",
@@ -140,15 +149,6 @@
       "datePublished": "2025-06-09T15:31:00.000Z",
       "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones",
-      "url": "https://www.youtube.com/watch?v=I1BtI840LHs",
-      "datePublished": "2025-06-09T14:00:47.000Z",
-      "description": "O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.\n\nProgramação: \n• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto\n• 1h20 subsequentes - Apresentação do assunto:\no Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)\no Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)\no Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)\no Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)\n• 30 minutos finais - Esclarecimento de dúvidas.\n\nDúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb",
-      "image": "https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "Legislation",
