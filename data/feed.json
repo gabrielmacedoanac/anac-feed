@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9401ae47-b4d0-4d49-9d34-496647119bc1",
+  "identifier": "urn:uuid:anac-feed-dfef9373-8a45-4bcd-980b-1e847b5c38e5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-16T08:20:35.111Z",
-  "dateModified": "2025-06-16T08:20:35.111Z",
+  "dateCreated": "2025-06-16T12:29:36.234Z",
+  "dateModified": "2025-06-16T12:29:36.234Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -79,6 +79,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17203/SIA, 12/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17203",
+      "datePublished": "2025-06-12T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17204/SPL, 12/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17204",
+      "datePublished": "2025-06-12T00:00:00.000Z",
+      "description": "Defere pedido de Nível Equivalente de Segurança para os requisitos 23.1303, 23.1311(a)(3) e 23.1321(d) do RBHA nº 23, para os aviões Embraer EMB-500 e EMB-505",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17191/CRG, 11/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17191",
       "datePublished": "2025-06-11T00:00:00.000Z",
@@ -112,6 +128,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17186/SAR, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17186",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Defere pedido de Nível Equivalente de Segurança para os requisitos 23.1303, 23.1311(a)(3) e 23.1321(d) do RBHA nº 23, para os aviões Embraer EMB-500 e EMB-505",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17184/SPL, 10/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17184",
       "datePublished": "2025-06-10T00:00:00.000Z",
@@ -122,22 +146,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17180/SPL, 10/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17180",
-      "datePublished": "2025-06-10T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17178/SAF, 10/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17178",
-      "datePublished": "2025-06-10T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17181/SPL, 10/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17181",
       "datePublished": "2025-06-10T00:00:00.000Z",
       "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
       "type": "legislação"
@@ -183,14 +191,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17170/SPO, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17170",
-      "datePublished": "2025-06-09T00:00:00.000Z",
-      "description": "Torna pública a suspensão a pedido do Cadastro de FOREST AVIATION LTDA.",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Provas teóricas da Anac aplicadas pela FGV estão suspensas temporariamente",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente",
@@ -213,14 +213,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17161",
       "datePublished": "2025-06-06T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE CARAGUATATUBA (9PJT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17155/SPO, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17155",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Torna pública a suspensão do Certificado de Operador Aéreo Empresa VISTA AVIATION LTDA.",
       "type": "legislação"
     },
     {
@@ -331,6 +323,14 @@
       "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17127/SIA, 02/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17127",
+      "datePublished": "2025-06-02T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PI0056 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
