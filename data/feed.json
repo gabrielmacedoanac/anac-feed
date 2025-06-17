@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-be216f09-31b5-4fbe-880b-03d6b92bfc51",
+  "identifier": "urn:uuid:anac-feed-7cf2e5ca-682f-41a6-9b4c-01c684118749",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-16T20:16:03.454Z",
-  "dateModified": "2025-06-16T20:16:03.454Z",
+  "dateCreated": "2025-06-17T01:10:08.097Z",
+  "dateModified": "2025-06-17T01:10:08.097Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2021-10-28T00:00:00.000Z",
-    "endDate": "2025-06-16T15:59:00.000Z"
+    "endDate": "2025-06-16T18:25:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac AVSEC & Cyber Week: eventos reforçam compromisso da Agência com a segurança da aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao",
+      "datePublished": "2025-06-16T18:25:00.000Z",
+      "description": "XIII Jornada AVSEC e Cybersecurity Expo reuniram especialistas e promoveram debates estratégicos sobre proteção do setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao/whatsapp-image-2025-06-16-at-18-18-56.jpeg/@@images/e701cd60-28f4-42f0-8989-d35605d8632c.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil tem atuação de destaque em ações de combate ao tráfico de pessoas na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil",
+      "datePublished": "2025-06-16T17:44:00.000Z",
+      "description": "Delegação brasileira coordenou elaboração de manual e workshop sobre combate e prevenção ao tráfico de pessoas na aviação civil, além de indicar vice-presidente para grupo regional da Oaci",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil/image002.png/@@images/5a6bc232-be51-4b7d-b2ad-083909165a49.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Relatórios Anuais de Segurança Operacional de 2023 e 2024 já estão disponíveis",
@@ -572,24 +590,6 @@
       "datePublished": "2025-05-20T16:52:00.000Z",
       "description": "Fluxo doméstico alcançou 7,9 milhões de passageiros; setor internacional pela primeira vez supera a marca de 2 milhões de passageiros em abril",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e STJ discutem iniciativas para fomentar conciliação em conflitos de consumo no transporte aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-stj-discutem-iniciativas-para-fomentar-conciliacao-em-conflitos-de-consumo-no-transporte-aereo",
-      "datePublished": "2025-05-19T18:30:00.000Z",
-      "description": "Proposta é aprofundar cooperação com centros judiciais que têm mediadores e conciliadores capacitados para atendimento ao público",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-stj-discutem-iniciativas-para-fomentar-conciliacao-em-conflitos-de-consumo-no-transporte-aereo/reuniao-anac-e-stj-conciliacao-setor-aereo.jpeg/@@images/b1f4d114-08f7-4701-8e23-6001b614d2a7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Super App da Anac reúne em um só lugar todas as etapas para começar a carreira de piloto privado",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-reune-em-um-so-lugar-todas-as-etapas-para-comecar-a-carreira-de-piloto-privado",
-      "datePublished": "2025-05-19T18:17:00.000Z",
-      "description": "Versão 2.3 do app torna a jornada do aspirante à piloto mais simples e ainda inclui a emissão do CHT no próprio aplicativo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-reune-em-um-so-lugar-todas-as-etapas-para-comecar-a-carreira-de-piloto-privado/linkedin-19.png/@@images/0b207183-fd27-441a-ae4c-d9ef3045dc4a.png",
       "type": "notícia"
     },
     {

@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-be216f09-31b5-4fbe-880b-03d6b92bfc51</id>
-  <updated>2025-06-16T15:59:00.000Z</updated>
+  <id>urn:uuid:anac-feed-7cf2e5ca-682f-41a6-9b4c-01c684118749</id>
+  <updated>2025-06-16T18:25:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac AVSEC &amp; Cyber Week: eventos reforçam compromisso da Agência com a segurança da aviação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao</id>
+    <published>2025-06-16T18:25:00.000Z</published>
+    <updated>2025-06-16T18:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">XIII Jornada AVSEC e Cybersecurity Expo reuniram especialistas e promoveram debates estratégicos sobre proteção do setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>XIII Jornada AVSEC e Cybersecurity Expo reuniram especialistas e promoveram debates estratégicos sobre proteção do setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao/whatsapp-image-2025-06-16-at-18-18-56.jpeg/@@images/e701cd60-28f4-42f0-8989-d35605d8632c.jpeg" alt="Anac AVSEC & Cyber Week: eventos reforçam compromisso da Agência com a segurança da aviação">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Brasil tem atuação de destaque em ações de combate ao tráfico de pessoas na aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil</id>
+    <published>2025-06-16T17:44:00.000Z</published>
+    <updated>2025-06-16T17:44:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Delegação brasileira coordenou elaboração de manual e workshop sobre combate e prevenção ao tráfico de pessoas na aviação civil, além de indicar vice-presidente para grupo regional da Oaci</summary>
+    <content type="html"><![CDATA[
+      <p>Delegação brasileira coordenou elaboração de manual e workshop sobre combate e prevenção ao tráfico de pessoas na aviação civil, além de indicar vice-presidente para grupo regional da Oaci</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil/image002.png/@@images/5a6bc232-be51-4b7d-b2ad-083909165a49.png" alt="Brasil tem atuação de destaque em ações de combate ao tráfico de pessoas na aviação civil">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1419,44 +1457,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Fluxo doméstico alcançou 7,9 milhões de passageiros; setor internacional pela primeira vez supera a marca de 2 milhões de passageiros em abril</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png" alt="Movimentação de passageiros em abril bate novo recorde">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac e STJ discutem iniciativas para fomentar conciliação em conflitos de consumo no transporte aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-stj-discutem-iniciativas-para-fomentar-conciliacao-em-conflitos-de-consumo-no-transporte-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-stj-discutem-iniciativas-para-fomentar-conciliacao-em-conflitos-de-consumo-no-transporte-aereo</id>
-    <published>2025-05-19T18:30:00.000Z</published>
-    <updated>2025-05-19T18:30:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Proposta é aprofundar cooperação com centros judiciais que têm mediadores e conciliadores capacitados para atendimento ao público</summary>
-    <content type="html"><![CDATA[
-      <p>Proposta é aprofundar cooperação com centros judiciais que têm mediadores e conciliadores capacitados para atendimento ao público</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-stj-discutem-iniciativas-para-fomentar-conciliacao-em-conflitos-de-consumo-no-transporte-aereo/reuniao-anac-e-stj-conciliacao-setor-aereo.jpeg/@@images/b1f4d114-08f7-4701-8e23-6001b614d2a7.jpeg" alt="Anac e STJ discutem iniciativas para fomentar conciliação em conflitos de consumo no transporte aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Super App da Anac reúne em um só lugar todas as etapas para começar a carreira de piloto privado</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-reune-em-um-so-lugar-todas-as-etapas-para-comecar-a-carreira-de-piloto-privado" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-reune-em-um-so-lugar-todas-as-etapas-para-comecar-a-carreira-de-piloto-privado</id>
-    <published>2025-05-19T18:17:00.000Z</published>
-    <updated>2025-05-19T18:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Versão 2.3 do app torna a jornada do aspirante à piloto mais simples e ainda inclui a emissão do CHT no próprio aplicativo</summary>
-    <content type="html"><![CDATA[
-      <p>Versão 2.3 do app torna a jornada do aspirante à piloto mais simples e ainda inclui a emissão do CHT no próprio aplicativo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-reune-em-um-so-lugar-todas-as-etapas-para-comecar-a-carreira-de-piloto-privado/linkedin-19.png/@@images/0b207183-fd27-441a-ae4c-d9ef3045dc4a.png" alt="Super App da Anac reúne em um só lugar todas as etapas para começar a carreira de piloto privado">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
