@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4d4a0df7-b98b-44b1-a080-1db94823ca3c",
+  "identifier": "urn:uuid:anac-feed-da7c1749-2fd3-4688-b83e-c3460c65f766",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-17T08:20:08.869Z",
-  "dateModified": "2025-06-17T08:20:08.869Z",
+  "dateCreated": "2025-06-17T12:29:24.352Z",
+  "dateModified": "2025-06-17T12:29:24.352Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -211,18 +211,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17186/SAR, 10/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17186",
+      "name": "PORTARIA Nº 17179/SIA, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17179",
       "datePublished": "2025-06-10T00:00:00.000Z",
-      "description": "Defere pedido de Nível Equivalente de Segurança para os requisitos 23.1303, 23.1311(a)(3) e 23.1321(d) do RBHA nº 23, para os aviões Embraer EMB-500 e EMB-505",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Santa Maria (Código OACI: SBAR; Código CIAD: SE0001), em Aracaju (SE)",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17184/SPL, 10/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17184",
+      "name": "PORTARIA Nº 17186/SAR, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17186",
       "datePublished": "2025-06-10T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de mecânico de manutenção aeronáutica",
+      "description": "Defere pedido de Nível Equivalente de Segurança para os requisitos 23.1303, 23.1311(a)(3) e 23.1321(d) do RBHA nº 23, para os aviões Embraer EMB-500 e EMB-505",
       "type": "legislação"
     },
     {
