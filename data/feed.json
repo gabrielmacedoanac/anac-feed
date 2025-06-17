@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-da7c1749-2fd3-4688-b83e-c3460c65f766",
+  "identifier": "urn:uuid:anac-feed-2fecfc28-661e-417f-988a-2d2f6fe050d1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-17T12:29:24.352Z",
-  "dateModified": "2025-06-17T12:29:24.352Z",
+  "dateCreated": "2025-06-17T16:18:27.394Z",
+  "dateModified": "2025-06-17T16:18:27.394Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2021-10-28T00:00:00.000Z",
-    "endDate": "2025-06-16T18:25:00.000Z"
+    "endDate": "2025-06-17T10:18:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac inicia projeto de Dimensionamento da Força de Trabalho em parceria com o MGI",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-inicia-projeto-de-dimensionamento-da-forca-de-trabalho-em-parceria-com-o-mgi",
+      "datePublished": "2025-06-17T10:18:00.000Z",
+      "description": "Iniciativa busca aprimorar a gestão da força de trabalho com base em metodologia desenvolvida pelo ministério e pela UnB para diagnosticar a necessidade de novos servidores",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-inicia-projeto-de-dimensionamento-da-forca-de-trabalho-em-parceria-com-o-mgi/whatsapp-image-2025-06-17-at-09-26-22.jpeg/@@images/9ea7f0b1-a4ab-49e3-b38e-e22e969cf7f4.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac AVSEC & Cyber Week: eventos reforçam compromisso da Agência com a segurança da aviação",
@@ -67,6 +76,30 @@
       "description": "Anac realiza Dia da Aviação Inclusiva com voos para pessoas com deficiência em aeronave adaptada, a única disponível em escola de aviação na América Latina",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/voar-e-para-todos-evento-inedito-promove-inclusao-na-aviacao-civil-brasileira/118-anac.jpg/@@images/48c31969-21f4-431d-889c-1781598128a0.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17217/SAF, 16/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17217",
+      "datePublished": "2025-06-16T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17221/SAF, 16/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17221",
+      "datePublished": "2025-06-16T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17218/SAF, 16/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17218",
+      "datePublished": "2025-06-16T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -250,14 +283,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17171/SIA, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17171",
-      "datePublished": "2025-06-09T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0301 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Provas teóricas da Anac aplicadas pela FGV estão suspensas temporariamente",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente",
@@ -265,14 +290,6 @@
       "description": "Exames para obtenção de licenças e habilitações de profissionais da aviação não poderão ser agendados a partir de 6/6",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente/portal.png/@@images/b19c7c7f-38ee-470a-9307-8b7e78d3cae7.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17156/SIA, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17156",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0080 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -435,14 +452,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17104/SIA, 29/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17104",
-      "datePublished": "2025-05-29T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0251 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "28/05 - Digital Week 2025, das 16h30 às 18h",
       "url": "https://www.youtube.com/watch?v=crgpnzzFz9s",
@@ -582,15 +591,6 @@
       "description": "Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV",
       "image": "https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Movimentação de passageiros em abril bate novo recorde",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde",
-      "datePublished": "2025-05-20T16:52:00.000Z",
-      "description": "Fluxo doméstico alcançou 7,9 milhões de passageiros; setor internacional pela primeira vez supera a marca de 2 milhões de passageiros em abril",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-em-abril-bate-novo-recorde/card-6-2.png/@@images/4c43ec3f-f444-4412-9862-24db90d6deda.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
