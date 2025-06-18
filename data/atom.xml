@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2a8abf20-6696-4902-863b-5107a61b2b9b</id>
-  <updated>2025-06-18T00:00:00.000Z</updated>
+  <id>urn:uuid:anac-feed-2bf02e23-a6bb-4943-8f97-e42a0926a941</id>
+  <updated>2025-06-18T14:06:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,40 +14,21 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17187/SIA, 18/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17187" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17187</id>
-    <published>2025-06-18T00:00:00.000Z</published>
-    <updated>2025-06-18T00:00:00.000Z</updated>
+    <title type="html">Novas regras de fiscalização e autuação passarão a valer em 2026</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-passarao-a-valer-em-2026" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-passarao-a-valer-em-2026</id>
+    <published>2025-06-18T14:06:00.000Z</published>
+    <updated>2025-06-18T14:06:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD GO0148 no cadastro de aeródromos</summary>
+    <summary type="html">Anac vai manter processos com as normas atuais até o final do ano, quando as áreas técnicas deverão ajustar atividades aos novos critérios da regulação responsiva</summary>
     <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD GO0148 no cadastro de aeródromos</p>
+      <p>Anac vai manter processos com as normas atuais até o final do ano, quando as áreas técnicas deverão ajustar atividades aos novos critérios da regulação responsiva</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17195/SIA, 18/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17195" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17195</id>
-    <published>2025-06-18T00:00:00.000Z</published>
-    <updated>2025-06-18T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0103 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0103 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -519,6 +500,25 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17187/SIA, 11/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17187" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17187</id>
+    <published>2025-06-11T00:00:00.000Z</published>
+    <updated>2025-06-11T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD GO0148 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD GO0148 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17202/SIA, 11/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17202" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17202</id>
@@ -549,6 +549,25 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
     <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0255 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0255 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17195/SIA, 11/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17195" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17195</id>
+    <published>2025-06-11T00:00:00.000Z</published>
+    <updated>2025-06-11T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0103 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0103 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1438,25 +1457,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Iniciativa tem o objetivo de orientar e combater ações de assédio nos aeroportos e aeronaves</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil/whatsapp-image-2025-05-22-at-10-23-38.jpeg/@@images/9d944286-a07a-4d54-8dfe-598b8919afea.jpeg" alt=""Assédio Não Decola": Anac e Mpor lançam guia para combater assédio e importunação sexual na aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Com apoio da Anac, Newton in a Box chega para estimular jovens a conhecer o mundo da aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/com-apoio-da-anac-newton-in-a-box-chega-ao-brasil-para-estimular-jovens-a-conhecer-o-mundo-da-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/com-apoio-da-anac-newton-in-a-box-chega-ao-brasil-para-estimular-jovens-a-conhecer-o-mundo-da-aviacao</id>
-    <published>2025-05-22T10:02:00.000Z</published>
-    <updated>2025-05-22T10:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Brasil foi o primeiro país do Hemisfério Sul a receber o projeto com oficinas em Ciências, Tecnologia, Engenharia e Matemática</summary>
-    <content type="html"><![CDATA[
-      <p>Brasil foi o primeiro país do Hemisfério Sul a receber o projeto com oficinas em Ciências, Tecnologia, Engenharia e Matemática</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/com-apoio-da-anac-newton-in-a-box-chega-ao-brasil-para-estimular-jovens-a-conhecer-o-mundo-da-aviacao/20250520_123804.jpg/@@images/f54dd618-6a07-4f83-becb-bc25ce7a026c.jpeg" alt="Com apoio da Anac, Newton in a Box chega para estimular jovens a conhecer o mundo da aviação">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
