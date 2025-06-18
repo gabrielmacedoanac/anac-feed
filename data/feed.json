@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-61fb79c3-c838-4715-90a5-5afef3bf91ee",
+  "identifier": "urn:uuid:anac-feed-bc408d17-2b3f-4ca3-b991-b18a5b4e9e9d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-18T08:19:53.616Z",
-  "dateModified": "2025-06-18T08:19:53.616Z",
+  "dateCreated": "2025-06-18T12:29:27.960Z",
+  "dateModified": "2025-06-18T12:29:27.960Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2021-10-28T00:00:00.000Z",
-    "endDate": "2025-06-17T10:18:00.000Z"
+    "endDate": "2025-06-18T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17195/SIA, 18/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17195",
+      "datePublished": "2025-06-18T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0103 no cadastro de aeródromos",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac inicia projeto de Dimensionamento da Força de Trabalho em parceria com o MGI",
@@ -195,6 +203,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17190/SIA, 11/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17190",
+      "datePublished": "2025-06-11T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0255 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17192/CRG, 11/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17192",
       "datePublished": "2025-06-11T00:00:00.000Z",
@@ -218,22 +234,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17196/SPL, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17196",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Descredenciamento de médicos e clínicas credenciados para emissão de laudos médicos periciais para emissão de Certificado Médico Aeronáutico - CMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17197/SPL, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17197",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Estabelece procedimento de alocação de recursos humanos para realização de exames de proficiência de profissionais de aviação civil afim de atendimento à restrição orçamentária estabelecida à ANAC conforme Decreto nº 12.477, de 30 de maio de 2025",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6",
@@ -241,6 +241,14 @@
       "description": "Evento gratuito e aberto ao público terá transmissão ao vivo e espaço para envio de perguntas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6/linkedin.png/@@images/222e77bc-fc5e-4da7-8adb-ace84bf93649.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17182/SPL, 10/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17182",
+      "datePublished": "2025-06-10T00:00:00.000Z",
+      "description": "Autoriza a BELL TEXTRON INC. a conduzir treinamentos e exames segundo o RBAC nº 142, com base no certificado EASA.ATO.0023",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -268,18 +276,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17174/SIA, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17174",
+      "name": "PORTARI Nº 17169/SIA, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17169",
       "datePublished": "2025-06-09T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0514 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17167/SIA, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17167",
-      "datePublished": "2025-06-09T00:00:00.000Z",
-      "description": "Exclui os aeródromos de uso privativo e os helipontos de uso privativo abaixo listados do cadastro de aeródromos",
+      "description": "Exclui os aeródromos de uso privativo e o heliponto de uso privativo abaixo listados do cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -332,6 +332,14 @@
       "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.",
       "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17134/SRA, 04/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17134",
+      "datePublished": "2025-06-04T00:00:00.000Z",
+      "description": "Publica a taxa de desconto a ser utilizada nos fluxos de caixa marginais para efeito de recomposição do equilíbrio econômico-financeiro dos aeroportos de Guarulhos, Campinas, Brasília, Fortaleza, Florianópolis, Porto Alegre, Salvador, Confins, Galeão, Bloco Nordeste, Bloco Centro-Oeste e Bloco Sudeste, no ano de 2026",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -442,14 +450,6 @@
       "datePublished": "2025-05-29T12:58:00.000Z",
       "description": "Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17105/SPO, 29/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17105",
-      "datePublished": "2025-05-29T00:00:00.000Z",
-      "description": "Tornar pública a Suspensão do Certificado de Organização de Manutenção da R.M.A. RONDONÓPOLIS MANUTENÇÃO DE AERONAVES",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
