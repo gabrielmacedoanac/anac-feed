@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2bf02e23-a6bb-4943-8f97-e42a0926a941",
+  "identifier": "urn:uuid:anac-feed-f9f16a6b-732d-4d16-9a6e-40aa4af38935",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-18T20:16:53.032Z",
-  "dateModified": "2025-06-18T20:16:53.032Z",
+  "dateCreated": "2025-06-19T01:10:22.204Z",
+  "dateModified": "2025-06-19T01:10:22.204Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-27T00:00:00.000Z",
-    "endDate": "2025-06-18T14:06:00.000Z"
+    "endDate": "2025-06-18T19:46:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac acompanha obras nos aeroportos do Mato Grosso do Sul e Macaé (RJ)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-acompanha-o-inicio-das-obras-nos-aeroportos-do-mato-grosso-do-sul-e-macae-rj",
+      "datePublished": "2025-06-18T19:46:00.000Z",
+      "description": "Foram apresentados os investimentos que serão feitos em Campo Grande, Corumbá, Ponta Porã e Dourados. Visita também marcou a entrega da nova pista de Macaé.",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-acompanha-o-inicio-das-obras-nos-aeroportos-do-mato-grosso-do-sul-e-macae-rj/whatsapp-image-2025-06-18-at-11-43-34.jpeg/@@images/113dda3c-4ddd-40dd-b732-cbe20211c3fb.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac ajusta procedimentos para realização de exames de proficiência",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-ajusta-procedimentos-para-realizacao-de-exames-de-proficiencia",
+      "datePublished": "2025-06-18T18:01:00.000Z",
+      "description": "Mudanças se aplicam a candidatos a licenças e habilitações de pilotos, comissários de voo e mecânicos de manutenção aeronáutica",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-ajusta-procedimentos-para-realizacao-de-exames-de-proficiencia/portal.png/@@images/b443e062-7844-4dca-9885-a49cfdae72e2.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Novas regras de fiscalização e autuação passarão a valer em 2026",
@@ -554,15 +572,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac certifica novo modelo Gulfstream G700",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-novo-modelo-gulfstream-g700",
-      "datePublished": "2025-05-23T09:12:00.000Z",
-      "description": "Brasil é o primeiro país da América Latina a autorizar a operação da aeronave",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-novo-modelo-gulfstream-g700/linkedin-1.png/@@images/4f9c4c88-5f18-430d-bb55-7c14c1ac1273.png",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025)",
       "url": "https://www.youtube.com/watch?v=TFiMAkohtiw",
@@ -579,15 +588,6 @@
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "\"Assédio Não Decola\": Anac e Mpor lançam guia para combater assédio e importunação sexual na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil",
-      "datePublished": "2025-05-22T10:48:00.000Z",
-      "description": "Iniciativa tem o objetivo de orientar e combater ações de assédio nos aeroportos e aeronaves",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-anac-e-mpor-lancam-guia-para-combater-assedio-e-importunacao-sexual-na-aviacao-civil/whatsapp-image-2025-05-22-at-10-23-38.jpeg/@@images/9d944286-a07a-4d54-8dfe-598b8919afea.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
