@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1aea8246-36be-4147-8cb4-862d235dee16</id>
-  <updated>2025-06-18T19:46:00.000Z</updated>
+  <id>urn:uuid:anac-feed-bffe364f-240a-4004-9f4d-b72b1c51dc84</id>
+  <updated>2025-06-21T12:27:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac lamenta acidente ocorrido com balão em Santa Catarina</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina</id>
+    <published>2025-06-21T12:27:00.000Z</published>
+    <updated>2025-06-21T12:27:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A Agência está adotando as providências necessárias para averiguação da situação da aeronave e da tripulação</summary>
+    <content type="html"><![CDATA[
+      <p>A Agência está adotando as providências necessárias para averiguação da situação da aeronave e da tripulação</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina/comunicado.jpeg/@@images/41d9eee0-e740-4854-abf7-a82d1f2f4030.jpeg" alt="Anac lamenta acidente ocorrido com balão em Santa Catarina">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1355,25 +1374,6 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
     <summary type="html">Proposta da Anac pretende estabelecer Diretriz de Aeronavegabilidade para checagem e eventual substituição de componentes fabricados pela empresa H8 ALS</summary>
     <content type="html"><![CDATA[
       <p>Proposta da Anac pretende estabelecer Diretriz de Aeronavegabilidade para checagem e eventual substituição de componentes fabricados pela empresa H8 ALS</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac altera data de webinário sobre atuação de laboratórios de requisitos de inflamabilidade</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade</id>
-    <published>2025-05-27T15:23:00.000Z</published>
-    <updated>2025-05-27T15:23:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Alterações normativas serão apresentadas em evento online no dia 6 de junho</summary>
-    <content type="html"><![CDATA[
-      <p>Alterações normativas serão apresentadas em evento online no dia 6 de junho</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

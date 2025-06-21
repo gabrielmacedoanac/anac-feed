@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1aea8246-36be-4147-8cb4-862d235dee16",
+  "identifier": "urn:uuid:anac-feed-bffe364f-240a-4004-9f4d-b72b1c51dc84",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-21T12:25:24.444Z",
-  "dateModified": "2025-06-21T12:25:24.444Z",
+  "dateCreated": "2025-06-21T16:15:46.657Z",
+  "dateModified": "2025-06-21T16:15:46.657Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-27T00:00:00.000Z",
-    "endDate": "2025-06-18T19:46:00.000Z"
+    "endDate": "2025-06-21T12:27:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lamenta acidente ocorrido com balão em Santa Catarina",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina",
+      "datePublished": "2025-06-21T12:27:00.000Z",
+      "description": "A Agência está adotando as providências necessárias para averiguação da situação da aeronave e da tripulação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina/comunicado.jpeg/@@images/41d9eee0-e740-4854-abf7-a82d1f2f4030.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac acompanha obras nos aeroportos do Mato Grosso do Sul e Macaé (RJ)",
@@ -543,14 +552,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-setorial-sobre-pecas-de-aeronaves-esta-aberta-ate-o-dia-7-7",
       "datePublished": "2025-05-27T17:05:00.000Z",
       "description": "Proposta da Anac pretende estabelecer Diretriz de Aeronavegabilidade para checagem e eventual substituição de componentes fabricados pela empresa H8 ALS",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac altera data de webinário sobre atuação de laboratórios de requisitos de inflamabilidade",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-abertura-de-consulta-setorial-anac-altera-data-de-webinario-sobre-atuacao-de-laboratorios-de-requisitos-de-inflamabilidade",
-      "datePublished": "2025-05-27T15:23:00.000Z",
-      "description": "Alterações normativas serão apresentadas em evento online no dia 6 de junho",
       "type": "notícia"
     },
     {
