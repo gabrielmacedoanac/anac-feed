@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-fbf910e5-4c9f-4fda-8830-f35e230d2d85</id>
-  <updated>2025-06-21T12:27:00.000Z</updated>
+  <id>urn:uuid:anac-feed-d36b9dee-4583-471c-be2d-1e07f911190f</id>
+  <updated>2025-06-23T12:30:08.146Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">PORTARIA 17216</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216</id>
+    <published>2025-06-23T12:30:08.146Z</published>
+    <updated>2025-06-23T12:30:08.146Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac abre consulta setorial sobre objetivos de segurança para aeronaves eVTOL</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-objetivos-de-seguranca-para-aeronaves-evtol" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-objetivos-de-seguranca-para-aeronaves-evtol</id>
+    <published>2025-06-23T08:41:00.000Z</published>
+    <updated>2025-06-23T08:41:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aeronaves elétricas de decolagem e pouso vertical avançam em processo de regulamentação no Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Aeronaves elétricas de decolagem e pouso vertical avançam em processo de regulamentação no Brasil</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-objetivos-de-seguranca-para-aeronaves-evtol/mop-apresentado-pela-eve/@@images/458685e8-788c-4b72-990d-0392c9df71fd.jpeg" alt="Anac abre consulta setorial sobre objetivos de segurança para aeronaves eVTOL">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -242,17 +280,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17217/SAF, 16/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17217" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17217</id>
+    <title type="html">PORTARIA Nº 17226/SPL, 16/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17226" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17226</id>
     <published>2025-06-16T00:00:00.000Z</published>
     <updated>2025-06-16T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
+    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
     <content type="html"><![CDATA[
-      <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
+      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -261,17 +299,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17221/SAF, 16/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17221" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17221</id>
+    <title type="html">PORTARIA Nº 17225/SPL, 16/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17225" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17225</id>
     <published>2025-06-16T00:00:00.000Z</published>
     <updated>2025-06-16T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
+    <summary type="html">Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
     <content type="html"><![CDATA[
-      <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
+      <p>Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -280,17 +318,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17218/SAF, 16/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17218" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17218</id>
+    <title type="html">PORTARIA Nº 17219/SIA, 16/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17219" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17219</id>
     <published>2025-06-16T00:00:00.000Z</published>
     <updated>2025-06-16T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
+    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA DE PESCADA 1A - PPE-1A (9PPK)</summary>
     <content type="html"><![CDATA[
-      <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
+      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA DE PESCADA 1A - PPE-1A (9PPK)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -405,6 +443,44 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17211/SIA, 13/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17211" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17211</id>
+    <published>2025-06-13T00:00:00.000Z</published>
+    <updated>2025-06-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Zumbi dos Palmares, Código OACI: SBMO; Código CIAD: AL0001, em Maceió (AL)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Zumbi dos Palmares, Código OACI: SBMO; Código CIAD: AL0001, em Maceió (AL)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17214/SIA, 13/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17214" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17214</id>
+    <published>2025-06-13T00:00:00.000Z</published>
+    <updated>2025-06-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1135 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1135 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">IS 183-002I</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
@@ -481,17 +557,17 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
-    <title type="html">DECISÃO Nº 712, 12/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-712" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-712</id>
-    <published>2025-06-12T00:00:00.000Z</published>
-    <updated>2025-06-12T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 17201/SIA, 11/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17201" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17201</id>
+    <published>2025-06-11T00:00:00.000Z</published>
+    <updated>2025-06-11T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a Decisão nº 699, de 16 de janeiro de 2025</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD SP1454 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Altera a Decisão nº 699, de 16 de janeiro de 2025</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD SP1454 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -500,17 +576,17 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
-    <title type="html">DECISÃO Nº 711, 12/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-711" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-711</id>
-    <published>2025-06-12T00:00:00.000Z</published>
-    <updated>2025-06-12T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 17193/SIA, 11/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17193" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17193</id>
+    <published>2025-06-11T00:00:00.000Z</published>
+    <updated>2025-06-11T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Florianópolis, localizado em Florianópolis (SC)</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1132 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Florianópolis, localizado em Florianópolis (SC)</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1132 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -633,44 +709,6 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17192/CRG, 11/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17192" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17192</id>
-    <published>2025-06-11T00:00:00.000Z</published>
-    <updated>2025-06-11T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prorroga Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Prorroga Comissão de Processo Administrativo Disciplinar</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17199/SAF, 11/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17199" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17199</id>
-    <published>2025-06-11T00:00:00.000Z</published>
-    <updated>2025-06-11T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a concessão de suprimento fundos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a concessão de suprimento fundos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6</id>
@@ -701,25 +739,6 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
     <summary type="html">Autoriza a BELL TEXTRON INC. a conduzir treinamentos e exames segundo o RBAC nº 142, com base no certificado EASA.ATO.0023</summary>
     <content type="html"><![CDATA[
       <p>Autoriza a BELL TEXTRON INC. a conduzir treinamentos e exames segundo o RBAC nº 142, com base no certificado EASA.ATO.0023</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17179/SIA, 10/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17179" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17179</id>
-    <published>2025-06-10T00:00:00.000Z</published>
-    <updated>2025-06-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Santa Maria (Código OACI: SBAR; Código CIAD: SE0001), em Aracaju (SE)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Santa Maria (Código OACI: SBAR; Código CIAD: SE0001), em Aracaju (SE)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1359,25 +1378,6 @@ Perguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Consulta setorial sobre peças de aeronaves está aberta até o dia 7/7</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/consulta-setorial-sobre-pecas-de-aeronaves-esta-aberta-ate-o-dia-7-7" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/consulta-setorial-sobre-pecas-de-aeronaves-esta-aberta-ate-o-dia-7-7</id>
-    <published>2025-05-27T17:05:00.000Z</published>
-    <updated>2025-05-27T17:05:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Proposta da Anac pretende estabelecer Diretriz de Aeronavegabilidade para checagem e eventual substituição de componentes fabricados pela empresa H8 ALS</summary>
-    <content type="html"><![CDATA[
-      <p>Proposta da Anac pretende estabelecer Diretriz de Aeronavegabilidade para checagem e eventual substituição de componentes fabricados pela empresa H8 ALS</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
