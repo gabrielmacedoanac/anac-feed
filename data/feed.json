@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d36b9dee-4583-471c-be2d-1e07f911190f",
+  "identifier": "urn:uuid:anac-feed-7a840e2d-0f7f-4a42-992b-3f329c5a26b1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-23T12:30:08.148Z",
-  "dateModified": "2025-06-23T12:30:08.148Z",
+  "dateCreated": "2025-06-23T16:18:31.558Z",
+  "dateModified": "2025-06-23T16:18:31.558Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-03-27T00:00:00.000Z",
-    "endDate": "2025-06-23T12:30:08.146Z"
+    "startDate": "2025-04-11T18:04:00.000Z",
+    "endDate": "2025-06-23T16:18:31.555Z"
   },
   "distribution": [
     {
@@ -35,10 +35,26 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "resolução 770",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
+      "datePublished": "2025-06-23T16:18:31.555Z",
+      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA 17216",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216",
-      "datePublished": "2025-06-23T12:30:08.146Z",
+      "datePublished": "2025-06-23T16:18:31.555Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "resolução 770",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
+      "datePublished": "2025-06-23T09:30:00.000Z",
+      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
       "type": "legislação"
     },
     {
@@ -239,6 +255,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17205/OUV, 12/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17205",
+      "datePublished": "2025-06-12T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimentos - MPR/OUV-009-R00",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17207/SIA, 12/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17207",
       "datePublished": "2025-06-12T00:00:00.000Z",
@@ -310,22 +334,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17190/SIA, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17190",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0255 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17195/SIA, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17195",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0103 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6",
@@ -352,10 +360,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARI Nº 17169/SIA, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17169",
+      "name": "PORTARIA CONJUNTA Nº 17173/SPO/SIA, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173",
       "datePublished": "2025-06-09T00:00:00.000Z",
-      "description": "Exclui os aeródromos de uso privativo e o heliponto de uso privativo abaixo listados do cadastro de aeródromos",
+      "description": "Aprova o Manual de Procedimento - MPR/ANAC-201-R00",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA CONJUNTA Nº 17173/SPO/SIA, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173",
+      "datePublished": "2025-06-09T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimento - MPR/ANAC-201-R00",
       "type": "legislação"
     },
     {
@@ -687,22 +703,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002",
       "datePublished": "2025-04-11T18:04:00.000Z",
       "description": "Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
-      "datePublished": "2025-03-31T00:00:00.000Z",
-      "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 769, 27/03/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-769",
-      "datePublished": "2025-03-27T00:00:00.000Z",
-      "description": "Altera a Resolução nº 739, de 21 de março de 2024",
       "type": "legislação"
     }
   ]
