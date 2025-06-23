@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7a840e2d-0f7f-4a42-992b-3f329c5a26b1",
+  "identifier": "urn:uuid:anac-feed-41074622-39f7-44ea-959f-171e5ab36787",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-23T16:18:31.558Z",
-  "dateModified": "2025-06-23T16:18:31.558Z",
+  "dateCreated": "2025-06-23T20:16:22.753Z",
+  "dateModified": "2025-06-23T20:16:22.753Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-04-11T18:04:00.000Z",
-    "endDate": "2025-06-23T16:18:31.555Z"
+    "startDate": "2025-03-31T00:00:00.000Z",
+    "endDate": "2025-06-23T08:41:00.000Z"
   },
   "distribution": [
     {
@@ -33,30 +33,6 @@
     }
   ],
   "items": [
-    {
-      "@type": "Legislation",
-      "name": "resolução 770",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
-      "datePublished": "2025-06-23T16:18:31.555Z",
-      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA 17216",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216",
-      "datePublished": "2025-06-23T16:18:31.555Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "resolução 770",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
-      "datePublished": "2025-06-23T09:30:00.000Z",
-      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
-      "type": "legislação"
-    },
     {
       "@type": "NewsArticle",
       "name": "Anac abre consulta setorial sobre objetivos de segurança para aeronaves eVTOL",
@@ -171,6 +147,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 770, 16/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
+      "datePublished": "2025-06-16T00:00:00.000Z",
+      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17226/SPL, 16/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17226",
       "datePublished": "2025-06-16T00:00:00.000Z",
@@ -191,6 +175,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17219",
       "datePublished": "2025-06-16T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA DE PESCADA 1A - PPE-1A (9PPK)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 770, 16/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
+      "datePublished": "2025-06-16T00:00:00.000Z",
+      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17216/SIA, 15/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216",
+      "datePublished": "2025-06-15T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -360,16 +360,8 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA CONJUNTA Nº 17173/SPO/SIA, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173",
-      "datePublished": "2025-06-09T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/ANAC-201-R00",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA CONJUNTA Nº 17173/SPO/SIA, 09/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173",
+      "name": "PORTARIA Nº 17173/SIA/SPO, 09/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17173",
       "datePublished": "2025-06-09T00:00:00.000Z",
       "description": "Aprova o Manual de Procedimento - MPR/ANAC-201-R00",
       "type": "legislação"
@@ -703,6 +695,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-90-002",
       "datePublished": "2025-04-11T18:04:00.000Z",
       "description": "Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
+      "datePublished": "2025-03-31T00:00:00.000Z",
+      "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
       "type": "legislação"
     }
   ]

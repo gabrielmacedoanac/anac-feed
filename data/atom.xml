@@ -4,70 +4,13 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-7a840e2d-0f7f-4a42-992b-3f329c5a26b1</id>
-  <updated>2025-06-23T16:18:31.555Z</updated>
+  <id>urn:uuid:anac-feed-41074622-39f7-44ea-959f-171e5ab36787</id>
+  <updated>2025-06-23T08:41:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
-  
-  
-  <entry>
-    <title type="html">resolução 770</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770</id>
-    <published>2025-06-23T16:18:31.555Z</published>
-    <updated>2025-06-23T16:18:31.555Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA 17216</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216</id>
-    <published>2025-06-23T16:18:31.555Z</published>
-    <updated>2025-06-23T16:18:31.555Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">resolução 770</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770</id>
-    <published>2025-06-23T09:30:00.000Z</published>
-    <updated>2025-06-23T09:30:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
   
   
   <entry>
@@ -318,6 +261,25 @@
   
   
   <entry>
+    <title type="html">RESOLUÇÃO Nº 770, 16/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770</id>
+    <published>2025-06-16T00:00:00.000Z</published>
+    <updated>2025-06-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17226/SPL, 16/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17226" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17226</id>
@@ -367,6 +329,44 @@
     <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA DE PESCADA 1A - PPE-1A (9PPK)</summary>
     <content type="html"><![CDATA[
       <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA DE PESCADA 1A - PPE-1A (9PPK)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 770, 16/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770</id>
+    <published>2025-06-16T00:00:00.000Z</published>
+    <updated>2025-06-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17216/SIA, 15/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17216</id>
+    <published>2025-06-15T00:00:00.000Z</published>
+    <updated>2025-06-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1137 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -785,28 +785,9 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
-    <title type="html">PORTARIA CONJUNTA Nº 17173/SPO/SIA, 09/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173</id>
-    <published>2025-06-09T00:00:00.000Z</published>
-    <updated>2025-06-09T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Manual de Procedimento - MPR/ANAC-201-R00</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Manual de Procedimento - MPR/ANAC-201-R00</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA CONJUNTA Nº 17173/SPO/SIA, 09/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-conjunta-17173</id>
+    <title type="html">PORTARIA Nº 17173/SIA/SPO, 09/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17173" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17173</id>
     <published>2025-06-09T00:00:00.000Z</published>
     <updated>2025-06-09T00:00:00.000Z</updated>
     <author>
@@ -1722,6 +1703,25 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <summary type="html">Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90</summary>
     <content type="html"><![CDATA[
       <p>Procedimentos para elaboração de programa de treinamento operacional (PTO) para operações conduzidas segundo o RBAC nº 90</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">INSTRUÇÃO NORMATIVA Nº 210, 31/03/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210</id>
+    <published>2025-03-31T00:00:00.000Z</published>
+    <updated>2025-03-31T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
