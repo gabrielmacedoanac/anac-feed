@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 24 Jun 2025 08:20:25 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Jun 2025 08:20:25 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Jun 2025 12:29:24 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Jun 2025 12:29:24 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -91,6 +91,40 @@
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Anac vai manter processos com as normas atuais até o final do ano, quando as áreas técnicas deverão ajustar atividades aos novos critérios da regulação responsiva</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17242/SPO, 18/06/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17242</link>
+      <description>Torna pública a suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENÇÃO DE AERONAVES LTDA. - EPP</description>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17242</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-06-18T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENÇÃO DE AERONAVES LTDA. - EPP</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17236/SPO, 18/06/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17236</link>
+      <description>Torna pública a suspensão do Certificado de Organização de Manutenção da REMASUL AVIAÇÃO MANUTENÇÃO DE AERONAVES LTDA.</description>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17236</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-06-18T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a suspensão do Certificado de Organização de Manutenção da REMASUL AVIAÇÃO MANUTENÇÃO DE AERONAVES LTDA.</p>
         
       ]]></content:encoded>
     </item>
@@ -671,23 +705,6 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
     
     
     <item>
-      <title>PORTARIA Nº 17182/SPL, 10/06/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17182</link>
-      <description>Autoriza a BELL TEXTRON INC. a conduzir treinamentos e exames segundo o RBAC nº 142, com base no certificado EASA.ATO.0023</description>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17182</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-06-10T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Autoriza a BELL TEXTRON INC. a conduzir treinamentos e exames segundo o RBAC nº 142, com base no certificado EASA.ATO.0023</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>Anac abre consulta setorial sobre aprovação de sistemas de contenção para crianças</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas</link>
       <description>Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</description>
@@ -824,23 +841,6 @@ Perguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do
 
 Contamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.</p>
         <img src="https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg" alt="Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17134/SRA, 04/06/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17134</link>
-      <description>Publica a taxa de desconto a ser utilizada nos fluxos de caixa marginais para efeito de recomposição do equilíbrio econômico-financeiro dos aeroportos de Guarulhos, Campinas, Brasília, Fortaleza, Florianópolis, Porto Alegre, Salvador, Confins, Galeão, Bloco Nordeste, Bloco Centro-Oeste e Bloco Sudeste, no ano de 2026</description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17134</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-06-04T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Publica a taxa de desconto a ser utilizada nos fluxos de caixa marginais para efeito de recomposição do equilíbrio econômico-financeiro dos aeroportos de Guarulhos, Campinas, Brasília, Fortaleza, Florianópolis, Porto Alegre, Salvador, Confins, Galeão, Bloco Nordeste, Bloco Centro-Oeste e Bloco Sudeste, no ano de 2026</p>
-        
       ]]></content:encoded>
     </item>
     
