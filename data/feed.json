@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ffa8fdb2-a3d1-4870-afd4-9ca9a1b3571a",
+  "identifier": "urn:uuid:anac-feed-122f6346-372d-4b90-be05-39c1b850be54",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-24T16:18:05.492Z",
-  "dateModified": "2025-06-24T16:18:05.492Z",
+  "dateCreated": "2025-06-24T20:16:20.557Z",
+  "dateModified": "2025-06-24T20:16:20.557Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-03-31T00:00:00.000Z",
+    "startDate": "2020-09-28T00:00:00.000Z",
     "endDate": "2025-06-23T08:41:00.000Z"
   },
   "distribution": [
@@ -342,14 +342,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17187/SIA, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17187",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD GO0148 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realizará webinário para explicar proposta de alteração das regras de operação de drones no dia 13/6",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-webinario-para-explicar-proposta-de-alteracao-das-regras-de-operacao-de-drones-no-dia-13-6",
@@ -609,15 +601,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "VideoObject",
-      "name": "Semana MMA - Carreira para MMA em organizações de manutenção e MMA autônomo",
-      "url": "https://www.youtube.com/watch?v=3NmzEj-43cI",
-      "datePublished": "2025-05-21T20:14:34.000Z",
-      "description": "Link Slido: https://app.sli.do/event/dneW9QXJrag1nEA7B3cfPV",
-      "image": "https://i4.ytimg.com/vi/3NmzEj-43cI/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
       "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 212, 19/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-212",
@@ -703,6 +686,23 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-210",
       "datePublished": "2025-03-31T00:00:00.000Z",
       "description": "Dispõe sobre a concessão de diárias e passagens e o uso de veículo oficial na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)",
+      "url": "https://www.youtube.com/watch?v=w5UcldjPOtw",
+      "datePublished": "2024-12-18T12:44:51.000Z",
+      "description": "Pauta:\n\nProcesso 00058.032050/2020-42 \nProcesso 00058.016682/2025-73 \nProcesso 00058.034495/2025-71 \nProcesso 00058.021107/2025-92 \nProcesso 00058.016310/2020-32",
+      "image": "https://i4.ytimg.com/vi/w5UcldjPOtw/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 2536/SIA, 28/09/2020",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2020/portaria-no-2536-sia-28-09-2020",
+      "datePublished": "2020-09-28T00:00:00.000Z",
+      "description": "Inscreve o aeródromo privado Fazenda Antas (PB) no cadastro de aeródromos.",
       "type": "legislação"
     }
   ]
