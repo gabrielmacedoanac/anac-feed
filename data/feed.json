@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-be436a1d-a371-495b-bcc4-4f5f18014a6a",
+  "identifier": "urn:uuid:anac-feed-ffa8fdb2-a3d1-4870-afd4-9ca9a1b3571a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-24T12:29:24.481Z",
-  "dateModified": "2025-06-24T12:29:24.481Z",
+  "dateCreated": "2025-06-24T16:18:05.492Z",
+  "dateModified": "2025-06-24T16:18:05.492Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -76,6 +76,14 @@
       "datePublished": "2025-06-18T14:06:00.000Z",
       "description": "Anac vai manter processos com as normas atuais até o final do ano, quando as áreas técnicas deverão ajustar atividades aos novos critérios da regulação responsiva",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17246/SAF, 18/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17246",
+      "datePublished": "2025-06-18T00:00:00.000Z",
+      "description": "Torna pública a concessão de suprimento fundos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -339,14 +347,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17187",
       "datePublished": "2025-06-11T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD GO0148 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17202/SIA, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17202",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Exclui o Heliponto de uso privativo elevado Unibanco Eusébio Matoso (SP) no cadastro de aeródromos",
       "type": "legislação"
     },
     {
