@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-122f6346-372d-4b90-be05-39c1b850be54",
+  "identifier": "urn:uuid:anac-feed-21d8255a-84b1-4d49-beb5-28f22540e948",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-24T20:16:20.557Z",
-  "dateModified": "2025-06-24T20:16:20.557Z",
+  "dateCreated": "2025-06-25T01:11:09.887Z",
+  "dateModified": "2025-06-25T01:11:09.887Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2020-09-28T00:00:00.000Z",
-    "endDate": "2025-06-23T08:41:00.000Z"
+    "endDate": "2025-06-24T17:43:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass",
+      "datePublished": "2025-06-24T17:43:00.000Z",
+      "description": "Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass/voepass_cassacao_operacoes_linkedin.png/@@images/1dd43b4a-32fc-4bd3-9b60-8386e49bd8a9.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Pelo terceiro mês consecutivo, movimentação de passageiros em aeroportos brasileiros supera os 10 milhões",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes",
+      "datePublished": "2025-06-24T17:13:00.000Z",
+      "description": "Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes/whatsapp-image-2025-06-24-at-17-15-27.jpeg/@@images/f65d641f-6107-4a1d-ae52-5742baf65981.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac abre consulta setorial sobre objetivos de segurança para aeronaves eVTOL",
@@ -504,14 +522,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "NewsArticle",
-      "name": "BASeT disponibiliza manuais sobre vistorias de perímetro operacional aeroportuário e captura de drones em ambientes aeroportuários",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/baset-disponibiliza-manuais-sobre-vistorias-de-perimetro-operacional-aeroportuario-e-captura-de-drones-em-ambientes-aeroportuarios",
-      "datePublished": "2025-05-29T12:58:00.000Z",
-      "description": "Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "28/05 - Digital Week 2025, das 16h30 às 18h",
       "url": "https://www.youtube.com/watch?v=crgpnzzFz9s",
@@ -519,15 +529,6 @@
       "description": "Seja bem-vindo!\n\nPainel: SuperApp e Citizen Experience - Avançado para o Governo Proativo \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/aDKcWpJ2s5KDin8c7MyTXV\n\nModerador: Felipe Cruz, gerente de Soluções Digitais da Anac\n\nPainelista 1: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 2: Marcos Moreira, coordenador-geral de Interação e Inteligência do Ministério da Gestão e da Inovação do Serviço Público\nPainelista 3: Sheila Valeriano Lopes Antonioli, head of Customer Happiness do SERPRO\nPainelista 4: Rafael Cunha, secretário de Transformação Digital e Ciência e Tecnologia da Prefeitura da cidade de Recife\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Gol e Aena conquistam o Prêmio Acessibilidade e Inovação 2025",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025",
-      "datePublished": "2025-05-28T18:29:00.000Z",
-      "description": "Vencedores nas categorias empresa aérea e operador aeroportuário reforçam compromisso do setor aéreo com práticas inovadoras de acessibilidade",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025/20250527_195340.jpg/@@images/27363153-8889-43fa-aa36-dbd80573c18f.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

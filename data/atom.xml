@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-122f6346-372d-4b90-be05-39c1b850be54</id>
-  <updated>2025-06-23T08:41:00.000Z</updated>
+  <id>urn:uuid:anac-feed-21d8255a-84b1-4d49-beb5-28f22540e948</id>
+  <updated>2025-06-24T17:43:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass</id>
+    <published>2025-06-24T17:43:00.000Z</published>
+    <updated>2025-06-24T17:43:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa</summary>
+    <content type="html"><![CDATA[
+      <p>Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass/voepass_cassacao_operacoes_linkedin.png/@@images/1dd43b4a-32fc-4bd3-9b60-8386e49bd8a9.png" alt="Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Pelo terceiro mês consecutivo, movimentação de passageiros em aeroportos brasileiros supera os 10 milhões</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes</id>
+    <published>2025-06-24T17:13:00.000Z</published>
+    <updated>2025-06-24T17:13:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica</summary>
+    <content type="html"><![CDATA[
+      <p>Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes/whatsapp-image-2025-06-24-at-17-15-27.jpeg/@@images/f65d641f-6107-4a1d-ae52-5742baf65981.jpeg" alt="Pelo terceiro mês consecutivo, movimentação de passageiros em aeroportos brasileiros supera os 10 milhões">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1200,25 +1238,6 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">BASeT disponibiliza manuais sobre vistorias de perímetro operacional aeroportuário e captura de drones em ambientes aeroportuários</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/baset-disponibiliza-manuais-sobre-vistorias-de-perimetro-operacional-aeroportuario-e-captura-de-drones-em-ambientes-aeroportuarios" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/baset-disponibiliza-manuais-sobre-vistorias-de-perimetro-operacional-aeroportuario-e-captura-de-drones-em-ambientes-aeroportuarios</id>
-    <published>2025-05-29T12:58:00.000Z</published>
-    <updated>2025-05-29T12:58:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025</summary>
-    <content type="html"><![CDATA[
-      <p>Documentos representam os Produtos Finais dos Subgrupos Temáticos nº 1 e 4 do Ciclo 2024/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">28/05 - Digital Week 2025, das 16h30 às 18h</title>
     <link href="https://www.youtube.com/watch?v=crgpnzzFz9s" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=crgpnzzFz9s</id>
@@ -1264,25 +1283,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Gol e Aena conquistam o Prêmio Acessibilidade e Inovação 2025</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025</id>
-    <published>2025-05-28T18:29:00.000Z</published>
-    <updated>2025-05-28T18:29:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Vencedores nas categorias empresa aérea e operador aeroportuário reforçam compromisso do setor aéreo com práticas inovadoras de acessibilidade</summary>
-    <content type="html"><![CDATA[
-      <p>Vencedores nas categorias empresa aérea e operador aeroportuário reforçam compromisso do setor aéreo com práticas inovadoras de acessibilidade</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/gol-e-aena-conquistam-o-premio-acessibilidade-e-inovacao-2025/20250527_195340.jpg/@@images/27363153-8889-43fa-aa36-dbd80573c18f.jpeg" alt="Gol e Aena conquistam o Prêmio Acessibilidade e Inovação 2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
