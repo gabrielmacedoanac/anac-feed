@@ -4,13 +4,44 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6600889e-3490-46e4-b68e-f0052712c526</id>
-  <updated>2025-06-24T17:43:00.000Z</updated>
+  <id>urn:uuid:anac-feed-abbd61ca-4ba1-4587-a568-d1b169e073b6</id>
+  <updated>2025-06-25T09:00:39.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)</title>
+    <link href="https://www.youtube.com/watch?v=w5UcldjPOtw" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=w5UcldjPOtw</id>
+    <published>2025-06-25T09:00:39.000Z</published>
+    <updated>2025-06-25T09:00:39.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Pauta:
+
+Processo 00058.032050/2020-42 
+Processo 00058.016682/2025-73 
+Processo 00058.034495/2025-71 
+Processo 00058.021107/2025-92 
+Processo 00058.016310/2020-32</summary>
+    <content type="html"><![CDATA[
+      <p>Pauta:
+
+Processo 00058.032050/2020-42 
+Processo 00058.016682/2025-73 
+Processo 00058.034495/2025-71 
+Processo 00058.021107/2025-92 
+Processo 00058.016310/2020-32</p>
+      <img src="https://i4.ytimg.com/vi/w5UcldjPOtw/hqdefault.jpg" alt="9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -576,6 +607,25 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17210/SIA, 13/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17210" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17210</id>
+    <published>2025-06-13T00:00:00.000Z</published>
+    <updated>2025-06-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Heliponto de uso privativo elevado CIAD MG0639 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Heliponto de uso privativo elevado CIAD MG0639 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17211/SIA, 13/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17211" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17211</id>
@@ -758,25 +808,6 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
     <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PR0052 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Altera a inscrição do Aeródromo de uso privativo CIAD PR0052 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17198/SIA, 11/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17198" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17198</id>
-    <published>2025-06-11T00:00:00.000Z</published>
-    <updated>2025-06-11T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PR0207 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PR0207 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1688,37 +1719,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)</title>
-    <link href="https://www.youtube.com/watch?v=w5UcldjPOtw" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=w5UcldjPOtw</id>
-    <published>2024-12-18T12:44:51.000Z</published>
-    <updated>2024-12-18T12:44:51.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Pauta:
-
-Processo 00058.032050/2020-42 
-Processo 00058.016682/2025-73 
-Processo 00058.034495/2025-71 
-Processo 00058.021107/2025-92 
-Processo 00058.016310/2020-32</summary>
-    <content type="html"><![CDATA[
-      <p>Pauta:
-
-Processo 00058.032050/2020-42 
-Processo 00058.016682/2025-73 
-Processo 00058.034495/2025-71 
-Processo 00058.021107/2025-92 
-Processo 00058.016310/2020-32</p>
-      <img src="https://i4.ytimg.com/vi/w5UcldjPOtw/hqdefault.jpg" alt="9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
