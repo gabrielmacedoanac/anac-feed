@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-abbd61ca-4ba1-4587-a568-d1b169e073b6",
+  "identifier": "urn:uuid:anac-feed-e966d1ef-713e-4f58-a19a-5180afde7600",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-25T12:29:34.091Z",
-  "dateModified": "2025-06-25T12:29:34.091Z",
+  "dateCreated": "2025-06-25T16:18:36.480Z",
+  "dateModified": "2025-06-25T16:18:36.480Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2020-09-28T00:00:00.000Z",
-    "endDate": "2025-06-25T09:00:39.000Z"
+    "endDate": "2025-06-25T11:41:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,32 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Premiação da Anac destacará os aeroportos com melhores práticas ambientais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/premiacao-da-anac-destacara-os-aeroportos-com-melhores-praticas-ambientais",
+      "datePublished": "2025-06-25T11:41:00.000Z",
+      "description": "Agência recebeu a inscrição de 37 iniciativas para a 6ª edição do Prêmio Aeroportos Sustentáveis. Vencedores serão conhecidos no dia 8/7",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac promove webinário sobre manutenção de aeronaves   Air Tractor",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-manutencao-de-aeronaves-air-tractor-1",
+      "datePublished": "2025-06-25T10:58:00.000Z",
+      "description": "Evento busca esclarecer o controle do limite de vida em serviço das longarinas aos operadores e às oficinas de manutenção",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-manutencao-de-aeronaves-air-tractor-1/linkedin_webinarios_anac_manutencao_air_tractor-1.png/@@images/dc2b08e4-d08e-4e3c-b87f-38c3f8dddfe9.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac amplia atuação de examinadores credenciados para exames de mecânicos de manutenção aeronáutica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-atuacao-de-examinadores-credenciados-para-exames-de-mecanicos-de-manutencao-aeronautica",
+      "datePublished": "2025-06-25T10:27:00.000Z",
+      "description": "Mudanças permitem que os examinadores credenciados possam realizar exames de candidatos que não sejam da própria Organização de Manutenção",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-atuacao-de-examinadores-credenciados-para-exames-de-mecanicos-de-manutencao-aeronautica/linkedin.png/@@images/1e1e6817-3c90-43f7-9036-b51651d9f68c.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)",
@@ -70,6 +96,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17267/SPO, 23/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17267",
+      "datePublished": "2025-06-23T00:00:00.000Z",
+      "description": "Aprova o Portfólio de Inspeções e Exames da SPO - Revisão J",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac lamenta acidente ocorrido com balão em Santa Catarina",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina",
@@ -77,6 +111,14 @@
       "description": "A Agência está adotando as providências necessárias para averiguação da situação da aeronave e da tripulação",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina/comunicado.jpeg/@@images/41d9eee0-e740-4854-abf7-a82d1f2f4030.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17252/SIA, 20/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17252",
+      "datePublished": "2025-06-20T00:00:00.000Z",
+      "description": "Torna pública a aplicação de providência administrativa acautelatória relativa às operações do Operador Aéreo AEROLÍNEAS ARGENTINAS",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -103,6 +145,30 @@
       "datePublished": "2025-06-18T14:06:00.000Z",
       "description": "Anac vai manter processos com as normas atuais até o final do ano, quando as áreas técnicas deverão ajustar atividades aos novos critérios da regulação responsiva",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17239/SPO, 18/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17239",
+      "datePublished": "2025-06-18T00:00:00.000Z",
+      "description": "Defere o pedido de isenção temporária de cumprimento dos requisitos de que tratam o art. 8º, § 3º, da Resolução nº 457, de 20 de dezembro de 2017, e o parágrafo 91.203(a)(4) do RBAC nº 91",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17243/SPO, 18/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17243",
+      "datePublished": "2025-06-18T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Operador Aéreo Empresa da FLY SAFE CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17240/SPO, 18/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17240",
+      "datePublished": "2025-06-18T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -139,18 +205,26 @@
     },
     {
       "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 771, 17/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-771",
+      "name": "PORTARIA Nº 17231/SIA, 17/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17231",
       "datePublished": "2025-06-17T00:00:00.000Z",
-      "description": "Altera as Resoluções nºs 761 e 762 de 18 de dezembro de 2024",
+      "description": "Torna pública a revogação de medida administrativa cautelar de restrição às operações de pouso no aeródromo de uso público Xique-xique, localizado em Xique-xique (BA)",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17228/SAF, 17/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17228",
+      "name": "PORTARIA Nº 17234/SIA, 17/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17234",
       "datePublished": "2025-06-17T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0502 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17232/SIA, 17/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17232-1",
+      "datePublished": "2025-06-17T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade JSD 6000 (9PKW)",
       "type": "legislação"
     },
     {
@@ -202,30 +276,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
       "datePublished": "2025-06-16T00:00:00.000Z",
       "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17226/SPL, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17226",
-      "datePublished": "2025-06-16T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17225/SPL, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17225",
-      "datePublished": "2025-06-16T00:00:00.000Z",
-      "description": "Revalida credenciamento de médica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17219/SIA, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17219",
-      "datePublished": "2025-06-16T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA DE PESCADA 1A - PPE-1A (9PPK)",
       "type": "legislação"
     },
     {
@@ -290,18 +340,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17211/SIA, 13/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17211",
+      "name": "PORTARIA Nº 17212/SIA, 13/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17212",
       "datePublished": "2025-06-13T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Zumbi dos Palmares, Código OACI: SBMO; Código CIAD: AL0001, em Maceió (AL)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17214/SIA, 13/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17214",
-      "datePublished": "2025-06-13T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1135 no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0136 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -318,14 +360,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17205",
       "datePublished": "2025-06-12T00:00:00.000Z",
       "description": "Aprova o Manual de Procedimentos - MPR/OUV-009-R00",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17207/SIA, 12/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17207",
-      "datePublished": "2025-06-12T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0227 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -358,14 +392,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17193",
       "datePublished": "2025-06-11T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1132 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17194/SIA, 11/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17194",
-      "datePublished": "2025-06-11T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PR0052 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -471,23 +497,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Tomada de subsídios recebe contribuições sobre licença e habilitação de Mecânico de Manutenção Aeronáutica até 14/7",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-recebe-contribuicoes-sobre-licenca-e-habilitacao-de-mecanico-de-manutencaoaeronautica-ate-17-7",
-      "datePublished": "2025-06-02T17:02:00.000Z",
-      "description": "Procedimento pretende receber contribuições para definir temas prioritários da revisão das regras de habilitação e atuação desses profissionais",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac apresenta proposta para modernizar regras na operação de drones no dia 3/6",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6",
-      "datePublished": "2025-06-02T12:27:00.000Z",
-      "description": "Consulta pública sobre o novo regulamento será lançada no evento DroneShow Robotics, em SP",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apresenta-proposta-para-modernizar-regras-na-operacao-de-drones-no-dia-3-6/topo.png/@@images/f0ae6fab-0f90-4782-9ebe-f2ab6c8d7f3d.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
@@ -503,14 +512,6 @@
       "description": "Seja bem-vindo!\n\nPainel: O Futuro da Regulação na Era da IA \nFormato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube \n\nLink do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3\n\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação \nDigital da Anac\n\nPainelista 1: Mirian Wimmer, diretora da ANPD\nPainelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac facilita regras para credenciamento de profissionais da área de aeronavegabilidade",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-facilita-regras-para-credenciamento-de-profissionais-da-area-de-aeronavegabilidade",
-      "datePublished": "2025-05-30T10:50:00.000Z",
-      "description": "Mudanças aumentam validade do credenciamento, reduzem custos e tornam processos mais ágeis e simples",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
