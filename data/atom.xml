@@ -4,13 +4,40 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a4c90523-da19-45fe-87e6-d2e113bc7f91</id>
-  <updated>2025-06-25T11:41:00.000Z</updated>
+  <id>urn:uuid:anac-feed-696d4894-f686-4fba-a291-d089a80c7e65</id>
+  <updated>2025-06-26T10:46:25.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">6ª edição do Aviação Sustentável</title>
+    <link href="https://www.youtube.com/watch?v=qrKLkBkd__M" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=qrKLkBkd__M</id>
+    <published>2025-06-26T10:46:25.000Z</published>
+    <updated>2025-06-26T10:46:25.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.
+
+Assim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.
+
+Participe!</summary>
+    <content type="html"><![CDATA[
+      <p>O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.
+
+Assim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.
+
+Participe!</p>
+      <img src="https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg" alt="6ª edição do Aviação Sustentável">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1488,25 +1515,6 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ</p>
       <img src="https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg" alt="Semana MMA - Cultura de Segurança na Manutenção Aeronáutica">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Sorteio – Dia da Aviação Inclusiva</title>
-    <link href="https://www.youtube.com/watch?v=CztDhJl9EGQ" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=CztDhJl9EGQ</id>
-    <published>2025-05-22T02:31:16.000Z</published>
-    <updated>2025-05-22T02:31:16.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk</summary>
-    <content type="html"><![CDATA[
-      <p>Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk</p>
-      <img src="https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg" alt="Sorteio – Dia da Aviação Inclusiva">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

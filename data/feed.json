@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a4c90523-da19-45fe-87e6-d2e113bc7f91",
+  "identifier": "urn:uuid:anac-feed-696d4894-f686-4fba-a291-d089a80c7e65",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-26T08:19:46.878Z",
-  "dateModified": "2025-06-26T08:19:46.878Z",
+  "dateCreated": "2025-06-26T12:29:05.594Z",
+  "dateModified": "2025-06-26T12:29:05.594Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2020-09-28T00:00:00.000Z",
-    "endDate": "2025-06-25T11:41:00.000Z"
+    "endDate": "2025-06-26T10:46:25.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "6ª edição do Aviação Sustentável",
+      "url": "https://www.youtube.com/watch?v=qrKLkBkd__M",
+      "datePublished": "2025-06-26T10:46:25.000Z",
+      "description": "O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.\n\nAssim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.\n\nParticipe!",
+      "image": "https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Premiação da Anac destacará os aeroportos com melhores práticas ambientais",
@@ -600,15 +609,6 @@
       "datePublished": "2025-05-23T03:05:28.000Z",
       "description": "Link Slido: https://app.sli.do/event/raSzAeVeuHrwoPMx69j3pZ",
       "image": "https://i4.ytimg.com/vi/cqjm3nFOH_c/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Sorteio – Dia da Aviação Inclusiva",
-      "url": "https://www.youtube.com/watch?v=CztDhJl9EGQ",
-      "datePublished": "2025-05-22T02:31:16.000Z",
-      "description": "Perguntas e duvidas envie pelo Slido: https://app.sli.do/event/hfjNjVbeyATiVSSVHeo5mk",
-      "image": "https://i4.ytimg.com/vi/CztDhJl9EGQ/hqdefault.jpg",
       "type": "vídeo"
     },
     {
