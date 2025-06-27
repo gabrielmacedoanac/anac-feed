@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5380c81b-c36c-43c3-ba4c-67295c86b209",
+  "identifier": "urn:uuid:anac-feed-4a9d1879-a2a3-4ca8-a458-7f31d6b10386",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-27T08:19:37.962Z",
-  "dateModified": "2025-06-27T08:19:37.962Z",
+  "dateCreated": "2025-06-27T12:28:23.982Z",
+  "dateModified": "2025-06-27T12:28:23.982Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-03-31T00:00:00.000Z",
-    "endDate": "2025-06-27T08:19:37.960Z"
+    "endDate": "2025-06-27T12:28:23.980Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17275/SPO, 24/06//2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025",
-      "datePublished": "2025-06-27T08:19:37.960Z",
+      "datePublished": "2025-06-27T12:28:23.980Z",
       "description": "Torna pública a revisão do certificado de operador aéreo da BRISTOW TAXI AEREO S.A.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac credencia cinco novos examinadores de proficiência linguística",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica",
+      "datePublished": "2025-06-27T08:40:00.000Z",
+      "description": "Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -495,15 +504,6 @@
       "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.",
       "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia",
-      "datePublished": "2025-06-03T16:36:00.000Z",
-      "description": "Cinco pessoas com deficiência foram sorteadas e farão um voo de incentivo em uma aeronave adaptada para pilotos com deficiência nos membros inferiores",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia/aviacao_inclusiva__youtube-2.png/@@images/8e984abd-cc56-405a-9775-d3a11c3feb42.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",

@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5380c81b-c36c-43c3-ba4c-67295c86b209</id>
-  <updated>2025-06-27T08:19:37.960Z</updated>
+  <id>urn:uuid:anac-feed-4a9d1879-a2a3-4ca8-a458-7f31d6b10386</id>
+  <updated>2025-06-27T12:28:23.980Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17275/SPO, 24/06//2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025</id>
-    <published>2025-06-27T08:19:37.960Z</published>
-    <updated>2025-06-27T08:19:37.960Z</updated>
+    <published>2025-06-27T12:28:23.980Z</published>
+    <updated>2025-06-27T12:28:23.980Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac credencia cinco novos examinadores de proficiência linguística</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica</id>
+    <published>2025-06-27T08:40:00.000Z</published>
+    <updated>2025-06-27T08:40:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês</summary>
+    <content type="html"><![CDATA[
+      <p>Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png" alt="Anac credencia cinco novos examinadores de proficiência linguística">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1127,25 +1146,6 @@ Contamos com sua participação para promover o alinhamento técnico e regulató
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia</id>
-    <published>2025-06-03T16:36:00.000Z</published>
-    <updated>2025-06-03T16:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Cinco pessoas com deficiência foram sorteadas e farão um voo de incentivo em uma aeronave adaptada para pilotos com deficiência nos membros inferiores</summary>
-    <content type="html"><![CDATA[
-      <p>Cinco pessoas com deficiência foram sorteadas e farão um voo de incentivo em uma aeronave adaptada para pilotos com deficiência nos membros inferiores</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/dia-da-aviacao-inclusiva-reunira-ate-60-participantes-em-evento-sobre-acessibilidade-e-formacao-de-pilotos-com-deficiencia/aviacao_inclusiva__youtube-2.png/@@images/8e984abd-cc56-405a-9775-d3a11c3feb42.png" alt="Dia da Aviação Inclusiva reunirá até 60 participantes em evento sobre acessibilidade e formação de pilotos com deficiência">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
