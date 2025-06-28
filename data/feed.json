@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1c649acc-3aee-4deb-a7b1-c06caf1c90c7",
+  "identifier": "urn:uuid:anac-feed-acb35340-4f49-4d51-a7bb-f533e93f4e9a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-28T01:08:24.442Z",
-  "dateModified": "2025-06-28T01:08:24.442Z",
+  "dateCreated": "2025-06-28T04:18:19.636Z",
+  "dateModified": "2025-06-28T04:18:19.636Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-04-11T18:04:00.000Z",
-    "endDate": "2025-06-28T01:08:24.440Z"
+    "endDate": "2025-06-28T04:18:19.634Z"
   },
   "distribution": [
     {
@@ -37,9 +37,17 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17275/SPO, 24/06//2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025",
-      "datePublished": "2025-06-28T01:08:24.440Z",
+      "datePublished": "2025-06-28T04:18:19.634Z",
       "description": "Torna pública a revisão do certificado de operador aéreo da BRISTOW TAXI AEREO S.A.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Cortes orçamentários nos serviços prestados pela Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac",
+      "datePublished": "2025-06-27T22:19:00.000Z",
+      "description": "Contingenciamento causa paralisação de emissões de licenças de profissionais, certificações de novas empresas e afeta atividades de fiscalização. Agência participa de tratativas com vistas a um repasse emergencial para reduzir impactos dos cortes orçamentários.",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -494,14 +502,6 @@
       "datePublished": "2025-06-05T17:51:00.000Z",
       "description": "Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6/linkedin_webinarios_anac_sgso_fabricantes.png/@@images/08738640-991a-43e5-a4a6-117ac317c61f.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac revoga suspensão de transporte aéreo de mala postal após acordo operacional entre Correios e empresas aéreas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-revoga-suspensao-de-transporte-aereo-de-mala-postal-apos-apresentacao-de-acordo-operacional-entre-correios-e-empresas-aereas",
-      "datePublished": "2025-06-04T12:50:00.000Z",
-      "description": "Prevista para vigorar a partir desta quarta-feira, 4/6, medida foi adotada para garantir cumprimento de requisitos de segurança operacional",
       "type": "notícia"
     },
     {

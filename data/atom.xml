@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1c649acc-3aee-4deb-a7b1-c06caf1c90c7</id>
-  <updated>2025-06-28T01:08:24.440Z</updated>
+  <id>urn:uuid:anac-feed-acb35340-4f49-4d51-a7bb-f533e93f4e9a</id>
+  <updated>2025-06-28T04:18:19.634Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17275/SPO, 24/06//2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025</id>
-    <published>2025-06-28T01:08:24.440Z</published>
-    <updated>2025-06-28T01:08:24.440Z</updated>
+    <published>2025-06-28T04:18:19.634Z</published>
+    <updated>2025-06-28T04:18:19.634Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Cortes orçamentários nos serviços prestados pela Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac</id>
+    <published>2025-06-27T22:19:00.000Z</published>
+    <updated>2025-06-27T22:19:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contingenciamento causa paralisação de emissões de licenças de profissionais, certificações de novas empresas e afeta atividades de fiscalização. Agência participa de tratativas com vistas a um repasse emergencial para reduzir impactos dos cortes orçamentários.</summary>
+    <content type="html"><![CDATA[
+      <p>Contingenciamento causa paralisação de emissões de licenças de profissionais, certificações de novas empresas e afeta atividades de fiscalização. Agência participa de tratativas com vistas a um repasse emergencial para reduzir impactos dos cortes orçamentários.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1102,25 +1121,6 @@ Para participar da consulta pública e enviar suas contribuições, acesse a pá
     <content type="html"><![CDATA[
       <p>Evento visa esclarecer proposta que está em consulta pública e ampliar a participação do setor</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-sgso-para-fabricantes-aeronauticos-no-dia-12-6/linkedin_webinarios_anac_sgso_fabricantes.png/@@images/08738640-991a-43e5-a4a6-117ac317c61f.png" alt="Anac promove webinário sobre SGSO para fabricantes aeronáuticos no dia 12/6">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac revoga suspensão de transporte aéreo de mala postal após acordo operacional entre Correios e empresas aéreas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-revoga-suspensao-de-transporte-aereo-de-mala-postal-apos-apresentacao-de-acordo-operacional-entre-correios-e-empresas-aereas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-revoga-suspensao-de-transporte-aereo-de-mala-postal-apos-apresentacao-de-acordo-operacional-entre-correios-e-empresas-aereas</id>
-    <published>2025-06-04T12:50:00.000Z</published>
-    <updated>2025-06-04T12:50:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prevista para vigorar a partir desta quarta-feira, 4/6, medida foi adotada para garantir cumprimento de requisitos de segurança operacional</summary>
-    <content type="html"><![CDATA[
-      <p>Prevista para vigorar a partir desta quarta-feira, 4/6, medida foi adotada para garantir cumprimento de requisitos de segurança operacional</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
