@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-71c00ef2-3193-426d-b025-c4e100f3e5b7",
+  "identifier": "urn:uuid:anac-feed-0cad6904-aab6-4196-96a3-d2c2be0ceaaf",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-30T08:20:29.581Z",
-  "dateModified": "2025-06-30T08:20:29.581Z",
+  "dateCreated": "2025-06-30T12:29:03.515Z",
+  "dateModified": "2025-06-30T12:29:03.515Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-04-11T18:04:00.000Z",
-    "endDate": "2025-06-30T08:20:29.579Z"
+    "endDate": "2025-06-30T12:29:03.512Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17275/SPO, 24/06//2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025",
-      "datePublished": "2025-06-30T08:20:29.579Z",
+      "datePublished": "2025-06-30T12:29:03.512Z",
       "description": "Torna pública a revisão do certificado de operador aéreo da BRISTOW TAXI AEREO S.A.",
       "type": "legislação"
     },
@@ -136,6 +136,22 @@
       "description": "Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes/whatsapp-image-2025-06-24-at-17-15-27.jpeg/@@images/f65d641f-6107-4a1d-ae52-5742baf65981.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17286/SPO, 24/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17286-24-06-2025",
+      "datePublished": "2025-06-24T00:00:00.000Z",
+      "description": "Aprova a Instrução Suplementar nº 135-008, Revisão A",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17272/SPO, 24/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17272-24-06-2025",
+      "datePublished": "2025-06-24T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da SEGVOO MANUTENÇÃO DE AERONAVES LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -246,22 +262,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17259/SPO, 23/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17259-spo-23-06-2025",
-      "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17260/SPO, 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17260",
-      "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17261/SPO, 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17261",
       "datePublished": "2025-06-23T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
       "type": "legislação"
