@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d3ce85a6-3243-4373-bb76-7ad9b5d0ab6f",
+  "identifier": "urn:uuid:anac-feed-71c00ef2-3193-426d-b025-c4e100f3e5b7",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-30T04:28:59.861Z",
-  "dateModified": "2025-06-30T04:28:59.861Z",
+  "dateCreated": "2025-06-30T08:20:29.581Z",
+  "dateModified": "2025-06-30T08:20:29.581Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-04-11T18:04:00.000Z",
-    "endDate": "2025-06-30T04:28:59.859Z"
+    "endDate": "2025-06-30T08:20:29.579Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17275/SPO, 24/06//2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17275-spo-24-06-2025",
-      "datePublished": "2025-06-30T04:28:59.859Z",
+      "datePublished": "2025-06-30T08:20:29.579Z",
       "description": "Torna pública a revisão do certificado de operador aéreo da BRISTOW TAXI AEREO S.A.",
       "type": "legislação"
     },
