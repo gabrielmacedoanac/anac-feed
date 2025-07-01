@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-881f41ac-ea5c-474d-af9a-4d6a44b37cc2",
+  "identifier": "urn:uuid:anac-feed-d159c367-32e6-4849-82c6-51b021c794b5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-01T16:18:48.338Z",
-  "dateModified": "2025-07-01T16:18:48.338Z",
+  "dateCreated": "2025-07-01T20:15:55.849Z",
+  "dateModified": "2025-07-01T20:15:55.849Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-15T00:00:00.000Z",
-    "endDate": "2025-07-01T16:18:48.336Z"
+    "endDate": "2025-07-01T20:15:55.847Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 135-008A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a",
-      "datePublished": "2025-07-01T16:18:48.336Z",
+      "datePublished": "2025-07-01T20:15:55.847Z",
       "description": "Procedimentos para a elaboração dos procedimentos operacionais padronizados (SOP) de operadores certificados sob o RBAC n º 135",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 135-009A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
-      "datePublished": "2025-07-01T16:18:48.336Z",
+      "datePublished": "2025-07-01T20:15:55.847Z",
       "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
       "type": "legislação"
     },
@@ -53,9 +53,25 @@
       "@type": "Legislation",
       "name": "RBAC 137 EMD 06",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-07-01T16:18:48.336Z",
+      "datePublished": "2025-07-01T20:15:55.847Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 137 EMD 06",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
+      "datePublished": "2025-07-01T15:07:00.000Z",
+      "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Prorrogada suspensão do processo seletivo para o curso Pilotos do Semiárido",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/prorrogada-suspensao-do-processo-seletivo-para-o-curso-pilotos-do-semiarido",
+      "datePublished": "2025-07-01T14:12:00.000Z",
+      "description": "Anac e Ufersa paralisaram o processo seletivo para checar informações dos candidatos e garantir a integridade dos procedimentos",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -71,14 +87,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
       "datePublished": "2025-06-30T16:51:00.000Z",
       "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 137 EMD 06",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-06-30T15:55:00.000Z",
-      "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
     },
     {
@@ -532,15 +540,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
       "datePublished": "2025-06-09T15:31:00.000Z",
       "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Provas teóricas da Anac aplicadas pela FGV estão suspensas temporariamente",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente",
-      "datePublished": "2025-06-06T11:56:00.000Z",
-      "description": "Exames para obtenção de licenças e habilitações de profissionais da aviação não poderão ser agendados a partir de 6/6",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-aplicadas-pela-fgv-estao-suspensas-temporariamente/portal.png/@@images/b19c7c7f-38ee-470a-9307-8b7e78d3cae7.png",
       "type": "notícia"
     },
     {
