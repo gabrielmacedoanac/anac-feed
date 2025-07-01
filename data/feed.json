@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c68adf04-4e27-4594-8f0e-250b855371c5",
+  "identifier": "urn:uuid:anac-feed-881f41ac-ea5c-474d-af9a-4d6a44b37cc2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-01T12:29:18.102Z",
-  "dateModified": "2025-07-01T12:29:18.102Z",
+  "dateCreated": "2025-07-01T16:18:48.338Z",
+  "dateModified": "2025-07-01T16:18:48.338Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-15T00:00:00.000Z",
-    "endDate": "2025-07-01T12:29:18.100Z"
+    "endDate": "2025-07-01T16:18:48.336Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 135-008A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a",
-      "datePublished": "2025-07-01T12:29:18.100Z",
+      "datePublished": "2025-07-01T16:18:48.336Z",
       "description": "Procedimentos para a elaboração dos procedimentos operacionais padronizados (SOP) de operadores certificados sob o RBAC n º 135",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 135-009A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
-      "datePublished": "2025-07-01T12:29:18.100Z",
+      "datePublished": "2025-07-01T16:18:48.336Z",
       "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "RBAC 137 EMD 06",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-07-01T12:29:18.100Z",
+      "datePublished": "2025-07-01T16:18:48.336Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
     },
@@ -142,18 +142,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17302/SPL, 26/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17302-spl-26-06-2025",
+      "name": "PORTARIA Nº 17299/SIA, 26/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17299",
       "datePublished": "2025-06-26T00:00:00.000Z",
-      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17303/SPL, 26/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17303-spl-26-06-2025",
-      "datePublished": "2025-06-26T00:00:00.000Z",
-      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0583 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -226,7 +218,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17295/SIA, 25/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17295-sia-25-06-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17295",
       "datePublished": "2025-06-25T00:00:00.000Z",
       "description": "Exclui o Aeródromo de uso privativo Fazenda Piuva IX (MS) no cadastro de aeródromos",
       "type": "legislação"
@@ -268,7 +260,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17289/SPO, 24/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17289-spo-24-06-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17289",
       "datePublished": "2025-06-24T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
       "type": "legislação"
@@ -284,18 +276,26 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17269/SIA, DE 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17269",
+      "name": "PORTARIA Nº 17265/SIA, 23/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17265",
       "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP0727 no cadastro de aeródromos",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0503 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "Portaria nº 17268/SIA, 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17268",
+      "name": "PORTARIA Nº 17263/SIA, 23/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17263",
       "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1140 no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0041 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17269/SIA, DE 23/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17269",
+      "datePublished": "2025-06-23T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP0727 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -343,7 +343,15 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17238/SIA, DE 18/06/2025",
+      "name": "PORTARIA Nº 17237/SIA, 18/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17237",
+      "datePublished": "2025-06-18T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo elevado CIAD SC0167 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17238/SIA, 18/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17238",
       "datePublished": "2025-06-18T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1140 no cadastro de aeródromos",
@@ -352,7 +360,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17248/SIA, 18/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17248-sia-18-06-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17248",
       "datePublished": "2025-06-18T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0290 no cadastro de aeródromos",
       "type": "legislação"
@@ -360,7 +368,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17247/SIA, 18/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17247-sia-18-06-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17247",
       "datePublished": "2025-06-18T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mário Ribeiro, Código OACI: SBMK; código CIAD: MG0004, em Montes Claros (MG)",
       "type": "legislação"
@@ -381,14 +389,6 @@
       "description": "Iniciativa busca aprimorar a gestão da força de trabalho com base em metodologia desenvolvida pelo ministério e pela UnB para diagnosticar a necessidade de novos servidores",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-inicia-projeto-de-dimensionamento-da-forca-de-trabalho-em-parceria-com-o-mgi/whatsapp-image-2025-06-17-at-09-26-22.jpeg/@@images/9ea7f0b1-a4ab-49e3-b38e-e22e969cf7f4.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17235/SIA, 17/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17235-sia-17-06-2025",
-      "datePublished": "2025-06-17T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD SP0247 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -436,7 +436,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17227/SIA, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17227-sia-16-06-2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17227",
       "datePublished": "2025-06-16T00:00:00.000Z",
       "description": "Aprova o Plano Diretor do Aeroporto Sílvio Name Júnior/Maringá, PR (SBMG) - CIAD: PR0004",
       "type": "legislação"
