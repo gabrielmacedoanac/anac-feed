@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b120677e-1790-4ddf-8f18-db5adfcbc5d9",
+  "identifier": "urn:uuid:anac-feed-aedee419-a1f1-49eb-8593-94a2fe6c8933",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-06-30T20:15:26.192Z",
-  "dateModified": "2025-06-30T20:15:26.192Z",
+  "dateCreated": "2025-07-01T01:18:22.285Z",
+  "dateModified": "2025-07-01T01:18:22.285Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-15T00:00:00.000Z",
-    "endDate": "2025-06-30T20:15:26.190Z"
+    "endDate": "2025-07-01T01:18:22.283Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 135-008A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a",
-      "datePublished": "2025-06-30T20:15:26.190Z",
+      "datePublished": "2025-07-01T01:18:22.283Z",
       "description": "Procedimentos para a elaboração dos procedimentos operacionais padronizados (SOP) de operadores certificados sob o RBAC n º 135",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 135-009A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
-      "datePublished": "2025-06-30T20:15:26.190Z",
+      "datePublished": "2025-07-01T01:18:22.283Z",
       "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "RBAC 137 EMD 06",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-06-30T20:15:26.190Z",
+      "datePublished": "2025-07-01T01:18:22.283Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
     },
