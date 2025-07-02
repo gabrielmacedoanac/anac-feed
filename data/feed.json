@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8efcfbad-18a2-4192-8dc0-95f0dd02f28e",
+  "identifier": "urn:uuid:anac-feed-d0d1f791-8560-44d5-b76c-147059909d66",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-02T16:17:47.495Z",
-  "dateModified": "2025-07-02T16:17:47.495Z",
+  "dateCreated": "2025-07-02T20:14:27.103Z",
+  "dateModified": "2025-07-02T20:14:27.103Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-15T00:00:00.000Z",
-    "endDate": "2025-07-02T16:17:47.493Z"
+    "endDate": "2025-07-02T20:14:27.101Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 135-008A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a",
-      "datePublished": "2025-07-02T16:17:47.493Z",
+      "datePublished": "2025-07-02T20:14:27.101Z",
       "description": "Procedimentos para a elaboração dos procedimentos operacionais padronizados (SOP) de operadores certificados sob o RBAC n º 135",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 135-009A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
-      "datePublished": "2025-07-02T16:17:47.493Z",
+      "datePublished": "2025-07-02T20:14:27.101Z",
       "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
       "type": "legislação"
     },
@@ -53,9 +53,26 @@
       "@type": "Legislation",
       "name": "RBAC 137 EMD 06",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-07-02T16:17:47.493Z",
+      "datePublished": "2025-07-02T20:14:27.101Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8",
+      "datePublished": "2025-07-02T17:05:00.000Z",
+      "description": "Evento presencial reunirá profissionais da aviação com objetivo de discutir e disseminar boas práticas relacionadas ao CRM e promover a segurança operacional na aviação.",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8/pecas-crm_linkedin.png/@@images/2de89146-9174-4d18-b994-d61c5976d0a7.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realizará manutenção programada em sistemas corporativos no dia 3/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-manutencao-programada-em-sistemas-corporativos-no-dia-3-7",
+      "datePublished": "2025-07-02T13:41:00.000Z",
+      "description": "Previsão é que sistemas corporativos fiquem inacessíveis durante atualização",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -499,24 +516,6 @@
       "description": "O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.\n\nProgramação: \n• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto\n• 1h20 subsequentes - Apresentação do assunto:\no Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)\no Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)\no Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)\no Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)\n• 30 minutos finais - Esclarecimento de dúvidas.\n\nDúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb",
       "image": "https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Seminário discute proteção do consumidor e judicialização no transporte aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo",
-      "datePublished": "2025-06-13T15:27:00.000Z",
-      "description": "Evento reuniu integrantes do Ministério Público e da Agência em Brasília (DF) para aprofundar debates sobre regulação e atuação estatal",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo/whatsapp-image-2025-06-13-at-15-56-40.jpeg/@@images/7e909b5b-8ed6-4f44-9f06-d06747e09b0a.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac quer saber: como foi cadastrar seu drone?",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone",
-      "datePublished": "2025-06-13T14:24:00.000Z",
-      "description": "Agência busca aprimorar o sistema de cadastro, o Sisant, com base nas experiências dos usuários",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone/pesquisa-drones.png/@@images/9a19a3a2-7849-49b0-b7f6-e8117ef9491c.png",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

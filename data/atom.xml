@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8efcfbad-18a2-4192-8dc0-95f0dd02f28e</id>
-  <updated>2025-07-02T16:17:47.493Z</updated>
+  <id>urn:uuid:anac-feed-d0d1f791-8560-44d5-b76c-147059909d66</id>
+  <updated>2025-07-02T20:14:27.101Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 135-008A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a</id>
-    <published>2025-07-02T16:17:47.493Z</published>
-    <updated>2025-07-02T16:17:47.493Z</updated>
+    <published>2025-07-02T20:14:27.101Z</published>
+    <updated>2025-07-02T20:14:27.101Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IS 135-009A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009</id>
-    <published>2025-07-02T16:17:47.493Z</published>
-    <updated>2025-07-02T16:17:47.493Z</updated>
+    <published>2025-07-02T20:14:27.101Z</published>
+    <updated>2025-07-02T20:14:27.101Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,8 +55,8 @@
     <title type="html">RBAC 137 EMD 06</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06</id>
-    <published>2025-07-02T16:17:47.493Z</published>
-    <updated>2025-07-02T16:17:47.493Z</updated>
+    <published>2025-07-02T20:14:27.101Z</published>
+    <updated>2025-07-02T20:14:27.101Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -67,6 +67,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8</id>
+    <published>2025-07-02T17:05:00.000Z</published>
+    <updated>2025-07-02T17:05:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento presencial reunirá profissionais da aviação com objetivo de discutir e disseminar boas práticas relacionadas ao CRM e promover a segurança operacional na aviação.</summary>
+    <content type="html"><![CDATA[
+      <p>Evento presencial reunirá profissionais da aviação com objetivo de discutir e disseminar boas práticas relacionadas ao CRM e promover a segurança operacional na aviação.</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8/pecas-crm_linkedin.png/@@images/2de89146-9174-4d18-b994-d61c5976d0a7.png" alt="Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac realizará manutenção programada em sistemas corporativos no dia 3/7</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-manutencao-programada-em-sistemas-corporativos-no-dia-3-7" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-manutencao-programada-em-sistemas-corporativos-no-dia-3-7</id>
+    <published>2025-07-02T13:41:00.000Z</published>
+    <updated>2025-07-02T13:41:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Previsão é que sistemas corporativos fiquem inacessíveis durante atualização</summary>
+    <content type="html"><![CDATA[
+      <p>Previsão é que sistemas corporativos fiquem inacessíveis durante atualização</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1116,44 +1154,6 @@ Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Seminário discute proteção do consumidor e judicialização no transporte aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo</id>
-    <published>2025-06-13T15:27:00.000Z</published>
-    <updated>2025-06-13T15:27:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento reuniu integrantes do Ministério Público e da Agência em Brasília (DF) para aprofundar debates sobre regulação e atuação estatal</summary>
-    <content type="html"><![CDATA[
-      <p>Evento reuniu integrantes do Ministério Público e da Agência em Brasília (DF) para aprofundar debates sobre regulação e atuação estatal</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-protecao-do-consumidor-e-judicializacao-no-transporte-aereo/whatsapp-image-2025-06-13-at-15-56-40.jpeg/@@images/7e909b5b-8ed6-4f44-9f06-d06747e09b0a.jpeg" alt="Seminário discute proteção do consumidor e judicialização no transporte aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac quer saber: como foi cadastrar seu drone?</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone</id>
-    <published>2025-06-13T14:24:00.000Z</published>
-    <updated>2025-06-13T14:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência busca aprimorar o sistema de cadastro, o Sisant, com base nas experiências dos usuários</summary>
-    <content type="html"><![CDATA[
-      <p>Agência busca aprimorar o sistema de cadastro, o Sisant, com base nas experiências dos usuários</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-quer-saber-como-foi-cadastrar-seu-drone/pesquisa-drones.png/@@images/9a19a3a2-7849-49b0-b7f6-e8117ef9491c.png" alt="Anac quer saber: como foi cadastrar seu drone?">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
