@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-92d4da37-9a8e-4ffc-8d39-8a469091c7b6",
+  "identifier": "urn:uuid:anac-feed-de22a0ed-0890-442b-802b-b97468f3978f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-02T08:20:03.348Z",
-  "dateModified": "2025-07-02T08:20:03.348Z",
+  "dateCreated": "2025-07-02T12:29:01.000Z",
+  "dateModified": "2025-07-02T12:29:01.000Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-15T00:00:00.000Z",
-    "endDate": "2025-07-02T08:20:03.346Z"
+    "endDate": "2025-07-02T12:29:00.997Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 135-008A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a",
-      "datePublished": "2025-07-02T08:20:03.346Z",
+      "datePublished": "2025-07-02T12:29:00.997Z",
       "description": "Procedimentos para a elaboração dos procedimentos operacionais padronizados (SOP) de operadores certificados sob o RBAC n º 135",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 135-009A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
-      "datePublished": "2025-07-02T08:20:03.346Z",
+      "datePublished": "2025-07-02T12:29:00.997Z",
       "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "RBAC 137 EMD 06",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-07-02T08:20:03.346Z",
+      "datePublished": "2025-07-02T12:29:00.997Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
     },
@@ -115,6 +115,22 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 714, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-714",
+      "datePublished": "2025-06-30T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 714, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-714",
+      "datePublished": "2025-06-30T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Cortes orçamentários nos serviços prestados pela Anac",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac",
@@ -130,6 +146,30 @@
       "description": "Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17312/SIA, 27/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17312",
+      "datePublished": "2025-06-27T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0499 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17316/SPL, 27/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17316",
+      "datePublished": "2025-06-27T00:00:00.000Z",
+      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17314/SPL, 27/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17314",
+      "datePublished": "2025-06-27T00:00:00.000Z",
+      "description": "Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -156,6 +196,30 @@
       "description": "O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.\n\nAssim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17306/SIA, 26/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306",
+      "datePublished": "2025-06-26T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17307/SIA, 26/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17307-2",
+      "datePublished": "2025-06-26T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1141 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17304/SPL, 26/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17304",
+      "datePublished": "2025-06-26T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -234,14 +298,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17295/SIA, 25/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17295",
-      "datePublished": "2025-06-25T00:00:00.000Z",
-      "description": "Exclui o Aeródromo de uso privativo Fazenda Piuva IX (MS) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 773, 25/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-773",
       "datePublished": "2025-06-25T00:00:00.000Z",
@@ -309,14 +365,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17269/SIA, DE 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17269",
-      "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP0727 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 713, 23/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-713",
       "datePublished": "2025-06-23T00:00:00.000Z",
@@ -364,38 +412,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17237",
       "datePublished": "2025-06-18T00:00:00.000Z",
       "description": "Inscreve o Heliponto de uso privativo elevado CIAD SC0167 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17238/SIA, 18/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17238",
-      "datePublished": "2025-06-18T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1140 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17248/SIA, 18/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17248",
-      "datePublished": "2025-06-18T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0290 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17247/SIA, 18/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17247",
-      "datePublished": "2025-06-18T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mário Ribeiro, Código OACI: SBMK; código CIAD: MG0004, em Montes Claros (MG)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17244/SIA, 18/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17244",
-      "datePublished": "2025-06-18T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0432 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -456,14 +472,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17227",
       "datePublished": "2025-06-16T00:00:00.000Z",
       "description": "Aprova o Plano Diretor do Aeroporto Sílvio Name Júnior/Maringá, PR (SBMG) - CIAD: PR0004",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17224/SIA, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17224-sia-16-06-2025",
-      "datePublished": "2025-06-16T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SC0243 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -696,14 +704,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-709",
       "datePublished": "2025-05-15T00:00:00.000Z",
       "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 708, 15/05/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-708",
-      "datePublished": "2025-05-15T00:00:00.000Z",
-      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
       "type": "legislação"
     }
   ]
