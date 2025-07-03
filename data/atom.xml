@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-b8b9086c-b49b-4d92-bc31-f569798baf77</id>
-  <updated>2025-07-02T17:05:00.000Z</updated>
+  <id>urn:uuid:anac-feed-937efa9e-02e7-4ad0-af82-4435a723637a</id>
+  <updated>2025-07-03T16:57:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Corte orçamentário é revisto e Anac tem recomposição de 50%</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/corte-orcamentario-e-revisto-e-anac-tem-recomposicao-de-50" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/corte-orcamentario-e-revisto-e-anac-tem-recomposicao-de-50</id>
+    <published>2025-07-03T16:57:00.000Z</published>
+    <updated>2025-07-03T16:57:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aporte de R$ 15 milhões, decorrente de decisão do MPor, será utilizado para retorno de aplicação de provas aos profissionais de aviação civil, atividades de certificação e fiscalização</summary>
+    <content type="html"><![CDATA[
+      <p>Aporte de R$ 15 milhões, decorrente de decisão do MPor, será utilizado para retorno de aplicação de provas aos profissionais de aviação civil, atividades de certificação e fiscalização</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/corte-orcamentario-e-revisto-e-anac-tem-recomposicao-de-50/totem-anac-bsb-6.jpg/@@images/8e58b01b-9a43-4055-a772-d09ebc7a9a4a.jpeg" alt="Corte orçamentário é revisto e Anac tem recomposição de 50%">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1015,25 +1034,6 @@ Processo 00058.016310/2020-32</p>
     <content type="html"><![CDATA[
       <p>Documentos reúnem dados, análises e metas voltadas ao aprimoramento da segurança da aviação civil</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Voar é para todos: evento inédito promove inclusão na aviação civil brasileira</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/voar-e-para-todos-evento-inedito-promove-inclusao-na-aviacao-civil-brasileira" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/voar-e-para-todos-evento-inedito-promove-inclusao-na-aviacao-civil-brasileira</id>
-    <published>2025-06-16T15:01:00.000Z</published>
-    <updated>2025-06-16T15:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac realiza Dia da Aviação Inclusiva com voos para pessoas com deficiência em aeronave adaptada, a única disponível em escola de aviação na América Latina</summary>
-    <content type="html"><![CDATA[
-      <p>Anac realiza Dia da Aviação Inclusiva com voos para pessoas com deficiência em aeronave adaptada, a única disponível em escola de aviação na América Latina</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/voar-e-para-todos-evento-inedito-promove-inclusao-na-aviacao-civil-brasileira/118-anac.jpg/@@images/48c31969-21f4-431d-889c-1781598128a0.jpeg" alt="Voar é para todos: evento inédito promove inclusão na aviação civil brasileira">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
