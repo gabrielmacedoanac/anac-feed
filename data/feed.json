@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6e9aba8c-eaea-43c4-8bef-14202895c63d",
+  "identifier": "urn:uuid:anac-feed-b8b9086c-b49b-4d92-bc31-f569798baf77",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-03T12:29:13.293Z",
-  "dateModified": "2025-07-03T12:29:13.293Z",
+  "dateCreated": "2025-07-03T16:18:01.568Z",
+  "dateModified": "2025-07-03T16:18:01.568Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -115,6 +115,14 @@
       "datePublished": "2025-06-30T12:28:00.000Z",
       "description": "Integrante da lista tríplice da Agência, substituto ocupará cargo temporariamente",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17320/SAF, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17320",
+      "datePublished": "2025-06-30T00:00:00.000Z",
+      "description": "Constitui Comissão de Apuração em Processo Administrativo Sancionador",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -371,14 +379,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17265",
       "datePublished": "2025-06-23T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD BA0503 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17263/SIA, 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17263",
-      "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0041 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
