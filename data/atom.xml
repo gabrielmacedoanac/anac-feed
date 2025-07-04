@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6664e687-00ce-4554-9fdf-bc86443a4b3a</id>
-  <updated>2025-07-04T16:17:17.215Z</updated>
+  <id>urn:uuid:anac-feed-7e1bdb8c-cfb2-48cb-8356-acaf909fbe88</id>
+  <updated>2025-07-04T20:15:18.594Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,11 +14,11 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.342/SPO, 01/072025</title>
+    <title type="html">PORTARIA Nº 17342/SPO, 01/072025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342</id>
-    <published>2025-07-04T16:17:17.215Z</published>
-    <updated>2025-07-04T16:17:17.215Z</updated>
+    <published>2025-07-04T20:15:18.594Z</published>
+    <updated>2025-07-04T20:15:18.594Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,63 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Oaci reconhece a sustentabilidade do etanol de milho brasileiro para produção de SAF</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf</id>
+    <published>2025-07-04T15:55:00.000Z</published>
+    <updated>2025-07-04T15:55:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação</summary>
+    <content type="html"><![CDATA[
+      <p>Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac aplica nova cautelar ao Aeroporto Fernando de Noronha para preservar a segurança</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-aplica-nova-cautelar-ao-aeroporto-fernando-de-noronha-para-preservar-a-seguranca" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-aplica-nova-cautelar-ao-aeroporto-fernando-de-noronha-para-preservar-a-seguranca</id>
+    <published>2025-07-04T15:14:00.000Z</published>
+    <updated>2025-07-04T15:14:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Entre as medidas aplicadas, está a proibição de aumento da frequência de voos e a realização de operações simultâneas de transporte aéreo público</summary>
+    <content type="html"><![CDATA[
+      <p>Entre as medidas aplicadas, está a proibição de aumento da frequência de voos e a realização de operações simultâneas de transporte aéreo público</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-aplica-nova-cautelar-ao-aeroporto-fernando-de-noronha-para-preservar-a-seguranca/whatsapp-image-2025-07-04-at-15-39-57.jpeg/@@images/cbd1bb4f-00e4-4005-9a3f-dd4b14df595f.jpeg" alt="Anac aplica nova cautelar ao Aeroporto Fernando de Noronha para preservar a segurança">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac promove Infoshare 2025, fórum sobre segurança operacional na aviação brasileira</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-infoshare-2025-forum-sobre-seguranca-operacional-na-aviacao-brasileira" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-infoshare-2025-forum-sobre-seguranca-operacional-na-aviacao-brasileira</id>
+    <published>2025-07-04T14:26:00.000Z</published>
+    <updated>2025-07-04T14:26:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -128,7 +185,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.359/SIA, 02/07/2025</title>
+    <title type="html">PORTARIA Nº 17359/SIA, 02/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17359" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17359</id>
     <published>2025-07-02T00:00:00.000Z</published>
@@ -204,26 +261,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17341/SAF, 01/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341</id>
-    <published>2025-07-01T00:00:00.000Z</published>
-    <updated>2025-07-01T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil – ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil – ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17.334/SIA, 01/07/2025</title>
+    <title type="html">PORTARIA Nº 17334/SIA, 01/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17334" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17334</id>
     <published>2025-07-01T00:00:00.000Z</published>
@@ -242,7 +280,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.330/SIA, 01/07/2025</title>
+    <title type="html">PORTARIA Nº 17330/SIA, 01/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17330" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17330</id>
     <published>2025-07-01T00:00:00.000Z</published>
@@ -337,7 +375,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.325/SIA, 30/06/2025</title>
+    <title type="html">PORTARIA Nº 17325/SIA, 30/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17325" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17325</id>
     <published>2025-06-30T00:00:00.000Z</published>
@@ -356,7 +394,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.322/SIA, 30/06/2025</title>
+    <title type="html">PORTARIA Nº 17322/SIA, 30/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17322" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17322</id>
     <published>2025-06-30T00:00:00.000Z</published>
@@ -375,7 +413,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.319/SIA, 30/06/2025</title>
+    <title type="html">PORTARIA Nº 17319/SIA, 30/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17319" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17319</id>
     <published>2025-06-30T00:00:00.000Z</published>
@@ -470,7 +508,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.315/SAR, 27/06/2025</title>
+    <title type="html">PORTARIA Nº 17315/SAR, 27/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17315" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17315</id>
     <published>2025-06-27T00:00:00.000Z</published>
@@ -489,7 +527,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.309/SIA, 27/06/2025</title>
+    <title type="html">PORTARIA Nº 17309/SIA, 27/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17309" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17309</id>
     <published>2025-06-27T00:00:00.000Z</published>
@@ -660,6 +698,25 @@ Participe!</p>
     <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17306/SIA, 26/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306</id>
+    <published>2025-06-26T00:00:00.000Z</published>
+    <updated>2025-06-26T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -984,25 +1041,6 @@ Processo 00058.016310/2020-32</p>
   
   
   <entry>
-    <title type="html">Anac inicia projeto de Dimensionamento da Força de Trabalho em parceria com o MGI</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-inicia-projeto-de-dimensionamento-da-forca-de-trabalho-em-parceria-com-o-mgi" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-inicia-projeto-de-dimensionamento-da-forca-de-trabalho-em-parceria-com-o-mgi</id>
-    <published>2025-06-17T10:18:00.000Z</published>
-    <updated>2025-06-17T10:18:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Iniciativa busca aprimorar a gestão da força de trabalho com base em metodologia desenvolvida pelo ministério e pela UnB para diagnosticar a necessidade de novos servidores</summary>
-    <content type="html"><![CDATA[
-      <p>Iniciativa busca aprimorar a gestão da força de trabalho com base em metodologia desenvolvida pelo ministério e pela UnB para diagnosticar a necessidade de novos servidores</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-inicia-projeto-de-dimensionamento-da-forca-de-trabalho-em-parceria-com-o-mgi/whatsapp-image-2025-06-17-at-09-26-22.jpeg/@@images/9ea7f0b1-a4ab-49e3-b38e-e22e969cf7f4.jpeg" alt="Anac inicia projeto de Dimensionamento da Força de Trabalho em parceria com o MGI">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RESOLUÇÃO Nº 771, 17/06/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-771" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-771</id>
@@ -1018,44 +1056,6 @@ Processo 00058.016310/2020-32</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac AVSEC &amp; Cyber Week: eventos reforçam compromisso da Agência com a segurança da aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao</id>
-    <published>2025-06-16T18:25:00.000Z</published>
-    <updated>2025-06-16T18:25:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">XIII Jornada AVSEC e Cybersecurity Expo reuniram especialistas e promoveram debates estratégicos sobre proteção do setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>XIII Jornada AVSEC e Cybersecurity Expo reuniram especialistas e promoveram debates estratégicos sobre proteção do setor aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-avsec-cyber-week-eventos-reforcam-compromisso-da-agencia-com-a-seguranca-da-aviacao/whatsapp-image-2025-06-16-at-18-18-56.jpeg/@@images/e701cd60-28f4-42f0-8989-d35605d8632c.jpeg" alt="Anac AVSEC & Cyber Week: eventos reforçam compromisso da Agência com a segurança da aviação">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Brasil tem atuação de destaque em ações de combate ao tráfico de pessoas na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil</id>
-    <published>2025-06-16T17:44:00.000Z</published>
-    <updated>2025-06-16T17:44:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Delegação brasileira coordenou elaboração de manual e workshop sobre combate e prevenção ao tráfico de pessoas na aviação civil, além de indicar vice-presidente para grupo regional da Oaci</summary>
-    <content type="html"><![CDATA[
-      <p>Delegação brasileira coordenou elaboração de manual e workshop sobre combate e prevenção ao tráfico de pessoas na aviação civil, além de indicar vice-presidente para grupo regional da Oaci</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil/image002.png/@@images/5a6bc232-be51-4b7d-b2ad-083909165a49.png" alt="Brasil tem atuação de destaque em ações de combate ao tráfico de pessoas na aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1712,7 +1712,7 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16.879/SIA, 28/04/2025</title>
+    <title type="html">PORTARIA Nº 16879/SIA, 28/04/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16879" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16879</id>
     <published>2025-04-28T00:00:00.000Z</published>
