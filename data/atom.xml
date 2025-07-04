@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-9618b0b0-e2d4-455a-aa19-ef5b43cfff15</id>
-  <updated>2025-07-04T12:28:41.707Z</updated>
+  <id>urn:uuid:anac-feed-6664e687-00ce-4554-9fdf-bc86443a4b3a</id>
+  <updated>2025-07-04T16:17:17.215Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17.342/SPO, 01/072025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342</id>
-    <published>2025-07-04T12:28:41.707Z</published>
-    <updated>2025-07-04T12:28:41.707Z</updated>
+    <published>2025-07-04T16:17:17.215Z</published>
+    <updated>2025-07-04T16:17:17.215Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -128,6 +128,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17.359/SIA, 02/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17359" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17359</id>
+    <published>2025-07-02T00:00:00.000Z</published>
+    <updated>2025-07-02T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Portaria nº 618/SIA, de 25 de fevereiro de 2019</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Portaria nº 618/SIA, de 25 de fevereiro de 2019</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac oferece 70 vagas na 2ª edição do Concurso Público Nacional Unificado</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-oferece-70-vagas-na-2a-edicao-do-concurso-publico-nacional-unificado" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-oferece-70-vagas-na-2a-edicao-do-concurso-publico-nacional-unificado</id>
@@ -181,6 +200,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17341/SAF, 01/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341</id>
+    <published>2025-07-01T00:00:00.000Z</published>
+    <updated>2025-07-01T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil – ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025</summary>
+    <content type="html"><![CDATA[
+      <p>Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil – ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -329,6 +367,25 @@
     <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MS0267 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Altera a inscrição do Aeródromo de uso privativo CIAD MS0267 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17.319/SIA, 30/06/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17319" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17319</id>
+    <published>2025-06-30T00:00:00.000Z</published>
+    <updated>2025-06-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto de Campo Grande (Código OACI: SBCG; código CIAD: MS0001), em Campo Grande (MS)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto de Campo Grande (Código OACI: SBCG; código CIAD: MS0001), em Campo Grande (MS)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -508,25 +565,6 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17312/SIA, 27/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17312" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17312</id>
-    <published>2025-06-27T00:00:00.000Z</published>
-    <updated>2025-06-27T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0499 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0499 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Projeto inclusivo leva o mundo da aviação a crianças do Rio de Janeiro (RJ)</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj</id>
@@ -622,44 +660,6 @@ Participe!</p>
     <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17306/SIA, 26/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306</id>
-    <published>2025-06-26T00:00:00.000Z</published>
-    <updated>2025-06-26T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17307/SIA, 26/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17307-2" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17307-2</id>
-    <published>2025-06-26T00:00:00.000Z</published>
-    <updated>2025-06-26T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1141 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT1141 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

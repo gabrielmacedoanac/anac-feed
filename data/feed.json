@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9618b0b0-e2d4-455a-aa19-ef5b43cfff15",
+  "identifier": "urn:uuid:anac-feed-6664e687-00ce-4554-9fdf-bc86443a4b3a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-04T12:28:41.709Z",
-  "dateModified": "2025-07-04T12:28:41.709Z",
+  "dateCreated": "2025-07-04T16:17:17.217Z",
+  "dateModified": "2025-07-04T16:17:17.217Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-04-28T00:00:00.000Z",
-    "endDate": "2025-07-04T12:28:41.707Z"
+    "endDate": "2025-07-04T16:17:17.215Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17.342/SPO, 01/072025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342",
-      "datePublished": "2025-07-04T12:28:41.707Z",
+      "datePublished": "2025-07-04T16:17:17.215Z",
       "description": "Tornar pública a cassação de Certificado de Operador Aéreo",
       "type": "legislação"
     },
@@ -86,6 +86,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17.359/SIA, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17359",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Altera a Portaria nº 618/SIA, de 25 de fevereiro de 2019",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac oferece 70 vagas na 2ª edição do Concurso Público Nacional Unificado",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-oferece-70-vagas-na-2a-edicao-do-concurso-publico-nacional-unificado",
@@ -109,6 +117,14 @@
       "datePublished": "2025-07-01T14:12:00.000Z",
       "description": "Anac e Ufersa paralisaram o processo seletivo para checar informações dos candidatos e garantir a integridade dos procedimentos",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17341/SAF, 01/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341",
+      "datePublished": "2025-07-01T00:00:00.000Z",
+      "description": "Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil – ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -172,6 +188,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17322",
       "datePublished": "2025-06-30T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0267 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17.319/SIA, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17319",
+      "datePublished": "2025-06-30T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto de Campo Grande (Código OACI: SBCG; código CIAD: MS0001), em Campo Grande (MS)",
       "type": "legislação"
     },
     {
@@ -248,14 +272,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17312/SIA, 27/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17312",
-      "datePublished": "2025-06-27T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0499 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Projeto inclusivo leva o mundo da aviação a crianças do Rio de Janeiro (RJ)",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj",
@@ -295,22 +311,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17300",
       "datePublished": "2025-06-26T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17306/SIA, 26/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306",
-      "datePublished": "2025-06-26T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17307/SIA, 26/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17307-2",
-      "datePublished": "2025-06-26T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1141 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
