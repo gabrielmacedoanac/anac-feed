@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-937efa9e-02e7-4ad0-af82-4435a723637a</id>
-  <updated>2025-07-03T16:57:00.000Z</updated>
+  <id>urn:uuid:anac-feed-3d1dcd01-49b7-40e4-9f20-41d2dc70fc1e</id>
+  <updated>2025-07-03T19:45:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Provas teóricas da Anac são retomadas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas</id>
+    <published>2025-07-03T19:45:00.000Z</published>
+    <updated>2025-07-03T19:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agendamentos da FGV foram reabertos nesta quinta-feira (3/7), após remanejamento de recursos do Ministério de Portos e Aeroportos</summary>
+    <content type="html"><![CDATA[
+      <p>Agendamentos da FGV foram reabertos nesta quinta-feira (3/7), após remanejamento de recursos do Ministério de Portos e Aeroportos</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas/comunicado_retomada_provas_linkedin.png/@@images/50f411a5-fb7a-4391-8ae2-fa717894c47f.png" alt="Provas teóricas da Anac são retomadas">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1015,25 +1034,6 @@ Processo 00058.016310/2020-32</p>
     <content type="html"><![CDATA[
       <p>Delegação brasileira coordenou elaboração de manual e workshop sobre combate e prevenção ao tráfico de pessoas na aviação civil, além de indicar vice-presidente para grupo regional da Oaci</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-tem-atuacao-de-destaque-em-acoes-de-combate-ao-trafico-de-pessoas-na-aviacao-civil/image002.png/@@images/5a6bc232-be51-4b7d-b2ad-083909165a49.png" alt="Brasil tem atuação de destaque em ações de combate ao tráfico de pessoas na aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Relatórios Anuais de Segurança Operacional de 2023 e 2024 já estão disponíveis</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/relatorios-anuais-de-seguranca-operacional-de-2023-e-2024-ja-estao-disponiveis" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/relatorios-anuais-de-seguranca-operacional-de-2023-e-2024-ja-estao-disponiveis</id>
-    <published>2025-06-16T15:59:00.000Z</published>
-    <updated>2025-06-16T15:59:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documentos reúnem dados, análises e metas voltadas ao aprimoramento da segurança da aviação civil</summary>
-    <content type="html"><![CDATA[
-      <p>Documentos reúnem dados, análises e metas voltadas ao aprimoramento da segurança da aviação civil</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
