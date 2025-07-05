@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-26d51ba2-3383-47ff-867b-7983a7ea61d7",
+  "identifier": "urn:uuid:anac-feed-a9cd51d4-6858-4b1a-8c62-27d0f72b77c0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-05T12:25:42.445Z",
-  "dateModified": "2025-07-05T12:25:42.445Z",
+  "dateCreated": "2025-07-05T16:16:16.564Z",
+  "dateModified": "2025-07-05T16:16:16.564Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-04-28T00:00:00.000Z",
-    "endDate": "2025-07-05T12:25:42.443Z"
+    "endDate": "2025-07-05T16:16:16.562Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17342/SPO, 01/072025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342",
-      "datePublished": "2025-07-05T12:25:42.443Z",
+      "datePublished": "2025-07-05T16:16:16.562Z",
       "description": "Tornar pública a cassação de Certificado de Operador Aéreo",
       "type": "legislação"
     },
