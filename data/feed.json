@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7e1bdb8c-cfb2-48cb-8356-acaf909fbe88",
+  "identifier": "urn:uuid:anac-feed-28ca5805-383b-4692-8fad-d811e9d8680e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-04T20:15:18.596Z",
-  "dateModified": "2025-07-04T20:15:18.596Z",
+  "dateCreated": "2025-07-05T01:07:49.863Z",
+  "dateModified": "2025-07-05T01:07:49.863Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-04-28T00:00:00.000Z",
-    "endDate": "2025-07-04T20:15:18.594Z"
+    "endDate": "2025-07-05T01:07:49.861Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17342/SPO, 01/072025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342",
-      "datePublished": "2025-07-04T20:15:18.594Z",
+      "datePublished": "2025-07-05T01:07:49.861Z",
       "description": "Tornar pública a cassação de Certificado de Operador Aéreo",
       "type": "legislação"
     },
@@ -47,6 +47,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf",
       "datePublished": "2025-07-04T15:55:00.000Z",
       "description": "Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf/PORTAL.jpg/@@images/c21503d7-b379-4cc8-b890-688ffc22880f.jpeg",
       "type": "notícia"
     },
     {
@@ -142,6 +143,14 @@
       "datePublished": "2025-07-01T14:12:00.000Z",
       "description": "Anac e Ufersa paralisaram o processo seletivo para checar informações dos candidatos e garantir a integridade dos procedimentos",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17341/SAF, 01/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341",
+      "datePublished": "2025-07-01T00:00:00.000Z",
+      "description": "Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil - ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -328,14 +337,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17300",
       "datePublished": "2025-06-26T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17306/SIA, 26/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306",
-      "datePublished": "2025-06-26T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos",
       "type": "legislação"
     },
     {

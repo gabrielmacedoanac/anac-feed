@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-7e1bdb8c-cfb2-48cb-8356-acaf909fbe88</id>
-  <updated>2025-07-04T20:15:18.594Z</updated>
+  <id>urn:uuid:anac-feed-28ca5805-383b-4692-8fad-d811e9d8680e</id>
+  <updated>2025-07-05T01:07:49.861Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17342/SPO, 01/072025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342</id>
-    <published>2025-07-04T20:15:18.594Z</published>
-    <updated>2025-07-04T20:15:18.594Z</updated>
+    <published>2025-07-05T01:07:49.861Z</published>
+    <updated>2025-07-05T01:07:49.861Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -44,7 +44,7 @@
     <summary type="html">Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação</summary>
     <content type="html"><![CDATA[
       <p>Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação</p>
-      
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf/PORTAL.jpg/@@images/c21503d7-b379-4cc8-b890-688ffc22880f.jpeg" alt="Oaci reconhece a sustentabilidade do etanol de milho brasileiro para produção de SAF">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -257,6 +257,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17341/SAF, 01/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341</id>
+    <published>2025-07-01T00:00:00.000Z</published>
+    <updated>2025-07-01T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil - ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025</summary>
+    <content type="html"><![CDATA[
+      <p>Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil - ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -698,25 +717,6 @@ Participe!</p>
     <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) Aeroporto Ten. Cel. Aviador César Bombonato (SBUL), em Uberlândia/MG (código CIAD: MG0002)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17306/SIA, 26/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17306</id>
-    <published>2025-06-26T00:00:00.000Z</published>
-    <updated>2025-06-26T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Heliponto de uso privativo elevado CIAD SC0076 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
