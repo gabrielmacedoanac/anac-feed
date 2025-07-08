@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2a0f18ee-20d7-47aa-9db4-9f6d7818907f",
+  "identifier": "urn:uuid:anac-feed-197e022a-c48f-4daa-8c89-8a6b4d4f25aa",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-08T12:30:00.556Z",
-  "dateModified": "2025-07-08T12:30:00.556Z",
+  "dateCreated": "2025-07-08T20:16:16.552Z",
+  "dateModified": "2025-07-08T20:16:16.552Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-15T00:00:00.000Z",
-    "endDate": "2025-07-08T12:30:00.548Z"
+    "endDate": "2025-07-08T14:00:00.000Z"
   },
   "distribution": [
     {
@@ -34,12 +34,22 @@
   ],
   "items": [
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17342/SPO, 01/072025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17342",
-      "datePublished": "2025-07-08T12:30:00.548Z",
-      "description": "Tornar pública a cassação de Certificado de Operador Aéreo",
-      "type": "legislação"
+      "@type": "NewsArticle",
+      "name": "Pilotos privados terão licenças expedidas exclusivamente pelo Super App da Anac a partir de 1º/8",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8",
+      "datePublished": "2025-07-08T14:00:00.000Z",
+      "description": "Sistema Sintac, utilizado anteriormente, será descontinuado para esse serviço",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8/whatsapp-1.png/@@images/845ed9de-2e5a-4f87-8057-14d0335aa47b.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Balonismo terá novas regras para exploração da atividade no país",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais",
+      "datePublished": "2025-07-08T12:52:00.000Z",
+      "description": "Anac pretende estabelecer regras de transição com restrições ao aerodesporto e critérios mínimos de segurança para operações comerciais",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais/balonismo_atualizacao_regras_linkedin.png/@@images/751291c7-b357-479d-b5a6-bdb737328a34.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -68,6 +78,22 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17379/SPL, 04/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17379",
+      "datePublished": "2025-07-04T00:00:00.000Z",
+      "description": "Descredencia Pessoa Física para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17378/SPO, 04/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17378",
+      "datePublished": "2025-07-04T00:00:00.000Z",
+      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Provas teóricas da Anac são retomadas",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas",
@@ -87,18 +113,58 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17364/SIA, 03/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17364",
+      "name": "PORTARIA Nº 17375/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17375",
       "datePublished": "2025-07-03T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NAN HAI BA HAO (9PMU)",
+      "description": "Torna pública a aplicação de medidas cautelares ao aeródromo público Governador Carlos Wilson, localizado em Fernando de Noronha (PE)",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17368/SIA, 03/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17368",
+      "name": "PORTARIA Nº 17374/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17374",
       "datePublished": "2025-07-03T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade VERMELHO 1 (9PVE)",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Ponta Porã (Código OACI: SBPP; Código CIAD: MS0005), em Ponta Porã (MS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17371/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17371",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeródromo João Correa da Rocha (Código OACI: SBMA; Código CIAD: PA0004), em Marabá (PA)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17370/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17370",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Maestro Wilson Fonseca (Código OACI: SBSN; código CIAD: PA0002), em Santarém (PA)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17369/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17369-1",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto de Corumbá (Código OACI: SBCR; Código CIAD: MS0009), em Corumbá (MS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17367/SPO, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17367",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17366/SPO, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17366",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
       "type": "legislação"
     },
     {
@@ -129,6 +195,38 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17357/CRG, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17357",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17361/SPO, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17361",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17358/CRG, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17358",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Prorroga Comissão de Processo Administrativo para Apuração da Responsabilidade de Pessoa Jurídica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17346/SPO, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17346",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17356/CRG, 02/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17356",
       "datePublished": "2025-07-02T00:00:00.000Z",
@@ -141,38 +239,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17355",
       "datePublished": "2025-07-02T00:00:00.000Z",
       "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17349/SIA, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17369",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD GO0129 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17360/SIA, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17360",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade WEST CARINA (9PKA)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17348/SIA, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17348",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Autoriza a BELL TEXTRON INC. a conduzir treinamentos e exames segundo o Regulamento Brasileiro da Aviação Civil - RBAC nº 142, com base no certificado FAA nº 6XBX088K",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17359/SIA, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17359",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Altera a Portaria nº 618/SIA, de 25 de fevereiro de 2019",
       "type": "legislação"
     },
     {
@@ -202,74 +268,34 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17339/SPO, 01/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17339",
+      "datePublished": "2025-07-01T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17338/SPO, 01/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17338",
+      "datePublished": "2025-07-01T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17335/SPO, 01/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17335",
+      "datePublished": "2025-07-01T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17340/SPO, 01/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17340",
       "datePublished": "2025-07-01T00:00:00.000Z",
       "description": "Aprova o Manual de Procedimento - MPR/SPO-146-R03",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17337/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17337",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0433 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17344/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17344",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1099 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17336/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17336",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0570 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17333/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17333",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0043 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17332/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17332",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD SP0157 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17331/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17331",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0645 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17341/SAF, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17341",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Estabelece os procedimentos operacionais para a concessão de diárias, passagens e transporte no âmbito da Agência Nacional de Aviação Civil - ANAC, em conformidade com a Instrução Normativa nº 210, de 31 de março de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17334/SIA, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17334",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto de Altamira (Código OACI: SBHT; Código CIAD: PA0003), em Altamira (PA)",
       "type": "legislação"
     },
     {
@@ -306,18 +332,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17329/SPO, 30/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17329",
+      "name": "PORTARIA Nº 17323/SPO, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17323",
       "datePublished": "2025-06-30T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17321/SIA, 30/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17321",
-      "datePublished": "2025-06-30T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0403 no cadastro de aeródromos",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
       "type": "legislação"
     },
     {
@@ -473,23 +491,6 @@
       "datePublished": "2025-06-18T19:46:00.000Z",
       "description": "Foram apresentados os investimentos que serão feitos em Campo Grande, Corumbá, Ponta Porã e Dourados. Visita também marcou a entrega da nova pista de Macaé.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-acompanha-o-inicio-das-obras-nos-aeroportos-do-mato-grosso-do-sul-e-macae-rj/whatsapp-image-2025-06-18-at-11-43-34.jpeg/@@images/113dda3c-4ddd-40dd-b732-cbe20211c3fb.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac ajusta procedimentos para realização de exames de proficiência",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-ajusta-procedimentos-para-realizacao-de-exames-de-proficiencia",
-      "datePublished": "2025-06-18T18:01:00.000Z",
-      "description": "Mudanças se aplicam a candidatos a licenças e habilitações de pilotos, comissários de voo e mecânicos de manutenção aeronáutica",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-ajusta-procedimentos-para-realizacao-de-exames-de-proficiencia/portal.png/@@images/b443e062-7844-4dca-9885-a49cfdae72e2.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novas regras de fiscalização e autuação passarão a valer em 2026",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-passarao-a-valer-em-2026",
-      "datePublished": "2025-06-18T14:06:00.000Z",
-      "description": "Anac vai manter processos com as normas atuais até o final do ano, quando as áreas técnicas deverão ajustar atividades aos novos critérios da regulação responsiva",
       "type": "notícia"
     },
     {
