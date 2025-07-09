@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0baed762-6358-4be5-8855-c6eee784598b",
+  "identifier": "urn:uuid:anac-feed-8b1ed4ce-3dc0-40fc-ac8f-ef2f8cf70d11",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-09T12:29:31.214Z",
-  "dateModified": "2025-07-09T12:29:31.214Z",
+  "dateCreated": "2025-07-09T16:16:05.274Z",
+  "dateModified": "2025-07-09T16:16:05.274Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-09T06:57:28.000Z"
+    "endDate": "2025-07-09T16:16:05.268Z"
   },
   "distribution": [
     {
@@ -33,6 +33,30 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 19/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-19",
+      "datePublished": "2025-07-09T16:16:05.268Z",
+      "description": "Edital de Seleção de Mentorados com Foco em Liderança",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 18/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-18",
+      "datePublished": "2025-07-09T16:16:05.268Z",
+      "description": "Edital de Mentoria Técnica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 17/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-17",
+      "datePublished": "2025-07-09T16:16:05.268Z",
+      "description": "Edital de Chamamento para Banco de Mentores de Liderança",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "6ª edição do Aviação Sustentável",
@@ -59,6 +83,14 @@
       "description": "Anac pretende estabelecer regras de transição com restrições ao aerodesporto e critérios mínimos de segurança para operações comerciais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais/balonismo_atualizacao_regras_linkedin.png/@@images/751291c7-b357-479d-b5a6-bdb737328a34.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17384, 07/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17384",
+      "datePublished": "2025-07-07T00:00:00.000Z",
+      "description": "Altera a distribuição de cargos comissionados da ANAC",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -275,22 +307,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17358/CRG, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17358",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo para Apuração da Responsabilidade de Pessoa Jurídica",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17346/SPO, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17346",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac oferece 70 vagas na 2ª edição do Concurso Público Nacional Unificado",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-oferece-70-vagas-na-2a-edicao-do-concurso-publico-nacional-unificado",
@@ -314,30 +330,6 @@
       "datePublished": "2025-07-01T14:12:00.000Z",
       "description": "Anac e Ufersa paralisaram o processo seletivo para checar informações dos candidatos e garantir a integridade dos procedimentos",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17339/SPO, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17339",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17338/SPO, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17338",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17335/SPO, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17335",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo.",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -370,6 +362,14 @@
       "datePublished": "2025-06-30T12:28:00.000Z",
       "description": "Integrante da lista tríplice da Agência, substituto ocupará cargo temporariamente",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17328/SIA, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17328",
+      "datePublished": "2025-06-30T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0646 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
