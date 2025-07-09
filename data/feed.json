@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8b1ed4ce-3dc0-40fc-ac8f-ef2f8cf70d11",
+  "identifier": "urn:uuid:anac-feed-525e662c-bbe7-48c2-9de2-8a78b2865cc3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-09T16:16:05.274Z",
-  "dateModified": "2025-07-09T16:16:05.274Z",
+  "dateCreated": "2025-07-09T20:15:59.318Z",
+  "dateModified": "2025-07-09T20:15:59.318Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-09T16:16:05.268Z"
+    "endDate": "2025-07-09T20:15:59.316Z"
   },
   "distribution": [
     {
@@ -35,9 +35,17 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "RBAC 135 EMD 15",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
+      "datePublished": "2025-07-09T20:15:59.316Z",
+      "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "EDITAL Nº 19/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-19",
-      "datePublished": "2025-07-09T16:16:05.268Z",
+      "datePublished": "2025-07-09T20:15:59.316Z",
       "description": "Edital de Seleção de Mentorados com Foco em Liderança",
       "type": "legislação"
     },
@@ -45,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 18/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-18",
-      "datePublished": "2025-07-09T16:16:05.268Z",
+      "datePublished": "2025-07-09T20:15:59.316Z",
       "description": "Edital de Mentoria Técnica",
       "type": "legislação"
     },
@@ -53,9 +61,34 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 17/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-17",
-      "datePublished": "2025-07-09T16:16:05.268Z",
+      "datePublished": "2025-07-09T20:15:59.316Z",
       "description": "Edital de Chamamento para Banco de Mentores de Liderança",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac emite a primeira certificação de balão brasileiro",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro",
+      "datePublished": "2025-07-09T17:06:00.000Z",
+      "description": "Processo atestou produção de cinco modelos da Rubic Balões conforme padrões internacionais de segurança",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro/imagem-do-whatsapp-de-2025-07-09-a-s-10-12-16_f0fdcf07.jpg/@@images/f7ec5b2f-8151-4b03-830e-aae3271f7326.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 135 EMD 15",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
+      "datePublished": "2025-07-09T17:06:00.000Z",
+      "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Tomada de subsídios para revisão de requisitos de MMA segue até 14/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7",
+      "datePublished": "2025-07-09T17:05:00.000Z",
+      "description": "Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -299,14 +332,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17361/SPO, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17361",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac oferece 70 vagas na 2ª edição do Concurso Público Nacional Unificado",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-oferece-70-vagas-na-2a-edicao-do-concurso-publico-nacional-unificado",
@@ -500,24 +525,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac lamenta acidente ocorrido com balão em Santa Catarina",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina",
-      "datePublished": "2025-06-21T12:27:00.000Z",
-      "description": "A Agência está adotando as providências necessárias para averiguação da situação da aeronave e da tripulação",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lamenta-acidente-ocorrido-com-balao-em-santa-catarina/comunicado.jpeg/@@images/41d9eee0-e740-4854-abf7-a82d1f2f4030.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac acompanha obras nos aeroportos do Mato Grosso do Sul e Macaé (RJ)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-acompanha-o-inicio-das-obras-nos-aeroportos-do-mato-grosso-do-sul-e-macae-rj",
-      "datePublished": "2025-06-18T19:46:00.000Z",
-      "description": "Foram apresentados os investimentos que serão feitos em Campo Grande, Corumbá, Ponta Porã e Dourados. Visita também marcou a entrega da nova pista de Macaé.",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-acompanha-o-inicio-das-obras-nos-aeroportos-do-mato-grosso-do-sul-e-macae-rj/whatsapp-image-2025-06-18-at-11-43-34.jpeg/@@images/113dda3c-4ddd-40dd-b732-cbe20211c3fb.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 771, 17/06/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-771",
@@ -550,14 +557,6 @@
       "description": "O webinário visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.\n\nPara dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9H\n\nPara participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.",
       "image": "https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 183-002I",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002",
-      "datePublished": "2025-06-12T07:55:00.000Z",
-      "description": "Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
