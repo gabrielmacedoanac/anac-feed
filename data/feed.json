@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-48be0ba7-f21a-4e8e-94ac-e382499a946b",
+  "identifier": "urn:uuid:anac-feed-46d46d73-db07-434d-8458-6fd8a3ead63e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-10T01:12:03.895Z",
-  "dateModified": "2025-07-10T01:12:03.895Z",
+  "dateCreated": "2025-07-10T04:27:47.602Z",
+  "dateModified": "2025-07-10T04:27:47.602Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-10T01:12:03.892Z"
+    "endDate": "2025-07-10T04:27:47.600Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "RBAC 135 EMD 15",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
-      "datePublished": "2025-07-10T01:12:03.892Z",
+      "datePublished": "2025-07-10T04:27:47.600Z",
       "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 19/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-19",
-      "datePublished": "2025-07-10T01:12:03.892Z",
+      "datePublished": "2025-07-10T04:27:47.600Z",
       "description": "Edital de Seleção de Mentorados com Foco em Liderança",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 18/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-18",
-      "datePublished": "2025-07-10T01:12:03.892Z",
+      "datePublished": "2025-07-10T04:27:47.600Z",
       "description": "Edital de Mentoria Técnica",
       "type": "legislação"
     },
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 17/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-17",
-      "datePublished": "2025-07-10T01:12:03.892Z",
+      "datePublished": "2025-07-10T04:27:47.600Z",
       "description": "Edital de Chamamento para Banco de Mentores de Liderança",
       "type": "legislação"
     },
