@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-19aa51c8-369a-4bce-ac1f-e296a46bfe75",
+  "identifier": "urn:uuid:anac-feed-1f2e5f59-d29f-4252-83c3-1a7c277c32dd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-11T08:20:00.691Z",
-  "dateModified": "2025-07-11T08:20:00.691Z",
+  "dateCreated": "2025-07-11T12:28:51.165Z",
+  "dateModified": "2025-07-11T12:28:51.165Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-11T08:20:00.688Z"
+    "endDate": "2025-07-11T12:28:51.162Z"
   },
   "distribution": [
     {
@@ -35,9 +35,17 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "PORTARIA17380",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria17380",
+      "datePublished": "2025-07-11T12:28:51.162Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1493 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "RBAC 135 EMD 15",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
-      "datePublished": "2025-07-11T08:20:00.688Z",
+      "datePublished": "2025-07-11T12:28:51.162Z",
       "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
       "type": "legislação"
     },
@@ -45,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 19/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-19",
-      "datePublished": "2025-07-11T08:20:00.688Z",
+      "datePublished": "2025-07-11T12:28:51.162Z",
       "description": "Edital de Seleção de Mentorados com Foco em Liderança",
       "type": "legislação"
     },
@@ -53,7 +61,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 18/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-18",
-      "datePublished": "2025-07-11T08:20:00.688Z",
+      "datePublished": "2025-07-11T12:28:51.162Z",
       "description": "Edital de Mentoria Técnica",
       "type": "legislação"
     },
@@ -61,7 +69,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 17/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-17",
-      "datePublished": "2025-07-11T08:20:00.688Z",
+      "datePublished": "2025-07-11T12:28:51.162Z",
       "description": "Edital de Chamamento para Banco de Mentores de Liderança",
       "type": "legislação"
     },
@@ -140,14 +148,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17383",
       "datePublished": "2025-07-07T00:00:00.000Z",
       "description": "Altera o quantitativo de cargos comissionados da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 774, 07/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-774",
-      "datePublished": "2025-07-07T00:00:00.000Z",
-      "description": "Aprova emenda ao RBAC nº 135 e altera o anexo da Resolução nº 352, de 10 de fevereiro de 2015",
       "type": "legislação"
     },
     {
