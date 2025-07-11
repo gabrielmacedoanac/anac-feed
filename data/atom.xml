@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-42f7f275-770d-4efb-a03b-414e57b2fed8</id>
-  <updated>2025-07-11T16:18:01.509Z</updated>
+  <id>urn:uuid:anac-feed-9d5730a8-b7f1-44c2-ad43-0767f5c42fbc</id>
+  <updated>2025-07-11T20:16:18.231Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,106 +14,11 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17353, DE 2/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17362, DE 2/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17385, DE 7/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17377, DE 4/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17377" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17377</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD BA0504 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD BA0504 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17381, DE 7/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">PORTARIA Nº 17372, DE 3/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
+    <published>2025-07-11T20:16:18.231Z</published>
+    <updated>2025-07-11T20:16:18.231Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -128,102 +33,26 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17351, DE 2/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17351" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17351</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
+    <title type="html">Tetos das tarifas aeroportuárias de Guarulhos e Viracopos são reajustados</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados</id>
+    <published>2025-07-11T14:08:00.000Z</published>
+    <updated>2025-07-11T14:08:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD PA0017 no cadastro de aeródromos</summary>
+    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</summary>
     <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD PA0017 no cadastro de aeródromos</p>
+      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17393/SAR, DE 8/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17393" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17393</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a emissão de Certificado de Tipo - CT</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a emissão de Certificado de Tipo - CT</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17386, DE 8/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17386" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17386</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação da suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENCAO DE AERONAVES LTDA - EPP.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação da suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENCAO DE AERONAVES LTDA - EPP.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17398, DE 9/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17398-" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17398-</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</summary>
-    <content type="html"><![CDATA[
-      <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17382, DE 7/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17382" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17382</id>
-    <published>2025-07-11T16:18:01.509Z</published>
-    <updated>2025-07-11T16:18:01.509Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Portaria nº 10.164, de 29 de dezembro de 2022</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Portaria nº 10.164, de 29 de dezembro de 2022</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17408, DE 10/07/2025</title>
+    <title type="html">PORTARIA Nº 17408/SRA, 10/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17408" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17408</id>
     <published>2025-07-10T00:00:00.000Z</published>
@@ -242,7 +71,7 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17407, DE 10/07/2025</title>
+    <title type="html">PORTARIA Nº 17407/SRA, 10/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17407" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17407</id>
     <published>2025-07-10T00:00:00.000Z</published>
@@ -364,6 +193,25 @@ Participe!</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17398/SPL, 09/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17398-" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17398-</id>
+    <published>2025-07-09T00:00:00.000Z</published>
+    <updated>2025-07-09T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</summary>
+    <content type="html"><![CDATA[
+      <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17401/ASJIN, 09/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17401" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17401</id>
@@ -421,6 +269,44 @@ Participe!</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17393/SAR, 08/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17393" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17393</id>
+    <published>2025-07-08T00:00:00.000Z</published>
+    <updated>2025-07-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a emissão de Certificado de Tipo - CT</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a emissão de Certificado de Tipo - CT</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17386/SPO, 08/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17386-de-8-07-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17386-de-8-07-2025</id>
+    <published>2025-07-08T00:00:00.000Z</published>
+    <updated>2025-07-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a revogação da suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENCAO DE AERONAVES LTDA - EPP.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a revogação da suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENCAO DE AERONAVES LTDA - EPP.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17389/SIA, 08/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17389" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17389</id>
@@ -432,6 +318,44 @@ Participe!</p>
     <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SKANDI VITORIA (9PBJ)</summary>
     <content type="html"><![CDATA[
       <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SKANDI VITORIA (9PBJ)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17385/SIA, 07/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385</id>
+    <published>2025-07-07T00:00:00.000Z</published>
+    <updated>2025-07-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17381/SIA, 07/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381</id>
+    <published>2025-07-07T00:00:00.000Z</published>
+    <updated>2025-07-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -512,6 +436,25 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17377/SIA, 04/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17377" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17377</id>
+    <published>2025-07-04T00:00:00.000Z</published>
+    <updated>2025-07-04T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD BA0504 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD BA0504 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -664,6 +607,63 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17353/SIA, 02/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353</id>
+    <published>2025-07-02T00:00:00.000Z</published>
+    <updated>2025-07-02T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17362/SIA, 02/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362</id>
+    <published>2025-07-02T00:00:00.000Z</published>
+    <updated>2025-07-02T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17351/SIA, 02/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17351" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17351</id>
+    <published>2025-07-02T00:00:00.000Z</published>
+    <updated>2025-07-02T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD PA0017 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD PA0017 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1032,25 +1032,6 @@ Processo 00058.016310/2020-32 - 2:13:53</p>
     <content type="html"><![CDATA[
       <p>Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass/voepass_cassacao_operacoes_linkedin.png/@@images/1dd43b4a-32fc-4bd3-9b60-8386e49bd8a9.png" alt="Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Pelo terceiro mês consecutivo, movimentação de passageiros em aeroportos brasileiros supera os 10 milhões</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes</id>
-    <published>2025-06-24T17:13:00.000Z</published>
-    <updated>2025-06-24T17:13:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica</summary>
-    <content type="html"><![CDATA[
-      <p>Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes/whatsapp-image-2025-06-24-at-17-15-27.jpeg/@@images/f65d641f-6107-4a1d-ae52-5742baf65981.jpeg" alt="Pelo terceiro mês consecutivo, movimentação de passageiros em aeroportos brasileiros supera os 10 milhões">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1672,7 +1653,7 @@ Processo 00058.040824/2019-75: Proposta de instauração de consulta pública so
   
   
   <entry>
-    <title type="html">PORTARIA Nº 16970, DE 12/05/2025</title>
+    <title type="html">PORTARIA Nº 16970/SIA, 12/05/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16970" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16970</id>
     <published>2025-05-12T00:00:00.000Z</published>

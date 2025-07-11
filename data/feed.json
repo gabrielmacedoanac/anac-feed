@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-42f7f275-770d-4efb-a03b-414e57b2fed8",
+  "identifier": "urn:uuid:anac-feed-9d5730a8-b7f1-44c2-ad43-0767f5c42fbc",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-11T16:18:01.511Z",
-  "dateModified": "2025-07-11T16:18:01.511Z",
+  "dateCreated": "2025-07-11T20:16:18.233Z",
+  "dateModified": "2025-07-11T20:16:18.233Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-12T00:00:00.000Z",
-    "endDate": "2025-07-11T16:18:01.509Z"
+    "endDate": "2025-07-11T20:16:18.231Z"
   },
   "distribution": [
     {
@@ -35,95 +35,23 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17353, DE 2/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17362, DE 2/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17385, DE 7/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17377, DE 4/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17377",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0504 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17381, DE 7/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17372, DE 3/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372",
-      "datePublished": "2025-07-11T16:18:01.509Z",
+      "datePublished": "2025-07-11T20:16:18.231Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0647 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17351, DE 2/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17351",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0017 no cadastro de aeródromos",
-      "type": "legislação"
+      "@type": "NewsArticle",
+      "name": "Tetos das tarifas aeroportuárias de Guarulhos e Viracopos são reajustados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados",
+      "datePublished": "2025-07-11T14:08:00.000Z",
+      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17393/SAR, DE 8/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17393",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Torna pública a emissão de Certificado de Tipo - CT",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17386, DE 8/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17386",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Torna pública a revogação da suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENCAO DE AERONAVES LTDA - EPP.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17398, DE 9/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17398-",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17382, DE 7/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17382",
-      "datePublished": "2025-07-11T16:18:01.509Z",
-      "description": "Altera a Portaria nº 10.164, de 29 de dezembro de 2022",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17408, DE 10/07/2025",
+      "name": "PORTARIA Nº 17408/SRA, 10/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17408",
       "datePublished": "2025-07-10T00:00:00.000Z",
       "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Viracopos, localizado em Campinas (SP)",
@@ -131,7 +59,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17407, DE 10/07/2025",
+      "name": "PORTARIA Nº 17407/SRA, 10/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17407",
       "datePublished": "2025-07-10T00:00:00.000Z",
       "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Governador André Franco Montoro, localizado em Guarulhos (SP)",
@@ -182,6 +110,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17398/SPL, 09/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17398-",
+      "datePublished": "2025-07-09T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17401/ASJIN, 09/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17401",
       "datePublished": "2025-07-09T00:00:00.000Z",
@@ -208,10 +144,42 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17393/SAR, 08/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17393",
+      "datePublished": "2025-07-08T00:00:00.000Z",
+      "description": "Torna pública a emissão de Certificado de Tipo - CT",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17386/SPO, 08/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17386-de-8-07-2025",
+      "datePublished": "2025-07-08T00:00:00.000Z",
+      "description": "Torna pública a revogação da suspensão do Certificado de Organização de Manutenção da HELISTAR MANUTENCAO DE AERONAVES LTDA - EPP.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17389/SIA, 08/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17389",
       "datePublished": "2025-07-08T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SKANDI VITORIA (9PBJ)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17385/SIA, 07/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385",
+      "datePublished": "2025-07-07T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17381/SIA, 07/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381",
+      "datePublished": "2025-07-07T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG",
       "type": "legislação"
     },
     {
@@ -247,6 +215,14 @@
       "datePublished": "2025-07-04T14:26:00.000Z",
       "description": "Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17377/SIA, 04/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17377",
+      "datePublished": "2025-07-04T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0504 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -315,6 +291,30 @@
       "description": "Agência encerra dois anos na liderança do comitê, que passará a ser coordenado pelo Decea",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-encerra-sua-participacao-como-coordenadora-do-comite-de-seguranca-operacional-da-aviacao-civil-brasileira/img_9490.jpg/@@images/06b26992-905c-4d48-9fd8-2bd17ca03647.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17353/SIA, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17362/SIA, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17351/SIA, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17351",
+      "datePublished": "2025-07-02T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0017 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -473,15 +473,6 @@
       "datePublished": "2025-06-24T17:43:00.000Z",
       "description": "Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass/voepass_cassacao_operacoes_linkedin.png/@@images/1dd43b4a-32fc-4bd3-9b60-8386e49bd8a9.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Pelo terceiro mês consecutivo, movimentação de passageiros em aeroportos brasileiros supera os 10 milhões",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes",
-      "datePublished": "2025-06-24T17:13:00.000Z",
-      "description": "Com 10,4 milhões de viajantes, o mês de maio registra seus melhores resultados para o mês desde o início da série histórica",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/pelo-terceiro-mes-consecutivo-movimentacao-de-passageiros-em-aeroportos-brasileiros-supera-os-10-milhoes/whatsapp-image-2025-06-24-at-17-15-27.jpeg/@@images/f65d641f-6107-4a1d-ae52-5742baf65981.jpeg",
       "type": "notícia"
     },
     {
@@ -675,7 +666,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 16970, DE 12/05/2025",
+      "name": "PORTARIA Nº 16970/SIA, 12/05/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-16970",
       "datePublished": "2025-05-12T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1123 no cadastro de aeródromos",
