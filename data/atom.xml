@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-9d5730a8-b7f1-44c2-ad43-0767f5c42fbc</id>
-  <updated>2025-07-11T20:16:18.231Z</updated>
+  <id>urn:uuid:anac-feed-12658dc5-f876-41ac-8cf5-5c97a4953a02</id>
+  <updated>2025-07-12T01:14:12.304Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17372, DE 3/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372</id>
-    <published>2025-07-11T20:16:18.231Z</published>
-    <updated>2025-07-11T20:16:18.231Z</updated>
+    <published>2025-07-12T01:14:12.304Z</published>
+    <updated>2025-07-12T01:14:12.304Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -356,6 +356,25 @@ Participe!</p>
     <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17382/SRA, 07/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17382" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17382</id>
+    <published>2025-07-07T00:00:00.000Z</published>
+    <updated>2025-07-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Portaria nº 10.164, de 29 de dezembro de 2022</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Portaria nº 10.164, de 29 de dezembro de 2022</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

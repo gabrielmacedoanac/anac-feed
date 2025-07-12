@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9d5730a8-b7f1-44c2-ad43-0767f5c42fbc",
+  "identifier": "urn:uuid:anac-feed-12658dc5-f876-41ac-8cf5-5c97a4953a02",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-11T20:16:18.233Z",
-  "dateModified": "2025-07-11T20:16:18.233Z",
+  "dateCreated": "2025-07-12T01:14:12.306Z",
+  "dateModified": "2025-07-12T01:14:12.306Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-12T00:00:00.000Z",
-    "endDate": "2025-07-11T20:16:18.231Z"
+    "endDate": "2025-07-12T01:14:12.304Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17372, DE 3/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372",
-      "datePublished": "2025-07-11T20:16:18.231Z",
+      "datePublished": "2025-07-12T01:14:12.304Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0647 no cadastro de aeródromos",
       "type": "legislação"
     },
@@ -180,6 +180,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17381",
       "datePublished": "2025-07-07T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Mario de Almeida Franco (Código OACI: SBUR; Código CIAD: MG0009), em Uberaba/MG",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17382/SRA, 07/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17382",
+      "datePublished": "2025-07-07T00:00:00.000Z",
+      "description": "Altera a Portaria nº 10.164, de 29 de dezembro de 2022",
       "type": "legislação"
     },
     {
