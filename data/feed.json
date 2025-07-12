@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-12658dc5-f876-41ac-8cf5-5c97a4953a02",
+  "identifier": "urn:uuid:anac-feed-2683a00f-7f31-4258-8ecc-d12b1a9aac78",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-12T01:14:12.306Z",
-  "dateModified": "2025-07-12T01:14:12.306Z",
+  "dateCreated": "2025-07-12T04:26:47.575Z",
+  "dateModified": "2025-07-12T04:26:47.575Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-12T00:00:00.000Z",
-    "endDate": "2025-07-12T01:14:12.304Z"
+    "endDate": "2025-07-12T04:26:47.572Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17372, DE 3/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372",
-      "datePublished": "2025-07-12T01:14:12.304Z",
+      "datePublished": "2025-07-12T04:26:47.572Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0647 no cadastro de aeródromos",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor",
+      "url": "https://www.youtube.com/watch?v=mtlWqyDEfxc",
+      "datePublished": "2025-07-12T03:29:33.000Z",
+      "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.",
+      "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
@@ -548,15 +557,6 @@
       "datePublished": "2025-06-06T00:00:00.000Z",
       "description": "Revoga as Decisões nºs 26, de 21 de março de 2018, e 537 de 7 de junho de 2022, relacionadas à coordenação do Aeroporto de Belo Horizonte/Pampulha - Carlos Drummond de Andrade (SBBH)",
       "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor",
-      "url": "https://www.youtube.com/watch?v=mtlWqyDEfxc",
-      "datePublished": "2025-06-04T09:50:28.000Z",
-      "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.",
-      "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "Legislation",
