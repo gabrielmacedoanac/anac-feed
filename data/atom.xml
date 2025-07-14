@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1c11ace5-6639-4aa2-9c7e-b7e868f41451</id>
-  <updated>2025-07-12T03:29:33.000Z</updated>
+  <id>urn:uuid:anac-feed-baf86abc-fb3a-4a4e-8204-f145b2fb06c6</id>
+  <updated>2025-07-14T11:57:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas</id>
+    <published>2025-07-14T11:57:00.000Z</published>
+    <updated>2025-07-14T11:57:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png" alt="Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1080,25 +1099,6 @@ Processo 00058.016310/2020-32 - 2:13:53</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass</id>
-    <published>2025-06-24T17:43:00.000Z</published>
-    <updated>2025-06-24T17:43:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa</summary>
-    <content type="html"><![CDATA[
-      <p>Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass/voepass_cassacao_operacoes_linkedin.png/@@images/1dd43b4a-32fc-4bd3-9b60-8386e49bd8a9.png" alt="Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

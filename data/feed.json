@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1c11ace5-6639-4aa2-9c7e-b7e868f41451",
+  "identifier": "urn:uuid:anac-feed-baf86abc-fb3a-4a4e-8204-f145b2fb06c6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-14T12:30:44.742Z",
-  "dateModified": "2025-07-14T12:30:44.742Z",
+  "dateCreated": "2025-07-14T16:19:05.049Z",
+  "dateModified": "2025-07-14T16:19:05.049Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-12T00:00:00.000Z",
-    "endDate": "2025-07-12T03:29:33.000Z"
+    "endDate": "2025-07-14T11:57:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
+      "datePublished": "2025-07-14T11:57:00.000Z",
+      "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor",
@@ -482,15 +491,6 @@
       "datePublished": "2025-06-25T00:00:00.000Z",
       "description": "Aprova emendas aos RBACs nºs 91 e 137 e altera a Resolução nº 762, de 18 de dezembro de 2024",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac cassa certificado de operador aéreo da Passaredo, principal empresa do grupo Voepass",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass",
-      "datePublished": "2025-06-24T17:43:00.000Z",
-      "description": "Agência interrompeu definitivamente operações após identificar falhas graves e persistentes em sistemas da empresa",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cassa-certificado-de-operador-aereo-da-passaredo-principal-empresa-do-grupo-voepass/voepass_cassacao_operacoes_linkedin.png/@@images/1dd43b4a-32fc-4bd3-9b60-8386e49bd8a9.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
