@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b2a4cd32-462a-489a-a807-796bfcaa54ed",
+  "identifier": "urn:uuid:anac-feed-689ef460-7469-4834-bf96-ab0ffc206fb8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-14T04:36:29.928Z",
-  "dateModified": "2025-07-14T04:36:29.928Z",
+  "dateCreated": "2025-07-14T08:21:48.481Z",
+  "dateModified": "2025-07-14T08:21:48.481Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-12T00:00:00.000Z",
-    "endDate": "2025-07-14T04:36:29.925Z"
+    "endDate": "2025-07-14T08:21:48.479Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17372, DE 3/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17372",
-      "datePublished": "2025-07-14T04:36:29.925Z",
+      "datePublished": "2025-07-14T08:21:48.479Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0647 no cadastro de aeródromos",
       "type": "legislação"
     },
