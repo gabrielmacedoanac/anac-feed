@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7376f2cd-5912-4a95-9657-5e9d2e6dad16",
+  "identifier": "urn:uuid:anac-feed-8c21450b-844b-4427-8efe-00dfe101ffb1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-15T16:19:06.739Z",
-  "dateModified": "2025-07-15T16:19:06.739Z",
+  "dateCreated": "2025-07-15T20:16:37.256Z",
+  "dateModified": "2025-07-15T20:16:37.256Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-15T16:19:06.736Z"
+    "endDate": "2025-07-15T20:16:37.254Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 21/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-15T16:19:06.736Z",
+      "datePublished": "2025-07-15T20:16:37.254Z",
       "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
       "type": "legislação"
     },
@@ -45,9 +45,18 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 22/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22",
-      "datePublished": "2025-07-15T16:19:06.736Z",
+      "datePublished": "2025-07-15T20:16:37.254Z",
       "description": "Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Super App da Anac traz novidades que agilizam a jornada de pilotos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos",
+      "datePublished": "2025-07-15T16:12:00.000Z",
+      "description": "Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -488,15 +497,6 @@
       "datePublished": "2025-06-25T10:58:00.000Z",
       "description": "Evento busca esclarecer o controle do limite de vida em serviço das longarinas aos operadores e às oficinas de manutenção",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-webinario-sobre-manutencao-de-aeronaves-air-tractor-1/linkedin_webinarios_anac_manutencao_air_tractor-1.png/@@images/dc2b08e4-d08e-4e3c-b87f-38c3f8dddfe9.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac amplia atuação de examinadores credenciados para exames de mecânicos de manutenção aeronáutica",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-atuacao-de-examinadores-credenciados-para-exames-de-mecanicos-de-manutencao-aeronautica",
-      "datePublished": "2025-06-25T10:27:00.000Z",
-      "description": "Mudanças permitem que os examinadores credenciados possam realizar exames de candidatos que não sejam da própria Organização de Manutenção",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-atuacao-de-examinadores-credenciados-para-exames-de-mecanicos-de-manutencao-aeronautica/linkedin.png/@@images/1e1e6817-3c90-43f7-9036-b51651d9f68c.png",
       "type": "notícia"
     },
     {
