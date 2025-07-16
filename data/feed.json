@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-edc44528-9541-4664-bf15-9eb0cf1a82b5",
+  "identifier": "urn:uuid:anac-feed-4b1445b9-4d95-4377-8b8d-ed759fa7f543",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-16T16:19:03.954Z",
-  "dateModified": "2025-07-16T16:19:03.954Z",
+  "dateCreated": "2025-07-16T20:16:37.817Z",
+  "dateModified": "2025-07-16T20:16:37.817Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-30T00:00:00.000Z"
+    "endDate": "2025-07-16T20:16:37.814Z"
   },
   "distribution": [
     {
@@ -35,17 +35,9 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17326/SIA, 30/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17326",
-      "datePublished": "2025-07-30T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD DF0005 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "EDITAL Nº 21/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-16T16:19:03.952Z",
+      "datePublished": "2025-07-16T20:16:37.814Z",
       "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
       "type": "legislação"
     },
@@ -53,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 22/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22",
-      "datePublished": "2025-07-16T16:19:03.952Z",
+      "datePublished": "2025-07-16T20:16:37.814Z",
       "description": "Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI",
       "type": "legislação"
     },
@@ -448,6 +440,14 @@
       "datePublished": "2025-06-30T12:28:00.000Z",
       "description": "Integrante da lista tríplice da Agência, substituto ocupará cargo temporariamente",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17326/SIA, 30/06/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17326",
+      "datePublished": "2025-06-30T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD DF0005 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
