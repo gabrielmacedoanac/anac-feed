@@ -5,20 +5,37 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 16 Jul 2025 08:20:32 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2025 08:20:32 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 12:31:01 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 12:31:01 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>PORTARIA 17396</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396</link>
+      <description>Altera a Portaria nº 16.685/SIA, de 28 de março de 2025</description>
+      <pubDate>Wed, 16 Jul 2025 12:31:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-07-16T12:31:01.687Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a Portaria nº 16.685/SIA, de 28 de março de 2025</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
       <title>EDITAL Nº 21/ANAC/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</link>
       <description>Processo seletivo para o credenciamento de examinadores autônomos de pilotos</description>
-      <pubDate>Wed, 16 Jul 2025 08:20:32 GMT</pubDate>
+      <pubDate>Wed, 16 Jul 2025 12:31:01 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-16T08:20:32.455Z</dc:date>
+      <dc:date>2025-07-16T12:31:01.687Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
@@ -32,10 +49,10 @@
       <title>EDITAL Nº 22/ANAC/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22</link>
       <description>Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI</description>
-      <pubDate>Wed, 16 Jul 2025 08:20:32 GMT</pubDate>
+      <pubDate>Wed, 16 Jul 2025 12:31:01 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-16T08:20:32.455Z</dc:date>
+      <dc:date>2025-07-16T12:31:01.687Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
@@ -403,6 +420,23 @@ Participe!</p>
     
     
     <item>
+      <title>PORTARIA Nº 17395/SFI, 09/07/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395</link>
+      <description>Altera a Portaria nº 16.684/SFI, de 28 de março de 2025</description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-07-09T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a Portaria nº 16.684/SFI, de 28 de março de 2025</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17402/SIA, 09/07/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17402</link>
       <description>Inscreve o Aeródromo de uso privativo CIAD MT1038 no cadastro de aeródromos</description>
@@ -533,23 +567,6 @@ Participe!</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0026 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17385/SIA, 07/07/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385</link>
-      <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos</description>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17385</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-07T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0253 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
@@ -754,23 +771,6 @@ Participe!</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17362/SIA, 02/07/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos</description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17362</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-02T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD TO0120 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
