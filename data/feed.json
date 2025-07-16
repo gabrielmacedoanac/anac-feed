@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-835d90a9-3e01-44ca-b19d-1873f38ffc8f",
+  "identifier": "urn:uuid:anac-feed-ca10a994-2010-44b4-9db3-27d82da4c0d6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-16T04:33:55.247Z",
-  "dateModified": "2025-07-16T04:33:55.247Z",
+  "dateCreated": "2025-07-16T08:20:32.458Z",
+  "dateModified": "2025-07-16T08:20:32.458Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-16T04:33:55.243Z"
+    "endDate": "2025-07-16T08:20:32.455Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 21/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-16T04:33:55.243Z",
+      "datePublished": "2025-07-16T08:20:32.455Z",
       "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 22/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22",
-      "datePublished": "2025-07-16T04:33:55.243Z",
+      "datePublished": "2025-07-16T08:20:32.455Z",
       "description": "Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI",
       "type": "legislação"
     },
