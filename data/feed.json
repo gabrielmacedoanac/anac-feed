@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-772af1cf-668d-41c4-8fe3-bd9a360e308c",
+  "identifier": "urn:uuid:anac-feed-edc44528-9541-4664-bf15-9eb0cf1a82b5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-16T12:31:01.689Z",
-  "dateModified": "2025-07-16T12:31:01.689Z",
+  "dateCreated": "2025-07-16T16:19:03.954Z",
+  "dateModified": "2025-07-16T16:19:03.954Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-16T12:31:01.687Z"
+    "endDate": "2025-07-30T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -35,17 +35,17 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "PORTARIA 17396",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396",
-      "datePublished": "2025-07-16T12:31:01.687Z",
-      "description": "Altera a Portaria nº 16.685/SIA, de 28 de março de 2025",
+      "name": "PORTARIA Nº 17326/SIA, 30/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17326",
+      "datePublished": "2025-07-30T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD DF0005 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
       "name": "EDITAL Nº 21/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-16T12:31:01.687Z",
+      "datePublished": "2025-07-16T16:19:03.952Z",
       "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 22/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22",
-      "datePublished": "2025-07-16T12:31:01.687Z",
+      "datePublished": "2025-07-16T16:19:03.952Z",
       "description": "Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI",
       "type": "legislação"
     },
@@ -85,6 +85,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17431/SPL, 14/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17431",
+      "datePublished": "2025-07-14T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor",
       "url": "https://www.youtube.com/watch?v=mtlWqyDEfxc",
@@ -103,10 +111,34 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17422/SAF, 11/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17422",
+      "name": "PORTARIA Nº 17428/SPL, 11/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17428",
       "datePublished": "2025-07-11T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "description": "Altera a Portaria nº 16.697/SPL, de 1º de abril de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17427/SAS, 11/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17427",
+      "datePublished": "2025-07-11T00:00:00.000Z",
+      "description": "Altera a Portaria nº 16.694/SAS, de 31 de março de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17424/SRA, 11/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17424",
+      "datePublished": "2025-07-11T00:00:00.000Z",
+      "description": "Altera a Portaria nº 16.682/SRA, de 28 de março de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17423/SAR, 11/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17423",
+      "datePublished": "2025-07-11T00:00:00.000Z",
+      "description": "Altera a Portaria nº 16.725/SAR, de 4 de abril de 2025",
       "type": "legislação"
     },
     {
@@ -145,30 +177,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17410/SAF, 10/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17410",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17418/SAF, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17418",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17412/SAF, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17412",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17409/SAF, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17409",
       "datePublished": "2025-07-10T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
@@ -218,6 +226,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17400/SPO, 09/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17400",
+      "datePublished": "2025-07-09T00:00:00.000Z",
+      "description": "Altera a Portaria nº 16.683/SPO, de 28 de março de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17396/SIA, 09/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396",
+      "datePublished": "2025-07-09T00:00:00.000Z",
+      "description": "Altera a Portaria nº 16.685/SIA, de 28 de março de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17395/SFI, 09/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395",
       "datePublished": "2025-07-09T00:00:00.000Z",
@@ -230,22 +254,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17402",
       "datePublished": "2025-07-09T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1038 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17397/SPO, 09/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17397",
-      "datePublished": "2025-07-09T00:00:00.000Z",
-      "description": "Torna pública a revisão do certificado de operador aéreo da TOPOCART TOPOGRAFIA ENGENHARIA E AEROLEVANTAMENTOS LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17394/SIA, 09/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17394",
-      "datePublished": "2025-07-09T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORBE VI (9PCZ)",
       "type": "legislação"
     },
     {
@@ -272,22 +280,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17388",
       "datePublished": "2025-07-08T00:00:00.000Z",
       "description": "Divulga a classificação dos aeródromos de uso público para fins de aplicação do Regulamento Brasileiro da Aviação Civil - RBAC nº 153",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17391/SIA, 08/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17391",
-      "datePublished": "2025-07-08T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD AM0120 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17390/SIA, 08/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17390",
-      "datePublished": "2025-07-08T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0026 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -359,6 +351,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17373/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17373",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0648 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8",
@@ -386,10 +386,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17353/SIA, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17353",
+      "name": "PORTARIA Nº 17352/SIA, 02/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17352",
       "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Exclui o Heliponto de uso privativo ao nível do solo HELIPONTO DAS AMÉRICAS (RJ) no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD BA0118 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
