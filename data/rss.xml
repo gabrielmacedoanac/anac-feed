@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 17 Jul 2025 16:19:07 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Jul 2025 16:19:07 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 20:16:34 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 20:16:34 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -15,15 +15,32 @@
       <title>EDITAL Nº 21/ANAC/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</link>
       <description>Processo seletivo para o credenciamento de examinadores autônomos de pilotos</description>
-      <pubDate>Thu, 17 Jul 2025 16:19:07 GMT</pubDate>
+      <pubDate>Thu, 17 Jul 2025 20:16:34 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-17T16:19:07.678Z</dc:date>
+      <dc:date>2025-07-17T20:16:34.510Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Processo seletivo para o credenciamento de examinadores autônomos de pilotos</p>
         
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira</link>
+      <description>Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</description>
+      <pubDate>Thu, 17 Jul 2025 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-07-17T14:02:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg" alt="Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira">
       ]]></content:encoded>
     </item>
     
@@ -975,23 +992,6 @@ Participe!</p>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Restrições proíbem a empresa de implantar novas bases de operação e aumentar frequências de voos em cinco aeroportos brasileiros</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Premiação da Anac destacará os aeroportos com melhores práticas ambientais</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/premiacao-da-anac-destacara-os-aeroportos-com-melhores-praticas-ambientais</link>
-      <description>Agência recebeu a inscrição de 37 iniciativas para a 6ª edição do Prêmio Aeroportos Sustentáveis. Vencedores serão conhecidos no dia 8/7</description>
-      <pubDate>Wed, 25 Jun 2025 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/premiacao-da-anac-destacara-os-aeroportos-com-melhores-praticas-ambientais</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-06-25T11:41:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Agência recebeu a inscrição de 37 iniciativas para a 6ª edição do Prêmio Aeroportos Sustentáveis. Vencedores serão conhecidos no dia 8/7</p>
         
       ]]></content:encoded>
     </item>

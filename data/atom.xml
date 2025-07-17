@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-01da1ba9-4a95-4550-b82e-de56c9ccda8d</id>
-  <updated>2025-07-17T16:19:07.678Z</updated>
+  <id>urn:uuid:anac-feed-dcfb2a95-e6d1-4709-a5f1-11ef46cb0f58</id>
+  <updated>2025-07-17T20:16:34.510Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 21/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</id>
-    <published>2025-07-17T16:19:07.678Z</published>
-    <updated>2025-07-17T16:19:07.678Z</updated>
+    <published>2025-07-17T20:16:34.510Z</published>
+    <updated>2025-07-17T20:16:34.510Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira</id>
+    <published>2025-07-17T14:02:00.000Z</published>
+    <updated>2025-07-17T14:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</summary>
+    <content type="html"><![CDATA[
+      <p>Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg" alt="Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1085,25 +1104,6 @@ Participe!</p>
     <summary type="html">Restrições proíbem a empresa de implantar novas bases de operação e aumentar frequências de voos em cinco aeroportos brasileiros</summary>
     <content type="html"><![CDATA[
       <p>Restrições proíbem a empresa de implantar novas bases de operação e aumentar frequências de voos em cinco aeroportos brasileiros</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Premiação da Anac destacará os aeroportos com melhores práticas ambientais</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/premiacao-da-anac-destacara-os-aeroportos-com-melhores-praticas-ambientais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/premiacao-da-anac-destacara-os-aeroportos-com-melhores-praticas-ambientais</id>
-    <published>2025-06-25T11:41:00.000Z</published>
-    <updated>2025-06-25T11:41:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência recebeu a inscrição de 37 iniciativas para a 6ª edição do Prêmio Aeroportos Sustentáveis. Vencedores serão conhecidos no dia 8/7</summary>
-    <content type="html"><![CDATA[
-      <p>Agência recebeu a inscrição de 37 iniciativas para a 6ª edição do Prêmio Aeroportos Sustentáveis. Vencedores serão conhecidos no dia 8/7</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
