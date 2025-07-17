@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-fcb24ba5-d598-47cf-9a4a-96d3b9a2a19c",
+  "identifier": "urn:uuid:anac-feed-75fc2481-b568-4934-bcd1-7107f8f51c1f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-17T08:20:31.212Z",
-  "dateModified": "2025-07-17T08:20:31.212Z",
+  "dateCreated": "2025-07-17T12:30:20.826Z",
+  "dateModified": "2025-07-17T12:30:20.826Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-17T08:20:31.210Z"
+    "endDate": "2025-07-17T12:30:20.822Z"
   },
   "distribution": [
     {
@@ -37,16 +37,8 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 21/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-17T08:20:31.210Z",
+      "datePublished": "2025-07-17T12:30:20.822Z",
       "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 22/ANAC/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22",
-      "datePublished": "2025-07-17T08:20:31.210Z",
-      "description": "Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI",
       "type": "legislação"
     },
     {
@@ -66,6 +58,22 @@
       "description": "Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17440/SPL, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17440",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17438/SIA, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17438",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna pública a aplicação de medida cautelar de proibição de operações de pouso de aeronaves com PMD igual ou superior a 5700kg no aeródromo público de Breves, localizado em Breves (PA)",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -100,6 +108,14 @@
       "datePublished": "2025-07-11T14:08:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17425/SIA, 11/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17425",
+      "datePublished": "2025-07-11T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PI0010 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -163,14 +179,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17403",
       "datePublished": "2025-07-10T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1136 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17410/SAF, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17410",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
@@ -238,14 +246,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395",
       "datePublished": "2025-07-09T00:00:00.000Z",
       "description": "Altera a Portaria nº 16.684/SFI, de 28 de março de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17402/SIA, 09/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17402",
-      "datePublished": "2025-07-09T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1038 no cadastro de aeródromos",
       "type": "legislação"
     },
     {

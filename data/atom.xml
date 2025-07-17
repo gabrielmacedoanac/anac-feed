@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-fcb24ba5-d598-47cf-9a4a-96d3b9a2a19c</id>
-  <updated>2025-07-17T08:20:31.210Z</updated>
+  <id>urn:uuid:anac-feed-75fc2481-b568-4934-bcd1-7107f8f51c1f</id>
+  <updated>2025-07-17T12:30:20.822Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,33 +17,14 @@
     <title type="html">EDITAL Nº 21/ANAC/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</id>
-    <published>2025-07-17T08:20:31.210Z</published>
-    <updated>2025-07-17T08:20:31.210Z</updated>
+    <published>2025-07-17T12:30:20.822Z</published>
+    <updated>2025-07-17T12:30:20.822Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Processo seletivo para o credenciamento de examinadores autônomos de pilotos</summary>
     <content type="html"><![CDATA[
       <p>Processo seletivo para o credenciamento de examinadores autônomos de pilotos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 22/ANAC/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-22</id>
-    <published>2025-07-17T08:20:31.210Z</published>
-    <updated>2025-07-17T08:20:31.210Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI</summary>
-    <content type="html"><![CDATA[
-      <p>Resultado final da seleção do Comissário de Navegação Aérea da Organização da Aviação Civil Internacional - OACI</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -86,6 +67,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17440/SPL, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17440" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17440</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17438/SIA, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17438" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17438</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a aplicação de medida cautelar de proibição de operações de pouso de aeronaves com PMD igual ou superior a 5700kg no aeródromo público de Breves, localizado em Breves (PA)</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a aplicação de medida cautelar de proibição de operações de pouso de aeronaves com PMD igual ou superior a 5700kg no aeródromo público de Breves, localizado em Breves (PA)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -188,6 +207,25 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17425/SIA, 11/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17425" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17425</id>
+    <published>2025-07-11T00:00:00.000Z</published>
+    <updated>2025-07-11T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD PI0010 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD PI0010 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -336,25 +374,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1136 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD MT1136 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17410/SAF, 10/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17410" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17410</id>
-    <published>2025-07-10T00:00:00.000Z</published>
-    <updated>2025-07-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -515,25 +534,6 @@ Participe!</p>
     <summary type="html">Altera a Portaria nº 16.684/SFI, de 28 de março de 2025</summary>
     <content type="html"><![CDATA[
       <p>Altera a Portaria nº 16.684/SFI, de 28 de março de 2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17402/SIA, 09/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17402" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17402</id>
-    <published>2025-07-09T00:00:00.000Z</published>
-    <updated>2025-07-09T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1038 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT1038 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
