@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-26dd495e-ce1c-4d3f-a9e7-445699d397a2",
+  "identifier": "urn:uuid:anac-feed-d8144f0d-4c9c-49f1-8022-e1c59890bd8d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-18T01:13:56.129Z",
-  "dateModified": "2025-07-18T01:13:56.129Z",
+  "dateCreated": "2025-07-18T04:34:21.760Z",
+  "dateModified": "2025-07-18T04:34:21.760Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-18T01:13:56.127Z"
+    "endDate": "2025-07-18T04:34:21.757Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 21/ANAC/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-18T01:13:56.127Z",
+      "datePublished": "2025-07-18T04:34:21.757Z",
       "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
       "type": "legislação"
     },
