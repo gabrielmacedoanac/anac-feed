@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5b98777b-a302-4938-8311-40c51f222fca",
+  "identifier": "urn:uuid:anac-feed-cedd63d5-7b88-409c-8ca1-cd1bda3dbcb8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-18T16:20:48.012Z",
-  "dateModified": "2025-07-18T16:20:48.012Z",
+  "dateCreated": "2025-07-18T20:16:19.642Z",
+  "dateModified": "2025-07-18T20:16:19.642Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-17T14:02:00.000Z"
+    "endDate": "2025-07-18T16:02:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Sistemas corporativos da Anac ficarão indisponíveis no dia 21/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/sistemas-corporativos-da-anac-ficarao-indisponiveis-no-dia-21-7",
+      "datePublished": "2025-07-18T16:02:00.000Z",
+      "description": "Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido",
+      "datePublished": "2025-07-18T15:17:00.000Z",
+      "description": "Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira",
@@ -481,23 +498,6 @@
       "datePublished": "2025-06-27T08:40:00.000Z",
       "description": "Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Projeto inclusivo leva o mundo da aviação a crianças do Rio de Janeiro (RJ)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj",
-      "datePublished": "2025-06-26T16:50:00.000Z",
-      "description": "Alunos de escola da rede pública aprenderam sobre aviação de forma lúdica e inclusiva",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj/whatsapp-image-2025-06-26-at-15-50-46.jpeg/@@images/a89d7c27-50ff-46ae-8b9b-cab17c6bea9e.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac aplica medidas restritivas contra a companhia Aerolíneas Argentinas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-aplica-medidas-restritivas-contra-a-companhia-aerolineas-argentinas",
-      "datePublished": "2025-06-26T16:01:00.000Z",
-      "description": "Restrições proíbem a empresa de implantar novas bases de operação e aumentar frequências de voos em cinco aeroportos brasileiros",
       "type": "notícia"
     },
     {

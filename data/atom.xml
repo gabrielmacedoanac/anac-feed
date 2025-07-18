@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5b98777b-a302-4938-8311-40c51f222fca</id>
-  <updated>2025-07-17T14:02:00.000Z</updated>
+  <id>urn:uuid:anac-feed-cedd63d5-7b88-409c-8ca1-cd1bda3dbcb8</id>
+  <updated>2025-07-18T16:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Sistemas corporativos da Anac ficarão indisponíveis no dia 21/7</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/sistemas-corporativos-da-anac-ficarao-indisponiveis-no-dia-21-7" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/sistemas-corporativos-da-anac-ficarao-indisponiveis-no-dia-21-7</id>
+    <published>2025-07-18T16:02:00.000Z</published>
+    <updated>2025-07-18T16:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira</summary>
+    <content type="html"><![CDATA[
+      <p>Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido</id>
+    <published>2025-07-18T15:17:00.000Z</published>
+    <updated>2025-07-18T15:17:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000</summary>
+    <content type="html"><![CDATA[
+      <p>Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png" alt="Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1067,44 +1105,6 @@ Participe!</p>
     <content type="html"><![CDATA[
       <p>Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png" alt="Anac credencia cinco novos examinadores de proficiência linguística">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Projeto inclusivo leva o mundo da aviação a crianças do Rio de Janeiro (RJ)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj</id>
-    <published>2025-06-26T16:50:00.000Z</published>
-    <updated>2025-06-26T16:50:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Alunos de escola da rede pública aprenderam sobre aviação de forma lúdica e inclusiva</summary>
-    <content type="html"><![CDATA[
-      <p>Alunos de escola da rede pública aprenderam sobre aviação de forma lúdica e inclusiva</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/projeto-inclusivo-leva-o-mundo-da-aviacao-a-criancas-do-rio-de-janeiro-rj/whatsapp-image-2025-06-26-at-15-50-46.jpeg/@@images/a89d7c27-50ff-46ae-8b9b-cab17c6bea9e.jpeg" alt="Projeto inclusivo leva o mundo da aviação a crianças do Rio de Janeiro (RJ)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac aplica medidas restritivas contra a companhia Aerolíneas Argentinas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-aplica-medidas-restritivas-contra-a-companhia-aerolineas-argentinas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-aplica-medidas-restritivas-contra-a-companhia-aerolineas-argentinas</id>
-    <published>2025-06-26T16:01:00.000Z</published>
-    <updated>2025-06-26T16:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Restrições proíbem a empresa de implantar novas bases de operação e aumentar frequências de voos em cinco aeroportos brasileiros</summary>
-    <content type="html"><![CDATA[
-      <p>Restrições proíbem a empresa de implantar novas bases de operação e aumentar frequências de voos em cinco aeroportos brasileiros</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
