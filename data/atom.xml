@@ -4,32 +4,13 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e415e4db-21e8-406d-a0fa-ec56628ad0fc</id>
-  <updated>2025-07-18T12:30:49.631Z</updated>
+  <id>urn:uuid:anac-feed-5b98777b-a302-4938-8311-40c51f222fca</id>
+  <updated>2025-07-17T14:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 21/ANAC/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025</id>
-    <published>2025-07-18T12:30:49.631Z</published>
-    <updated>2025-07-18T12:30:49.631Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo seletivo para o credenciamento de examinadores autônomos de pilotos</summary>
-    <content type="html"><![CDATA[
-      <p>Processo seletivo para o credenciamento de examinadores autônomos de pilotos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
   
   
   <entry>
@@ -48,6 +29,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17451/ASJIN, 16/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17451" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17451</id>
+    <published>2025-07-16T00:00:00.000Z</published>
+    <updated>2025-07-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Delega competência para atos da Portaria nº 14.568/ASJIN, de 10 de maio de 2024, que dispõe sobre a Organização Interna da Assessoria de Julgamento de Autos em Segunda Instância - ASJIN</summary>
+    <content type="html"><![CDATA[
+      <p>Delega competência para atos da Portaria nº 14.568/ASJIN, de 10 de maio de 2024, que dispõe sobre a Organização Interna da Assessoria de Julgamento de Autos em Segunda Instância - ASJIN</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17450/CRG, 16/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17450" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17450</id>
+    <published>2025-07-16T00:00:00.000Z</published>
+    <updated>2025-07-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Comissão de Processo Administrativo Disciplinar</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Comissão de Processo Administrativo Disciplinar</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -86,6 +105,101 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17437/SPO, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17437" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17437</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17435/SPO, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17435" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17435</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17433/SPO, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17433" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17433</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17432/SPO, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17432" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17432</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a interrupção da prerrogativa para exploração de serviço aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a interrupção da prerrogativa para exploração de serviço aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17434/SAR, 15/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17434" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17434</id>
+    <published>2025-07-15T00:00:00.000Z</published>
+    <updated>2025-07-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos EMB-545 e EMB-550</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos EMB-545 e EMB-550</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -325,82 +439,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17417/SAR, 10/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17417" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17417</id>
-    <published>2025-07-10T00:00:00.000Z</published>
-    <updated>2025-07-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Defere pedido de Nível Equivalente de Segurança para o requisito 25.795(a) do RBHA 25 para o avião ERJ 170-100/-200</summary>
-    <content type="html"><![CDATA[
-      <p>Defere pedido de Nível Equivalente de Segurança para o requisito 25.795(a) do RBHA 25 para o avião ERJ 170-100/-200</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17414/SPL, 10/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17414" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17414</id>
-    <published>2025-07-10T00:00:00.000Z</published>
-    <updated>2025-07-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</summary>
-    <content type="html"><![CDATA[
-      <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17420/SPL, 10/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17420" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17420</id>
-    <published>2025-07-10T00:00:00.000Z</published>
-    <updated>2025-07-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</summary>
-    <content type="html"><![CDATA[
-      <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17403/SIA, 10/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17403" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17403</id>
-    <published>2025-07-10T00:00:00.000Z</published>
-    <updated>2025-07-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1136 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT1136 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil</id>
@@ -523,44 +561,6 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17396/SIA, 09/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396</id>
-    <published>2025-07-09T00:00:00.000Z</published>
-    <updated>2025-07-09T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Portaria nº 16.685/SIA, de 28 de março de 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Portaria nº 16.685/SIA, de 28 de março de 2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17395/SFI, 09/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395</id>
-    <published>2025-07-09T00:00:00.000Z</published>
-    <updated>2025-07-09T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Portaria nº 16.684/SFI, de 28 de março de 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Portaria nº 16.684/SFI, de 28 de março de 2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Pilotos privados terão licenças expedidas exclusivamente pelo Super App da Anac a partir de 1º/8</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8</id>
@@ -599,17 +599,17 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17388/SIA, 08/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17388" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17388</id>
+    <title type="html">PORTARIA Nº 17392/SIA, 08/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17392" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17392</id>
     <published>2025-07-08T00:00:00.000Z</published>
     <updated>2025-07-08T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Divulga a classificação dos aeródromos de uso público para fins de aplicação do Regulamento Brasileiro da Aviação Civil - RBAC nº 153</summary>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0394 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Divulga a classificação dos aeródromos de uso público para fins de aplicação do Regulamento Brasileiro da Aviação Civil - RBAC nº 153</p>
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0394 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

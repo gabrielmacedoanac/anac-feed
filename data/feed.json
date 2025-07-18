@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e415e4db-21e8-406d-a0fa-ec56628ad0fc",
+  "identifier": "urn:uuid:anac-feed-5b98777b-a302-4938-8311-40c51f222fca",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-18T12:30:49.634Z",
-  "dateModified": "2025-07-18T12:30:49.634Z",
+  "dateCreated": "2025-07-18T16:20:48.012Z",
+  "dateModified": "2025-07-18T16:20:48.012Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-18T12:30:49.631Z"
+    "endDate": "2025-07-17T14:02:00.000Z"
   },
   "distribution": [
     {
@@ -34,14 +34,6 @@
   ],
   "items": [
     {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 21/ANAC/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-no-21-anac-2025",
-      "datePublished": "2025-07-18T12:30:49.631Z",
-      "description": "Processo seletivo para o credenciamento de examinadores autônomos de pilotos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira",
@@ -49,6 +41,22 @@
       "description": "Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17451/ASJIN, 16/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17451",
+      "datePublished": "2025-07-16T00:00:00.000Z",
+      "description": "Delega competência para atos da Portaria nº 14.568/ASJIN, de 10 de maio de 2024, que dispõe sobre a Organização Interna da Assessoria de Julgamento de Autos em Segunda Instância - ASJIN",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17450/CRG, 16/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17450",
+      "datePublished": "2025-07-16T00:00:00.000Z",
+      "description": "Designa Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -67,6 +75,46 @@
       "description": "Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17437/SPO, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17437",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17435/SPO, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17435",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17433/SPO, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17433",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17432/SPO, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17432",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17434/SAR, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17434",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos EMB-545 e EMB-550",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -159,38 +207,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17417/SAR, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17417",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Defere pedido de Nível Equivalente de Segurança para o requisito 25.795(a) do RBHA 25 para o avião ERJ 170-100/-200",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17414/SPL, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17414",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17420/SPL, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17420",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17403/SIA, 10/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17403",
-      "datePublished": "2025-07-10T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1136 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil",
@@ -242,22 +258,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17396/SIA, 09/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17396",
-      "datePublished": "2025-07-09T00:00:00.000Z",
-      "description": "Altera a Portaria nº 16.685/SIA, de 28 de março de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17395/SFI, 09/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17395",
-      "datePublished": "2025-07-09T00:00:00.000Z",
-      "description": "Altera a Portaria nº 16.684/SFI, de 28 de março de 2025",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Pilotos privados terão licenças expedidas exclusivamente pelo Super App da Anac a partir de 1º/8",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8",
@@ -277,10 +277,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17388/SIA, 08/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17388",
+      "name": "PORTARIA Nº 17392/SIA, 08/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17392",
       "datePublished": "2025-07-08T00:00:00.000Z",
-      "description": "Divulga a classificação dos aeródromos de uso público para fins de aplicação do Regulamento Brasileiro da Aviação Civil - RBAC nº 153",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0394 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
