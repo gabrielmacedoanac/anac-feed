@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6c407785-cdc9-4b19-9091-12d0aaa59a74",
+  "identifier": "urn:uuid:anac-feed-17972a15-a74d-4d1b-9e91-5ea1d27502e2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-21T08:23:06.883Z",
-  "dateModified": "2025-07-21T08:23:06.883Z",
+  "dateCreated": "2025-07-21T12:31:42.276Z",
+  "dateModified": "2025-07-21T12:31:42.276Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -58,6 +58,14 @@
       "description": "Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17456/SAR, 16/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17456",
+      "datePublished": "2025-07-16T00:00:00.000Z",
+      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os helicópteros HELIBRÁS S.A. modelo HB-350B",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -265,14 +273,6 @@
       "description": "O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.\n\nAssim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17400/SPO, 09/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17400",
-      "datePublished": "2025-07-09T00:00:00.000Z",
-      "description": "Altera a Portaria nº 16.683/SPO, de 28 de março de 2025",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
