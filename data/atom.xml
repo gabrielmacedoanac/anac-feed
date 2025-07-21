@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2792d08b-b597-4adb-938a-0ae80caf3185</id>
+  <id>urn:uuid:anac-feed-5b75465e-0172-4b17-bcf7-3597a43f500c</id>
   <updated>2025-07-18T16:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -48,6 +48,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17476/SAS, 18/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17476" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17476</id>
+    <published>2025-07-18T00:00:00.000Z</published>
+    <updated>2025-07-18T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Dispõe sobre as condições gerais para o transporte de animais aplicáveis ao transporte aéreo de passageiros, doméstico e internacional, nos termos do que dispõe o artigo 15 da Resolução nº 400, de 13 de dezembro de 2016</summary>
+    <content type="html"><![CDATA[
+      <p>Dispõe sobre as condições gerais para o transporte de animais aplicáveis ao transporte aéreo de passageiros, doméstico e internacional, nos termos do que dispõe o artigo 15 da Resolução nº 400, de 13 de dezembro de 2016</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -469,25 +488,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     <summary type="html">Altera a Portaria nº 16.694/SAS, de 31 de março de 2025</summary>
     <content type="html"><![CDATA[
       <p>Altera a Portaria nº 16.694/SAS, de 31 de março de 2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17424/SRA, 11/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17424" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17424</id>
-    <published>2025-07-11T00:00:00.000Z</published>
-    <updated>2025-07-11T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Portaria nº 16.682/SRA, de 28 de março de 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Portaria nº 16.682/SRA, de 28 de março de 2025</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

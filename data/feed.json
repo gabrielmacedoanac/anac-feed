@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2792d08b-b597-4adb-938a-0ae80caf3185",
+  "identifier": "urn:uuid:anac-feed-5b75465e-0172-4b17-bcf7-3597a43f500c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-21T16:18:17.433Z",
-  "dateModified": "2025-07-21T16:18:17.433Z",
+  "dateCreated": "2025-07-21T20:16:45.189Z",
+  "dateModified": "2025-07-21T20:16:45.189Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -49,6 +49,14 @@
       "description": "Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17476/SAS, 18/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17476",
+      "datePublished": "2025-07-18T00:00:00.000Z",
+      "description": "Dispõe sobre as condições gerais para o transporte de animais aplicáveis ao transporte aéreo de passageiros, doméstico e internacional, nos termos do que dispõe o artigo 15 da Resolução nº 400, de 13 de dezembro de 2016",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -221,14 +229,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17427",
       "datePublished": "2025-07-11T00:00:00.000Z",
       "description": "Altera a Portaria nº 16.694/SAS, de 31 de março de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17424/SRA, 11/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17424",
-      "datePublished": "2025-07-11T00:00:00.000Z",
-      "description": "Altera a Portaria nº 16.682/SRA, de 28 de março de 2025",
       "type": "legislação"
     },
     {
