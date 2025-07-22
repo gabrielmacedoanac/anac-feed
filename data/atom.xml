@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f2e71d4a-fe51-419f-a6e7-628667c6f29b</id>
-  <updated>2025-07-21T00:00:00.000Z</updated>
+  <id>urn:uuid:anac-feed-b2fa500b-8ab9-4eb2-913e-cc11122a3afe</id>
+  <updated>2025-07-22T14:56:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev</id>
+    <published>2025-07-22T14:56:00.000Z</published>
+    <updated>2025-07-22T14:56:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Formulário orienta operadores aéreos na avaliação da segurança de voos</summary>
+    <content type="html"><![CDATA[
+      <p>Formulário orienta operadores aéreos na avaliação da segurança de voos</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev/linkdein-eaev.png/@@images/8d27534b-c684-4a9f-acbd-dd7386e6c6f0.png" alt="Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Abag realizam o 1º Encontro Nacional de Segurança de Voo da Aviação Geral</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-abag-realizam-o-1o-encontro-nacional-de-seguranca-de-voo-da-aviacao-geral" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-abag-realizam-o-1o-encontro-nacional-de-seguranca-de-voo-da-aviacao-geral</id>
+    <published>2025-07-22T14:56:00.000Z</published>
+    <updated>2025-07-22T14:56:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento antecede a Labace 2025</summary>
+    <content type="html"><![CDATA[
+      <p>Evento antecede a Labace 2025</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -808,7 +846,7 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">DECISÃO Nº 716, de 04/07/2025</title>
+    <title type="html">DECISÃO Nº 716, 04/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-716" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-716</id>
     <published>2025-07-04T00:00:00.000Z</published>
@@ -1070,44 +1108,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Cortes orçamentários nos serviços prestados pela Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac</id>
-    <published>2025-06-27T22:19:00.000Z</published>
-    <updated>2025-06-27T22:19:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contingenciamento causa paralisação de emissões de licenças de profissionais, certificações de novas empresas e afeta atividades de fiscalização. Agência participa de tratativas com vistas a um repasse emergencial para reduzir impactos dos cortes orçamentários.</summary>
-    <content type="html"><![CDATA[
-      <p>Contingenciamento causa paralisação de emissões de licenças de profissionais, certificações de novas empresas e afeta atividades de fiscalização. Agência participa de tratativas com vistas a um repasse emergencial para reduzir impactos dos cortes orçamentários.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac credencia cinco novos examinadores de proficiência linguística</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica</id>
-    <published>2025-06-27T08:40:00.000Z</published>
-    <updated>2025-06-27T08:40:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês</summary>
-    <content type="html"><![CDATA[
-      <p>Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png" alt="Anac credencia cinco novos examinadores de proficiência linguística">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

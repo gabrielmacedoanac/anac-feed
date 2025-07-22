@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f2e71d4a-fe51-419f-a6e7-628667c6f29b",
+  "identifier": "urn:uuid:anac-feed-b2fa500b-8ab9-4eb2-913e-cc11122a3afe",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-22T16:18:53.320Z",
-  "dateModified": "2025-07-22T16:18:53.320Z",
+  "dateCreated": "2025-07-22T20:17:21.109Z",
+  "dateModified": "2025-07-22T20:17:21.109Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-21T00:00:00.000Z"
+    "endDate": "2025-07-22T14:56:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev",
+      "datePublished": "2025-07-22T14:56:00.000Z",
+      "description": "Formulário orienta operadores aéreos na avaliação da segurança de voos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev/linkdein-eaev.png/@@images/8d27534b-c684-4a9f-acbd-dd7386e6c6f0.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac e Abag realizam o 1º Encontro Nacional de Segurança de Voo da Aviação Geral",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-abag-realizam-o-1o-encontro-nacional-de-seguranca-de-voo-da-aviacao-geral",
+      "datePublished": "2025-07-22T14:56:00.000Z",
+      "description": "Evento antecede a Labace 2025",
+      "type": "notícia"
+    },
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17485, 21/07/2025",
@@ -368,7 +385,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "DECISÃO Nº 716, de 04/07/2025",
+      "name": "DECISÃO Nº 716, 04/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-716",
       "datePublished": "2025-07-04T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.",
@@ -482,23 +499,6 @@
       "datePublished": "2025-06-30T00:00:00.000Z",
       "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Cortes orçamentários nos serviços prestados pela Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cortes-orcamentarios-nos-servicos-prestados-pela-anac",
-      "datePublished": "2025-06-27T22:19:00.000Z",
-      "description": "Contingenciamento causa paralisação de emissões de licenças de profissionais, certificações de novas empresas e afeta atividades de fiscalização. Agência participa de tratativas com vistas a um repasse emergencial para reduzir impactos dos cortes orçamentários.",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac credencia cinco novos examinadores de proficiência linguística",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica",
-      "datePublished": "2025-06-27T08:40:00.000Z",
-      "description": "Formação dos novos avaliadores amplia a oferta de exames de proficiência em inglês",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-credencia-cinco-novos-examinadores-de-proficiencia-linguistica/linkedin_credenciamento_de_examinadores_sdea.png/@@images/cb9075ad-cbf6-45d3-89ef-d12396d77ce8.png",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
