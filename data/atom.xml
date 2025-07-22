@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-48186295-e550-465d-aecb-a6cb617492fb</id>
-  <updated>2025-07-18T16:02:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f2e71d4a-fe51-419f-a6e7-628667c6f29b</id>
+  <updated>2025-07-21T00:00:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17485, 21/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17485" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17485</id>
+    <published>2025-07-21T00:00:00.000Z</published>
+    <updated>2025-07-21T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa membro para compor a Comissão de Ética da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Designa membro para compor a Comissão de Ética da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -71,6 +90,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17474/SPL, 18/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17474" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17474</id>
+    <published>2025-07-18T00:00:00.000Z</published>
+    <updated>2025-07-18T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</summary>
+    <content type="html"><![CDATA[
+      <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira</id>
@@ -101,6 +139,25 @@
     <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
     <content type="html"><![CDATA[
       <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17470/SIA, 17/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaira-17470" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaira-17470</id>
+    <published>2025-07-17T00:00:00.000Z</published>
+    <updated>2025-07-17T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Exclui o Aeródromo de uso privativo São Matheus (RR) no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Exclui o Aeródromo de uso privativo São Matheus (RR) no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -375,17 +432,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17431/SPL, 14/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17431" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17431</id>
-    <published>2025-07-14T00:00:00.000Z</published>
-    <updated>2025-07-14T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 17430/SIA, 13/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17430" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17430</id>
+    <published>2025-07-13T00:00:00.000Z</published>
+    <updated>2025-07-13T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1143 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1143 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -808,25 +865,6 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17373/SIA, 03/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17373" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17373</id>
-    <published>2025-07-03T00:00:00.000Z</published>
-    <updated>2025-07-03T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MG0648 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MG0648 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8</id>
@@ -880,25 +918,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17352/SIA, 02/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17352" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17352</id>
-    <published>2025-07-02T00:00:00.000Z</published>
-    <updated>2025-07-02T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD BA0118 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD BA0118 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1032,25 +1051,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17326/SIA, 30/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17326" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17326</id>
-    <published>2025-06-30T00:00:00.000Z</published>
-    <updated>2025-06-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD DF0005 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD DF0005 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

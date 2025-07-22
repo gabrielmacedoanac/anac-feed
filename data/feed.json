@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-48186295-e550-465d-aecb-a6cb617492fb",
+  "identifier": "urn:uuid:anac-feed-f2e71d4a-fe51-419f-a6e7-628667c6f29b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-22T12:31:10.745Z",
-  "dateModified": "2025-07-22T12:31:10.745Z",
+  "dateCreated": "2025-07-22T16:18:53.320Z",
+  "dateModified": "2025-07-22T16:18:53.320Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-18T16:02:00.000Z"
+    "endDate": "2025-07-21T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17485, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17485",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Designa membro para compor a Comissão de Ética da ANAC",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Sistemas corporativos da Anac ficarão indisponíveis no dia 21/7",
@@ -59,6 +67,14 @@
       "type": "legislação"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17474/SPL, 18/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17474",
+      "datePublished": "2025-07-18T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira",
@@ -73,6 +89,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17471",
       "datePublished": "2025-07-17T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17470/SIA, 17/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaira-17470",
+      "datePublished": "2025-07-17T00:00:00.000Z",
+      "description": "Exclui o Aeródromo de uso privativo São Matheus (RR) no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -192,10 +216,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17431/SPL, 14/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17431",
-      "datePublished": "2025-07-14T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "name": "PORTARIA Nº 17430/SIA, 13/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17430",
+      "datePublished": "2025-07-13T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1143 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -369,14 +393,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17373/SIA, 03/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17373",
-      "datePublished": "2025-07-03T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0648 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8",
@@ -401,14 +417,6 @@
       "description": "Agência encerra dois anos na liderança do comitê, que passará a ser coordenado pelo Decea",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-encerra-sua-participacao-como-coordenadora-do-comite-de-seguranca-operacional-da-aviacao-civil-brasileira/img_9490.jpg/@@images/06b26992-905c-4d48-9fd8-2bd17ca03647.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17352/SIA, 02/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17352",
-      "datePublished": "2025-07-02T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD BA0118 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -466,14 +474,6 @@
       "datePublished": "2025-06-30T12:28:00.000Z",
       "description": "Integrante da lista tríplice da Agência, substituto ocupará cargo temporariamente",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17326/SIA, 30/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17326",
-      "datePublished": "2025-06-30T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD DF0005 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
