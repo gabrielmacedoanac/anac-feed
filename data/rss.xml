@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 22 Jul 2025 08:21:26 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2025 08:21:26 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 12:31:10 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:31:10 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -75,6 +75,23 @@
       <content:encoded><![CDATA[
         <p>Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg" alt="Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira">
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17471/SPO, 17/07/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17471</link>
+      <description>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17471</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-07-17T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+        
       ]]></content:encoded>
     </item>
     
@@ -412,34 +429,17 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     
     
     <item>
-      <title>PORTARIA Nº 17428/SPL, 11/07/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17428</link>
-      <description>Altera a Portaria nº 16.697/SPL, de 1º de abril de 2025</description>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17428</guid>
+      <title>PORTARIA Nº 17404/SIA, 10/07/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17404</link>
+      <description>Inscreve o Aeródromo de uso privativo CIAD MA0210 no cadastro de aeródromos</description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17404</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-11T00:00:00.000Z</dc:date>
+      <dc:date>2025-07-10T00:00:00.000Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
-        <p>Altera a Portaria nº 16.697/SPL, de 1º de abril de 2025</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17427/SAS, 11/07/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17427</link>
-      <description>Altera a Portaria nº 16.694/SAS, de 31 de março de 2025</description>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17427</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-11T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Altera a Portaria nº 16.694/SAS, de 31 de março de 2025</p>
+        <p>Inscreve o Aeródromo de uso privativo CIAD MA0210 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a09e7dde-3039-4021-a578-74107f921028",
+  "identifier": "urn:uuid:anac-feed-48186295-e550-465d-aecb-a6cb617492fb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-22T08:21:26.405Z",
-  "dateModified": "2025-07-22T08:21:26.405Z",
+  "dateCreated": "2025-07-22T12:31:10.745Z",
+  "dateModified": "2025-07-22T12:31:10.745Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -66,6 +66,14 @@
       "description": "Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17471/SPO, 17/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17471",
+      "datePublished": "2025-07-17T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -217,18 +225,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17428/SPL, 11/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17428",
-      "datePublished": "2025-07-11T00:00:00.000Z",
-      "description": "Altera a Portaria nº 16.697/SPL, de 1º de abril de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17427/SAS, 11/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17427",
-      "datePublished": "2025-07-11T00:00:00.000Z",
-      "description": "Altera a Portaria nº 16.694/SAS, de 31 de março de 2025",
+      "name": "PORTARIA Nº 17404/SIA, 10/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17404",
+      "datePublished": "2025-07-10T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MA0210 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
