@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-aa2f41b0-3242-433f-af89-462689761d84",
+  "identifier": "urn:uuid:anac-feed-dc7c160f-5f04-438b-816b-69e3cb4eada7",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-23T08:21:12.295Z",
-  "dateModified": "2025-07-23T08:21:12.295Z",
+  "dateCreated": "2025-07-23T12:31:22.325Z",
+  "dateModified": "2025-07-23T12:31:22.325Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -52,10 +52,42 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17480/SPO, 22/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17480",
+      "datePublished": "2025-07-22T00:00:00.000Z",
+      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 717, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17490/SPL, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17490",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17485, 21/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17485",
       "datePublished": "2025-07-21T00:00:00.000Z",
       "description": "Designa membro para compor a Comissão de Ética da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 717, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
       "type": "legislação"
     },
     {
@@ -114,6 +146,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaira-17470",
       "datePublished": "2025-07-17T00:00:00.000Z",
       "description": "Exclui o Aeródromo de uso privativo São Matheus (RR) no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17447/SPL, 16/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17447",
+      "datePublished": "2025-07-16T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17446/SPL, 16/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17446",
+      "datePublished": "2025-07-16T00:00:00.000Z",
+      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
@@ -199,30 +247,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17434/SAR, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17434",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos EMB-545 e EMB-550",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17440/SPL, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17440",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17438/SIA, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17438",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna pública a aplicação de medida cautelar de proibição de operações de pouso de aeronaves com PMD igual ou superior a 5700kg no aeródromo público de Breves, localizado em Breves (PA)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
@@ -255,14 +279,6 @@
       "datePublished": "2025-07-11T14:08:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17425/SIA, 11/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17425",
-      "datePublished": "2025-07-11T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PI0010 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -332,14 +348,6 @@
       "description": "Anac pretende estabelecer regras de transição com restrições ao aerodesporto e critérios mínimos de segurança para operações comerciais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais/balonismo_atualizacao_regras_linkedin.png/@@images/751291c7-b357-479d-b5a6-bdb737328a34.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17392/SIA, 08/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17392",
-      "datePublished": "2025-07-08T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD RJ0394 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -660,14 +668,6 @@
       "description": "Moderação: Felipe Cruz, da Anac\n\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos \n\nServiços de Transporte Aéreo de Passageiros da Anac\n\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
       "image": "https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 183-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-05-27T18:24:00.000Z",
-      "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
