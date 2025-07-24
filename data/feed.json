@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d157102b-1d6b-43df-9db1-8ae7c01adc18",
+  "identifier": "urn:uuid:anac-feed-a098ef95-4dfe-4423-bd6c-cfdce5267a52",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-24T08:20:56.227Z",
-  "dateModified": "2025-07-24T08:20:56.227Z",
+  "dateCreated": "2025-07-24T12:31:37.321Z",
+  "dateModified": "2025-07-24T12:31:37.321Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -52,10 +52,42 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17503/SIA, 22/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17503",
+      "datePublished": "2025-07-22T00:00:00.000Z",
+      "description": "Altera a Portaria nº 3.214/SIA, de 10 de novembro de 2020, que concedeu o certificado operacional de aeroporto ao operador do Aeroporto de Araguaína (SWGN), localizado em Araguaína (TO)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17499/SPL, 22/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17499",
+      "datePublished": "2025-07-22T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17480/SPO, 22/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17480",
       "datePublished": "2025-07-22T00:00:00.000Z",
       "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17494/SIA, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17494",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Altera o Anexo à Portaria nº 16.739/SIA, de 7 de abril de 2025, que dispõe sobre classificação dos aeródromos civis públicos para fins de aplicação do RBAC nº 107",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17484/SIA, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17484",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Designa como internacional Regular Non-Scheduled (RNS) o Aeroporto de Sorocaba(SP), Código OACI: SDCO; Código CIAD: SP0027",
       "type": "legislação"
     },
     {
@@ -106,6 +138,22 @@
       "description": "Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17477/SIA, 18/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17477",
+      "datePublished": "2025-07-18T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) Aeroporto Presidente João Batista Figueiredo (SBSI), em Sinop (MT)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17472/SRA, 18/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17472",
+      "datePublished": "2025-07-18T00:00:00.000Z",
+      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Juscelino Kubitschek, localizado em Brasília (DF)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -181,22 +229,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17451/ASJIN, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17451",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Delega competência para atos da Portaria nº 14.568/ASJIN, de 10 de maio de 2024, que dispõe sobre a Organização Interna da Assessoria de Julgamento de Autos em Segunda Instância - ASJIN",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17450/CRG, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17450",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Designa Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Aberta seleção para novos examinadores autônomos de pilotos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos",
@@ -213,38 +245,6 @@
       "description": "Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17437/SPO, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17437",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17435/SPO, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17435",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17433/SPO, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17433",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17432/SPO, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17432",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Torna pública a interrupção da prerrogativa para exploração de serviço aéreo",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
