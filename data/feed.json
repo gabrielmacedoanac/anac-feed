@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-503a7842-a726-4793-a6ec-c65007a4d835",
+  "identifier": "urn:uuid:anac-feed-3c95afbc-461b-49fa-99db-b6d2ced0ad62",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-24T16:17:16.065Z",
-  "dateModified": "2025-07-24T16:17:16.065Z",
+  "dateCreated": "2025-07-25T01:14:20.473Z",
+  "dateModified": "2025-07-25T01:14:20.473Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-22T14:56:00.000Z"
+    "endDate": "2025-07-24T14:11:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
+      "datePublished": "2025-07-24T14:11:00.000Z",
+      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)",
@@ -491,14 +499,6 @@
       "datePublished": "2025-06-30T15:18:00.000Z",
       "description": "Requisitos gerais de operação para aeronaves civis",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac convoca servidor Adriano Miranda para diretor-presidente interino",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-convoca-servidor-adriano-miranda-para-diretor-presidente-interino",
-      "datePublished": "2025-06-30T12:28:00.000Z",
-      "description": "Integrante da lista tríplice da Agência, substituto ocupará cargo temporariamente",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
