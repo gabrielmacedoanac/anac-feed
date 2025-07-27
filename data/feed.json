@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-39b072bf-a6e5-42e5-a5f5-9ba4521ae759",
+  "identifier": "urn:uuid:anac-feed-3806322a-17e4-4106-b9d1-ec00c4765edd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-27T01:21:13.960Z",
-  "dateModified": "2025-07-27T01:21:13.960Z",
+  "dateCreated": "2025-07-27T04:38:54.553Z",
+  "dateModified": "2025-07-27T04:38:54.553Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -42,30 +42,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17514/SAF, 23/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17514",
-      "datePublished": "2025-07-23T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17515/SAR, 23/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17515",
-      "datePublished": "2025-07-23T00:00:00.000Z",
-      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões Embraer S.A. modelos ERJ190-300 e ERJ190-400",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17511/SIA, 23/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17511",
-      "datePublished": "2025-07-23T00:00:00.000Z",
-      "description": "Exclui o Heliponto de uso privativo elevado Panamerica Park (SP) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev",
@@ -81,94 +57,6 @@
       "datePublished": "2025-07-22T14:56:00.000Z",
       "description": "Evento antecede a Labace 2025",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17507/CRG, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17507",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17497/SAF, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17497",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17503/SIA, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17503",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Altera a Portaria nº 3.214/SIA, de 10 de novembro de 2020, que concedeu o certificado operacional de aeroporto ao operador do Aeroporto de Araguaína (SWGN), localizado em Araguaína (TO)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17499/SPL, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17499",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17480/SPO, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17480",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17487/SPO, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17487",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17494/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17494",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Altera o Anexo à Portaria nº 16.739/SIA, de 7 de abril de 2025, que dispõe sobre classificação dos aeródromos civis públicos para fins de aplicação do RBAC nº 107",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17484/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17484",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Designa como internacional Regular Non-Scheduled (RNS) o Aeroporto de Sorocaba(SP), Código OACI: SDCO; Código CIAD: SP0027",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 717, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17490/SPL, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17490",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 717, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -188,30 +76,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17478/SIA, 18/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17478",
-      "datePublished": "2025-07-18T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0121 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17477/SIA, 18/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17477",
-      "datePublished": "2025-07-18T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) Aeroporto Presidente João Batista Figueiredo (SBSI), em Sinop (MT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17472/SRA, 18/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17472",
-      "datePublished": "2025-07-18T00:00:00.000Z",
-      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Juscelino Kubitschek, localizado em Brasília (DF)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira",
@@ -219,30 +83,6 @@
       "description": "Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17469/SIA, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17469",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0404 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17447/SPL, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17447",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17446/SPL, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17446",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -270,14 +110,6 @@
       "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17429/SIA, 13/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17429",
-      "datePublished": "2025-07-13T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -315,14 +147,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "RBAC 135 EMD 15",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
-      "datePublished": "2025-07-09T17:06:00.000Z",
-      "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Tomada de subsídios para revisão de requisitos de MMA segue até 14/7",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7",
@@ -358,14 +182,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 774, 07/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-774",
-      "datePublished": "2025-07-07T00:00:00.000Z",
-      "description": "Aprova emenda ao RBAC nº 135 e altera o anexo da Resolução nº 352, de 10 de fevereiro de 2015",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Oaci reconhece a sustentabilidade do etanol de milho brasileiro para produção de SAF",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf",
@@ -390,22 +206,6 @@
       "datePublished": "2025-07-04T14:26:00.000Z",
       "description": "Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 715, 04/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-715",
-      "datePublished": "2025-07-04T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da AEROMAGIC BALONISMO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 716, 04/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-716",
-      "datePublished": "2025-07-04T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -461,52 +261,12 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "RBAC 137 EMD 06",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-07-01T15:07:00.000Z",
-      "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Prorrogada suspensão do processo seletivo para o curso Pilotos do Semiárido",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/prorrogada-suspensao-do-processo-seletivo-para-o-curso-pilotos-do-semiarido",
       "datePublished": "2025-07-01T14:12:00.000Z",
       "description": "Anac e Ufersa paralisaram o processo seletivo para checar informações dos candidatos e garantir a integridade dos procedimentos",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 135-008A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-008a",
-      "datePublished": "2025-06-30T17:08:00.000Z",
-      "description": "Procedimentos para a elaboração dos procedimentos operacionais padronizados (SOP) de operadores certificados sob o RBAC n º 135",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 135-009A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-009",
-      "datePublished": "2025-06-30T16:51:00.000Z",
-      "description": "Procedimentos para a elaboração do Manual de Operações da Aeronave (Aircraft Operating Manual - AOM) por operadores certificados sob o RBAC nº 135",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 91 EMD 06",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91-emd-06",
-      "datePublished": "2025-06-30T15:18:00.000Z",
-      "description": "Requisitos gerais de operação para aeronaves civis",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 714, 30/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-714",
-      "datePublished": "2025-06-30T00:00:00.000Z",
-      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -516,46 +276,6 @@
       "description": "Início - 1:58\nProcesso 00058.032050/2020-42 - 2:30\nProcesso 00058.016682/2025-73 - 18:47\nProcesso 00058.034495/2025-71 - 52:43\nProcesso 00058.021107/2025-92 - 1:43:44\nProcesso 00058.016310/2020-32 - 2:13:53",
       "image": "https://i4.ytimg.com/vi/w5UcldjPOtw/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 773, 25/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-773",
-      "datePublished": "2025-06-25T00:00:00.000Z",
-      "description": "Regulamenta o Diário de Bordo das aeronaves civis brasileiras",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 772, 25/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-772",
-      "datePublished": "2025-06-25T00:00:00.000Z",
-      "description": "Aprova emendas aos RBACs nºs 91 e 137 e altera a Resolução nº 762, de 18 de dezembro de 2024",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 713, 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-713",
-      "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Porto Alegre, localizado em Porto Alegre (RS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 771, 17/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-771",
-      "datePublished": "2025-06-17T00:00:00.000Z",
-      "description": "Altera as Resoluções nºs 761 e 762 de 18 de dezembro de 2024",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 770, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
-      "datePublished": "2025-06-16T00:00:00.000Z",
-      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -574,46 +294,6 @@
       "description": "O webinário visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.\n\nPara dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9H\n\nPara participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.",
       "image": "https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 712, 12/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-712",
-      "datePublished": "2025-06-12T00:00:00.000Z",
-      "description": "Altera a Decisão nº 699, de 16 de janeiro de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 711, 12/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-711",
-      "datePublished": "2025-06-12T00:00:00.000Z",
-      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Florianópolis, localizado em Florianópolis (SC)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 710, 06/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-710",
-      "datePublished": "2025-06-06T00:00:00.000Z",
-      "description": "Revoga as Decisões nºs 26, de 21 de março de 2018, e 537 de 7 de junho de 2022, relacionadas à coordenação do Aeroporto de Belo Horizonte/Pampulha - Carlos Drummond de Andrade (SBBH)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-022A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-02T18:20:00.000Z",
-      "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 214, 02/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-214",
-      "datePublished": "2025-06-02T00:00:00.000Z",
-      "description": "Estabelece diretrizes para a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
