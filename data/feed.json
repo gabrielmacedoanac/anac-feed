@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4d3bd3b3-0dd2-4019-a61d-af9070255d73",
+  "identifier": "urn:uuid:anac-feed-d4720833-0153-4772-b55f-d4e5705c3bdc",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-28T08:22:54.217Z",
-  "dateModified": "2025-07-28T08:22:54.217Z",
+  "dateCreated": "2025-07-28T12:31:56.796Z",
+  "dateModified": "2025-07-28T12:31:56.796Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -100,6 +100,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17502/SPO, 22/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17502",
+      "datePublished": "2025-07-22T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de COSMOS AVIAÇÃO AGRÍCOLA LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17503/SIA, 22/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17503",
       "datePublished": "2025-07-22T00:00:00.000Z",
@@ -112,14 +120,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17499",
       "datePublished": "2025-07-22T00:00:00.000Z",
       "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17480/SPO, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17480",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
@@ -156,14 +156,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17490/SPL, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17490",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 717, 21/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
       "datePublished": "2025-07-21T00:00:00.000Z",
@@ -186,6 +178,14 @@
       "description": "Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17473/SPL, 18/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17473",
+      "datePublished": "2025-07-18T00:00:00.000Z",
+      "description": "Autoriza o centro de instrução SECURITY SERVIÇOS AUXILIARES DE TRANSPORTE AÉREO LTDA. a ministrar cursos em Segurança da Aviação Civil contra Atos de Interferência Ilícita - AVSEC",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -226,22 +226,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17469",
       "datePublished": "2025-07-16T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD GO0404 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17447/SPL, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17447",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17446/SPL, 16/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17446",
-      "datePublished": "2025-07-16T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
