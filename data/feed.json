@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d4720833-0153-4772-b55f-d4e5705c3bdc",
+  "identifier": "urn:uuid:anac-feed-c8a348bd-09e4-4b53-8143-2ee27d0e27ba",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-28T12:31:56.796Z",
-  "dateModified": "2025-07-28T12:31:56.796Z",
+  "dateCreated": "2025-07-28T16:19:41.412Z",
+  "dateModified": "2025-07-28T16:19:41.412Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -40,6 +40,14 @@
       "datePublished": "2025-07-24T14:11:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17518/SAF, 23/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17518",
+      "datePublished": "2025-07-23T00:00:00.000Z",
+      "description": "Designa Gestor de Termo de Compartilhamento",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
