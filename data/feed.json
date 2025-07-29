@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-17c7ad0c-53e7-4ec6-b03d-7bc0dfbd16e8",
+  "identifier": "urn:uuid:anac-feed-1aa65cc5-a935-4f7a-afa0-e68112df9e47",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-29T12:32:34.618Z",
-  "dateModified": "2025-07-29T12:32:34.618Z",
+  "dateCreated": "2025-07-29T16:18:43.791Z",
+  "dateModified": "2025-07-29T16:18:43.791Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -48,6 +48,14 @@
       "datePublished": "2025-07-24T14:11:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17522/SAF, 24/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17522",
+      "datePublished": "2025-07-24T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -168,14 +176,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17502",
       "datePublished": "2025-07-22T00:00:00.000Z",
       "description": "Torna pública a revogação do Cadastro de COSMOS AVIAÇÃO AGRÍCOLA LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17503/SIA, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17503",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Altera a Portaria nº 3.214/SIA, de 10 de novembro de 2020, que concedeu o certificado operacional de aeroporto ao operador do Aeroporto de Araguaína (SWGN), localizado em Araguaína (TO)",
       "type": "legislação"
     },
     {

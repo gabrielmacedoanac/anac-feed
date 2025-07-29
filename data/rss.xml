@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 29 Jul 2025 12:32:34 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 12:32:34 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 16:18:43 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 16:18:43 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -40,6 +40,23 @@
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17522/SAF, 24/07/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17522</link>
+      <description>Designa Gestor de Contrato</description>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17522</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-07-24T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Designa Gestor de Contrato</p>
         
       ]]></content:encoded>
     </item>
@@ -295,23 +312,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Torna pública a revogação do Cadastro de COSMOS AVIAÇÃO AGRÍCOLA LTDA.</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17503/SIA, 22/07/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17503</link>
-      <description>Altera a Portaria nº 3.214/SIA, de 10 de novembro de 2020, que concedeu o certificado operacional de aeroporto ao operador do Aeroporto de Araguaína (SWGN), localizado em Araguaína (TO)</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17503</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-07-22T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Altera a Portaria nº 3.214/SIA, de 10 de novembro de 2020, que concedeu o certificado operacional de aeroporto ao operador do Aeroporto de Araguaína (SWGN), localizado em Araguaína (TO)</p>
         
       ]]></content:encoded>
     </item>
