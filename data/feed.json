@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4560a61a-6a86-4099-9554-ecf9e29dbdc2",
+  "identifier": "urn:uuid:anac-feed-17c7ad0c-53e7-4ec6-b03d-7bc0dfbd16e8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-29T08:21:08.942Z",
-  "dateModified": "2025-07-29T08:21:08.942Z",
+  "dateCreated": "2025-07-29T12:32:34.618Z",
+  "dateModified": "2025-07-29T12:32:34.618Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-24T14:11:00.000Z"
+    "endDate": "2025-07-25T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -34,12 +34,52 @@
   ],
   "items": [
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17531/SIA, 25/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17531",
+      "datePublished": "2025-07-25T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CASTORO 10 (9PKV)",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
       "datePublished": "2025-07-24T14:11:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17530/SIA, 24/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17530",
+      "datePublished": "2025-07-24T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NAN HAI BA HAO (9PMU)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17529/SPO, 24/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17529",
+      "datePublished": "2025-07-24T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de JATO AVIAÇÃO E PULVERIZAÇÃO AGRÍCOLA LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17527/SPO, 24/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17527",
+      "datePublished": "2025-07-24T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de AERO AGRICOLA NORDESTINA LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17521/SPO, 24/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17521",
+      "datePublished": "2025-07-24T00:00:00.000Z",
+      "description": "Defere pedido de Nível Equivalente de Segurança para o parágrafo 43.7(b)-I(1) do RBAC nº 43 referente à realização de inspeções de 110 horas por mecânicos autônomos cadastrados pela ANAC na aeronave modelo Leonardo AW119 MKII operada pelo Departamento Estadual de Aviação do Estado de Alagoas",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -92,6 +132,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17509/SIA, 22/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17509",
+      "datePublished": "2025-07-22T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD RR0165 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17496/SIA, 22/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17496",
+      "datePublished": "2025-07-22T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD SP0469 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17507/CRG, 22/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17507",
       "datePublished": "2025-07-22T00:00:00.000Z",
@@ -124,42 +180,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17499/SPL, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17499",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17487/SPO, 21/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17487",
       "datePublished": "2025-07-21T00:00:00.000Z",
       "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17494/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17494",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Altera o Anexo à Portaria nº 16.739/SIA, de 7 de abril de 2025, que dispõe sobre classificação dos aeródromos civis públicos para fins de aplicação do RBAC nº 107",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17484/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17484",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Designa como internacional Regular Non-Scheduled (RNS) o Aeroporto de Sorocaba(SP), Código OACI: SDCO; Código CIAD: SP0027",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 717, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
       "type": "legislação"
     },
     {
@@ -201,22 +225,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17478",
       "datePublished": "2025-07-18T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD BA0121 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17477/SIA, 18/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17477",
-      "datePublished": "2025-07-18T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) Aeroporto Presidente João Batista Figueiredo (SBSI), em Sinop (MT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17472/SRA, 18/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17472",
-      "datePublished": "2025-07-18T00:00:00.000Z",
-      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Juscelino Kubitschek, localizado em Brasília (DF)",
       "type": "legislação"
     },
     {
