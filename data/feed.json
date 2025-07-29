@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1aa65cc5-a935-4f7a-afa0-e68112df9e47",
+  "identifier": "urn:uuid:anac-feed-89d691d7-f24f-41a3-a4fd-27d1244a5421",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-29T16:18:43.791Z",
-  "dateModified": "2025-07-29T16:18:43.791Z",
+  "dateCreated": "2025-07-29T20:17:20.374Z",
+  "dateModified": "2025-07-29T20:17:20.374Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-23T03:05:28.000Z",
-    "endDate": "2025-07-25T00:00:00.000Z"
+    "endDate": "2025-07-29T16:46:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9",
+      "datePublished": "2025-07-29T16:46:00.000Z",
+      "description": "Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8",
+      "type": "notícia"
+    },
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17531/SIA, 25/07/2025",
@@ -467,14 +475,6 @@
       "datePublished": "2025-07-01T15:07:00.000Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Prorrogada suspensão do processo seletivo para o curso Pilotos do Semiárido",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/prorrogada-suspensao-do-processo-seletivo-para-o-curso-pilotos-do-semiarido",
-      "datePublished": "2025-07-01T14:12:00.000Z",
-      "description": "Anac e Ufersa paralisaram o processo seletivo para checar informações dos candidatos e garantir a integridade dos procedimentos",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
