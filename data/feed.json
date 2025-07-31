@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-18ed3089-0b3c-4e1d-959a-f11d60b1ce42",
+  "identifier": "urn:uuid:anac-feed-ceeb2779-b1c6-4892-ab52-74e64371b398",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-31T12:30:27.974Z",
-  "dateModified": "2025-07-31T12:30:27.974Z",
+  "dateCreated": "2025-07-31T16:19:07.483Z",
+  "dateModified": "2025-07-31T16:19:07.483Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T02:56:08.000Z",
-    "endDate": "2025-07-31T12:30:27.971Z"
+    "endDate": "2025-07-31T16:19:07.480Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 24/SPL/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-24",
-      "datePublished": "2025-07-31T12:30:27.971Z",
+      "datePublished": "2025-07-31T16:19:07.480Z",
       "description": "Resultado Parcial de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
       "type": "legislação"
     },
@@ -102,6 +102,22 @@
       "datePublished": "2025-07-29T16:46:00.000Z",
       "description": "Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17554/SPL, 29/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17554",
+      "datePublished": "2025-07-29T00:00:00.000Z",
+      "description": "Revoga a Portaria nº 17.197/SPL, de 11 de junho de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17543/SPO, 28/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17543",
+      "datePublished": "2025-07-28T00:00:00.000Z",
+      "description": "Torna pública a revogação do cadastro de AGROMAIS AEROAGRÍCOLA LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -230,14 +246,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17496",
       "datePublished": "2025-07-22T00:00:00.000Z",
       "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD SP0469 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17507/CRG, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17507",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
       "type": "legislação"
     },
     {
