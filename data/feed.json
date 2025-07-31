@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ceeb2779-b1c6-4892-ab52-74e64371b398",
+  "identifier": "urn:uuid:anac-feed-850d73e6-481a-49ba-8e2a-c920914d5ba2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-07-31T16:19:07.483Z",
-  "dateModified": "2025-07-31T16:19:07.483Z",
+  "dateCreated": "2025-07-31T20:16:48.503Z",
+  "dateModified": "2025-07-31T20:16:48.503Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T02:56:08.000Z",
-    "endDate": "2025-07-31T16:19:07.480Z"
+    "endDate": "2025-07-31T20:16:48.501Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 24/SPL/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-24",
-      "datePublished": "2025-07-31T16:19:07.480Z",
+      "datePublished": "2025-07-31T20:16:48.501Z",
       "description": "Resultado Parcial de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Divulgado resultado parcial do processo seletivo para Examinadores Credenciados de Pilotos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos",
+      "datePublished": "2025-07-31T16:02:00.000Z",
+      "description": "Interessados têm até 4 de agosto para apresentar recursos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos/linkedin.png/@@images/74dba3bd-0bed-4d05-8eac-34024f03a495.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -494,14 +503,6 @@
       "datePublished": "2025-07-02T17:05:00.000Z",
       "description": "Evento presencial reunirá profissionais da aviação com objetivo de discutir e disseminar boas práticas relacionadas ao CRM e promover a segurança operacional na aviação.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8/pecas-crm_linkedin.png/@@images/2de89146-9174-4d18-b994-d61c5976d0a7.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realizará manutenção programada em sistemas corporativos no dia 3/7",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-manutencao-programada-em-sistemas-corporativos-no-dia-3-7",
-      "datePublished": "2025-07-02T13:41:00.000Z",
-      "description": "Previsão é que sistemas corporativos fiquem inacessíveis durante atualização",
       "type": "notícia"
     },
     {
