@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9b06b254-f33f-4100-bd0d-e441538c76ed",
+  "identifier": "urn:uuid:anac-feed-0d456d78-2f3a-4ed9-b0eb-926771c96a65",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-01T16:19:34.385Z",
-  "dateModified": "2025-08-01T16:19:34.385Z",
+  "dateCreated": "2025-08-01T20:16:32.442Z",
+  "dateModified": "2025-08-01T20:16:32.442Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T02:56:08.000Z",
-    "endDate": "2025-08-01T16:19:34.383Z"
+    "endDate": "2025-08-01T20:16:32.439Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 24/SPL/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-24",
-      "datePublished": "2025-08-01T16:19:34.383Z",
+      "datePublished": "2025-08-01T20:16:32.439Z",
       "description": "Resultado Parcial de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
       "type": "legislação"
     },
@@ -161,14 +161,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17531/SIA, 25/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17531",
-      "datePublished": "2025-07-25T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CASTORO 10 (9PKV)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
@@ -255,6 +247,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17495",
       "datePublished": "2025-07-22T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD GO0027 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17481/SIA, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17481",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD BA0370 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
