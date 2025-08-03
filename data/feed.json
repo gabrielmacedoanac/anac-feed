@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7f8bf1e2-1cef-4e86-b58d-0dbdeca30c35",
+  "identifier": "urn:uuid:anac-feed-c051979d-12b9-4916-9f76-7958bd652cbc",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-02T20:15:22.103Z",
-  "dateModified": "2025-08-02T20:15:22.103Z",
+  "dateCreated": "2025-08-03T01:22:25.435Z",
+  "dateModified": "2025-08-03T01:22:25.435Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T02:56:08.000Z",
-    "endDate": "2025-08-02T20:15:22.101Z"
+    "endDate": "2025-08-03T01:22:25.433Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 24/SPL/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-24",
-      "datePublished": "2025-08-02T20:15:22.101Z",
+      "datePublished": "2025-08-03T01:22:25.433Z",
       "description": "Resultado Parcial de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
       "type": "legislação"
     },
