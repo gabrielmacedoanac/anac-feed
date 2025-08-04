@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-db8cb1a1-7498-481c-8043-72e21477ff96",
+  "identifier": "urn:uuid:anac-feed-aaed08a6-1902-4970-adeb-85c488808988",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-04T16:20:38.749Z",
-  "dateModified": "2025-08-04T16:20:38.749Z",
+  "dateCreated": "2025-08-04T20:17:25.603Z",
+  "dateModified": "2025-08-04T20:17:25.603Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-05-28T02:56:08.000Z",
+    "startDate": "2024-12-18T12:53:43.000Z",
     "endDate": "2025-08-04T11:51:00.000Z"
   },
   "distribution": [
@@ -699,11 +699,11 @@
     },
     {
       "@type": "VideoObject",
-      "name": "27/05 - Digital Week, das 10h às 12h",
-      "url": "https://www.youtube.com/watch?v=_IhhgDfFcN0",
-      "datePublished": "2025-05-28T02:56:08.000Z",
-      "description": "Moderação: Felipe Cruz, da Anac\n\nPainelista 1: Maíra Rocha Santos, professora da UnB e Pesquisadora do ITRAC\nPainelista 2: Thierry Cintra Marcondes, conselheiro e palestrante da Wylinka\nPainelista 3: Patrícia Samensato, gerente  técnica de Educação para o Consumo e Qualidade dos \n\nServiços de Transporte Aéreo de Passageiros da Anac\n\nPerguntas: https://app.sli.do/event/bzUVnmBbnv4jqNsYwFNFBZ",
-      "image": "https://i4.ytimg.com/vi/_IhhgDfFcN0/hqdefault.jpg",
+      "name": "10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)",
+      "url": "https://www.youtube.com/watch?v=I-sJmTR8bIE",
+      "datePublished": "2024-12-18T12:53:43.000Z",
+      "description": "10ª Reunião Deliberativa da Diretoria Colegiada\n \n1) Processo 00058.070782/2023-83  \n2) Processo 00058.041531/2021-20",
+      "image": "https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
