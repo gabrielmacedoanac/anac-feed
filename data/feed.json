@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-73553fa1-8fb8-4d24-8099-b22c0dfb9ef1",
+  "identifier": "urn:uuid:anac-feed-db8cb1a1-7498-481c-8043-72e21477ff96",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-04T12:33:14.770Z",
-  "dateModified": "2025-08-04T12:33:14.770Z",
+  "dateCreated": "2025-08-04T16:20:38.749Z",
+  "dateModified": "2025-08-04T16:20:38.749Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T02:56:08.000Z",
-    "endDate": "2025-08-04T12:33:14.767Z"
+    "endDate": "2025-08-04T11:51:00.000Z"
   },
   "distribution": [
     {
@@ -35,10 +35,10 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "EDITAL Nº 24/SPL/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-24",
-      "datePublished": "2025-08-04T12:33:14.767Z",
-      "description": "Resultado Parcial de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
+      "name": "IS 91-012C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1",
+      "datePublished": "2025-08-04T11:51:00.000Z",
+      "description": "Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes",
       "type": "legislação"
     },
     {
@@ -49,6 +49,30 @@
       "description": "Interessados têm até 4 de agosto para apresentar recursos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos/linkedin.png/@@images/74dba3bd-0bed-4d05-8eac-34024f03a495.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17568/SPO, 31/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17568",
+      "datePublished": "2025-07-31T00:00:00.000Z",
+      "description": "Aprova a Instrução Suplementar nº 91-012, Revisão C",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17567/SIA, 31/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17567",
+      "datePublished": "2025-07-31T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade JSD 6000 (9PKW)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17566/SIA, 31/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17566",
+      "datePublished": "2025-07-31T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade PETROBRAS 68 - P-68 (9PMO)",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -105,12 +129,52 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17559/SIA, 30/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17559",
+      "datePublished": "2025-07-30T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE CARAGUATATUBA MV27 (9PJT)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17561/SPL, 30/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17561",
+      "datePublished": "2025-07-30T00:00:00.000Z",
+      "description": "Suspende cautelarmente o Certificado de CIAC emitido em favor da SIKORSKI ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9",
       "datePublished": "2025-07-29T16:46:00.000Z",
       "description": "Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17556/SIA, 29/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17556",
+      "datePublished": "2025-07-29T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17546/SIA, 29/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17546",
+      "datePublished": "2025-07-29T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD SC0258 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17551/SPO, 29/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17551",
+      "datePublished": "2025-07-29T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de GREENLAND AVIAÇÃO E SERVIÇOS AGRÍCOLAS LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -122,34 +186,34 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17553/SAR, 29/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17553",
-      "datePublished": "2025-07-29T00:00:00.000Z",
-      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade de Emergência para os aviões EMBRAER modelos ERJ-190-300 e ERJ 190-400",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17554/SPL, 29/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17554",
-      "datePublished": "2025-07-29T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 17.197/SPL, de 11 de junho de 2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17539/SIA, 28/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17539",
+      "name": "PORTARIA Nº 17541/SIA, 28/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17541",
       "datePublished": "2025-07-28T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0506 no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0240 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17543/SPO, 28/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17543",
+      "name": "PORTARIA Nº 17542/SIA, 28/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17542",
       "datePublished": "2025-07-28T00:00:00.000Z",
-      "description": "Torna pública a revogação do cadastro de AGROMAIS AEROAGRÍCOLA LTDA.",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD RS0072 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17537/SIA, 26/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17537",
+      "datePublished": "2025-07-26T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1078 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17536/SIA, 25/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17536",
+      "datePublished": "2025-07-25T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0434 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -170,18 +234,26 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17525/SIA, 24/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17525",
+      "name": "PORTARIA Nº 17528/SIA, 24/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17528",
       "datePublished": "2025-07-24T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD RO0115 no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD GO0051 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17522/SAF, 24/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17522",
-      "datePublished": "2025-07-24T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
+      "name": "PORTARIA Nº 17512/SIA, 23/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17512",
+      "datePublished": "2025-07-23T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0034 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17517/SIA, 23/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17517",
+      "datePublished": "2025-07-23T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0036 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -190,14 +262,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17513",
       "datePublished": "2025-07-23T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1145 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17516/SIA, 23/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17516",
-      "datePublished": "2025-07-23T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD MG0276 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -227,58 +291,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17508/SIA, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17508",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0651 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17506/SIA, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17506",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0650 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17495/SIA, 22/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17495",
-      "datePublished": "2025-07-22T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0027 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17481/SIA, 21/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17481",
       "datePublished": "2025-07-21T00:00:00.000Z",
       "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD BA0370 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17493/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17493",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PR0254 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17491/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17491",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo privado CIAD GO0036 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17482/SIA, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17482",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD SP0290 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -305,14 +321,6 @@
       "description": "Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17479/SIA, 18/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17479",
-      "datePublished": "2025-07-18T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0505 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -634,14 +642,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-710",
       "datePublished": "2025-06-06T00:00:00.000Z",
       "description": "Revoga as Decisões nºs 26, de 21 de março de 2018, e 537 de 7 de junho de 2022, relacionadas à coordenação do Aeroporto de Belo Horizonte/Pampulha - Carlos Drummond de Andrade (SBBH)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-022A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-022",
-      "datePublished": "2025-06-02T18:20:00.000Z",
-      "description": "Padrões para a realização de exames práticos (exames de competência) de despachantes operacionais de voo (DOV)",
       "type": "legislação"
     },
     {
