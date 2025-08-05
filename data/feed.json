@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6592db40-3089-4555-a0ca-90551fb94d8e",
+  "identifier": "urn:uuid:anac-feed-a8748bd0-4e07-4862-81d3-0334f37a1252",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-05T16:16:27.264Z",
-  "dateModified": "2025-08-05T16:16:27.264Z",
+  "dateCreated": "2025-08-05T20:15:57.399Z",
+  "dateModified": "2025-08-05T20:15:57.399Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-05T07:25:14.000Z"
+    "endDate": "2025-08-05T14:26:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac determina a investigação de peças de freio e roda da empresa H8 ALS",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als",
+      "datePublished": "2025-08-05T14:26:00.000Z",
+      "description": "Medida foi tomada após a identificação de comercialização de partes aeronáuticas não aprovadas",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)",
@@ -57,6 +65,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1",
       "datePublished": "2025-08-04T11:51:00.000Z",
       "description": "Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17576/SPO, 01/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17576",
+      "datePublished": "2025-08-01T00:00:00.000Z",
+      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
@@ -228,6 +244,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17547/SAF, 29/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17547",
+      "datePublished": "2025-07-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17548/SAF, 29/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17548",
       "datePublished": "2025-07-29T00:00:00.000Z",
@@ -240,14 +264,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17556",
       "datePublished": "2025-07-29T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17546/SIA, 29/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17546",
-      "datePublished": "2025-07-29T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD SC0258 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -514,28 +530,11 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Corte orçamentário é revisto e Anac tem recomposição de 50%",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/corte-orcamentario-e-revisto-e-anac-tem-recomposicao-de-50",
-      "datePublished": "2025-07-03T16:57:00.000Z",
-      "description": "Aporte de R$ 15 milhões, decorrente de decisão do MPor, será utilizado para retorno de aplicação de provas aos profissionais de aviação civil, atividades de certificação e fiscalização",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/corte-orcamentario-e-revisto-e-anac-tem-recomposicao-de-50/totem-anac-bsb-6.jpg/@@images/8e58b01b-9a43-4055-a772-d09ebc7a9a4a.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "RBAC 137 EMD 06",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
       "datePublished": "2025-07-01T15:07:00.000Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17576/SPO, 01/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17576",
-      "datePublished": "2025-07-01T00:00:00.000Z",
-      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
