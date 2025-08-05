@@ -5,10 +5,33 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 05 Aug 2025 04:42:13 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2025 04:42:13 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 08:21:23 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 08:21:23 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)</title>
+      <link>https://www.youtube.com/watch?v=I-sJmTR8bIE</link>
+      <description>10ª Reunião Deliberativa da Diretoria Colegiada
+ 
+1) Processo 00058.070782/2023-83  
+2) Processo 00058.041531/2021-20</description>
+      <pubDate>Tue, 05 Aug 2025 07:25:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=I-sJmTR8bIE</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-05T07:25:14.000Z</dc:date>
+      <enclosure url="https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg" type="image/jpeg"/>
+      <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>10ª Reunião Deliberativa da Diretoria Colegiada
+ 
+1) Processo 00058.070782/2023-83  
+2) Processo 00058.041531/2021-20</p>
+        <img src="https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg" alt="10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -1582,29 +1605,6 @@ Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-ins
 
 Participe!</p>
         <img src="https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg" alt="27/05 - Digital Week 2025, das 16h30 às 18h">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)</title>
-      <link>https://www.youtube.com/watch?v=I-sJmTR8bIE</link>
-      <description>10ª Reunião Deliberativa da Diretoria Colegiada
- 
-1) Processo 00058.070782/2023-83  
-2) Processo 00058.041531/2021-20</description>
-      <pubDate>Wed, 18 Dec 2024 12:53:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=I-sJmTR8bIE</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2024-12-18T12:53:43.000Z</dc:date>
-      <enclosure url="https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg" type="image/jpeg"/>
-      <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>10ª Reunião Deliberativa da Diretoria Colegiada
- 
-1) Processo 00058.070782/2023-83  
-2) Processo 00058.041531/2021-20</p>
-        <img src="https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg" alt="10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)">
       ]]></content:encoded>
     </item>
     

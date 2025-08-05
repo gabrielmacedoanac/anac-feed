@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-85b939ff-373f-4527-a84d-b8732abb3c74",
+  "identifier": "urn:uuid:anac-feed-39910d51-c19c-4275-a0b8-2c6f25627b34",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-05T04:42:13.543Z",
-  "dateModified": "2025-08-05T04:42:13.543Z",
+  "dateCreated": "2025-08-05T08:21:23.215Z",
+  "dateModified": "2025-08-05T08:21:23.215Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2024-12-18T12:53:43.000Z",
-    "endDate": "2025-08-04T18:20:00.000Z"
+    "startDate": "2025-05-28T08:52:19.000Z",
+    "endDate": "2025-08-05T07:25:14.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)",
+      "url": "https://www.youtube.com/watch?v=I-sJmTR8bIE",
+      "datePublished": "2025-08-05T07:25:14.000Z",
+      "description": "10ª Reunião Deliberativa da Diretoria Colegiada\n \n1) Processo 00058.070782/2023-83  \n2) Processo 00058.041531/2021-20",
+      "image": "https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac terá time de especialistas na 20ª edição da Labace",
@@ -695,15 +704,6 @@
       "datePublished": "2025-05-28T08:52:19.000Z",
       "description": "Seja bem-vindo!\n\nPalestra: Safety Intelligence com IA \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn\n\nModerador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac\nPainelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)",
-      "url": "https://www.youtube.com/watch?v=I-sJmTR8bIE",
-      "datePublished": "2024-12-18T12:53:43.000Z",
-      "description": "10ª Reunião Deliberativa da Diretoria Colegiada\n \n1) Processo 00058.070782/2023-83  \n2) Processo 00058.041531/2021-20",
-      "image": "https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
