@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-aaed08a6-1902-4970-adeb-85c488808988",
+  "identifier": "urn:uuid:anac-feed-19bc9766-e7f7-4051-a663-7faabc0e27cb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-04T20:17:25.603Z",
-  "dateModified": "2025-08-04T20:17:25.603Z",
+  "dateCreated": "2025-08-05T01:17:48.161Z",
+  "dateModified": "2025-08-05T01:17:48.161Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2024-12-18T12:53:43.000Z",
-    "endDate": "2025-08-04T11:51:00.000Z"
+    "endDate": "2025-08-04T18:20:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac terá time de especialistas na 20ª edição da Labace",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace",
+      "datePublished": "2025-08-04T18:20:00.000Z",
+      "description": "Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace/labace-2024-10.jpg/@@images/4f0c3b25-ea5f-430a-ac57-dca974f3610d.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "Legislation",
       "name": "IS 91-012C",
@@ -502,15 +511,6 @@
       "datePublished": "2025-07-03T16:57:00.000Z",
       "description": "Aporte de R$ 15 milhões, decorrente de decisão do MPor, será utilizado para retorno de aplicação de provas aos profissionais de aviação civil, atividades de certificação e fiscalização",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/corte-orcamentario-e-revisto-e-anac-tem-recomposicao-de-50/totem-anac-bsb-6.jpg/@@images/8e58b01b-9a43-4055-a772-d09ebc7a9a4a.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realizará o V Encontro Nacional de Facilitadores de CRM nos dias 26 e 27/8",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8",
-      "datePublished": "2025-07-02T17:05:00.000Z",
-      "description": "Evento presencial reunirá profissionais da aviação com objetivo de discutir e disseminar boas práticas relacionadas ao CRM e promover a segurança operacional na aviação.",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realizara-o-v-encontro-nacional-de-facilitadores-de-crm-nos-dias-26-e-27-8/pecas-crm_linkedin.png/@@images/2de89146-9174-4d18-b994-d61c5976d0a7.png",
       "type": "notícia"
     },
     {
