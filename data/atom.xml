@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c0304206-cb09-4d92-a520-6decccf30714</id>
-  <updated>2025-08-06T16:20:15.362Z</updated>
+  <id>urn:uuid:anac-feed-ea235801-c77d-434f-a271-a2c55c007466</id>
+  <updated>2025-08-06T20:17:08.662Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 26/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26</id>
-    <published>2025-08-06T16:20:15.362Z</published>
-    <updated>2025-08-06T16:20:15.362Z</updated>
+    <published>2025-08-06T20:17:08.662Z</published>
+    <updated>2025-08-06T20:17:08.662Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">EDITAL Nº 25/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25</id>
-    <published>2025-08-06T16:20:15.362Z</published>
-    <updated>2025-08-06T16:20:15.362Z</updated>
+    <published>2025-08-06T20:17:08.662Z</published>
+    <updated>2025-08-06T20:17:08.662Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,8 +55,8 @@
     <title type="html">EDITAL Nº 27/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27</id>
-    <published>2025-08-06T16:20:15.362Z</published>
-    <updated>2025-08-06T16:20:15.362Z</updated>
+    <published>2025-08-06T20:17:08.662Z</published>
+    <updated>2025-08-06T20:17:08.662Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -67,6 +67,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac lança quatro novos manuais aeronáuticos gratuitos do programa Asas para Todos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos</id>
+    <published>2025-08-06T14:59:00.000Z</published>
+    <updated>2025-08-06T14:59:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves</summary>
+    <content type="html"><![CDATA[
+      <p>Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao</id>
+    <published>2025-08-06T13:24:00.000Z</published>
+    <updated>2025-08-06T13:24:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura</summary>
+    <content type="html"><![CDATA[
+      <p>Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao/sandbox_regulatorio__banner-portal-rotativo.png/@@images/7ed24658-af72-4938-952b-1e07e40996a3.png" alt="Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1135,25 +1173,6 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Anac promove Infoshare 2025, fórum sobre segurança operacional na aviação brasileira</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-infoshare-2025-forum-sobre-seguranca-operacional-na-aviacao-brasileira" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-infoshare-2025-forum-sobre-seguranca-operacional-na-aviacao-brasileira</id>
-    <published>2025-07-04T14:26:00.000Z</published>
-    <updated>2025-07-04T14:26:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 715, 04/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-715" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-715</id>
@@ -1188,25 +1207,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Provas teóricas da Anac são retomadas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas</id>
-    <published>2025-07-03T19:45:00.000Z</published>
-    <updated>2025-07-03T19:45:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agendamentos da FGV foram reabertos nesta quinta-feira (3/7), após remanejamento de recursos do Ministério de Portos e Aeroportos</summary>
-    <content type="html"><![CDATA[
-      <p>Agendamentos da FGV foram reabertos nesta quinta-feira (3/7), após remanejamento de recursos do Ministério de Portos e Aeroportos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas/comunicado_retomada_provas_linkedin.png/@@images/50f411a5-fb7a-4391-8ae2-fa717894c47f.png" alt="Provas teóricas da Anac são retomadas">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

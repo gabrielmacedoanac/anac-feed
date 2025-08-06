@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c0304206-cb09-4d92-a520-6decccf30714",
+  "identifier": "urn:uuid:anac-feed-ea235801-c77d-434f-a271-a2c55c007466",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-06T16:20:15.364Z",
-  "dateModified": "2025-08-06T16:20:15.364Z",
+  "dateCreated": "2025-08-06T20:17:08.664Z",
+  "dateModified": "2025-08-06T20:17:08.664Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-06T16:20:15.362Z"
+    "endDate": "2025-08-06T20:17:08.662Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 26/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26",
-      "datePublished": "2025-08-06T16:20:15.362Z",
+      "datePublished": "2025-08-06T20:17:08.662Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 25/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25",
-      "datePublished": "2025-08-06T16:20:15.362Z",
+      "datePublished": "2025-08-06T20:17:08.662Z",
       "description": "Altera o Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -53,9 +53,26 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 27/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27",
-      "datePublished": "2025-08-06T16:20:15.362Z",
+      "datePublished": "2025-08-06T20:17:08.662Z",
       "description": "Altera o Edital nº 19/SGP/2025",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lança quatro novos manuais aeronáuticos gratuitos do programa Asas para Todos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos",
+      "datePublished": "2025-08-06T14:59:00.000Z",
+      "description": "Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao",
+      "datePublished": "2025-08-06T13:24:00.000Z",
+      "description": "Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao/sandbox_regulatorio__banner-portal-rotativo.png/@@images/7ed24658-af72-4938-952b-1e07e40996a3.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -497,14 +514,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac promove Infoshare 2025, fórum sobre segurança operacional na aviação brasileira",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-infoshare-2025-forum-sobre-seguranca-operacional-na-aviacao-brasileira",
-      "datePublished": "2025-07-04T14:26:00.000Z",
-      "description": "Encontro fomentou a troca de experiências entre a Agência e membros do setor aéreo",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 715, 04/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-715",
@@ -519,15 +528,6 @@
       "datePublished": "2025-07-04T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Provas teóricas da Anac são retomadas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas",
-      "datePublished": "2025-07-03T19:45:00.000Z",
-      "description": "Agendamentos da FGV foram reabertos nesta quinta-feira (3/7), após remanejamento de recursos do Ministério de Portos e Aeroportos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/provas-teoricas-da-anac-sao-retomadas/comunicado_retomada_provas_linkedin.png/@@images/50f411a5-fb7a-4391-8ae2-fa717894c47f.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
