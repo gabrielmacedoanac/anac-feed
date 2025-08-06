@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8eadb888-774f-406a-abce-c789e806815a",
+  "identifier": "urn:uuid:anac-feed-c0304206-cb09-4d92-a520-6decccf30714",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-06T12:32:36.112Z",
-  "dateModified": "2025-08-06T12:32:36.112Z",
+  "dateCreated": "2025-08-06T16:20:15.364Z",
+  "dateModified": "2025-08-06T16:20:15.364Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-05T14:26:00.000Z"
+    "endDate": "2025-08-06T16:20:15.362Z"
   },
   "distribution": [
     {
@@ -33,6 +33,30 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 26/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26",
+      "datePublished": "2025-08-06T16:20:15.362Z",
+      "description": "Altera o Edital nº 18/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 25/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25",
+      "datePublished": "2025-08-06T16:20:15.362Z",
+      "description": "Altera o Edital nº 17/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 27/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27",
+      "datePublished": "2025-08-06T16:20:15.362Z",
+      "description": "Altera o Edital nº 19/SGP/2025",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac determina a investigação de peças de freio e roda da empresa H8 ALS",
@@ -65,6 +89,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1",
       "datePublished": "2025-08-04T11:51:00.000Z",
       "description": "Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17585/ASSOP, 04/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17585",
+      "datePublished": "2025-08-04T00:00:00.000Z",
+      "description": "Altera a Portaria nº 12.214/ASSOP, de 19 de agosto de 2023",
       "type": "legislação"
     },
     {
@@ -166,14 +198,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17566/SIA, 31/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17566",
-      "datePublished": "2025-07-31T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade PETROBRAS 68 - P-68 (9PMO)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 718, 31/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718",
       "datePublished": "2025-07-31T00:00:00.000Z",
@@ -235,14 +259,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17559/SIA, 30/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17559",
-      "datePublished": "2025-07-30T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE CARAGUATATUBA MV27 (9PJT)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9",
@@ -264,22 +280,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17548",
       "datePublished": "2025-07-29T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17556/SIA, 29/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17556",
-      "datePublished": "2025-07-29T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17541/SIA, 28/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17541",
-      "datePublished": "2025-07-28T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0240 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17.483/SIA, 21/07/2025",
+      "name": "PORTARIA Nº 17483/SIA, 21/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17483",
       "datePublished": "2025-07-21T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT0161 no cadastro de aeródromos",

@@ -4,13 +4,70 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8eadb888-774f-406a-abce-c789e806815a</id>
-  <updated>2025-08-05T14:26:00.000Z</updated>
+  <id>urn:uuid:anac-feed-c0304206-cb09-4d92-a520-6decccf30714</id>
+  <updated>2025-08-06T16:20:15.362Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">EDITAL Nº 26/SGP/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26</id>
+    <published>2025-08-06T16:20:15.362Z</published>
+    <updated>2025-08-06T16:20:15.362Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera o Edital nº 18/SGP/2025</summary>
+    <content type="html"><![CDATA[
+      <p>Altera o Edital nº 18/SGP/2025</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">EDITAL Nº 25/SGP/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25</id>
+    <published>2025-08-06T16:20:15.362Z</published>
+    <updated>2025-08-06T16:20:15.362Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera o Edital nº 17/SGP/2025</summary>
+    <content type="html"><![CDATA[
+      <p>Altera o Edital nº 17/SGP/2025</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">EDITAL Nº 27/SGP/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27</id>
+    <published>2025-08-06T16:20:15.362Z</published>
+    <updated>2025-08-06T16:20:15.362Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera o Edital nº 19/SGP/2025</summary>
+    <content type="html"><![CDATA[
+      <p>Altera o Edital nº 19/SGP/2025</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -88,6 +145,25 @@
     <summary type="html">Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes</summary>
     <content type="html"><![CDATA[
       <p>Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17585/ASSOP, 04/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17585" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17585</id>
+    <published>2025-08-04T00:00:00.000Z</published>
+    <updated>2025-08-04T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Portaria nº 12.214/ASSOP, de 19 de agosto de 2023</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Portaria nº 12.214/ASSOP, de 19 de agosto de 2023</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -324,25 +400,6 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17566/SIA, 31/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17566" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17566</id>
-    <published>2025-07-31T00:00:00.000Z</published>
-    <updated>2025-07-31T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve no cadastro o heliponto privado a bordo da unidade PETROBRAS 68 - P-68 (9PMO)</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve no cadastro o heliponto privado a bordo da unidade PETROBRAS 68 - P-68 (9PMO)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 718, 31/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718</id>
@@ -512,25 +569,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17559/SIA, 30/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17559" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17559</id>
-    <published>2025-07-30T00:00:00.000Z</published>
-    <updated>2025-07-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE CARAGUATATUBA MV27 (9PJT)</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE CARAGUATATUBA MV27 (9PJT)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9</id>
@@ -580,44 +618,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
     <content type="html"><![CDATA[
       <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17556/SIA, 29/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17556" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17556</id>
-    <published>2025-07-29T00:00:00.000Z</published>
-    <updated>2025-07-29T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade CENTRAL DE ENCHOVA (9PDX)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17541/SIA, 28/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17541" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17541</id>
-    <published>2025-07-28T00:00:00.000Z</published>
-    <updated>2025-07-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MT0240 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MT0240 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -721,7 +721,7 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17.483/SIA, 21/07/2025</title>
+    <title type="html">PORTARIA Nº 17483/SIA, 21/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17483" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17483</id>
     <published>2025-07-21T00:00:00.000Z</published>
