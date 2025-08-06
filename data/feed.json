@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b01de292-9783-4516-bf69-6deed17ef0e2",
+  "identifier": "urn:uuid:anac-feed-8eadb888-774f-406a-abce-c789e806815a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-06T08:21:08.041Z",
-  "dateModified": "2025-08-06T08:21:08.041Z",
+  "dateCreated": "2025-08-06T12:32:36.112Z",
+  "dateModified": "2025-08-06T12:32:36.112Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -69,6 +69,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17579/SAS, 01/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17579",
+      "datePublished": "2025-08-01T00:00:00.000Z",
+      "description": "Estabelece o Calendário de Atividades da Temporada de Inverno 2026 (W26) previsto na Resolução nº 682, de 7 de junho de 2022, e na Portaria nº 8.449/SAS, de 30 de junho de 2022",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17576/SPO, 01/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17576",
       "datePublished": "2025-08-01T00:00:00.000Z",
@@ -121,7 +129,7 @@
       "name": "PORTARIA Nº 17572/SIA, 31/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17572",
       "datePublished": "2025-07-31T00:00:00.000Z",
-      "description": "Aprova o Plano Diretor do Aeroporto Prefeito Orlando Marinho / Tefé, AM (SBTF) - (CIAD: AM0004)",
+      "description": "Aprova o Plano Diretor do Aeroporto Prefeito Orlando Marinho / Tefé  (AM) SBTF - CIAD: AM0004",
       "type": "legislação"
     },
     {
@@ -275,22 +283,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17542/SIA, 28/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17542",
-      "datePublished": "2025-07-28T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD RS0072 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17537/SIA, 26/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17537",
-      "datePublished": "2025-07-26T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1078 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
@@ -301,7 +293,7 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17510/SIA, 23/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17510-1",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17510",
       "datePublished": "2025-07-23T00:00:00.000Z",
       "description": "Aprova o Plano Diretor do Aeroporto Santa Teresinha/ Joaçaba (SC) SSJA - CIAD: SC0014",
       "type": "legislação"
@@ -330,6 +322,14 @@
       "datePublished": "2025-07-22T14:56:00.000Z",
       "description": "Evento antecede a Labace 2025",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17.483/SIA, 21/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17483",
+      "datePublished": "2025-07-21T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0161 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
