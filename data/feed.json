@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3b4aee72-df01-4055-ac6b-4cdaeeda1e85",
+  "identifier": "urn:uuid:anac-feed-a79c1f9c-7035-4679-9497-bddb84aedb44",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-07T12:32:29.191Z",
-  "dateModified": "2025-08-07T12:32:29.191Z",
+  "dateCreated": "2025-08-07T16:19:48.329Z",
+  "dateModified": "2025-08-07T16:19:48.329Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-07T12:32:29.189Z"
+    "endDate": "2025-08-07T16:19:48.326Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 26/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26",
-      "datePublished": "2025-08-07T12:32:29.189Z",
+      "datePublished": "2025-08-07T16:19:48.326Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 25/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25",
-      "datePublished": "2025-08-07T12:32:29.189Z",
+      "datePublished": "2025-08-07T16:19:48.326Z",
       "description": "Altera o Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 27/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27",
-      "datePublished": "2025-08-07T12:32:29.189Z",
+      "datePublished": "2025-08-07T16:19:48.326Z",
       "description": "Altera o Edital nº 19/SGP/2025",
       "type": "legislação"
     },
@@ -90,6 +90,14 @@
       "description": "10ª Reunião Deliberativa da Diretoria Colegiada\n \n1) Processo 00058.070782/2023-83  \n2) Processo 00058.041531/2021-20",
       "image": "https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17597/SAF, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17597",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -203,14 +211,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17568",
       "datePublished": "2025-07-31T00:00:00.000Z",
       "description": "Aprova a Instrução Suplementar nº 91-012, Revisão C",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17567/SIA, 31/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17567",
-      "datePublished": "2025-07-31T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade JSD 6000 (9PKW)",
       "type": "legislação"
     },
     {
