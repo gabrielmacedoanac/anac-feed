@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e678d823-b4f4-40cd-a6bf-589c961f0313",
+  "identifier": "urn:uuid:anac-feed-3b4aee72-df01-4055-ac6b-4cdaeeda1e85",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-07T08:21:23.516Z",
-  "dateModified": "2025-08-07T08:21:23.516Z",
+  "dateCreated": "2025-08-07T12:32:29.191Z",
+  "dateModified": "2025-08-07T12:32:29.191Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-07T08:21:23.514Z"
+    "endDate": "2025-08-07T12:32:29.189Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 26/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26",
-      "datePublished": "2025-08-07T08:21:23.514Z",
+      "datePublished": "2025-08-07T12:32:29.189Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 25/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25",
-      "datePublished": "2025-08-07T08:21:23.514Z",
+      "datePublished": "2025-08-07T12:32:29.189Z",
       "description": "Altera o Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 27/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27",
-      "datePublished": "2025-08-07T08:21:23.514Z",
+      "datePublished": "2025-08-07T12:32:29.189Z",
       "description": "Altera o Edital nº 19/SGP/2025",
       "type": "legislação"
     },
