@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c4ee179d-a0a7-4b79-8ac1-13112bbcb732",
+  "identifier": "urn:uuid:anac-feed-c33151b0-34da-41ed-b745-445532ce1e4b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-08T04:39:03.891Z",
-  "dateModified": "2025-08-08T04:39:03.891Z",
+  "dateCreated": "2025-08-08T08:21:16.459Z",
+  "dateModified": "2025-08-08T08:21:16.459Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-08T04:39:03.889Z"
+    "endDate": "2025-08-08T08:21:16.456Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 145-010C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c",
-      "datePublished": "2025-08-08T04:39:03.889Z",
+      "datePublished": "2025-08-08T08:21:16.456Z",
       "description": "Programa de treinamento de organizações de manutenção",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 119-010A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a",
-      "datePublished": "2025-08-08T04:39:03.889Z",
+      "datePublished": "2025-08-08T08:21:16.456Z",
       "description": "Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 26/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26",
-      "datePublished": "2025-08-08T04:39:03.889Z",
+      "datePublished": "2025-08-08T08:21:16.456Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 25/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25",
-      "datePublished": "2025-08-08T04:39:03.889Z",
+      "datePublished": "2025-08-08T08:21:16.456Z",
       "description": "Altera o Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -69,7 +69,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 27/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27",
-      "datePublished": "2025-08-08T04:39:03.889Z",
+      "datePublished": "2025-08-08T08:21:16.456Z",
       "description": "Altera o Edital nº 19/SGP/2025",
       "type": "legislação"
     },
