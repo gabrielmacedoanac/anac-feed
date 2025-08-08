@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e2d0abd1-efdc-46ee-ac08-b4a28cd72262</id>
-  <updated>2025-08-08T12:31:33.390Z</updated>
+  <id>urn:uuid:anac-feed-d8e980eb-b52d-4552-bff0-454c36c8ea67</id>
+  <updated>2025-08-08T16:17:14.503Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,55 +14,17 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 26/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26</id>
-    <published>2025-08-08T12:31:33.390Z</published>
-    <updated>2025-08-08T12:31:33.390Z</updated>
+    <title type="html">IS 135.21-001B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b</id>
+    <published>2025-08-08T16:17:14.503Z</published>
+    <updated>2025-08-08T16:17:14.503Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera o Edital nº 18/SGP/2025</summary>
+    <summary type="html">Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</summary>
     <content type="html"><![CDATA[
-      <p>Altera o Edital nº 18/SGP/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 25/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25</id>
-    <published>2025-08-08T12:31:33.390Z</published>
-    <updated>2025-08-08T12:31:33.390Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera o Edital nº 17/SGP/2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera o Edital nº 17/SGP/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 27/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27</id>
-    <published>2025-08-08T12:31:33.390Z</published>
-    <updated>2025-08-08T12:31:33.390Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera o Edital nº 19/SGP/2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera o Edital nº 19/SGP/2025</p>
+      <p>Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -74,8 +36,8 @@
     <title type="html">EDITAL Nº 28/SPL/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-28" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-28</id>
-    <published>2025-08-08T12:31:33.389Z</published>
-    <updated>2025-08-08T12:31:33.389Z</updated>
+    <published>2025-08-08T16:17:14.503Z</published>
+    <updated>2025-08-08T16:17:14.503Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -93,8 +55,8 @@
     <title type="html">IS 145-010C</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c</id>
-    <published>2025-08-08T12:31:33.389Z</published>
-    <updated>2025-08-08T12:31:33.389Z</updated>
+    <published>2025-08-08T16:17:14.503Z</published>
+    <updated>2025-08-08T16:17:14.503Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -112,14 +74,33 @@
     <title type="html">IS 119-010A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a</id>
-    <published>2025-08-08T12:31:33.389Z</published>
-    <updated>2025-08-08T12:31:33.389Z</updated>
+    <published>2025-08-08T16:17:14.503Z</published>
+    <updated>2025-08-08T16:17:14.503Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo</summary>
     <content type="html"><![CDATA[
       <p>Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 135.21-001B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b</id>
+    <published>2025-08-08T09:53:00.000Z</published>
+    <updated>2025-08-08T09:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</summary>
+    <content type="html"><![CDATA[
+      <p>Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -204,6 +185,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17629/AUD, 07/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17629" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17629</id>
+    <published>2025-08-07T00:00:00.000Z</published>
+    <updated>2025-08-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa servidores para a realização do trabalho de Auditoria nº 6/2025, do tipo &quot;Avaliação&quot;, em &quot;Governança de Tecnologia da Informação&quot;</summary>
+    <content type="html"><![CDATA[
+      <p>Designa servidores para a realização do trabalho de Auditoria nº 6/2025, do tipo "Avaliação", em "Governança de Tecnologia da Informação"</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac lança quatro novos manuais aeronáuticos gratuitos do programa Asas para Todos</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos</id>
@@ -238,6 +238,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17616/SPO, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17616" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17616</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova a Instrução Suplementar nº 135.21-001B</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova a Instrução Suplementar nº 135.21-001B</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17611/SPL, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17611" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17611</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
+    <content type="html"><![CDATA[
+      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -286,6 +324,44 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17592/SPO, 05/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17592" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17592</id>
+    <published>2025-08-05T00:00:00.000Z</published>
+    <updated>2025-08-05T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a revogação do Cadastro de TENOAGRI AVIACAO AGRICOLA LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a revogação do Cadastro de TENOAGRI AVIACAO AGRICOLA LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17591/SPO, 05/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17591" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17591</id>
+    <published>2025-08-05T00:00:00.000Z</published>
+    <updated>2025-08-05T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a revogação do Cadastro de BERBEL AVIAÇÃO AGRÍCOLA LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a revogação do Cadastro de BERBEL AVIAÇÃO AGRÍCOLA LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">RESOLUÇÃO Nº 776, 05/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776-1" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776-1</id>
@@ -316,44 +392,6 @@
     <summary type="html">Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC</summary>
     <content type="html"><![CDATA[
       <p>Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17597/SAF, 05/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17597" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17597</id>
-    <published>2025-08-05T00:00:00.000Z</published>
-    <updated>2025-08-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Gestor de Contrato</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Gestor de Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17606/SPL, 05/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17606-spo-05-08-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17606-spo-05-08-2025</id>
-    <published>2025-08-05T00:00:00.000Z</published>
-    <updated>2025-08-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Defere o pedido de isenção parcial de cumprimento do requisito de que trata o parágrafo (j), Seção 61.29 do RBAC nº 61</summary>
-    <content type="html"><![CDATA[
-      <p>Defere o pedido de isenção parcial de cumprimento do requisito de que trata o parágrafo (j), Seção 61.29 do RBAC nº 61</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -438,17 +476,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17585/ASSOP, 04/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17585" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17585</id>
+    <title type="html">PORTARIA Nº 17587/SAR, 04/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17587" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17587</id>
     <published>2025-08-04T00:00:00.000Z</published>
     <updated>2025-08-04T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a Portaria nº 12.214/ASSOP, de 19 de agosto de 2023</summary>
+    <summary type="html">Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos ERJ-190-300 e ERJ 190-400</summary>
     <content type="html"><![CDATA[
-      <p>Altera a Portaria nº 12.214/ASSOP, de 19 de agosto de 2023</p>
+      <p>Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos ERJ-190-300 e ERJ 190-400</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -457,17 +495,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17579/SAS, 01/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17579" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17579</id>
+    <title type="html">PORTARIA Nº 17582/SIA, 01/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17582" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17582</id>
     <published>2025-08-01T00:00:00.000Z</published>
     <updated>2025-08-01T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Estabelece o Calendário de Atividades da Temporada de Inverno 2026 (W26) previsto na Resolução nº 682, de 7 de junho de 2022, e na Portaria nº 8.449/SAS, de 30 de junho de 2022</summary>
+    <summary type="html">Aprova o Manual de Procedimentos MPR/SIA 828- R01</summary>
     <content type="html"><![CDATA[
-      <p>Estabelece o Calendário de Atividades da Temporada de Inverno 2026 (W26) previsto na Resolução nº 682, de 7 de junho de 2022, e na Portaria nº 8.449/SAS, de 30 de junho de 2022</p>
+      <p>Aprova o Manual de Procedimentos MPR/SIA 828- R01</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -491,6 +529,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17573/SIA, 31/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17573" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17573</id>
+    <published>2025-07-31T00:00:00.000Z</published>
+    <updated>2025-07-31T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1148 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1148 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -759,36 +816,17 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17557/SIA, 29/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17557" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17557</id>
-    <published>2025-07-29T00:00:00.000Z</published>
-    <updated>2025-07-29T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 17545/SAF, 28/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17545" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17545</id>
+    <published>2025-07-28T00:00:00.000Z</published>
+    <updated>2025-07-28T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1146 no cadastro de aeródromos</summary>
+    <summary type="html">Estabelece procedimentos operacionais e complementares à Instrução Normativa nº 214, de 2 de junho de 2025, sobre a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC</summary>
     <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT1146 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17535/SPO, 25/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17535" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17535</id>
-    <published>2025-07-25T00:00:00.000Z</published>
-    <updated>2025-07-25T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a IS nº 119-010A, IS nº 145-010C e IS nº 120-016C</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a IS nº 119-010A, IS nº 145-010C e IS nº 120-016C</p>
+      <p>Estabelece procedimentos operacionais e complementares à Instrução Normativa nº 214, de 2 de junho de 2025, sobre a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -869,25 +907,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17483/SIA, 21/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17483" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17483</id>
-    <published>2025-07-21T00:00:00.000Z</published>
-    <updated>2025-07-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT0161 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT0161 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1460,25 +1479,6 @@ Processo 00058.016310/2020-32 - 2:13:53</p>
     <summary type="html">Aprova emendas aos RBACs nºs 91 e 137 e altera a Resolução nº 762, de 18 de dezembro de 2024</summary>
     <content type="html"><![CDATA[
       <p>Aprova emendas aos RBACs nºs 91 e 137 e altera a Resolução nº 762, de 18 de dezembro de 2024</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 713, 23/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-713" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-713</id>
-    <published>2025-06-23T00:00:00.000Z</published>
-    <updated>2025-06-23T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Porto Alegre, localizado em Porto Alegre (RS)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Porto Alegre, localizado em Porto Alegre (RS)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
