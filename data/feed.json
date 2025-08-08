@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c33151b0-34da-41ed-b745-445532ce1e4b",
+  "identifier": "urn:uuid:anac-feed-e2d0abd1-efdc-46ee-ac08-b4a28cd72262",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-08T08:21:16.459Z",
-  "dateModified": "2025-08-08T08:21:16.459Z",
+  "dateCreated": "2025-08-08T12:31:33.392Z",
+  "dateModified": "2025-08-08T12:31:33.392Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-08T08:21:16.456Z"
+    "endDate": "2025-08-08T12:31:33.390Z"
   },
   "distribution": [
     {
@@ -35,25 +35,9 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "IS 145-010C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c",
-      "datePublished": "2025-08-08T08:21:16.456Z",
-      "description": "Programa de treinamento de organizações de manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 119-010A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a",
-      "datePublished": "2025-08-08T08:21:16.456Z",
-      "description": "Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "EDITAL Nº 26/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-26",
-      "datePublished": "2025-08-08T08:21:16.456Z",
+      "datePublished": "2025-08-08T12:31:33.390Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -61,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 25/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-25",
-      "datePublished": "2025-08-08T08:21:16.456Z",
+      "datePublished": "2025-08-08T12:31:33.390Z",
       "description": "Altera o Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -69,8 +53,32 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 27/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-27",
-      "datePublished": "2025-08-08T08:21:16.456Z",
+      "datePublished": "2025-08-08T12:31:33.390Z",
       "description": "Altera o Edital nº 19/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 28/SPL/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-28",
+      "datePublished": "2025-08-08T12:31:33.389Z",
+      "description": "Resultado Final de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 145-010C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c",
+      "datePublished": "2025-08-08T12:31:33.389Z",
+      "description": "Programa de treinamento de organizações de manutenção",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 119-010A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a",
+      "datePublished": "2025-08-08T12:31:33.389Z",
+      "description": "Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo",
       "type": "legislação"
     },
     {
@@ -141,6 +149,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 776, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776-1",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Aprova emenda ao RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 775, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-775",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17597/SAF, 05/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17597",
       "datePublished": "2025-08-05T00:00:00.000Z",
@@ -153,6 +177,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17606-spo-05-08-2025",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Defere o pedido de isenção parcial de cumprimento do requisito de que trata o parágrafo (j), Seção 61.29 do RBAC nº 61",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 775, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-775",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 776, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776-1",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Aprova emenda ao RBAC nº 121",
       "type": "legislação"
     },
     {
@@ -189,14 +229,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17576/SPO, 01/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17576",
-      "datePublished": "2025-08-01T00:00:00.000Z",
-      "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Divulgado resultado parcial do processo seletivo para Examinadores Credenciados de Pilotos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos",
@@ -204,14 +236,6 @@
       "description": "Interessados têm até 4 de agosto para apresentar recursos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos/linkedin.png/@@images/74dba3bd-0bed-4d05-8eac-34024f03a495.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 718, 31/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718",
-      "datePublished": "2025-07-31T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 121.391(a)(4) do RBAC nº 121, em favor da TAM LINHAS AÉREAS S.A.",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -321,14 +345,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17557",
       "datePublished": "2025-07-29T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1146 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17547/SAF, 29/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17547",
-      "datePublished": "2025-07-29T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
@@ -623,22 +639,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-713",
       "datePublished": "2025-06-23T00:00:00.000Z",
       "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Porto Alegre, localizado em Porto Alegre (RS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 771, 17/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-771",
-      "datePublished": "2025-06-17T00:00:00.000Z",
-      "description": "Altera as Resoluções nºs 761 e 762 de 18 de dezembro de 2024",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 770, 16/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-770",
-      "datePublished": "2025-06-16T00:00:00.000Z",
-      "description": "Aprova o Código de Ética e Conduta dos Agentes Públicos da ANAC",
       "type": "legislação"
     },
     {
