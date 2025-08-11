@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-189695ed-a55e-4b93-b4bb-ecd62e75ea05",
+  "identifier": "urn:uuid:anac-feed-75443b70-4431-4b10-a91f-6e362608ad36",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-11T01:17:28.591Z",
-  "dateModified": "2025-08-11T01:17:28.591Z",
+  "dateCreated": "2025-08-11T04:38:22.869Z",
+  "dateModified": "2025-08-11T04:38:22.869Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-11T01:17:28.589Z"
+    "endDate": "2025-08-11T04:38:22.867Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 135.21-001B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
-      "datePublished": "2025-08-11T01:17:28.589Z",
+      "datePublished": "2025-08-11T04:38:22.867Z",
       "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 28/SPL/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-28",
-      "datePublished": "2025-08-11T01:17:28.589Z",
+      "datePublished": "2025-08-11T04:38:22.867Z",
       "description": "Resultado Final de Pré-Classificação dos Candidatos no Processo Seletivo para Credenciamento de Examinadores Autônomos de Pilotos",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "IS 145-010C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c",
-      "datePublished": "2025-08-11T01:17:28.589Z",
+      "datePublished": "2025-08-11T04:38:22.867Z",
       "description": "Programa de treinamento de organizações de manutenção",
       "type": "legislação"
     },
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "IS 119-010A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a",
-      "datePublished": "2025-08-11T01:17:28.589Z",
+      "datePublished": "2025-08-11T04:38:22.867Z",
       "description": "Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo",
       "type": "legislação"
     },
