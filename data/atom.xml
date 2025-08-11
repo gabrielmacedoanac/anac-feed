@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c30c4a45-a0bb-4d54-a35b-6740ade8286e</id>
-  <updated>2025-08-11T16:19:28.411Z</updated>
+  <id>urn:uuid:anac-feed-20232007-4619-4cd9-a39c-d40a14f80a89</id>
+  <updated>2025-08-11T20:15:35.640Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,17 +14,112 @@
   
   
   <entry>
+    <title type="html">IS 91.409-002A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
+    <published>2025-08-11T20:15:35.640Z</published>
+    <updated>2025-08-11T20:15:35.640Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</summary>
+    <content type="html"><![CDATA[
+      <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">IS 135.21-001B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b</id>
-    <published>2025-08-11T16:19:28.411Z</published>
-    <updated>2025-08-11T16:19:28.411Z</updated>
+    <published>2025-08-11T20:15:35.640Z</published>
+    <updated>2025-08-11T20:15:35.640Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</summary>
     <content type="html"><![CDATA[
       <p>Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva</id>
+    <published>2025-08-11T16:33:00.000Z</published>
+    <updated>2025-08-11T16:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</summary>
+    <content type="html"><![CDATA[
+      <p>Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva/1.jpg/@@images/a8eee1a4-53f7-4f5b-a5e2-e73f0655ddce.jpeg" alt="Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Encontro internacional discute mitigação de riscos de saúde pública na aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil</id>
+    <published>2025-08-11T15:17:00.000Z</published>
+    <updated>2025-08-11T15:17:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Anac sediou discussões entre os dias 5 e 8 de agosto</summary>
+    <content type="html"><![CDATA[
+      <p>Anac sediou discussões entre os dias 5 e 8 de agosto</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil/2025-capsca-dia-2-37.png/@@images/02506f64-026b-4794-8121-b0cf32a8008f.png" alt="Encontro internacional discute mitigação de riscos de saúde pública na aviação civil">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Confira o resultado da pesquisa sobre o perfil profissional na aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil</id>
+    <published>2025-08-11T14:39:00.000Z</published>
+    <updated>2025-08-11T14:39:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros</summary>
+    <content type="html"><![CDATA[
+      <p>Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 91.409-002A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
+    <published>2025-08-11T14:20:00.000Z</published>
+    <updated>2025-08-11T14:20:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</summary>
+    <content type="html"><![CDATA[
+      <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -525,25 +620,6 @@
     <summary type="html">Torna pública a revogação do Cadastro de BERBEL AVIAÇÃO AGRÍCOLA LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Torna pública a revogação do Cadastro de BERBEL AVIAÇÃO AGRÍCOLA LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 776, 05/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776</id>
-    <published>2025-08-05T00:00:00.000Z</published>
-    <updated>2025-08-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova emenda ao RBAC nº 121</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova emenda ao RBAC nº 121</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1268,44 +1344,6 @@ Participe!</p>
   
   
   <entry>
-    <title type="html">Pilotos privados terão licenças expedidas exclusivamente pelo Super App da Anac a partir de 1º/8</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8</id>
-    <published>2025-07-08T14:00:00.000Z</published>
-    <updated>2025-07-08T14:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Sistema Sintac, utilizado anteriormente, será descontinuado para esse serviço</summary>
-    <content type="html"><![CDATA[
-      <p>Sistema Sintac, utilizado anteriormente, será descontinuado para esse serviço</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/pilotos-privados-terao-licencas-expedidas-exclusivamente-pelo-super-app-da-anac-a-partir-de-1o-8/whatsapp-1.png/@@images/845ed9de-2e5a-4f87-8057-14d0335aa47b.png" alt="Pilotos privados terão licenças expedidas exclusivamente pelo Super App da Anac a partir de 1º/8">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Balonismo terá novas regras para exploração da atividade no país</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais</id>
-    <published>2025-07-08T12:52:00.000Z</published>
-    <updated>2025-07-08T12:52:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac pretende estabelecer regras de transição com restrições ao aerodesporto e critérios mínimos de segurança para operações comerciais</summary>
-    <content type="html"><![CDATA[
-      <p>Anac pretende estabelecer regras de transição com restrições ao aerodesporto e critérios mínimos de segurança para operações comerciais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-para-exploracao-da-atividade-no-pais/balonismo_atualizacao_regras_linkedin.png/@@images/751291c7-b357-479d-b5a6-bdb737328a34.png" alt="Balonismo terá novas regras para exploração da atividade no país">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RESOLUÇÃO Nº 774, 07/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-774" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-774</id>
@@ -1321,25 +1359,6 @@ Participe!</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Oaci reconhece a sustentabilidade do etanol de milho brasileiro para produção de SAF</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf</id>
-    <published>2025-07-04T15:55:00.000Z</published>
-    <updated>2025-07-04T15:55:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação</summary>
-    <content type="html"><![CDATA[
-      <p>Atuação técnica brasileira, coordenada pela Anac, conquistou o reconhecimento internacional da produção de milho de segunda safra no Brasil para produção de combustível sustentável de aviação</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/oaci-reconhece-a-sustentabilidade-do-etanol-de-milho-brasileiro-para-producao-de-saf/PORTAL.jpg/@@images/c21503d7-b379-4cc8-b890-688ffc22880f.jpeg" alt="Oaci reconhece a sustentabilidade do etanol de milho brasileiro para produção de SAF">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1460,25 +1479,6 @@ Processo 00058.016310/2020-32 - 2:13:53</p>
     <summary type="html">Regulamenta o Diário de Bordo das aeronaves civis brasileiras</summary>
     <content type="html"><![CDATA[
       <p>Regulamenta o Diário de Bordo das aeronaves civis brasileiras</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 772, 25/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-772" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-772</id>
-    <published>2025-06-25T00:00:00.000Z</published>
-    <updated>2025-06-25T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova emendas aos RBACs nºs 91 e 137 e altera a Resolução nº 762, de 18 de dezembro de 2024</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova emendas aos RBACs nºs 91 e 137 e altera a Resolução nº 762, de 18 de dezembro de 2024</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
