@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-610e227d-f216-47b1-987c-71d74c40ea14</id>
-  <updated>2025-08-12T08:20:05.945Z</updated>
+  <id>urn:uuid:anac-feed-4d52cfcd-7ec3-48c7-9e52-30d8288bfcfd</id>
+  <updated>2025-08-12T12:29:54.916Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,17 +14,17 @@
   
   
   <entry>
-    <title type="html">IS 91.409-002A</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
-    <published>2025-08-12T08:20:05.945Z</published>
-    <updated>2025-08-12T08:20:05.945Z</updated>
+    <title type="html">IS 135.21-001B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b</id>
+    <published>2025-08-12T12:29:54.916Z</published>
+    <updated>2025-08-12T12:29:54.916Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</summary>
+    <summary type="html">Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</summary>
     <content type="html"><![CDATA[
-      <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
+      <p>Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -33,17 +33,17 @@
   
   
   <entry>
-    <title type="html">IS 135.21-001B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b</id>
-    <published>2025-08-12T08:20:05.945Z</published>
-    <updated>2025-08-12T08:20:05.945Z</updated>
+    <title type="html">IS 91.409-002A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
+    <published>2025-08-12T12:29:54.915Z</published>
+    <updated>2025-08-12T12:29:54.915Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</summary>
+    <summary type="html">Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</summary>
     <content type="html"><![CDATA[
-      <p>Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</p>
+      <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-610e227d-f216-47b1-987c-71d74c40ea14",
+  "identifier": "urn:uuid:anac-feed-4d52cfcd-7ec3-48c7-9e52-30d8288bfcfd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-12T08:20:05.947Z",
-  "dateModified": "2025-08-12T08:20:05.947Z",
+  "dateCreated": "2025-08-12T12:29:54.918Z",
+  "dateModified": "2025-08-12T12:29:54.918Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-12T08:20:05.945Z"
+    "endDate": "2025-08-12T12:29:54.916Z"
   },
   "distribution": [
     {
@@ -35,18 +35,18 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "IS 91.409-002A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a",
-      "datePublished": "2025-08-12T08:20:05.945Z",
-      "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
+      "name": "IS 135.21-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
+      "datePublished": "2025-08-12T12:29:54.916Z",
+      "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 135.21-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
-      "datePublished": "2025-08-12T08:20:05.945Z",
-      "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
+      "name": "IS 91.409-002A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a",
+      "datePublished": "2025-08-12T12:29:54.915Z",
+      "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
       "type": "legislação"
     },
     {
