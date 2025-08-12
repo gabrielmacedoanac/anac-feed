@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-4d52cfcd-7ec3-48c7-9e52-30d8288bfcfd</id>
-  <updated>2025-08-12T12:29:54.916Z</updated>
+  <id>urn:uuid:anac-feed-8364c066-c88e-4129-ba3a-f6110d15c964</id>
+  <updated>2025-08-12T16:18:55.831Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,30 +14,11 @@
   
   
   <entry>
-    <title type="html">IS 135.21-001B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b</id>
-    <published>2025-08-12T12:29:54.916Z</published>
-    <updated>2025-08-12T12:29:54.916Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</summary>
-    <content type="html"><![CDATA[
-      <p>Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 91.409-002A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
-    <published>2025-08-12T12:29:54.915Z</published>
-    <updated>2025-08-12T12:29:54.915Z</updated>
+    <published>2025-08-12T16:18:55.831Z</published>
+    <updated>2025-08-12T16:18:55.831Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -185,6 +166,63 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17631/SPL, 08/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17631" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17631</id>
+    <published>2025-08-08T00:00:00.000Z</published>
+    <updated>2025-08-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da EPEAC - ESCOLA PRÁTICA EAD AVIAÇÃO CIVIL LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da EPEAC - ESCOLA PRÁTICA EAD AVIAÇÃO CIVIL LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17635/SPL, 08/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17635" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17635</id>
+    <published>2025-08-08T00:00:00.000Z</published>
+    <updated>2025-08-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC VOLT AVIATION LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC VOLT AVIATION LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17638/CRG, 08/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17638" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17638</id>
+    <published>2025-08-08T00:00:00.000Z</published>
+    <updated>2025-08-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reconduz Comissão de Processo Administrativo Disciplinar</summary>
+    <content type="html"><![CDATA[
+      <p>Reconduz Comissão de Processo Administrativo Disciplinar</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">IS 145-010C</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c</id>
@@ -253,6 +291,25 @@
     <summary type="html">Manutenção realizada por empresas de transporte aéreo</summary>
     <content type="html"><![CDATA[
       <p>Manutenção realizada por empresas de transporte aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17628/SPL, 07/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17628" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17628</id>
+    <published>2025-08-07T00:00:00.000Z</published>
+    <updated>2025-08-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -356,25 +413,6 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17629/AUD, 07/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17629" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17629</id>
-    <published>2025-08-07T00:00:00.000Z</published>
-    <updated>2025-08-07T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa servidores para a realização do trabalho de Auditoria nº 6/2025, do tipo &quot;Avaliação&quot;, em &quot;Governança de Tecnologia da Informação&quot;</summary>
-    <content type="html"><![CDATA[
-      <p>Designa servidores para a realização do trabalho de Auditoria nº 6/2025, do tipo "Avaliação", em "Governança de Tecnologia da Informação"</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 719, 07/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719</id>
@@ -432,6 +470,44 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17618/SIA, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17618" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17618</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0655 no cadastro de aeródromos.</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0655 no cadastro de aeródromos.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17619/SIA, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17619" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17619</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17615/SPO, 06/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17615" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17615</id>
@@ -462,44 +538,6 @@
     <summary type="html">Torna pública a revogação do Cadastro de PULVERIZA AVIAÇÃO AGRICOLA LTDA. - ME</summary>
     <content type="html"><![CDATA[
       <p>Torna pública a revogação do Cadastro de PULVERIZA AVIAÇÃO AGRICOLA LTDA. - ME</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17616/SPO, 06/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17616" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17616</id>
-    <published>2025-08-06T00:00:00.000Z</published>
-    <updated>2025-08-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a Instrução Suplementar nº 135.21-001B</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a Instrução Suplementar nº 135.21-001B</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17611/SPL, 06/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17611" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17611</id>
-    <published>2025-08-06T00:00:00.000Z</published>
-    <updated>2025-08-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -582,44 +620,6 @@
     <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Sílvio Name Júnior Código OACI: SBMG; Código CIAD: PR0004, em Maringá (PR)</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Sílvio Name Júnior Código OACI: SBMG; Código CIAD: PR0004, em Maringá (PR)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17592/SPO, 05/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17592" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17592</id>
-    <published>2025-08-05T00:00:00.000Z</published>
-    <updated>2025-08-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação do Cadastro de TENOAGRI AVIACAO AGRICOLA LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação do Cadastro de TENOAGRI AVIACAO AGRICOLA LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17591/SPO, 05/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17591" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17591</id>
-    <published>2025-08-05T00:00:00.000Z</published>
-    <updated>2025-08-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação do Cadastro de BERBEL AVIAÇÃO AGRÍCOLA LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação do Cadastro de BERBEL AVIAÇÃO AGRÍCOLA LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -734,25 +734,6 @@
     <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO BRAVO (9PHK)</summary>
     <content type="html"><![CDATA[
       <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO BRAVO (9PHK)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17582/SIA, 01/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17582" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17582</id>
-    <published>2025-08-01T00:00:00.000Z</published>
-    <updated>2025-08-01T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Manual de Procedimentos MPR/SIA 828- R01</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Manual de Procedimentos MPR/SIA 828- R01</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -968,17 +949,17 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17545/SAF, 28/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17545" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17545</id>
-    <published>2025-07-28T00:00:00.000Z</published>
-    <updated>2025-07-28T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 17552/SIA, 29/07/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552</id>
+    <published>2025-07-29T00:00:00.000Z</published>
+    <updated>2025-07-29T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Estabelece procedimentos operacionais e complementares à Instrução Normativa nº 214, de 2 de junho de 2025, sobre a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC</summary>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MG0094 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Estabelece procedimentos operacionais e complementares à Instrução Normativa nº 214, de 2 de junho de 2025, sobre a utilização dos serviços de telefonia fixa e móvel no âmbito da ANAC</p>
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MG0094 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
