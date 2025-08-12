@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8364c066-c88e-4129-ba3a-f6110d15c964",
+  "identifier": "urn:uuid:anac-feed-00881acd-8b81-44e9-a884-c93ae71448a1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-12T16:18:55.833Z",
-  "dateModified": "2025-08-12T16:18:55.833Z",
+  "dateCreated": "2025-08-12T20:16:47.589Z",
+  "dateModified": "2025-08-12T20:16:47.589Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-12T16:18:55.831Z"
+    "endDate": "2025-08-12T20:16:47.587Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 91.409-002A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a",
-      "datePublished": "2025-08-12T16:18:55.831Z",
+      "datePublished": "2025-08-12T20:16:47.587Z",
       "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
       "type": "legislação"
     },
@@ -173,38 +173,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "DECISÃO Nº 720, 07/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-720",
-      "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam o parágrafo E94.9(c) e a Subparte E do RBAC-E nº 94, em favor da DR1 IMAGENS E INSPEÇÕES LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 719, 07/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719",
-      "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam o parágrafo E94.9(c) e a Subparte E do RBAC-E nº 94, em favor da DR1 IMAGENS E INSPEÇÕES LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17627/SPL, 07/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17627",
-      "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da AVIOMAR, S.r.l. para conduzir treinamentos e exames segundo o RBAC nº 142",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17626/SPO, 07/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17626",
-      "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Torna pública a revogação do Cadastro de CAMPAGNARO AERO AGRICOLA LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 719, 07/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719",
       "datePublished": "2025-08-07T00:00:00.000Z",
@@ -230,6 +198,38 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17621/SPL, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17621",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor da ESCOLA MASTER DE AVIAÇÃO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17620/SPL, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17620",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor de AERONAUTAS ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17622/SPL, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17622",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor da ESCOLA DE AVIAÇÃO CIVIL NORTE MINEIRA LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17623/SPL, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17623",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor da TO FLY ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17618/SIA, 06/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17618",
       "datePublished": "2025-08-06T00:00:00.000Z",
@@ -242,22 +242,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17619",
       "datePublished": "2025-08-06T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17615/SPO, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17615",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Torna pública a revogação do Cadastro de LANCA AEROAGRICOLA LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17609/SPO, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17609",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Torna pública a revogação do Cadastro de PULVERIZA AVIAÇÃO AGRICOLA LTDA. - ME",
       "type": "legislação"
     },
     {
@@ -279,18 +263,58 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17589/SPO, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17589",
+      "name": "PORTARIA Nº 17600/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17600",
       "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Aprova a Instrução Suplementar nº 91.409-002A",
+      "description": "Revoga o  certificado de CIAC emitido em favor da JET CLASS CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17588/SIA, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17588",
+      "name": "PORTARIA Nº 17602/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17602",
       "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) do Aeroporto Sílvio Name Júnior Código OACI: SBMG; Código CIAD: PR0004, em Maringá (PR)",
+      "description": "Revoga o certificado de CIAC emitido em favor do CEAB - CENTRO EDUCACIONAL DA AVIAÇÃO DO BRASIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17604/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17604",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor de CWB ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17594/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17594",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor de PC CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17595/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17565-1",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor de SKY ANGELS ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17603/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17603",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor da AEROSUL ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17601/SPL, 05/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17601",
+      "datePublished": "2025-08-05T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor da VOAR ESCOLA DE AVIAÇÃO CIVIL LTDA.",
       "type": "legislação"
     },
     {
@@ -324,22 +348,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1",
       "datePublished": "2025-08-04T11:51:00.000Z",
       "description": "Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17587/SAR, 04/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17587",
-      "datePublished": "2025-08-04T00:00:00.000Z",
-      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER modelos ERJ-190-300 e ERJ 190-400",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17584/SIA, 03/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17584",
-      "datePublished": "2025-08-03T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade FPSO BRAVO (9PHK)",
       "type": "legislação"
     },
     {
