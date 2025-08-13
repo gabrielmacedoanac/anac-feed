@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f23e91dc-8afa-4ce8-be2f-99ac6cbdb95c</id>
-  <updated>2025-08-13T01:11:07.878Z</updated>
+  <id>urn:uuid:anac-feed-9cc04335-9449-499d-830a-3872c02fa5c8</id>
+  <updated>2025-08-13T04:25:25.979Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 91.409-002A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
-    <published>2025-08-13T01:11:07.878Z</published>
-    <updated>2025-08-13T01:11:07.878Z</updated>
+    <published>2025-08-13T04:25:25.979Z</published>
+    <updated>2025-08-13T04:25:25.979Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,63 +29,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva</id>
-    <published>2025-08-11T16:33:00.000Z</published>
-    <updated>2025-08-11T16:33:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</summary>
-    <content type="html"><![CDATA[
-      <p>Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva/1.jpg/@@images/a8eee1a4-53f7-4f5b-a5e2-e73f0655ddce.jpeg" alt="Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Encontro internacional discute mitigação de riscos de saúde pública na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil</id>
-    <published>2025-08-11T15:17:00.000Z</published>
-    <updated>2025-08-11T15:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac sediou discussões entre os dias 5 e 8 de agosto</summary>
-    <content type="html"><![CDATA[
-      <p>Anac sediou discussões entre os dias 5 e 8 de agosto</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil/2025-capsca-dia-2-37.png/@@images/02506f64-026b-4794-8121-b0cf32a8008f.png" alt="Encontro internacional discute mitigação de riscos de saúde pública na aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Confira o resultado da pesquisa sobre o perfil profissional na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil</id>
-    <published>2025-08-11T14:39:00.000Z</published>
-    <updated>2025-08-11T14:39:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros</summary>
-    <content type="html"><![CDATA[
-      <p>Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -261,25 +204,6 @@
   
   
   <entry>
-    <title type="html">Anac publica alerta sobre interferências e falsificações em GNSS</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-alerta-sobre-interferencias-e-falsificacoes-em-gnss" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-alerta-sobre-interferencias-e-falsificacoes-em-gnss</id>
-    <published>2025-08-07T15:12:00.000Z</published>
-    <updated>2025-08-07T15:12:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publicação traz orientações para procedimentos em caso de ocorrências no sistema de navegação por satélite</summary>
-    <content type="html"><![CDATA[
-      <p>Publicação traz orientações para procedimentos em caso de ocorrências no sistema de navegação por satélite</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 120-016C</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-016" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-016</id>
@@ -352,44 +276,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac lança quatro novos manuais aeronáuticos gratuitos do programa Asas para Todos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos</id>
-    <published>2025-08-06T14:59:00.000Z</published>
-    <updated>2025-08-06T14:59:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves</summary>
-    <content type="html"><![CDATA[
-      <p>Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao</id>
-    <published>2025-08-06T13:24:00.000Z</published>
-    <updated>2025-08-06T13:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura</summary>
-    <content type="html"><![CDATA[
-      <p>Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao/sandbox_regulatorio__banner-portal-rotativo.png/@@images/7ed24658-af72-4938-952b-1e07e40996a3.png" alt="Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -504,25 +390,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac determina a investigação de peças de freio e roda da empresa H8 ALS</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als</id>
-    <published>2025-08-05T14:26:00.000Z</published>
-    <updated>2025-08-05T14:26:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Medida foi tomada após a identificação de comercialização de partes aeronáuticas não aprovadas</summary>
-    <content type="html"><![CDATA[
-      <p>Medida foi tomada após a identificação de comercialização de partes aeronáuticas não aprovadas</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -723,25 +590,6 @@
   
   
   <entry>
-    <title type="html">Anac terá time de especialistas na 20ª edição da Labace</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace</id>
-    <published>2025-08-04T18:20:00.000Z</published>
-    <updated>2025-08-04T18:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina</summary>
-    <content type="html"><![CDATA[
-      <p>Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace/labace-2024-10.jpg/@@images/4f0c3b25-ea5f-430a-ac57-dca974f3610d.jpeg" alt="Anac terá time de especialistas na 20ª edição da Labace">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 91-012C</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1</id>
@@ -761,25 +609,6 @@
   
   
   <entry>
-    <title type="html">Divulgado resultado parcial do processo seletivo para Examinadores Credenciados de Pilotos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos</id>
-    <published>2025-07-31T16:02:00.000Z</published>
-    <updated>2025-07-31T16:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Interessados têm até 4 de agosto para apresentar recursos</summary>
-    <content type="html"><![CDATA[
-      <p>Interessados têm até 4 de agosto para apresentar recursos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos/linkedin.png/@@images/74dba3bd-0bed-4d05-8eac-34024f03a495.png" alt="Divulgado resultado parcial do processo seletivo para Examinadores Credenciados de Pilotos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 718, 31/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718</id>
@@ -795,44 +624,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aena abre consulta pública sobre gestão de slots da aviação geral em Congonhas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas</id>
-    <published>2025-07-30T16:22:00.000Z</published>
-    <updated>2025-07-30T16:22:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo de coleta de sugestões atende a decisão aprovada pela Anac em maio de 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Processo de coleta de sugestões atende a decisão aprovada pela Anac em maio de 2025</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas/foto-aeroporto-congonhas.jpeg/@@images/83cbf0a0-26a0-4105-b44c-1e672ef978fe.jpeg" alt="Aena abre consulta pública sobre gestão de slots da aviação geral em Congonhas">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac lança manual inédito sobre prevenção e combate ao tráfico de pessoas na aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao</id>
-    <published>2025-07-30T16:08:00.000Z</published>
-    <updated>2025-07-30T16:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publicação marca o Dia Mundial de Enfrentamento ao Tráfico de Pessoas e se integra à nova campanha do projeto Liberdade no Ar, coordenado pela Asbrad e MPT</summary>
-    <content type="html"><![CDATA[
-      <p>Publicação marca o Dia Mundial de Enfrentamento ao Tráfico de Pessoas e se integra à nova campanha do projeto Liberdade no Ar, coordenado pela Asbrad e MPT</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao/campanha-trafico-de-pessoas/@@images/9e6552b4-932e-41d0-be76-e7d70dc7c8f1.png" alt="Anac lança manual inédito sobre prevenção e combate ao tráfico de pessoas na aviação">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -949,25 +740,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9</id>
-    <published>2025-07-29T16:46:00.000Z</published>
-    <updated>2025-07-29T16:46:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8</summary>
-    <content type="html"><![CDATA[
-      <p>Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">PORTARIA Nº 17552/SIA, 29/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552</id>
@@ -987,63 +759,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados</id>
-    <published>2025-07-24T14:11:00.000Z</published>
-    <updated>2025-07-24T14:11:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária</summary>
-    <content type="html"><![CDATA[
-      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev</id>
-    <published>2025-07-22T14:56:00.000Z</published>
-    <updated>2025-07-22T14:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Formulário orienta operadores aéreos na avaliação da segurança de voos</summary>
-    <content type="html"><![CDATA[
-      <p>Formulário orienta operadores aéreos na avaliação da segurança de voos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev/linkdein-eaev.png/@@images/8d27534b-c684-4a9f-acbd-dd7386e6c6f0.png" alt="Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac e Abag realizam o 1º Encontro Nacional de Segurança de Voo da Aviação Geral</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-abag-realizam-o-1o-encontro-nacional-de-seguranca-de-voo-da-aviacao-geral" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-abag-realizam-o-1o-encontro-nacional-de-seguranca-de-voo-da-aviacao-geral</id>
-    <published>2025-07-22T14:56:00.000Z</published>
-    <updated>2025-07-22T14:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento antecede a Labace 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Evento antecede a Labace 2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 717, 21/07/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717</id>
@@ -1059,120 +774,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Sistemas corporativos da Anac ficarão indisponíveis no dia 21/7</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/sistemas-corporativos-da-anac-ficarao-indisponiveis-no-dia-21-7" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/sistemas-corporativos-da-anac-ficarao-indisponiveis-no-dia-21-7</id>
-    <published>2025-07-18T16:02:00.000Z</published>
-    <updated>2025-07-18T16:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira</summary>
-    <content type="html"><![CDATA[
-      <p>Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido</id>
-    <published>2025-07-18T15:17:00.000Z</published>
-    <updated>2025-07-18T15:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000</summary>
-    <content type="html"><![CDATA[
-      <p>Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png" alt="Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira</id>
-    <published>2025-07-17T14:02:00.000Z</published>
-    <updated>2025-07-17T14:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</summary>
-    <content type="html"><![CDATA[
-      <p>Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg" alt="Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aberta seleção para novos examinadores autônomos de pilotos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos</id>
-    <published>2025-07-15T19:37:00.000Z</published>
-    <updated>2025-07-15T19:37:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">São oferecidas 42 vagas para instrutores de aviões e helicópteros. Inscrições vão até 25/7</summary>
-    <content type="html"><![CDATA[
-      <p>São oferecidas 42 vagas para instrutores de aviões e helicópteros. Inscrições vão até 25/7</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos/examinadores-credenciados/@@images/c9cf6a25-b015-4584-ab1c-c20fa047803a.png" alt="Aberta seleção para novos examinadores autônomos de pilotos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Super App da Anac traz novidades que agilizam a jornada de pilotos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos</id>
-    <published>2025-07-15T16:12:00.000Z</published>
-    <updated>2025-07-15T16:12:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades</summary>
-    <content type="html"><![CDATA[
-      <p>Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png" alt="Super App da Anac traz novidades que agilizam a jornada de pilotos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas</id>
-    <published>2025-07-14T11:57:00.000Z</published>
-    <updated>2025-07-14T11:57:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png" alt="Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1222,63 +823,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
   
   
   <entry>
-    <title type="html">Tetos das tarifas aeroportuárias de Guarulhos e Viracopos são reajustados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados</id>
-    <published>2025-07-11T14:08:00.000Z</published>
-    <updated>2025-07-11T14:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</summary>
-    <content type="html"><![CDATA[
-      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil</id>
-    <published>2025-07-09T18:06:00.000Z</published>
-    <updated>2025-07-09T18:06:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência reconhece as melhores práticas ambientais dos operadores nos segmentos engajamento social, gestão de recursos, resíduos, emissões e ruídos</summary>
-    <content type="html"><![CDATA[
-      <p>Agência reconhece as melhores práticas ambientais dos operadores nos segmentos engajamento social, gestão de recursos, resíduos, emissões e ruídos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil/2025-aeroportossustentaveis-1.png/@@images/5a86b213-b883-4e1f-859d-feb8843ecdfa.png" alt="Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac emite a primeira certificação de balão brasileiro</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro</id>
-    <published>2025-07-09T17:06:00.000Z</published>
-    <updated>2025-07-09T17:06:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo aprovou os projetos de cinco modelos da Rubic Balões conforme padrões internacionais de segurança</summary>
-    <content type="html"><![CDATA[
-      <p>Processo aprovou os projetos de cinco modelos da Rubic Balões conforme padrões internacionais de segurança</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro/imagem-do-whatsapp-de-2025-07-09-a-s-10-12-16_f0fdcf07.jpg/@@images/f7ec5b2f-8151-4b03-830e-aae3271f7326.jpeg" alt="Anac emite a primeira certificação de balão brasileiro">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RBAC 135 EMD 15</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15</id>
@@ -1294,25 +838,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tomada de subsídios para revisão de requisitos de MMA segue até 14/7</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7</id>
-    <published>2025-07-09T17:05:00.000Z</published>
-    <updated>2025-07-09T17:05:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
