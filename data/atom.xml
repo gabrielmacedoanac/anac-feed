@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ae1f431d-c480-4b20-b55f-ddfeccb75530</id>
-  <updated>2025-08-13T10:58:00.000Z</updated>
+  <id>urn:uuid:anac-feed-c3c55707-ced6-4c16-b36c-079cdcd233b8</id>
+  <updated>2025-08-13T14:24:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia</id>
+    <published>2025-08-13T14:24:00.000Z</published>
+    <updated>2025-08-13T14:24:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Campanha pretende mobilizar passageiros e trabalhadores dos aeroportos a promover o combate ao assédio e um ambiente mais seguro</summary>
+    <content type="html"><![CDATA[
+      <p>Campanha pretende mobilizar passageiros e trabalhadores dos aeroportos a promover o combate ao assédio e um ambiente mais seguro</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia/assedio-nao-decola-1.jpeg/@@images/ed1cb817-be98-4a41-b7c8-a0476e67bdee.jpeg" alt="Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -82,7 +101,7 @@
     <summary type="html">Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros</summary>
     <content type="html"><![CDATA[
       <p>Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros</p>
-      
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil/PEAUNICA.png/@@images/19a55c27-4df6-4721-8e52-4ec915ea4048.png" alt="Confira o resultado da pesquisa sobre o perfil profissional na aviação civil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1294,25 +1313,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tomada de subsídios para revisão de requisitos de MMA segue até 14/7</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7</id>
-    <published>2025-07-09T17:05:00.000Z</published>
-    <updated>2025-07-09T17:05:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

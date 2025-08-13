@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ae1f431d-c480-4b20-b55f-ddfeccb75530",
+  "identifier": "urn:uuid:anac-feed-c3c55707-ced6-4c16-b36c-079cdcd233b8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-13T16:14:50.966Z",
-  "dateModified": "2025-08-13T16:14:50.966Z",
+  "dateCreated": "2025-08-13T20:15:44.121Z",
+  "dateModified": "2025-08-13T20:15:44.121Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-13T10:58:00.000Z"
+    "endDate": "2025-08-13T14:24:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia",
+      "datePublished": "2025-08-13T14:24:00.000Z",
+      "description": "Campanha pretende mobilizar passageiros e trabalhadores dos aeroportos a promover o combate ao assédio e um ambiente mais seguro",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia/assedio-nao-decola-1.jpeg/@@images/ed1cb817-be98-4a41-b7c8-a0476e67bdee.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas",
@@ -66,6 +75,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil",
       "datePublished": "2025-08-11T14:39:00.000Z",
       "description": "Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil/PEAUNICA.png/@@images/19a55c27-4df6-4721-8e52-4ec915ea4048.png",
       "type": "notícia"
     },
     {
@@ -565,14 +575,6 @@
       "datePublished": "2025-07-09T17:06:00.000Z",
       "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Tomada de subsídios para revisão de requisitos de MMA segue até 14/7",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7",
-      "datePublished": "2025-07-09T17:05:00.000Z",
-      "description": "Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
