@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-00881acd-8b81-44e9-a884-c93ae71448a1",
+  "identifier": "urn:uuid:anac-feed-f23e91dc-8afa-4ce8-be2f-99ac6cbdb95c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-12T20:16:47.589Z",
-  "dateModified": "2025-08-12T20:16:47.589Z",
+  "dateCreated": "2025-08-13T01:11:07.880Z",
+  "dateModified": "2025-08-13T01:11:07.880Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-12T20:16:47.587Z"
+    "endDate": "2025-08-13T01:11:07.878Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 91.409-002A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a",
-      "datePublished": "2025-08-12T20:16:47.587Z",
+      "datePublished": "2025-08-13T01:11:07.878Z",
       "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
       "type": "legislação"
     },
