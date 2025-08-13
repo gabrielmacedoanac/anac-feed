@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9cc04335-9449-499d-830a-3872c02fa5c8",
+  "identifier": "urn:uuid:anac-feed-5c973eec-b044-42ea-97fc-c8de87b8ea0a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-13T04:25:25.981Z",
-  "dateModified": "2025-08-13T04:25:25.981Z",
+  "dateCreated": "2025-08-13T08:20:25.599Z",
+  "dateModified": "2025-08-13T08:20:25.599Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-13T04:25:25.979Z"
+    "endDate": "2025-08-13T08:20:25.596Z"
   },
   "distribution": [
     {
@@ -37,9 +37,35 @@
       "@type": "Legislation",
       "name": "IS 91.409-002A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a",
-      "datePublished": "2025-08-13T04:25:25.979Z",
+      "datePublished": "2025-08-13T08:20:25.596Z",
       "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva",
+      "datePublished": "2025-08-11T16:33:00.000Z",
+      "description": "Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva/1.jpg/@@images/a8eee1a4-53f7-4f5b-a5e2-e73f0655ddce.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Encontro internacional discute mitigação de riscos de saúde pública na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil",
+      "datePublished": "2025-08-11T15:17:00.000Z",
+      "description": "Anac sediou discussões entre os dias 5 e 8 de agosto",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil/2025-capsca-dia-2-37.png/@@images/02506f64-026b-4794-8121-b0cf32a8008f.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Confira o resultado da pesquisa sobre o perfil profissional na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil",
+      "datePublished": "2025-08-11T14:39:00.000Z",
+      "description": "Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -114,6 +140,14 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Anac publica alerta sobre interferências e falsificações em GNSS",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-alerta-sobre-interferencias-e-falsificacoes-em-gnss",
+      "datePublished": "2025-08-07T15:12:00.000Z",
+      "description": "Publicação traz orientações para procedimentos em caso de ocorrências no sistema de navegação por satélite",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "IS 120-016C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-016",
@@ -144,6 +178,23 @@
       "datePublished": "2025-08-07T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam o parágrafo E94.9(c) e a Subparte E do RBAC-E nº 94, em favor da DR1 IMAGENS E INSPEÇÕES LTDA.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lança quatro novos manuais aeronáuticos gratuitos do programa Asas para Todos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos",
+      "datePublished": "2025-08-06T14:59:00.000Z",
+      "description": "Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao",
+      "datePublished": "2025-08-06T13:24:00.000Z",
+      "description": "Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao/sandbox_regulatorio__banner-portal-rotativo.png/@@images/7ed24658-af72-4938-952b-1e07e40996a3.png",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -192,6 +243,14 @@
       "datePublished": "2025-08-06T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac determina a investigação de peças de freio e roda da empresa H8 ALS",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als",
+      "datePublished": "2025-08-05T14:26:00.000Z",
+      "description": "Medida foi tomada após a identificação de comercialização de partes aeronáuticas não aprovadas",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -275,6 +334,15 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Anac terá time de especialistas na 20ª edição da Labace",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace",
+      "datePublished": "2025-08-04T18:20:00.000Z",
+      "description": "Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace/labace-2024-10.jpg/@@images/4f0c3b25-ea5f-430a-ac57-dca974f3610d.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "IS 91-012C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1",
@@ -283,12 +351,39 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Divulgado resultado parcial do processo seletivo para Examinadores Credenciados de Pilotos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos",
+      "datePublished": "2025-07-31T16:02:00.000Z",
+      "description": "Interessados têm até 4 de agosto para apresentar recursos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos/linkedin.png/@@images/74dba3bd-0bed-4d05-8eac-34024f03a495.png",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 718, 31/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718",
       "datePublished": "2025-07-31T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 121.391(a)(4) do RBAC nº 121, em favor da TAM LINHAS AÉREAS S.A.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aena abre consulta pública sobre gestão de slots da aviação geral em Congonhas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas",
+      "datePublished": "2025-07-30T16:22:00.000Z",
+      "description": "Processo de coleta de sugestões atende a decisão aprovada pela Anac em maio de 2025",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas/foto-aeroporto-congonhas.jpeg/@@images/83cbf0a0-26a0-4105-b44c-1e672ef978fe.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lança manual inédito sobre prevenção e combate ao tráfico de pessoas na aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao",
+      "datePublished": "2025-07-30T16:08:00.000Z",
+      "description": "Publicação marca o Dia Mundial de Enfrentamento ao Tráfico de Pessoas e se integra à nova campanha do projeto Liberdade no Ar, coordenado pela Asbrad e MPT",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao/campanha-trafico-de-pessoas/@@images/9e6552b4-932e-41d0-be76-e7d70dc7c8f1.png",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -327,6 +422,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9",
+      "datePublished": "2025-07-29T16:46:00.000Z",
+      "description": "Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17552/SIA, 29/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552",
@@ -335,12 +438,90 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
+      "datePublished": "2025-07-24T14:11:00.000Z",
+      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev",
+      "datePublished": "2025-07-22T14:56:00.000Z",
+      "description": "Formulário orienta operadores aéreos na avaliação da segurança de voos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev/linkdein-eaev.png/@@images/8d27534b-c684-4a9f-acbd-dd7386e6c6f0.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac e Abag realizam o 1º Encontro Nacional de Segurança de Voo da Aviação Geral",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-abag-realizam-o-1o-encontro-nacional-de-seguranca-de-voo-da-aviacao-geral",
+      "datePublished": "2025-07-22T14:56:00.000Z",
+      "description": "Evento antecede a Labace 2025",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 717, 21/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
       "datePublished": "2025-07-21T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Sistemas corporativos da Anac ficarão indisponíveis no dia 21/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/sistemas-corporativos-da-anac-ficarao-indisponiveis-no-dia-21-7",
+      "datePublished": "2025-07-18T16:02:00.000Z",
+      "description": "Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido",
+      "datePublished": "2025-07-18T15:17:00.000Z",
+      "description": "Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Pesquisa da Anac revela pontos fortes e desafios na cultura de segurança da aviação brasileira",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira",
+      "datePublished": "2025-07-17T14:02:00.000Z",
+      "description": "Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta seleção para novos examinadores autônomos de pilotos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos",
+      "datePublished": "2025-07-15T19:37:00.000Z",
+      "description": "São oferecidas 42 vagas para instrutores de aviões e helicópteros. Inscrições vão até 25/7",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos/examinadores-credenciados/@@images/c9cf6a25-b015-4584-ab1c-c20fa047803a.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Super App da Anac traz novidades que agilizam a jornada de pilotos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos",
+      "datePublished": "2025-07-15T16:12:00.000Z",
+      "description": "Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
+      "datePublished": "2025-07-14T11:57:00.000Z",
+      "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -352,12 +533,46 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Tetos das tarifas aeroportuárias de Guarulhos e Viracopos são reajustados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados",
+      "datePublished": "2025-07-11T14:08:00.000Z",
+      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil",
+      "datePublished": "2025-07-09T18:06:00.000Z",
+      "description": "Agência reconhece as melhores práticas ambientais dos operadores nos segmentos engajamento social, gestão de recursos, resíduos, emissões e ruídos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil/2025-aeroportossustentaveis-1.png/@@images/5a86b213-b883-4e1f-859d-feb8843ecdfa.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac emite a primeira certificação de balão brasileiro",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro",
+      "datePublished": "2025-07-09T17:06:00.000Z",
+      "description": "Processo aprovou os projetos de cinco modelos da Rubic Balões conforme padrões internacionais de segurança",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro/imagem-do-whatsapp-de-2025-07-09-a-s-10-12-16_f0fdcf07.jpg/@@images/f7ec5b2f-8151-4b03-830e-aae3271f7326.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "RBAC 135 EMD 15",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
       "datePublished": "2025-07-09T17:06:00.000Z",
       "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Tomada de subsídios para revisão de requisitos de MMA segue até 14/7",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tomada-de-subsidios-para-revisao-de-requisitos-de-mma-segue-ate-14-7",
+      "datePublished": "2025-07-09T17:05:00.000Z",
+      "description": "Contribuições auxiliarão processo de revisão das regras sobre mecânicos de manutenção aeronáutica no RBAC nº 65",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
