@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-12fc4b01-8175-4167-9c30-8f3773734635",
+  "identifier": "urn:uuid:anac-feed-ae1f431d-c480-4b20-b55f-ddfeccb75530",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-13T12:30:32.268Z",
-  "dateModified": "2025-08-13T12:30:32.268Z",
+  "dateCreated": "2025-08-13T16:14:50.966Z",
+  "dateModified": "2025-08-13T16:14:50.966Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-11T16:33:00.000Z"
+    "endDate": "2025-08-13T10:58:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas",
+      "datePublished": "2025-08-13T10:58:00.000Z",
+      "description": "Os interessados podem se inscrever até o início do evento, em 21/8",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva",
@@ -93,6 +102,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17632/SPL, 08/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17632",
+      "datePublished": "2025-08-08T00:00:00.000Z",
+      "description": "Suspende cautelarmente a autorização do Centro de Instrução ANA PAULA ROMANO - BRIGADA DE INCÊNDIO E TREINAMENTOS",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17633/SPL, 08/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17633",
+      "datePublished": "2025-08-08T00:00:00.000Z",
+      "description": "Suspende cautelarmente a autorização do Centro de Instrução Top Lyne Serviços Auxiliares de Transporte Aéreo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17634/SPO, 08/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17634",
       "datePublished": "2025-08-08T00:00:00.000Z",
@@ -101,26 +126,18 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17636/SAR, 08/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17636",
+      "datePublished": "2025-08-08T00:00:00.000Z",
+      "description": "Certificado de Tipo - CT",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17631/SPL, 08/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17631",
       "datePublished": "2025-08-08T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da EPEAC - ESCOLA PRÁTICA EAD AVIAÇÃO CIVIL LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17635/SPL, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17635",
-      "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC VOLT AVIATION LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17638/CRG, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17638",
-      "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
       "type": "legislação"
     },
     {
@@ -168,7 +185,7 @@
       "name": "PORTARIA Nº 17628/SPL, 07/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17628",
       "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142.",
+      "description": "Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142",
       "type": "legislação"
     },
     {
@@ -195,6 +212,22 @@
       "description": "Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao/sandbox_regulatorio__banner-portal-rotativo.png/@@images/7ed24658-af72-4938-952b-1e07e40996a3.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17613/SPL, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17613",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Revoga o certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÕES AÉREAS LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17624/SIA, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17624",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD BA0138 no cadastro de aeródromos.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -226,22 +259,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17623",
       "datePublished": "2025-08-06T00:00:00.000Z",
       "description": "Revoga o certificado de CIAC emitido em favor da TO FLY ESCOLA DE AVIAÇÃO CIVIL LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17618/SIA, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17618",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0655 no cadastro de aeródromos.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17619/SIA, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17619",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.",
       "type": "legislação"
     },
     {
@@ -430,14 +447,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17552/SIA, 29/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552",
-      "datePublished": "2025-07-29T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0094 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
@@ -547,15 +556,6 @@
       "datePublished": "2025-07-09T18:06:00.000Z",
       "description": "Agência reconhece as melhores práticas ambientais dos operadores nos segmentos engajamento social, gestão de recursos, resíduos, emissões e ruídos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil/2025-aeroportossustentaveis-1.png/@@images/5a86b213-b883-4e1f-859d-feb8843ecdfa.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac emite a primeira certificação de balão brasileiro",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro",
-      "datePublished": "2025-07-09T17:06:00.000Z",
-      "description": "Processo aprovou os projetos de cinco modelos da Rubic Balões conforme padrões internacionais de segurança",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro/imagem-do-whatsapp-de-2025-07-09-a-s-10-12-16_f0fdcf07.jpg/@@images/f7ec5b2f-8151-4b03-830e-aae3271f7326.jpeg",
       "type": "notícia"
     },
     {

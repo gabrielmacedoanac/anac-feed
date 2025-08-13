@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-12fc4b01-8175-4167-9c30-8f3773734635</id>
-  <updated>2025-08-11T16:33:00.000Z</updated>
+  <id>urn:uuid:anac-feed-ae1f431d-c480-4b20-b55f-ddfeccb75530</id>
+  <updated>2025-08-13T10:58:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas</id>
+    <published>2025-08-13T10:58:00.000Z</published>
+    <updated>2025-08-13T10:58:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Os interessados podem se inscrever até o início do evento, em 21/8</summary>
+    <content type="html"><![CDATA[
+      <p>Os interessados podem se inscrever até o início do evento, em 21/8</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png" alt="Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -147,6 +166,44 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17632/SPL, 08/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17632" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17632</id>
+    <published>2025-08-08T00:00:00.000Z</published>
+    <updated>2025-08-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Suspende cautelarmente a autorização do Centro de Instrução ANA PAULA ROMANO - BRIGADA DE INCÊNDIO E TREINAMENTOS</summary>
+    <content type="html"><![CDATA[
+      <p>Suspende cautelarmente a autorização do Centro de Instrução ANA PAULA ROMANO - BRIGADA DE INCÊNDIO E TREINAMENTOS</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17633/SPL, 08/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17633" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17633</id>
+    <published>2025-08-08T00:00:00.000Z</published>
+    <updated>2025-08-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Suspende cautelarmente a autorização do Centro de Instrução Top Lyne Serviços Auxiliares de Transporte Aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Suspende cautelarmente a autorização do Centro de Instrução Top Lyne Serviços Auxiliares de Transporte Aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17634/SPO, 08/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17634" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17634</id>
@@ -166,6 +223,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17636/SAR, 08/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17636" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17636</id>
+    <published>2025-08-08T00:00:00.000Z</published>
+    <updated>2025-08-08T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Certificado de Tipo - CT</summary>
+    <content type="html"><![CDATA[
+      <p>Certificado de Tipo - CT</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17631/SPL, 08/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17631" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17631</id>
@@ -177,44 +253,6 @@
     <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da EPEAC - ESCOLA PRÁTICA EAD AVIAÇÃO CIVIL LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da EPEAC - ESCOLA PRÁTICA EAD AVIAÇÃO CIVIL LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17635/SPL, 08/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17635" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17635</id>
-    <published>2025-08-08T00:00:00.000Z</published>
-    <updated>2025-08-08T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC VOLT AVIATION LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC VOLT AVIATION LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17638/CRG, 08/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17638" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17638</id>
-    <published>2025-08-08T00:00:00.000Z</published>
-    <updated>2025-08-08T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Reconduz Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Reconduz Comissão de Processo Administrativo Disciplinar</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -326,9 +364,9 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142.</summary>
+    <summary type="html">Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142</summary>
     <content type="html"><![CDATA[
-      <p>Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142.</p>
+      <p>Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da SIMCOM INTERNATIONAL INC dba SIMCOM AVIATION TRAINING ORLANDO, para conduzir treinamentos e exames segundo o RBAC nº 142</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -390,6 +428,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17613/SPL, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17613" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17613</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revoga o certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÕES AÉREAS LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Revoga o certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÕES AÉREAS LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17624/SIA, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17624" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17624</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD BA0138 no cadastro de aeródromos.</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD BA0138 no cadastro de aeródromos.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -462,44 +538,6 @@
     <summary type="html">Revoga o certificado de CIAC emitido em favor da TO FLY ESCOLA DE AVIAÇÃO CIVIL LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Revoga o certificado de CIAC emitido em favor da TO FLY ESCOLA DE AVIAÇÃO CIVIL LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17618/SIA, 06/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17618" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17618</id>
-    <published>2025-08-06T00:00:00.000Z</published>
-    <updated>2025-08-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0655 no cadastro de aeródromos.</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD MG0655 no cadastro de aeródromos.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17619/SIA, 06/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17619" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17619</id>
-    <published>2025-08-06T00:00:00.000Z</published>
-    <updated>2025-08-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT0567 no cadastro de aeródromos.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -968,25 +1006,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17552/SIA, 29/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17552</id>
-    <published>2025-07-29T00:00:00.000Z</published>
-    <updated>2025-07-29T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MG0094 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MG0094 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados</id>
@@ -1253,25 +1272,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     <content type="html"><![CDATA[
       <p>Agência reconhece as melhores práticas ambientais dos operadores nos segmentos engajamento social, gestão de recursos, resíduos, emissões e ruídos</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil/2025-aeroportossustentaveis-1.png/@@images/5a86b213-b883-4e1f-859d-feb8843ecdfa.png" alt="Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac emite a primeira certificação de balão brasileiro</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro</id>
-    <published>2025-07-09T17:06:00.000Z</published>
-    <updated>2025-07-09T17:06:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo aprovou os projetos de cinco modelos da Rubic Balões conforme padrões internacionais de segurança</summary>
-    <content type="html"><![CDATA[
-      <p>Processo aprovou os projetos de cinco modelos da Rubic Balões conforme padrões internacionais de segurança</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-emite-a-primeira-certificacao-de-balao-brasileiro/imagem-do-whatsapp-de-2025-07-09-a-s-10-12-16_f0fdcf07.jpg/@@images/f7ec5b2f-8151-4b03-830e-aae3271f7326.jpeg" alt="Anac emite a primeira certificação de balão brasileiro">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
