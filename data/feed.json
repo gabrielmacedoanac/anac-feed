@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bb36bc51-3960-4f24-a3ab-26f4de07c8d8",
+  "identifier": "urn:uuid:anac-feed-73250fe6-7e44-44ce-af69-dc643ee8faaf",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-15T16:18:07.617Z",
-  "dateModified": "2025-08-15T16:18:07.617Z",
+  "dateCreated": "2025-08-15T20:16:00.345Z",
+  "dateModified": "2025-08-15T20:16:00.345Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-15T16:18:07.615Z"
+    "endDate": "2025-08-15T20:16:00.343Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IAC 2214",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214",
-      "datePublished": "2025-08-15T16:18:07.615Z",
+      "datePublished": "2025-08-15T20:16:00.343Z",
       "description": "Translado para o Brasil, de aeronaves civis adquiridas no exterior.",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IAC 2211",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211",
-      "datePublished": "2025-08-15T16:18:07.615Z",
+      "datePublished": "2025-08-15T20:16:00.343Z",
       "description": "Transporte de Cadáveres por via aérea.",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "IAC 3507",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507",
-      "datePublished": "2025-08-15T16:18:07.615Z",
+      "datePublished": "2025-08-15T20:16:00.343Z",
       "description": "Normas e procedimentos para a confecção e aprovação de listas mestras de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).",
       "type": "legislação"
     },
@@ -61,8 +61,41 @@
       "@type": "Legislation",
       "name": "IAC 3206",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206",
-      "datePublished": "2025-08-15T16:18:07.615Z",
+      "datePublished": "2025-08-15T20:16:00.343Z",
       "description": "Composição de Tripulação.",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Webinário Engenharia de Aeroportos 2025 será realizado nos dias 27 e 29/8",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/webinario-engenharia-de-aeroportos-2025-sera-realizado-nos-dias-27-e-29-8",
+      "datePublished": "2025-08-15T16:40:00.000Z",
+      "description": "O objetivo é fortalecer a cultura de segurança operacional e atualizar regulados sobre alterações normativas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/webinario-engenharia-de-aeroportos-2025-sera-realizado-nos-dias-27-e-29-8/linkedin-webinarios_anac_engenharia_aeroportos_2025.png/@@images/943a99e6-adad-41ff-90c1-1a3cdc44e6e2.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "BHEST publica boletim de ocorrências operacionais e estudo preliminar de segurança operacional para eVTOLs",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/bhest-publica-boletim-de-ocorrencias-operacionais-e-estudo-preliminar-de-seguranca-operacional-para-evtols",
+      "datePublished": "2025-08-15T15:25:00.000Z",
+      "description": "Publicações trazem dados de 2024 e apontam desafios para a entrada em serviço de aeronaves elétricas de pouso e decolagem vertical",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac certifica nova empresa para a operação de voos comerciais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-nova-empresa-para-a-operacao-de-voos-comerciais",
+      "datePublished": "2025-08-15T15:00:00.000Z",
+      "description": "A companhia Placar Linhas Aéreas poderá operar rotas comerciais não regulares no Brasil e América do Sul",
+      "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91.409-002A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002",
+      "datePublished": "2025-08-15T14:31:00.000Z",
+      "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
       "type": "legislação"
     },
     {
@@ -174,14 +207,6 @@
       "description": "Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil/PEAUNICA.png/@@images/19a55c27-4df6-4721-8e52-4ec915ea4048.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 91.409-002A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a",
-      "datePublished": "2025-08-11T14:20:00.000Z",
-      "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -534,24 +559,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Super App da Anac traz novidades que agilizam a jornada de pilotos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos",
-      "datePublished": "2025-07-15T16:12:00.000Z",
-      "description": "Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas",
-      "datePublished": "2025-07-14T11:57:00.000Z",
-      "description": "Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor",
       "url": "https://www.youtube.com/watch?v=mtlWqyDEfxc",
@@ -559,14 +566,6 @@
       "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.\n\nArquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arquivos/webinario-longarinas-air-tractor-final-11jul2025.pptx",
       "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Tetos das tarifas aeroportuárias de Guarulhos e Viracopos são reajustados",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados",
-      "datePublished": "2025-07-11T14:08:00.000Z",
-      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",

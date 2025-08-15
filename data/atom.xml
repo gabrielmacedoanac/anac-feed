@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-bb36bc51-3960-4f24-a3ab-26f4de07c8d8</id>
-  <updated>2025-08-15T16:18:07.615Z</updated>
+  <id>urn:uuid:anac-feed-73250fe6-7e44-44ce-af69-dc643ee8faaf</id>
+  <updated>2025-08-15T20:16:00.343Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IAC 2214</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214</id>
-    <published>2025-08-15T16:18:07.615Z</published>
-    <updated>2025-08-15T16:18:07.615Z</updated>
+    <published>2025-08-15T20:16:00.343Z</published>
+    <updated>2025-08-15T20:16:00.343Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IAC 2211</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211</id>
-    <published>2025-08-15T16:18:07.615Z</published>
-    <updated>2025-08-15T16:18:07.615Z</updated>
+    <published>2025-08-15T20:16:00.343Z</published>
+    <updated>2025-08-15T20:16:00.343Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,8 +55,8 @@
     <title type="html">IAC 3507</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507</id>
-    <published>2025-08-15T16:18:07.615Z</published>
-    <updated>2025-08-15T16:18:07.615Z</updated>
+    <published>2025-08-15T20:16:00.343Z</published>
+    <updated>2025-08-15T20:16:00.343Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -74,14 +74,90 @@
     <title type="html">IAC 3206</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206</id>
-    <published>2025-08-15T16:18:07.615Z</published>
-    <updated>2025-08-15T16:18:07.615Z</updated>
+    <published>2025-08-15T20:16:00.343Z</published>
+    <updated>2025-08-15T20:16:00.343Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Composição de Tripulação.</summary>
     <content type="html"><![CDATA[
       <p>Composição de Tripulação.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário Engenharia de Aeroportos 2025 será realizado nos dias 27 e 29/8</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/webinario-engenharia-de-aeroportos-2025-sera-realizado-nos-dias-27-e-29-8" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/webinario-engenharia-de-aeroportos-2025-sera-realizado-nos-dias-27-e-29-8</id>
+    <published>2025-08-15T16:40:00.000Z</published>
+    <updated>2025-08-15T16:40:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O objetivo é fortalecer a cultura de segurança operacional e atualizar regulados sobre alterações normativas</summary>
+    <content type="html"><![CDATA[
+      <p>O objetivo é fortalecer a cultura de segurança operacional e atualizar regulados sobre alterações normativas</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/webinario-engenharia-de-aeroportos-2025-sera-realizado-nos-dias-27-e-29-8/linkedin-webinarios_anac_engenharia_aeroportos_2025.png/@@images/943a99e6-adad-41ff-90c1-1a3cdc44e6e2.png" alt="Webinário Engenharia de Aeroportos 2025 será realizado nos dias 27 e 29/8">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">BHEST publica boletim de ocorrências operacionais e estudo preliminar de segurança operacional para eVTOLs</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/bhest-publica-boletim-de-ocorrencias-operacionais-e-estudo-preliminar-de-seguranca-operacional-para-evtols" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/bhest-publica-boletim-de-ocorrencias-operacionais-e-estudo-preliminar-de-seguranca-operacional-para-evtols</id>
+    <published>2025-08-15T15:25:00.000Z</published>
+    <updated>2025-08-15T15:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Publicações trazem dados de 2024 e apontam desafios para a entrada em serviço de aeronaves elétricas de pouso e decolagem vertical</summary>
+    <content type="html"><![CDATA[
+      <p>Publicações trazem dados de 2024 e apontam desafios para a entrada em serviço de aeronaves elétricas de pouso e decolagem vertical</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac certifica nova empresa para a operação de voos comerciais</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-nova-empresa-para-a-operacao-de-voos-comerciais" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-nova-empresa-para-a-operacao-de-voos-comerciais</id>
+    <published>2025-08-15T15:00:00.000Z</published>
+    <updated>2025-08-15T15:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A companhia Placar Linhas Aéreas poderá operar rotas comerciais não regulares no Brasil e América do Sul</summary>
+    <content type="html"><![CDATA[
+      <p>A companhia Placar Linhas Aéreas poderá operar rotas comerciais não regulares no Brasil e América do Sul</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 91.409-002A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002</id>
+    <published>2025-08-15T14:31:00.000Z</published>
+    <updated>2025-08-15T14:31:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</summary>
+    <content type="html"><![CDATA[
+      <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -333,25 +409,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 91.409-002A</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002a</id>
-    <published>2025-08-11T14:20:00.000Z</published>
-    <updated>2025-08-11T14:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</summary>
-    <content type="html"><![CDATA[
-      <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1196,44 +1253,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">Super App da Anac traz novidades que agilizam a jornada de pilotos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos</id>
-    <published>2025-07-15T16:12:00.000Z</published>
-    <updated>2025-07-15T16:12:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades</summary>
-    <content type="html"><![CDATA[
-      <p>Versão 2.4 do aplicativo permite registrar horas de voo individual na CIV digital, emitir o AFFIDAVIT, entre outras funcionalidades</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-traz-novidades-que-agilizam-a-jornada-de-pilotos/app2-4-portal.png/@@images/e4526850-11c8-44d4-990c-41f6bd6927ac.png" alt="Super App da Anac traz novidades que agilizam a jornada de pilotos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas</id>
-    <published>2025-07-14T11:57:00.000Z</published>
-    <updated>2025-07-14T11:57:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições para a proposta poderão ser enviadas até 24/7 pelo portal Participa+Brasil</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/ultimos-dias-para-participar-da-consulta-setorial-sobre-aprovacao-de-sistemas-de-contencao-para-criancas/linkedin-2.png/@@images/3c4331d4-4e2c-470a-9ab6-9b8bd1740379.png" alt="Últimos dias para participar da consulta setorial sobre aprovação de sistemas de contenção para crianças">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor</title>
     <link href="https://www.youtube.com/watch?v=mtlWqyDEfxc" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=mtlWqyDEfxc</id>
@@ -1275,25 +1294,6 @@ Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arqu
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tetos das tarifas aeroportuárias de Guarulhos e Viracopos são reajustados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados</id>
-    <published>2025-07-11T14:08:00.000Z</published>
-    <updated>2025-07-11T14:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</summary>
-    <content type="html"><![CDATA[
-      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
