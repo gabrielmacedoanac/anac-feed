@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-46999c79-e5b6-4581-9d1a-f3990a71e1bd",
+  "identifier": "urn:uuid:anac-feed-bb36bc51-3960-4f24-a3ab-26f4de07c8d8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-15T12:28:40.381Z",
-  "dateModified": "2025-08-15T12:28:40.381Z",
+  "dateCreated": "2025-08-15T16:18:07.617Z",
+  "dateModified": "2025-08-15T16:18:07.617Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-13T14:24:00.000Z"
+    "endDate": "2025-08-15T16:18:07.615Z"
   },
   "distribution": [
     {
@@ -33,6 +33,55 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IAC 2214",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214",
+      "datePublished": "2025-08-15T16:18:07.615Z",
+      "description": "Translado para o Brasil, de aeronaves civis adquiridas no exterior.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IAC 2211",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211",
+      "datePublished": "2025-08-15T16:18:07.615Z",
+      "description": "Transporte de Cadáveres por via aérea.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IAC 3507",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507",
+      "datePublished": "2025-08-15T16:18:07.615Z",
+      "description": "Normas e procedimentos para a confecção e aprovação de listas mestras de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IAC 3206",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206",
+      "datePublished": "2025-08-15T16:18:07.615Z",
+      "description": "Composição de Tripulação.",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac avança na qualidade de serviços digitais prestados ao setor aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo",
+      "datePublished": "2025-08-15T12:03:00.000Z",
+      "description": "Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo/linkedin-24.png/@@images/7079c9b3-6966-44ea-9452-36b1db1ef2e1.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17676/CRG, 14/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17676",
+      "datePublished": "2025-08-14T00:00:00.000Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio",
@@ -50,6 +99,38 @@
       "description": "Os interessados podem se inscrever até o início do evento, em 21/8",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17653/SIA, 12/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17653",
+      "datePublished": "2025-08-12T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD BA0151 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17655/SPO, 12/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17655",
+      "datePublished": "2025-08-12T00:00:00.000Z",
+      "description": "Altera a Portaria nº 16.454, de 24 de fevereiro de 2025, que dispõe sobre a criação do Grupo de Trabalho para subsidiar a elaboração do relatório de Análise de Impacto Regulatório (AIR) referente ao Tema 18 da Agenda Regulatória 2025-26, intitulado \"Entidades de gerenciamento da aeronavegabilidade continuada de aeronaves\" (GT-CAMO)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17665/SPO, 12/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17665",
+      "datePublished": "2025-08-12T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17664/SPO, 12/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17664",
+      "datePublished": "2025-08-12T00:00:00.000Z",
+      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -104,6 +185,30 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17651/SIA, 11/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17651",
+      "datePublished": "2025-08-11T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0130 no cadastro de aeródromos.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17648/SIA, 11/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17648",
+      "datePublished": "2025-08-11T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1149 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17650/SIA, 11/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17650",
+      "datePublished": "2025-08-11T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0507 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17649/SIA, 11/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17649",
       "datePublished": "2025-08-11T00:00:00.000Z",
@@ -136,42 +241,18 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17639/SIA, 08/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17639",
+      "datePublished": "2025-08-08T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0406 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17641/SIA, 08/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17641",
       "datePublished": "2025-08-08T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORMAND MERMAID (9PMT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17632/SPL, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17632",
-      "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Suspende cautelarmente a autorização do Centro de Instrução ANA PAULA ROMANO - BRIGADA DE INCÊNDIO E TREINAMENTOS",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17633/SPL, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17633",
-      "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Suspende cautelarmente a autorização do Centro de Instrução Top Lyne Serviços Auxiliares de Transporte Aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17634/SPO, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17634",
-      "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17636/SAR, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17636",
-      "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Certificado de Tipo - CT",
       "type": "legislação"
     },
     {
@@ -208,14 +289,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17630/SIA, 07/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17630",
-      "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Torna pública a revogação de medida administrativa cautelar de restrição às operações de pouso no aeródromo de uso público Ceres, localizado em Ceres (GO)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 719, 07/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719",
       "datePublished": "2025-08-07T00:00:00.000Z",
@@ -241,42 +314,18 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17617/SIA, 06/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17617",
+      "datePublished": "2025-08-06T00:00:00.000Z",
+      "description": "Valida a Categoria Contraincêndio - CAT 6 (seis) do Aeroporto Mário Ribeiro (SBMK), localizado em Montes Claros/MG (CIAD: MG0004)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17607/SIA, 06/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17607",
       "datePublished": "2025-08-06T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MG0654 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17613/SPL, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17613",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÕES AÉREAS LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17624/SIA, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17624",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD BA0138 no cadastro de aeródromos.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17621/SPL, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17621",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor da ESCOLA MASTER DE AVIAÇÃO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17620/SPL, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17620",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor de AERONAUTAS ESCOLA DE AVIAÇÃO CIVIL LTDA.",
       "type": "legislação"
     },
     {
@@ -302,46 +351,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17605",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD PR0255 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17600/SPL, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17600",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Revoga o  certificado de CIAC emitido em favor da JET CLASS CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17602/SPL, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17602",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor do CEAB - CENTRO EDUCACIONAL DA AVIAÇÃO DO BRASIL LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17604/SPL, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17604",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor de CWB ESCOLA DE AVIAÇÃO CIVIL LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17594/SPL, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17594",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor de PC CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17595/SPL, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17565-1",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Revoga o certificado de CIAC emitido em favor de SKY ANGELS ESCOLA DE AVIAÇÃO CIVIL LTDA.",
       "type": "legislação"
     },
     {
@@ -557,15 +566,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-guarulhos-e-viracopos-sao-reajustados",
       "datePublished": "2025-07-11T14:08:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aeroportos Sustentáveis: Anac premia as melhores iniciativas do Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil",
-      "datePublished": "2025-07-09T18:06:00.000Z",
-      "description": "Agência reconhece as melhores práticas ambientais dos operadores nos segmentos engajamento social, gestão de recursos, resíduos, emissões e ruídos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aeroportos-sustentaveis-anac-premia-as-melhores-iniciativas-do-brasil/2025-aeroportossustentaveis-1.png/@@images/5a86b213-b883-4e1f-859d-feb8843ecdfa.png",
       "type": "notícia"
     },
     {
