@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1d7e5eb5-8820-48f2-a05e-198c33691e87",
+  "identifier": "urn:uuid:anac-feed-192dfd13-20d5-4048-aacf-2878ddf79342",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-16T01:08:17.298Z",
-  "dateModified": "2025-08-16T01:08:17.298Z",
+  "dateCreated": "2025-08-16T04:19:25.659Z",
+  "dateModified": "2025-08-16T04:19:25.659Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-16T01:08:17.296Z"
+    "endDate": "2025-08-16T04:19:25.657Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IAC 2214",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214",
-      "datePublished": "2025-08-16T01:08:17.296Z",
+      "datePublished": "2025-08-16T04:19:25.657Z",
       "description": "Translado para o Brasil, de aeronaves civis adquiridas no exterior.",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IAC 2211",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211",
-      "datePublished": "2025-08-16T01:08:17.296Z",
+      "datePublished": "2025-08-16T04:19:25.657Z",
       "description": "Transporte de Cadáveres por via aérea.",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "IAC 3507",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507",
-      "datePublished": "2025-08-16T01:08:17.296Z",
+      "datePublished": "2025-08-16T04:19:25.657Z",
       "description": "Normas e procedimentos para a confecção e aprovação de listas mestras de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).",
       "type": "legislação"
     },
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "IAC 3206",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206",
-      "datePublished": "2025-08-16T01:08:17.296Z",
+      "datePublished": "2025-08-16T04:19:25.657Z",
       "description": "Composição de Tripulação.",
       "type": "legislação"
     },
