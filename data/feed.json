@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2a192408-4312-471c-be08-cb288a50457a",
+  "identifier": "urn:uuid:anac-feed-398e14b9-4e6b-4825-bec0-e99275dd8179",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-18T08:22:07.050Z",
-  "dateModified": "2025-08-18T08:22:07.050Z",
+  "dateCreated": "2025-08-18T12:31:01.688Z",
+  "dateModified": "2025-08-18T12:31:01.688Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-18T08:22:07.048Z"
+    "endDate": "2025-08-18T12:31:01.686Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IAC 2214",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214",
-      "datePublished": "2025-08-18T08:22:07.048Z",
+      "datePublished": "2025-08-18T12:31:01.686Z",
       "description": "Translado para o Brasil, de aeronaves civis adquiridas no exterior.",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IAC 2211",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211",
-      "datePublished": "2025-08-18T08:22:07.048Z",
+      "datePublished": "2025-08-18T12:31:01.686Z",
       "description": "Transporte de Cadáveres por via aérea.",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "IAC 3507",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507",
-      "datePublished": "2025-08-18T08:22:07.048Z",
+      "datePublished": "2025-08-18T12:31:01.686Z",
       "description": "Normas e procedimentos para a confecção e aprovação de listas mestras de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).",
       "type": "legislação"
     },
@@ -61,9 +61,18 @@
       "@type": "Legislation",
       "name": "IAC 3206",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206",
-      "datePublished": "2025-08-18T08:22:07.048Z",
+      "datePublished": "2025-08-18T12:31:01.686Z",
       "description": "Composição de Tripulação.",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac participa do Congresso da Aviação Agrícola do Brasil em Mato Grosso",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-congresso-da-aviacao-agricola-do-brasil-em-mato-grosso",
+      "datePublished": "2025-08-18T07:28:00.000Z",
+      "description": "Evento, um dos maiores da América Latina no setor, será realizado de 19 a 21/8, em Santo Antônio de Leverger",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-congresso-da-aviacao-agricola-do-brasil-em-mato-grosso/facebook-2.png/@@images/5ce692bc-321a-4c2d-8b2e-bfdc0a45b204.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -132,6 +141,22 @@
       "description": "Os interessados podem se inscrever até o início do evento, em 21/8",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17671/SPO, 13/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17671",
+      "datePublished": "2025-08-13T00:00:00.000Z",
+      "description": "Torna pública a revisão do certificado de operador aéreo da ICARAI TURISMO TAXI AEREO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17668/SPL, 12/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17668",
+      "datePublished": "2025-08-12T00:00:00.000Z",
+      "description": "Publica ação administrativa de cassação de certificado de habilitação técnica de mecânico de manutenção aeronáutica",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -266,18 +291,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17639/SIA, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17639",
+      "name": "PORTARIA Nº 17640/SPL, 08/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17640",
       "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0406 no cadastro de aeródromos",
+      "description": "Torna sem efeito a Portaria nº 16.494/SPL, de 28 de fevereiro de 2025",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17641/SIA, 08/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17641",
+      "name": "PORTARIA Nº 17639/SIA, 08/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17639",
       "datePublished": "2025-08-08T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORMAND MERMAID (9PMT)",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0406 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -346,14 +371,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17607/SIA, 06/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17607",
-      "datePublished": "2025-08-06T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0654 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac determina a investigação de peças de freio e roda da empresa H8 ALS",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als",
@@ -369,14 +386,6 @@
       "description": "10ª Reunião Deliberativa da Diretoria Colegiada\n \n1) Processo 00058.070782/2023-83  \n2) Processo 00058.041531/2021-20",
       "image": "https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17605/SIA, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17605",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PR0255 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -547,15 +556,6 @@
       "datePublished": "2025-07-17T14:02:00.000Z",
       "description": "Painel interativo com os resultados permite análise por região, perfil e segmento; dados servirão de base para novas ações de promoção da segurança",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pesquisa-da-anac-revela-pontos-fortes-e-desafios-na-cultura-de-seguranca-da-aviacao-brasileira/2b6fc619-9e5d-45c1-be1b-9cf647c560ba.jpeg/@@images/72a87d13-5b52-41e0-b334-c90f883be524.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aberta seleção para novos examinadores autônomos de pilotos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos",
-      "datePublished": "2025-07-15T19:37:00.000Z",
-      "description": "São oferecidas 42 vagas para instrutores de aviões e helicópteros. Inscrições vão até 25/7",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-selecao-para-novos-examinadores-autonomos-de-pilotos/examinadores-credenciados/@@images/c9cf6a25-b015-4584-ab1c-c20fa047803a.png",
       "type": "notícia"
     },
     {
