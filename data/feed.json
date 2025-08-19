@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-86e2f326-01f3-444d-a365-932566ede133",
+  "identifier": "urn:uuid:anac-feed-b54453c5-2bf9-483f-8b5f-855c652ac7c5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-19T12:28:58.889Z",
-  "dateModified": "2025-08-19T12:28:58.889Z",
+  "dateCreated": "2025-08-19T16:18:15.926Z",
+  "dateModified": "2025-08-19T16:18:15.926Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-19T12:28:58.887Z"
+    "endDate": "2025-08-19T16:18:15.923Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IAC 2214",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214",
-      "datePublished": "2025-08-19T12:28:58.887Z",
+      "datePublished": "2025-08-19T16:18:15.923Z",
       "description": "Translado para o Brasil, de aeronaves civis adquiridas no exterior.",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IAC 2211",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211",
-      "datePublished": "2025-08-19T12:28:58.887Z",
+      "datePublished": "2025-08-19T16:18:15.923Z",
       "description": "Transporte de Cadáveres por via aérea.",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "IAC 3507",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507",
-      "datePublished": "2025-08-19T12:28:58.887Z",
+      "datePublished": "2025-08-19T16:18:15.923Z",
       "description": "Normas e procedimentos para a confecção e aprovação de listas mestras de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).",
       "type": "legislação"
     },
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "IAC 3206",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206",
-      "datePublished": "2025-08-19T12:28:58.887Z",
+      "datePublished": "2025-08-19T16:18:15.923Z",
       "description": "Composição de Tripulação.",
       "type": "legislação"
     },
@@ -126,10 +126,26 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17687/SAF, 15/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17687",
+      "datePublished": "2025-08-15T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17686/SIA, 15/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17686",
       "datePublished": "2025-08-15T00:00:00.000Z",
       "description": "Torna pública a revogação de providência administrativa acautelatória relativa às operações do Operador Aéreo AEROLÍNEAS ARGENTINAS",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17690/SPL, 15/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17690",
+      "datePublished": "2025-08-15T00:00:00.000Z",
+      "description": "Defere o pedido de isenção parcial de cumprimento do requisito de que trata o parágrafo (j), Seção 61.29 do RBAC nº 61",
       "type": "legislação"
     },
     {
@@ -176,15 +192,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17690/SPL, 13/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17690",
-      "datePublished": "2025-08-13T00:00:00.000Z",
-      "description": "Defere o pedido de isenção parcial de cumprimento do requisito de que trata o parágrafo (j), Seção 61.29 do RBAC nº 61",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17674/SPO, 13/08/2025",
+      "name": "PORTARIA Nº 17674/SIA, 13/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17674",
       "datePublished": "2025-08-13T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto Internacional Prefeito Doutor João Silva Filho, em Parnaíba/PI (Código OACI: SBPB; código CIAD: PI0002)",
@@ -244,14 +252,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17665",
       "datePublished": "2025-08-12T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17664/SPO, 12/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17664",
-      "datePublished": "2025-08-12T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
