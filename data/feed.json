@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3b94c47c-b5bf-4547-bcf8-2334f37b2567",
+  "identifier": "urn:uuid:anac-feed-d4d7cd1d-b686-4a4c-b5d3-1c83387c7756",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-20T16:17:53.027Z",
-  "dateModified": "2025-08-20T16:17:53.027Z",
+  "dateCreated": "2025-08-20T20:15:45.354Z",
+  "dateModified": "2025-08-20T20:15:45.354Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-20T16:17:53.025Z"
+    "endDate": "2025-08-20T20:15:45.351Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IAC 2214",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214",
-      "datePublished": "2025-08-20T16:17:53.025Z",
+      "datePublished": "2025-08-20T20:15:45.351Z",
       "description": "Translado para o Brasil, de aeronaves civis adquiridas no exterior.",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "IAC 2211",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211",
-      "datePublished": "2025-08-20T16:17:53.025Z",
+      "datePublished": "2025-08-20T20:15:45.351Z",
       "description": "Transporte de Cadáveres por via aérea.",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "IAC 3507",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507",
-      "datePublished": "2025-08-20T16:17:53.025Z",
+      "datePublished": "2025-08-20T20:15:45.351Z",
       "description": "Normas e procedimentos para a confecção e aprovação de listas mestras de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).",
       "type": "legislação"
     },
@@ -62,7 +62,7 @@
       "name": "Recorde histórico: setor aéreo alcança 11,6 milhões de passageiros transportados em julho",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho",
       "datePublished": "2025-08-20T10:45:00.000Z",
-      "description": "Esse é o maio número de passageiros movimentados em um único mês",
+      "description": "Esse é o maior número de passageiros movimentados em um único mês",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho/card-6_julho__.png/@@images/33575d3c-9546-4a8f-bd73-7137c1e5390d.png",
       "type": "notícia"
     },
