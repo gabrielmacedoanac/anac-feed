@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-12d8ece3-983d-4714-8cd7-d02b181f95a8</id>
-  <updated>2025-08-20T12:28:50.790Z</updated>
+  <id>urn:uuid:anac-feed-3b94c47c-b5bf-4547-bcf8-2334f37b2567</id>
+  <updated>2025-08-20T16:17:53.025Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IAC 2214</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214</id>
-    <published>2025-08-20T12:28:50.790Z</published>
-    <updated>2025-08-20T12:28:50.790Z</updated>
+    <published>2025-08-20T16:17:53.025Z</published>
+    <updated>2025-08-20T16:17:53.025Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">IAC 2211</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211</id>
-    <published>2025-08-20T12:28:50.790Z</published>
-    <updated>2025-08-20T12:28:50.790Z</updated>
+    <published>2025-08-20T16:17:53.025Z</published>
+    <updated>2025-08-20T16:17:53.025Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,8 +55,8 @@
     <title type="html">IAC 3507</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507</id>
-    <published>2025-08-20T12:28:50.790Z</published>
-    <updated>2025-08-20T12:28:50.790Z</updated>
+    <published>2025-08-20T16:17:53.025Z</published>
+    <updated>2025-08-20T16:17:53.025Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -71,21 +71,21 @@
   
   
   <entry>
-    <title type="html">IAC 3206</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206</id>
-    <published>2025-08-20T12:28:50.790Z</published>
-    <updated>2025-08-20T12:28:50.790Z</updated>
+    <title type="html">Recorde histórico: setor aéreo alcança 11,6 milhões de passageiros transportados em julho</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho</id>
+    <published>2025-08-20T10:45:00.000Z</published>
+    <updated>2025-08-20T10:45:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Composição de Tripulação.</summary>
+    <summary type="html">Esse é o maio número de passageiros movimentados em um único mês</summary>
     <content type="html"><![CDATA[
-      <p>Composição de Tripulação.</p>
-      
+      <p>Esse é o maio número de passageiros movimentados em um único mês</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho/card-6_julho__.png/@@images/33575d3c-9546-4a8f-bd73-7137c1e5390d.png" alt="Recorde histórico: setor aéreo alcança 11,6 milhões de passageiros transportados em julho">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -812,6 +812,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17608/SPL, 06/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17608-spl-06-08-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-17608-spl-06-08-2025</id>
+    <published>2025-08-06T00:00:00.000Z</published>
+    <updated>2025-08-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da DUTCH ATO Services BV, para conduzir treinamentos e exames segundo o RBAC nº 142</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da DUTCH ATO Services BV, para conduzir treinamentos e exames segundo o RBAC nº 142</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac determina a investigação de peças de freio e roda da empresa H8 ALS</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als</id>
@@ -1227,25 +1246,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <content type="html"><![CDATA[
       <p>Algumas soluções digitais da Agência ficarão temporariamente fora do ar para manutenção programada e atualização das 20h às 23h de segunda-feira</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido</id>
-    <published>2025-07-18T15:17:00.000Z</published>
-    <updated>2025-07-18T15:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000</summary>
-    <content type="html"><![CDATA[
-      <p>Mercados doméstico e internacional registram seus melhores resultados para o mês de junho desde 2000</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/movimentacao-de-passageiros-cresce-mais-de-10-em-junho-pelo-terceiro-mes-seguido/card-6_jun_.png/@@images/622100b7-25ce-4832-a4bc-8a50ec1888a6.png" alt="Movimentação de passageiros cresce mais de 10% em junho pelo terceiro mês seguido">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
