@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b839b2a5-2093-4c53-891e-fa04fa561c49",
+  "identifier": "urn:uuid:anac-feed-5b3d3d38-4cf9-4158-9c33-0260f06d0233",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-21T12:28:36.359Z",
-  "dateModified": "2025-08-21T12:28:36.359Z",
+  "dateCreated": "2025-08-21T16:16:54.871Z",
+  "dateModified": "2025-08-21T16:16:54.871Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -89,6 +89,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17693",
       "datePublished": "2025-08-18T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade WEST CARINA (9PKA)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17692/SIA, 17/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17692",
+      "datePublished": "2025-08-17T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade BGP DRAGON (9PKY)",
       "type": "legislação"
     },
     {
@@ -195,14 +203,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17675",
       "datePublished": "2025-08-14T00:00:00.000Z",
       "description": "Revalidação de credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17680/SAR, 14/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17680",
-      "datePublished": "2025-08-14T00:00:00.000Z",
-      "description": "Torna pública a Diretriz de Aeronavegabilidade nº 2025-08-01R1 (emenda 39-1589)",
       "type": "legislação"
     },
     {
