@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-88bf0c23-05e8-4641-a002-d7580cd4301c</id>
-  <updated>2025-08-22T12:13:00.000Z</updated>
+  <id>urn:uuid:anac-feed-e52f5614-da41-4cff-b94d-2e6e9e4257ca</id>
+  <updated>2025-08-22T15:59:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Inovação e crescimento da aviação agrícola brasileira foram destaques no Congresso AvAg 202</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202</id>
+    <published>2025-08-22T15:59:00.000Z</published>
+    <updated>2025-08-22T15:59:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Edição realizada em Mato Grosso teve leilão inédito, foco em sustentabilidade e avanços tecnológicos como IA, drones e nanotecnologia</summary>
+    <content type="html"><![CDATA[
+      <p>Edição realizada em Mato Grosso teve leilão inédito, foco em sustentabilidade e avanços tecnológicos como IA, drones e nanotecnologia</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202/whatsapp-image-2025-08-22-at-15-22-13.jpeg/@@images/16d26a8d-c76d-4add-817f-706a1bd35168.jpeg" alt="Inovação e crescimento da aviação agrícola brasileira foram destaques no Congresso AvAg 202">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1219,25 +1238,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <summary type="html">Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8</summary>
     <content type="html"><![CDATA[
       <p>Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tetos das tarifas aeroportuárias do Aeroporto de Brasília são reajustados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados</id>
-    <published>2025-07-24T14:11:00.000Z</published>
-    <updated>2025-07-24T14:11:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária</summary>
-    <content type="html"><![CDATA[
-      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
