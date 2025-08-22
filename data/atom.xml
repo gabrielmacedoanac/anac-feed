@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-94f1d272-4880-41ba-92c4-249053a8017c</id>
-  <updated>2025-08-22T09:15:57.000Z</updated>
+  <id>urn:uuid:anac-feed-88bf0c23-05e8-4641-a002-d7580cd4301c</id>
+  <updated>2025-08-22T12:13:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Programa Asas para Todos é apresentado na 1ª edição da Cumbre de Mujeres da Clac na Guatemala</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala</id>
+    <published>2025-08-22T12:13:00.000Z</published>
+    <updated>2025-08-22T12:13:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A participação da Anac no evento é um reconhecimento pela cooperação no Prêmio de Excelência em Equidade de Gênero no setor de Aviação Civil na América Latina e Caribe</summary>
+    <content type="html"><![CDATA[
+      <p>A participação da Anac no evento é um reconhecimento pela cooperação no Prêmio de Excelência em Equidade de Gênero no setor de Aviação Civil na América Latina e Caribe</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala/3a5a4384.jpg/@@images/3c86c6de-1d5c-40a9-8cbf-d510a6569af5.jpeg" alt="Programa Asas para Todos é apresentado na 1ª edição da Cumbre de Mujeres da Clac na Guatemala">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1220,25 +1239,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <content type="html"><![CDATA[
       <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev</id>
-    <published>2025-07-22T14:56:00.000Z</published>
-    <updated>2025-07-22T14:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Formulário orienta operadores aéreos na avaliação da segurança de voos</summary>
-    <content type="html"><![CDATA[
-      <p>Formulário orienta operadores aéreos na avaliação da segurança de voos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev/linkdein-eaev.png/@@images/8d27534b-c684-4a9f-acbd-dd7386e6c6f0.png" alt="Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-94f1d272-4880-41ba-92c4-249053a8017c",
+  "identifier": "urn:uuid:anac-feed-88bf0c23-05e8-4641-a002-d7580cd4301c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-22T12:27:44.830Z",
-  "dateModified": "2025-08-22T12:27:44.830Z",
+  "dateCreated": "2025-08-22T16:16:35.482Z",
+  "dateModified": "2025-08-22T16:16:35.482Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-22T09:15:57.000Z"
+    "endDate": "2025-08-22T12:13:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Programa Asas para Todos é apresentado na 1ª edição da Cumbre de Mujeres da Clac na Guatemala",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala",
+      "datePublished": "2025-08-22T12:13:00.000Z",
+      "description": "A participação da Anac no evento é um reconhecimento pela cooperação no Prêmio de Excelência em Equidade de Gênero no setor de Aviação Civil na América Latina e Caribe",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala/3a5a4384.jpg/@@images/3c86c6de-1d5c-40a9-8cbf-d510a6569af5.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário BHEST - PROCESSO DECISÓRIO NA AVIAÇÃO DE ASAS ROTATIVAS",
@@ -540,15 +549,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-do-aeroporto-de-brasilia-sao-reajustados",
       "datePublished": "2025-07-24T14:11:00.000Z",
       "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pela concessionária",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac publica formulário de referência para inspeção em Autorização Especial de Voo (AEV)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev",
-      "datePublished": "2025-07-22T14:56:00.000Z",
-      "description": "Formulário orienta operadores aéreos na avaliação da segurança de voos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-formulario-de-referencia-para-inspecao-em-autorizacao-especial-de-voo-aev/linkdein-eaev.png/@@images/8d27534b-c684-4a9f-acbd-dd7386e6c6f0.png",
       "type": "notícia"
     },
     {
