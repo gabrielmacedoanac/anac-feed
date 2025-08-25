@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-cd9649af-f1d0-4158-89a1-026fb18462a6</id>
-  <updated>2025-08-22T15:59:00.000Z</updated>
+  <id>urn:uuid:anac-feed-5ab1df81-756e-4910-80db-ae2b2bfed605</id>
+  <updated>2025-08-25T11:48:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">BAIST publica três novos guias para aprimorar a segurança operacional em aeródromos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/baist-publica-tres-novos-guias-para-aprimorar-a-seguranca-operacional-em-aerodromos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/baist-publica-tres-novos-guias-para-aprimorar-a-seguranca-operacional-em-aerodromos</id>
+    <published>2025-08-25T11:48:00.000Z</published>
+    <updated>2025-08-25T11:48:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Materiais estão disponíveis para consulta no portal da Anac</summary>
+    <content type="html"><![CDATA[
+      <p>Materiais estão disponíveis para consulta no portal da Anac</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Confira as orientações da Anac sobre o transporte de líquidos em voos internacionais</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/confira-as-orientacoes-da-anac-sobre-o-transporte-de-liquidos-em-voos-internacionais" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/confira-as-orientacoes-da-anac-sobre-o-transporte-de-liquidos-em-voos-internacionais</id>
+    <published>2025-08-25T11:17:00.000Z</published>
+    <updated>2025-08-25T11:17:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros</summary>
+    <content type="html"><![CDATA[
+      <p>Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1058,25 +1096,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
   
   
   <entry>
-    <title type="html">Anac lança manual inédito sobre prevenção e combate ao tráfico de pessoas na aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao</id>
-    <published>2025-07-30T16:08:00.000Z</published>
-    <updated>2025-07-30T16:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publicação marca o Dia Mundial de Enfrentamento ao Tráfico de Pessoas e se integra à nova campanha do projeto Liberdade no Ar, coordenado pela Asbrad e MPT</summary>
-    <content type="html"><![CDATA[
-      <p>Publicação marca o Dia Mundial de Enfrentamento ao Tráfico de Pessoas e se integra à nova campanha do projeto Liberdade no Ar, coordenado pela Asbrad e MPT</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao/campanha-trafico-de-pessoas/@@images/9e6552b4-932e-41d0-be76-e7d70dc7c8f1.png" alt="Anac lança manual inédito sobre prevenção e combate ao tráfico de pessoas na aviação">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário Engenharia de Aeroportos 2025</title>
     <link href="https://www.youtube.com/watch?v=qwyqefU-Za8" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=qwyqefU-Za8</id>
@@ -1166,25 +1185,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9</id>
-    <published>2025-07-29T16:46:00.000Z</published>
-    <updated>2025-07-29T16:46:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8</summary>
-    <content type="html"><![CDATA[
-      <p>Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-cd9649af-f1d0-4158-89a1-026fb18462a6",
+  "identifier": "urn:uuid:anac-feed-5ab1df81-756e-4910-80db-ae2b2bfed605",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-25T12:29:30.729Z",
-  "dateModified": "2025-08-25T12:29:30.729Z",
+  "dateCreated": "2025-08-25T16:17:45.526Z",
+  "dateModified": "2025-08-25T16:17:45.526Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-22T15:59:00.000Z"
+    "endDate": "2025-08-25T11:48:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "BAIST publica três novos guias para aprimorar a segurança operacional em aeródromos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/baist-publica-tres-novos-guias-para-aprimorar-a-seguranca-operacional-em-aerodromos",
+      "datePublished": "2025-08-25T11:48:00.000Z",
+      "description": "Materiais estão disponíveis para consulta no portal da Anac",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Confira as orientações da Anac sobre o transporte de líquidos em voos internacionais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/confira-as-orientacoes-da-anac-sobre-o-transporte-de-liquidos-em-voos-internacionais",
+      "datePublished": "2025-08-25T11:17:00.000Z",
+      "description": "Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Inovação e crescimento da aviação agrícola brasileira foram destaques no Congresso AvAg 202",
@@ -485,15 +501,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac lança manual inédito sobre prevenção e combate ao tráfico de pessoas na aviação",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao",
-      "datePublished": "2025-07-30T16:08:00.000Z",
-      "description": "Publicação marca o Dia Mundial de Enfrentamento ao Tráfico de Pessoas e se integra à nova campanha do projeto Liberdade no Ar, coordenado pela Asbrad e MPT",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-prevencao-e-combate-ao-trafico-de-pessoas-na-aviacao/campanha-trafico-de-pessoas/@@images/9e6552b4-932e-41d0-be76-e7d70dc7c8f1.png",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário Engenharia de Aeroportos 2025",
       "url": "https://www.youtube.com/watch?v=qwyqefU-Za8",
@@ -519,14 +526,6 @@
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz",
       "image": "https://i3.ytimg.com/vi/zoj9US-rtXA/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Nova turma do curso Relações de Consumo no Setor Aéreo começa em 2/9",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-turma-do-curso-relacoes-de-consumo-no-setor-aereo-comeca-em-2-9",
-      "datePublished": "2025-07-29T16:46:00.000Z",
-      "description": "Inscrições para o curso online, realizado em parceria com a Senacon, estarão abertas de 29/7 a 25/8",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
