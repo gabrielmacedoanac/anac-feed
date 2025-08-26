@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-4b7cbcf8-0f69-4533-b495-581794fd07a6</id>
-  <updated>2025-08-25T11:48:00.000Z</updated>
+  <id>urn:uuid:anac-feed-87f72dfd-2075-42f5-b4c3-49bcd6f9218e</id>
+  <updated>2025-08-26T18:29:10.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)</title>
+    <link href="https://www.youtube.com/watch?v=gx-VCn_gx98" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=gx-VCn_gx98</id>
+    <published>2025-08-26T18:29:10.000Z</published>
+    <updated>2025-08-26T18:29:10.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Processo 00058.030675/2025-84</summary>
+    <content type="html"><![CDATA[
+      <p>Processo 00058.030675/2025-84</p>
+      <img src="https://i4.ytimg.com/vi/gx-VCn_gx98/hqdefault.jpg" alt="11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Kalitta Air LLC recebe autorização para operar voos internacionais regulares no Brasil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil</id>
+    <published>2025-08-26T16:51:00.000Z</published>
+    <updated>2025-08-26T16:51:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos</summary>
+    <content type="html"><![CDATA[
+      <p>Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1077,25 +1115,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
   
   
   <entry>
-    <title type="html">Aena abre consulta pública sobre gestão de slots da aviação geral em Congonhas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas</id>
-    <published>2025-07-30T16:22:00.000Z</published>
-    <updated>2025-07-30T16:22:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo de coleta de sugestões atende a decisão aprovada pela Anac em maio de 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Processo de coleta de sugestões atende a decisão aprovada pela Anac em maio de 2025</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas/foto-aeroporto-congonhas.jpeg/@@images/83cbf0a0-26a0-4105-b44c-1e672ef978fe.jpeg" alt="Aena abre consulta pública sobre gestão de slots da aviação geral em Congonhas">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário Engenharia de Aeroportos 2025</title>
     <link href="https://www.youtube.com/watch?v=qwyqefU-Za8" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=qwyqefU-Za8</id>
@@ -1679,47 +1698,6 @@ Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-ins
 
 Participe!</p>
       <img src="https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg" alt="28/05 - Digital Week 2025, das 16h30 às 18h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">27/05 - Digital Week 2025, das 16h30 às 18h</title>
-    <link href="https://www.youtube.com/watch?v=N757SyNl7sY" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=N757SyNl7sY</id>
-    <published>2025-05-28T08:52:19.000Z</published>
-    <updated>2025-05-28T08:52:19.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Seja bem-vindo!
-
-Palestra: Safety Intelligence com IA 
-Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
-Link do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn
-
-Moderador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac
-Painelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac
-
-Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
-
-Participe!</summary>
-    <content type="html"><![CDATA[
-      <p>Seja bem-vindo!
-
-Palestra: Safety Intelligence com IA 
-Formato: Digital, com transmissão pelo Canal Oficial do Youtube 
-Link do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn
-
-Moderador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac
-Painelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac
-
-Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
-
-Participe!</p>
-      <img src="https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg" alt="27/05 - Digital Week 2025, das 16h30 às 18h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

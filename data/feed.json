@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4b7cbcf8-0f69-4533-b495-581794fd07a6",
+  "identifier": "urn:uuid:anac-feed-87f72dfd-2075-42f5-b4c3-49bcd6f9218e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-26T16:16:57.667Z",
-  "dateModified": "2025-08-26T16:16:57.667Z",
+  "dateCreated": "2025-08-26T20:15:42.611Z",
+  "dateModified": "2025-08-26T20:15:42.611Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-05-28T08:52:19.000Z",
-    "endDate": "2025-08-25T11:48:00.000Z"
+    "startDate": "2025-05-28T21:41:32.000Z",
+    "endDate": "2025-08-26T18:29:10.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)",
+      "url": "https://www.youtube.com/watch?v=gx-VCn_gx98",
+      "datePublished": "2025-08-26T18:29:10.000Z",
+      "description": "Processo 00058.030675/2025-84",
+      "image": "https://i4.ytimg.com/vi/gx-VCn_gx98/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Kalitta Air LLC recebe autorização para operar voos internacionais regulares no Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil",
+      "datePublished": "2025-08-26T16:51:00.000Z",
+      "description": "Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "BAIST publica três novos guias para aprimorar a segurança operacional em aeródromos",
@@ -492,15 +509,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Aena abre consulta pública sobre gestão de slots da aviação geral em Congonhas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas",
-      "datePublished": "2025-07-30T16:22:00.000Z",
-      "description": "Processo de coleta de sugestões atende a decisão aprovada pela Anac em maio de 2025",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aena-abre-consulta-publica-sobre-gestao-de-slots-da-aviacao-geral-em-congonhas/foto-aeroporto-congonhas.jpeg/@@images/83cbf0a0-26a0-4105-b44c-1e672ef978fe.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário Engenharia de Aeroportos 2025",
       "url": "https://www.youtube.com/watch?v=qwyqefU-Za8",
@@ -670,15 +678,6 @@
       "datePublished": "2025-05-28T21:41:32.000Z",
       "description": "Seja bem-vindo!\n\nPainel: SuperApp e Citizen Experience - Avançado para o Governo Proativo \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/aDKcWpJ2s5KDin8c7MyTXV\n\nModerador: Felipe Cruz, gerente de Soluções Digitais da Anac\n\nPainelista 1: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 2: Marcos Moreira, coordenador-geral de Interação e Inteligência do Ministério da Gestão e da Inovação do Serviço Público\nPainelista 3: Sheila Valeriano Lopes Antonioli, head of Customer Happiness do SERPRO\nPainelista 4: Rafael Cunha, secretário de Transformação Digital e Ciência e Tecnologia da Prefeitura da cidade de Recife\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "27/05 - Digital Week 2025, das 16h30 às 18h",
-      "url": "https://www.youtube.com/watch?v=N757SyNl7sY",
-      "datePublished": "2025-05-28T08:52:19.000Z",
-      "description": "Seja bem-vindo!\n\nPalestra: Safety Intelligence com IA \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/pNkWrGgzvoU3antajNrPMn\n\nModerador: Ronaldo Gammernan, coordenador de Análise e Monitoramento Contínuo da Anac\nPainelista 1: Bernardo Tomaz de Castro, Chefe da Assessoria de Segurança Operacional da Anac\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
-      "image": "https://i3.ytimg.com/vi/N757SyNl7sY/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
