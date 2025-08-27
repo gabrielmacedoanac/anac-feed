@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-69af309b-6fa8-4e2c-b102-155ff9fa8390",
+  "identifier": "urn:uuid:anac-feed-58a5949d-21b6-4b0c-95a2-a29b83daa46a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-27T16:17:02.424Z",
-  "dateModified": "2025-08-27T16:17:02.424Z",
+  "dateCreated": "2025-08-27T20:16:41.270Z",
+  "dateModified": "2025-08-27T20:16:41.270Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-08-26T18:29:10.000Z"
+    "endDate": "2025-08-27T19:49:54.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário Engenharia de Aeroportos 2025",
+      "url": "https://www.youtube.com/watch?v=zoj9US-rtXA",
+      "datePublished": "2025-08-27T19:49:54.000Z",
+      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz",
+      "image": "https://i3.ytimg.com/vi/zoj9US-rtXA/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos",
+      "datePublished": "2025-08-27T14:15:00.000Z",
+      "description": "Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)",
@@ -68,6 +86,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17735/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17735",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Torna pública a aplicação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Hugo Cantergiani, Código OACI: SBCX; Código CIAD: RS0007, em Caxias do Sul (RS).",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17742/ASTEC, 25/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17742",
       "datePublished": "2025-08-25T00:00:00.000Z",
@@ -100,6 +126,14 @@
       "description": "Este evento faz parte da Ação Nacional de Aviação Civil, iniciativa instituída em 2011 pela ANAC com o objetivo de disseminar informações e conhecimentos sobre o transporte aéreo e de aumentar a proximidade da Agência com seus principais públicos, entre eles pilotos, profissionais, empresários, estudantes, pesquisadores ligados à aviação civil e demais interessados.\n\nO evento pretende atingir a maior quantidade de regulados possível e apresentar diversos assuntos, conforme indicado na Programação, para fomentar a discussão, tratar e receber as críticas e sugestões e promover a melhoria da segurança operacional no Brasil.\n\nA iniciativa também é aderente ao Programa de Implementação do PSOE-ANAC, otimizando recursos e aperfeiçoando as ferramentas de disseminação da cultura de segurança operacional.\n\nPerguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb",
       "image": "https://i1.ytimg.com/vi/dTihSc1E3_M/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17722/SIA, 22/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17722",
+      "datePublished": "2025-08-22T00:00:00.000Z",
+      "description": "Exclui o Aeródromo de uso privativo Fazenda Quatro Irmãos (PA) no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -170,6 +204,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17710/SIA, 20/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17710",
+      "datePublished": "2025-08-20T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0508 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17711/SIA, 20/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17711",
       "datePublished": "2025-08-20T00:00:00.000Z",
@@ -178,18 +220,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17708/SIA, 20/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17708",
-      "datePublished": "2025-08-20T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0407 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17709/SIA, 20/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17709",
-      "datePublished": "2025-08-20T00:00:00.000Z",
-      "description": "Exclui o Aeródromo de uso privativo FAZENDA SANTA FÉ (MT) no cadastro de aeródromos",
+      "name": "PORTARIA Nº 17704/SIA, 19/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17704",
+      "datePublished": "2025-08-19T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD ES0009 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -198,14 +232,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17702",
       "datePublished": "2025-08-19T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD SC0027 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17701/SPL, 19/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17701",
-      "datePublished": "2025-08-19T00:00:00.000Z",
-      "description": "Revoga as Portarias nº 10.036, de 13 de dezembro de 2022 e nº 15.933, de 5 de dezembro de 2024",
       "type": "legislação"
     },
     {
@@ -297,14 +323,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17689",
       "datePublished": "2025-08-15T00:00:00.000Z",
       "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17688/SIA, 15/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17688",
-      "datePublished": "2025-08-15T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 5.951/SIA, de 20 de setembro de 2021",
       "type": "legislação"
     },
     {
@@ -484,15 +502,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Divulgado resultado parcial do processo seletivo para Examinadores Credenciados de Pilotos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos",
-      "datePublished": "2025-07-31T16:02:00.000Z",
-      "description": "Interessados têm até 4 de agosto para apresentar recursos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/divulgado-resultado-parcial-do-processo-seletivo-para-examinadores-credenciados-de-pilotos/linkedin.png/@@images/74dba3bd-0bed-4d05-8eac-34024f03a495.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 718, 31/07/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718",
@@ -516,15 +525,6 @@
       "datePublished": "2025-07-30T11:01:38.000Z",
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H",
       "image": "https://i2.ytimg.com/vi/ijUF7KGaE1Q/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário Engenharia de Aeroportos 2025",
-      "url": "https://www.youtube.com/watch?v=zoj9US-rtXA",
-      "datePublished": "2025-07-30T11:00:24.000Z",
-      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz",
-      "image": "https://i3.ytimg.com/vi/zoj9US-rtXA/hqdefault.jpg",
       "type": "vídeo"
     },
     {
