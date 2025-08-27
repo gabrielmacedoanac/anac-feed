@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 27 Aug 2025 12:28:38 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 12:28:38 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 16:17:02 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 16:17:02 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -80,7 +80,7 @@
     
     
     <item>
-      <title>PORTARIA Nº 17742/SPL, 25/08/2025</title>
+      <title>PORTARIA Nº 17742/ASTEC, 25/08/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17742</link>
       <description>Torna pública decisão da Diretoria Colegiada em processo administrativo disciplinar</description>
       <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
@@ -296,6 +296,23 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     
     
     <item>
+      <title>PORTARIA Nº 17711/SIA, 20/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17711</link>
+      <description>Inscreve o Aeródromo de uso privativo CIAD BA0509 no cadastro de aeródromos</description>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17711</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-20T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Inscreve o Aeródromo de uso privativo CIAD BA0509 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17708/SIA, 20/08/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17708</link>
       <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0407 no cadastro de aeródromos</description>
@@ -330,6 +347,23 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     
     
     <item>
+      <title>PORTARIA Nº 17702/SIA, 19/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17702</link>
+      <description>Altera a inscrição do Aeródromo de uso privativo CIAD SC0027 no cadastro de aeródromos</description>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17702</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-19T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a inscrição do Aeródromo de uso privativo CIAD SC0027 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17701/SPL, 19/08/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17701</link>
       <description>Revoga as Portarias nº 10.036, de 13 de dezembro de 2022 e nº 15.933, de 5 de dezembro de 2024</description>
@@ -341,57 +375,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Revoga as Portarias nº 10.036, de 13 de dezembro de 2022 e nº 15.933, de 5 de dezembro de 2024</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17703/SIA, 19/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17703</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD MS0570 no cadastro de aeródromos</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17703</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-19T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD MS0570 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17700/SIA, 19/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17700</link>
-      <description>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORBE VI (9PCZ)</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17700</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-19T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORBE VI (9PCZ)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17699/SPL, 19/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17699</link>
-      <description>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA Brasil Aviation Taxi Aéreo</description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17699</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-19T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA Brasil Aviation Taxi Aéreo</p>
         
       ]]></content:encoded>
     </item>
@@ -432,6 +415,40 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     
     
     <item>
+      <title>PORTARIA Nº 17697/SIA, 18/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17697</link>
+      <description>Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DOS AEROPORTOS DA AMAZÔNIA S.A., operadora do Aeroporto de Tefé, Código OACI: SBTF, Código CIAD: AM0004, localizado em Tefé (AM)</description>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17697</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-18T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DOS AEROPORTOS DA AMAZÔNIA S.A., operadora do Aeroporto de Tefé, Código OACI: SBTF, Código CIAD: AM0004, localizado em Tefé (AM)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17696/SIA, 18/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17696</link>
+      <description>Altera a Portaria 10.756/SIA, de 16 de março de 2023</description>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17696</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-18T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a Portaria 10.756/SIA, de 16 de março de 2023</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17698/SIA, 18/08/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17698</link>
       <description>Altera a inscrição do Aeródromo de uso privativo CIAD BA0133 no cadastro de aeródromos</description>
@@ -443,23 +460,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Altera a inscrição do Aeródromo de uso privativo CIAD BA0133 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17695/SIA, 18/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17695</link>
-      <description>Exclui o Aeródromo de uso privativo CIVIL TOWERS (BA) no cadastro de aeródromos</description>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17695</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-18T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Exclui o Aeródromo de uso privativo CIVIL TOWERS (BA) no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
@@ -579,23 +579,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Revoga a Portaria nº 5.951/SIA, de 20 de setembro de 2021</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17681/SIA, 14/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17681</link>
-      <description>Altera a inscrição do Aeródromo de uso privativo CIAD RS0196 no cadastro de aeródromos</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17681</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-14T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Altera a inscrição do Aeródromo de uso privativo CIAD RS0196 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
