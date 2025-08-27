@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-87f72dfd-2075-42f5-b4c3-49bcd6f9218e",
+  "identifier": "urn:uuid:anac-feed-36f6832b-53ee-4c89-b7cd-374ede394054",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-26T20:15:42.611Z",
-  "dateModified": "2025-08-26T20:15:42.611Z",
+  "dateCreated": "2025-08-27T01:04:59.184Z",
+  "dateModified": "2025-08-27T01:04:59.184Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -65,6 +65,14 @@
       "datePublished": "2025-08-25T11:17:00.000Z",
       "description": "Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17742/SPL, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17742",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Torna pública decisão da Diretoria Colegiada em processo administrativo disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -239,14 +247,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17695",
       "datePublished": "2025-08-18T00:00:00.000Z",
       "description": "Exclui o Aeródromo de uso privativo CIVIL TOWERS (BA) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17694/SIA, 18/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17694",
-      "datePublished": "2025-08-18T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 79 (9PKX)",
       "type": "legislação"
     },
     {
