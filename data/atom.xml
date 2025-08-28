@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-58a5949d-21b6-4b0c-95a2-a29b83daa46a</id>
+  <id>urn:uuid:anac-feed-c0b63078-20ee-4367-8c60-c2b1d3e2d665</id>
   <updated>2025-08-27T19:49:54.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -41,6 +41,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac cria plataforma digital para pagamento e consulta de informações financeiras</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras</id>
+    <published>2025-08-27T18:38:00.000Z</published>
+    <updated>2025-08-27T18:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras/linkedin-3.png/@@images/dbc85eb1-e98c-41c9-98b7-4c06551b7cba.png" alt="Anac cria plataforma digital para pagamento e consulta de informações financeiras">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1066,25 +1085,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac terá time de especialistas na 20ª edição da Labace</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace</id>
-    <published>2025-08-04T18:20:00.000Z</published>
-    <updated>2025-08-04T18:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina</summary>
-    <content type="html"><![CDATA[
-      <p>Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace/labace-2024-10.jpg/@@images/4f0c3b25-ea5f-430a-ac57-dca974f3610d.jpeg" alt="Anac terá time de especialistas na 20ª edição da Labace">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

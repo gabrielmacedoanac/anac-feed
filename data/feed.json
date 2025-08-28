@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-58a5949d-21b6-4b0c-95a2-a29b83daa46a",
+  "identifier": "urn:uuid:anac-feed-c0b63078-20ee-4367-8c60-c2b1d3e2d665",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-27T20:16:41.270Z",
-  "dateModified": "2025-08-27T20:16:41.270Z",
+  "dateCreated": "2025-08-28T01:04:15.547Z",
+  "dateModified": "2025-08-28T01:04:15.547Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -41,6 +41,15 @@
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz",
       "image": "https://i3.ytimg.com/vi/zoj9US-rtXA/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac cria plataforma digital para pagamento e consulta de informações financeiras",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras",
+      "datePublished": "2025-08-27T18:38:00.000Z",
+      "description": "Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras/linkedin-3.png/@@images/dbc85eb1-e98c-41c9-98b7-4c06551b7cba.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -483,15 +492,6 @@
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Aprova emenda ao RBAC nº 121",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac terá time de especialistas na 20ª edição da Labace",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace",
-      "datePublished": "2025-08-04T18:20:00.000Z",
-      "description": "Estande da Agência vai receber o público e servidores participarão de painéis e palestras na principal feira de aviação geral da América Latina",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tera-time-de-especialistas-na-20a-edicao-da-labace/labace-2024-10.jpg/@@images/4f0c3b25-ea5f-430a-ac57-dca974f3610d.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
