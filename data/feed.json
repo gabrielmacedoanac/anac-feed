@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-981ec6fb-ac50-404f-bd0b-3e02e173aa27",
+  "identifier": "urn:uuid:anac-feed-e7dbd051-cf76-4e10-8041-00e22f075f1c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-28T12:28:06.834Z",
-  "dateModified": "2025-08-28T12:28:06.834Z",
+  "dateCreated": "2025-08-28T16:17:57.095Z",
+  "dateModified": "2025-08-28T16:17:57.095Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-08-27T19:49:54.000Z"
+    "endDate": "2025-08-28T16:17:57.088Z"
   },
   "distribution": [
     {
@@ -33,6 +33,38 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 34/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34",
+      "datePublished": "2025-08-28T16:17:57.088Z",
+      "description": "Altera o Edital nº 26/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 32/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32",
+      "datePublished": "2025-08-28T16:17:57.088Z",
+      "description": "Altera o Edital nº 27/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 33/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33",
+      "datePublished": "2025-08-28T16:17:57.088Z",
+      "description": "Altera o Edital nº 25/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Alerta aos operadores aéreos: saiba quais são os três principais riscos de acidentes na aviação geral",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/alerta-aos-operadores-aereos-saiba-quais-sao-os-tres-principais-riscos-de-acidentes-na-aviacao-geral",
+      "datePublished": "2025-08-28T09:47:00.000Z",
+      "description": "O alerta da Anac decorre de uma ampla divulgação feita internacionalmente sobre recomendações de segurança operacional",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário Engenharia de Aeroportos 2025",
@@ -138,6 +170,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17726/SPO, DE 22/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17726",
+      "datePublished": "2025-08-22T00:00:00.000Z",
+      "description": "Aprova a Instrução Suplementar nº 121-002B",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17722/SIA, 22/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17722",
       "datePublished": "2025-08-22T00:00:00.000Z",
@@ -196,10 +236,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17716/SAS, 21/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17716",
+      "name": "RESOLUÇÃO Nº 777, 21/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-777",
       "datePublished": "2025-08-21T00:00:00.000Z",
-      "description": "Autoriza empresa estrangeira de transporte aéreo a operar no território nacional",
+      "description": "Aprova emendas ao RBAC nº 25",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 777, 21/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-777",
+      "datePublished": "2025-08-21T00:00:00.000Z",
+      "description": "Aprova emendas ao RBAC nº 25",
       "type": "legislação"
     },
     {
@@ -325,14 +373,6 @@
       "description": "Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo/linkedin-24.png/@@images/7079c9b3-6966-44ea-9452-36b1db1ef2e1.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17689/SPO, 15/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17689",
-      "datePublished": "2025-08-15T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -461,14 +501,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac determina a investigação de peças de freio e roda da empresa H8 ALS",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-determina-a-investigacao-de-pecas-de-freio-e-roda-da-empresa-h8-als",
-      "datePublished": "2025-08-05T14:26:00.000Z",
-      "description": "Medida foi tomada após a identificação de comercialização de partes aeronáuticas não aprovadas",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)",
       "url": "https://www.youtube.com/watch?v=I-sJmTR8bIE",
@@ -583,14 +615,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-716",
       "datePublished": "2025-07-04T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 137 EMD 06",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-06",
-      "datePublished": "2025-07-01T15:07:00.000Z",
-      "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
       "type": "legislação"
     },
     {
