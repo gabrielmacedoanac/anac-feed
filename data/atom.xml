@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e7dbd051-cf76-4e10-8041-00e22f075f1c</id>
-  <updated>2025-08-28T16:17:57.088Z</updated>
+  <id>urn:uuid:anac-feed-f169db9b-cfc0-41a7-84b2-987cf2be6004</id>
+  <updated>2025-08-28T15:24:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,64 +14,26 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 34/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34</id>
-    <published>2025-08-28T16:17:57.088Z</published>
-    <updated>2025-08-28T16:17:57.088Z</updated>
+    <title type="html">Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil</id>
+    <published>2025-08-28T15:24:00.000Z</published>
+    <updated>2025-08-28T15:24:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera o Edital nº 26/SGP/2025</summary>
+    <summary type="html">Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025</summary>
     <content type="html"><![CDATA[
-      <p>Altera o Edital nº 26/SGP/2025</p>
-      
+      <p>Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil/dsc04029-1.jpg/@@images/5402c1f5-3f18-46bd-bbf0-85121ba3312e.jpeg" alt="Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
   <entry>
-    <title type="html">EDITAL Nº 32/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32</id>
-    <published>2025-08-28T16:17:57.088Z</published>
-    <updated>2025-08-28T16:17:57.088Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera o Edital nº 27/SGP/2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera o Edital nº 27/SGP/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 33/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33</id>
-    <published>2025-08-28T16:17:57.088Z</published>
-    <updated>2025-08-28T16:17:57.088Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera o Edital nº 25/SGP/2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera o Edital nº 25/SGP/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Alerta aos operadores aéreos: saiba quais são os três principais riscos de acidentes na aviação geral</title>
+    <title type="html">Alerta aos operadores aéreos: saiba quais são as três principais ocorrências na aviação geral</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/alerta-aos-operadores-aereos-saiba-quais-sao-os-tres-principais-riscos-de-acidentes-na-aviacao-geral" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/alerta-aos-operadores-aereos-saiba-quais-sao-os-tres-principais-riscos-de-acidentes-na-aviacao-geral</id>
     <published>2025-08-28T09:47:00.000Z</published>
@@ -79,9 +41,9 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">O alerta da Anac decorre de uma ampla divulgação feita internacionalmente sobre recomendações de segurança operacional</summary>
+    <summary type="html">Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país</summary>
     <content type="html"><![CDATA[
-      <p>O alerta da Anac decorre de uma ampla divulgação feita internacionalmente sobre recomendações de segurança operacional</p>
+      <p>Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -235,6 +197,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17740/SIA, 25/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17740" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17740</id>
+    <published>2025-08-25T00:00:00.000Z</published>
+    <updated>2025-08-25T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto privado a bordo da unidade SKANDI AÇU (9PKS)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto privado a bordo da unidade SKANDI AÇU (9PKS)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17735/SIA, 25/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17735" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17735</id>
@@ -265,6 +246,44 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <summary type="html">Torna pública decisão da Diretoria Colegiada em processo administrativo disciplinar</summary>
     <content type="html"><![CDATA[
       <p>Torna pública decisão da Diretoria Colegiada em processo administrativo disciplinar</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17730/SPL, 23/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17730" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17730</id>
+    <published>2025-08-23T00:00:00.000Z</published>
+    <updated>2025-08-23T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
+    <content type="html"><![CDATA[
+      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17731/SPL, 23/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17731" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17731</id>
+    <published>2025-08-23T00:00:00.000Z</published>
+    <updated>2025-08-23T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
+    <content type="html"><![CDATA[
+      <p>Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -338,6 +357,25 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17724/SPL, 22/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17724" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17724</id>
+    <published>2025-08-22T00:00:00.000Z</published>
+    <updated>2025-08-22T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da BOEING U.S. TRAINING AND FLIGHT SERVICES L.L.C., para conduzir treinamentos e exames segundo o RBAC nº 142</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da BOEING U.S. TRAINING AND FLIGHT SERVICES L.L.C., para conduzir treinamentos e exames segundo o RBAC nº 142</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -421,25 +459,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <title type="html">PORTARIA Nº 17721/CRG, 22/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17721" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17721</id>
-    <published>2025-08-22T00:00:00.000Z</published>
-    <updated>2025-08-22T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Reconduz Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Reconduz Comissão de Processo Administrativo Disciplinar</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17719/CRG, 22/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17719" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17719</id>
     <published>2025-08-22T00:00:00.000Z</published>
     <updated>2025-08-22T00:00:00.000Z</updated>
     <author>
@@ -695,25 +714,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <summary type="html">Altera a Portaria 10.756/SIA, de 16 de março de 2023</summary>
     <content type="html"><![CDATA[
       <p>Altera a Portaria 10.756/SIA, de 16 de março de 2023</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17698/SIA, 18/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17698" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17698</id>
-    <published>2025-08-18T00:00:00.000Z</published>
-    <updated>2025-08-18T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD BA0133 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD BA0133 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1076,25 +1076,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <content type="html"><![CDATA[
       <p>Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao</id>
-    <published>2025-08-06T13:24:00.000Z</published>
-    <updated>2025-08-06T13:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura</summary>
-    <content type="html"><![CDATA[
-      <p>Com modelo de sandbox regulatório, empresas poderão testar inovações no setor de forma controlada e segura</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-aprova-regras-de-criacao-de-ambiente-regulatorio-experimental-para-novas-tecnologias-na-aviacao/sandbox_regulatorio__banner-portal-rotativo.png/@@images/7ed24658-af72-4938-952b-1e07e40996a3.png" alt="Anac aprova regras de criação de ambiente regulatório experimental para novas tecnologias na aviação">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
