@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0c43c7e4-0b61-49af-8b84-82689e4b69dd",
+  "identifier": "urn:uuid:anac-feed-89536f72-d029-4f24-8401-2299c056ee0b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-29T16:16:50.943Z",
-  "dateModified": "2025-08-29T16:16:50.943Z",
+  "dateCreated": "2025-08-29T20:14:50.136Z",
+  "dateModified": "2025-08-29T20:14:50.136Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-08-29T16:16:50.937Z"
+    "endDate": "2025-08-29T20:14:50.129Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 34/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34",
-      "datePublished": "2025-08-29T16:16:50.937Z",
+      "datePublished": "2025-08-29T20:14:50.129Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 32/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32",
-      "datePublished": "2025-08-29T16:16:50.937Z",
+      "datePublished": "2025-08-29T20:14:50.129Z",
       "description": "Altera o Edital nº 19/SGP/2025",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 33/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33",
-      "datePublished": "2025-08-29T16:16:50.937Z",
+      "datePublished": "2025-08-29T20:14:50.129Z",
       "description": "Altera o Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -153,6 +153,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17759/SPO, 27/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17759",
+      "datePublished": "2025-08-27T00:00:00.000Z",
+      "description": "Torna pública a revogação do Certificado de Operador Aéreo Empresa Ilog 2 Serviços Aeroportuários",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)",
       "url": "https://www.youtube.com/watch?v=gx-VCn_gx98",
@@ -243,14 +251,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17735/SIA, 25/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17735",
-      "datePublished": "2025-08-25T00:00:00.000Z",
-      "description": "Torna pública a aplicação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Hugo Cantergiani, Código OACI: SBCX; Código CIAD: RS0007, em Caxias do Sul (RS).",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17730/SPL, 23/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17730",
       "datePublished": "2025-08-23T00:00:00.000Z",
@@ -317,14 +317,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17722/SIA, 22/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17722",
-      "datePublished": "2025-08-22T00:00:00.000Z",
-      "description": "Exclui o Aeródromo de uso privativo Fazenda Quatro Irmãos (PA) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos",
@@ -348,6 +340,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17715",
       "datePublished": "2025-08-21T00:00:00.000Z",
       "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Florianópolis - Hercílio Luz, localizado no município de Florianópolis (SC)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17714/SRA, 21/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17714",
+      "datePublished": "2025-08-21T00:00:00.000Z",
+      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Fortaleza - Pinto Martins, localizado no Município de Fortaleza (CE)",
       "type": "legislação"
     },
     {
@@ -572,7 +572,7 @@
       "name": "Webinário Engenharia de Aeroportos 2025",
       "url": "https://www.youtube.com/watch?v=qwyqefU-Za8",
       "datePublished": "2025-07-30T11:02:50.000Z",
-      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y",
+      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y\n\nAPRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip",
       "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
       "type": "vídeo"
     },
