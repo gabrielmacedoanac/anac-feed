@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5af20dac-55b2-4f85-8c72-5c38b73e45ed",
+  "identifier": "urn:uuid:anac-feed-0c43c7e4-0b61-49af-8b84-82689e4b69dd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-29T12:27:36.609Z",
-  "dateModified": "2025-08-29T12:27:36.609Z",
+  "dateCreated": "2025-08-29T16:16:50.943Z",
+  "dateModified": "2025-08-29T16:16:50.943Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-08-29T07:48:04.000Z"
+    "endDate": "2025-08-29T16:16:50.937Z"
   },
   "distribution": [
     {
@@ -33,6 +33,56 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 34/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34",
+      "datePublished": "2025-08-29T16:16:50.937Z",
+      "description": "Altera o Edital nº 18/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 32/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32",
+      "datePublished": "2025-08-29T16:16:50.937Z",
+      "description": "Altera o Edital nº 19/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 33/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33",
+      "datePublished": "2025-08-29T16:16:50.937Z",
+      "description": "Altera o Edital nº 17/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "País passa a contar com primeira empresa certificada para operar voos com balões",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes",
+      "datePublished": "2025-08-29T13:14:00.000Z",
+      "description": "Rubic Balões poderá fazer voos com passageiros utilizando aeronaves de fabricação própria, também certificadas pela Anac",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes/imagem-do-whatsapp-de-2025-08-27-a-s-18-39-56_0c79f628.jpg/@@images/c97e9cfe-58a7-4f29-ba40-3725a0fb81d1.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Nomeados os novos diretores da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac",
+      "datePublished": "2025-08-29T12:19:00.000Z",
+      "description": "Nomeações de Tiago Faierstein, Rui Mesquita e Antonio Mathias Moreira foram publicadas no Diário Oficial da União desta sexta (29/8)",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac/879604df-d270-4327-aee3-6cc6efba69b4.jpeg/@@images/b8ca629f-7e29-493b-af2e-d85a75d418c2.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Tetos das tarifas aeroportuárias de Fortaleza, Florianópolis, Porto Alegre e Salvador são reajustados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-fortaleza-florianopolis-porto-alegre-e-salvador-sao-reajustados",
+      "datePublished": "2025-08-29T10:03:00.000Z",
+      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário Engenharia de Aeroportos 2025",
@@ -121,6 +171,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17747/SPO, 26/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17747",
+      "datePublished": "2025-08-26T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17750/SAS, 26/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17750",
       "datePublished": "2025-08-26T00:00:00.000Z",
@@ -153,6 +211,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17741/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17741",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade WEST JUPITER (9PWJ)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17739/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17739",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SIEM HELIX I (9PSH)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17732/SIA, 25/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17732",
       "datePublished": "2025-08-25T00:00:00.000Z",
@@ -173,14 +247,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17735",
       "datePublished": "2025-08-25T00:00:00.000Z",
       "description": "Torna pública a aplicação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Hugo Cantergiani, Código OACI: SBCX; Código CIAD: RS0007, em Caxias do Sul (RS).",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17742/ASTEC, 25/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17742",
-      "datePublished": "2025-08-25T00:00:00.000Z",
-      "description": "Torna pública decisão da Diretoria Colegiada em processo administrativo disciplinar",
       "type": "legislação"
     },
     {
@@ -228,6 +294,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17717/SIA, 22/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17717",
+      "datePublished": "2025-08-22T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0378 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17724/SPL, 22/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17724",
       "datePublished": "2025-08-22T00:00:00.000Z",
@@ -270,6 +344,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17715/SRA, 21/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17715",
+      "datePublished": "2025-08-21T00:00:00.000Z",
+      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Florianópolis - Hercílio Luz, localizado no município de Florianópolis (SC)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 777, 21/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-777",
       "datePublished": "2025-08-21T00:00:00.000Z",
@@ -294,38 +376,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17710/SIA, 20/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17710",
-      "datePublished": "2025-08-20T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0508 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17711/SIA, 20/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17711",
-      "datePublished": "2025-08-20T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0509 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17704/SIA, 19/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17704",
-      "datePublished": "2025-08-19T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD ES0009 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17702/SIA, 19/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17702",
-      "datePublished": "2025-08-19T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD SC0027 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Funcionamento de motores e procedimentos de segurança são abordados em nova Instrução Suplementar da Anac",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/funcionamento-de-motores-e-procedimentos-de-seguranca-sao-abordados-em-nova-instrucao-suplementar-da-anac",
@@ -341,22 +391,6 @@
       "description": "Evento, um dos maiores da América Latina no setor, será realizado de 19 a 21/8, em Santo Antônio de Leverger",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-congresso-da-aviacao-agricola-do-brasil-em-mato-grosso/facebook-2.png/@@images/5ce692bc-321a-4c2d-8b2e-bfdc0a45b204.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17697/SIA, 18/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17697",
-      "datePublished": "2025-08-18T00:00:00.000Z",
-      "description": "Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DOS AEROPORTOS DA AMAZÔNIA S.A., operadora do Aeroporto de Tefé, Código OACI: SBTF, Código CIAD: AM0004, localizado em Tefé (AM)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17696/SIA, 18/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17696",
-      "datePublished": "2025-08-18T00:00:00.000Z",
-      "description": "Altera a Portaria 10.756/SIA, de 16 de março de 2023",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -401,6 +435,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17684/SIA, 14/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17684",
+      "datePublished": "2025-08-14T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1152 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia",
@@ -437,15 +479,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Confira o resultado da pesquisa sobre o perfil profissional na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil",
-      "datePublished": "2025-08-11T14:39:00.000Z",
-      "description": "Levantamento teve participação de 2.185 pessoas de todos os estados brasileiros",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/confira-o-resultado-da-pesquisa-sobre-o-perfil-profissional-na-aviacao-civil/PEAUNICA.png/@@images/19a55c27-4df6-4721-8e52-4ec915ea4048.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "RBAC 121 EMD 22",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-22",
@@ -478,14 +511,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac publica alerta sobre interferências e falsificações em GNSS",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-publica-alerta-sobre-interferencias-e-falsificacoes-em-gnss",
-      "datePublished": "2025-08-07T15:12:00.000Z",
-      "description": "Publicação traz orientações para procedimentos em caso de ocorrências no sistema de navegação por satélite",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "IS 120-016C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-016",
@@ -500,14 +525,6 @@
       "datePublished": "2025-08-07T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam o parágrafo E94.9(c) e a Subparte E do RBAC-E nº 94, em favor da DR1 IMAGENS E INSPEÇÕES LTDA.",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac lança quatro novos manuais aeronáuticos gratuitos do programa Asas para Todos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-quatro-novos-manuais-aeronauticos-gratuitos-do-programa-asas-para-todos",
-      "datePublished": "2025-08-06T14:59:00.000Z",
-      "description": "Apostilas abordam princípios de voo, aerodinâmica, controles de voo e sistemas de aeronaves",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
