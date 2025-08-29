@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b4e76ddd-fb42-4b24-8c21-e6ea937e1129",
+  "identifier": "urn:uuid:anac-feed-5af20dac-55b2-4f85-8c72-5c38b73e45ed",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-29T08:18:08.588Z",
-  "dateModified": "2025-08-29T08:18:08.588Z",
+  "dateCreated": "2025-08-29T12:27:36.609Z",
+  "dateModified": "2025-08-29T12:27:36.609Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -121,6 +121,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17750/SAS, 26/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17750",
+      "datePublished": "2025-08-26T00:00:00.000Z",
+      "description": "Altera o Calendário de Atividades da Temporada de Verão 2026 (S26) previsto na Resolução nº 682, de 7 de junho de 2022, e na Portaria nº 8.449/SAS, de 30 de junho de 2022",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17745/SIA, 26/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17745",
       "datePublished": "2025-08-26T00:00:00.000Z",
@@ -142,6 +150,14 @@
       "datePublished": "2025-08-25T11:17:00.000Z",
       "description": "Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17732/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17732",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 58 (9PHT)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -232,22 +248,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17722",
       "datePublished": "2025-08-22T00:00:00.000Z",
       "description": "Exclui o Aeródromo de uso privativo Fazenda Quatro Irmãos (PA) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17720/CRG, 22/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17720",
-      "datePublished": "2025-08-22T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17729/SPL, 22/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17729",
-      "datePublished": "2025-08-22T00:00:00.000Z",
-      "description": "Institui Grupo de Trabalho para estudo e proposição de diretrizes para elaboração e avaliação de Programas de Instrução de acordo com a metodologia de treinamento e avaliação baseados em competências - CBTA",
       "type": "legislação"
     },
     {
