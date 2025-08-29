@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-558a871d-b4fa-4582-b367-9f3b14893aed",
+  "identifier": "urn:uuid:anac-feed-b4e76ddd-fb42-4b24-8c21-e6ea937e1129",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-29T04:17:09.009Z",
-  "dateModified": "2025-08-29T04:17:09.009Z",
+  "dateCreated": "2025-08-29T08:18:08.588Z",
+  "dateModified": "2025-08-29T08:18:08.588Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-08-28T17:55:00.000Z"
+    "endDate": "2025-08-29T07:48:04.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário Engenharia de Aeroportos 2025",
+      "url": "https://www.youtube.com/watch?v=ijUF7KGaE1Q",
+      "datePublished": "2025-08-29T07:48:04.000Z",
+      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H",
+      "image": "https://i2.ytimg.com/vi/ijUF7KGaE1Q/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 25 EMD 150",
@@ -548,15 +557,6 @@
       "datePublished": "2025-07-30T11:02:50.000Z",
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y",
       "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário Engenharia de Aeroportos 2025",
-      "url": "https://www.youtube.com/watch?v=ijUF7KGaE1Q",
-      "datePublished": "2025-07-30T11:01:38.000Z",
-      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H",
-      "image": "https://i2.ytimg.com/vi/ijUF7KGaE1Q/hqdefault.jpg",
       "type": "vídeo"
     },
     {
