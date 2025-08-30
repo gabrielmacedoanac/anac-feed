@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-89536f72-d029-4f24-8401-2299c056ee0b",
+  "identifier": "urn:uuid:anac-feed-c063c0b2-6719-4c71-b340-943a312cbd8c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-08-29T20:14:50.136Z",
-  "dateModified": "2025-08-29T20:14:50.136Z",
+  "dateCreated": "2025-08-30T01:01:45.865Z",
+  "dateModified": "2025-08-30T01:01:45.865Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-08-29T20:14:50.129Z"
+    "endDate": "2025-08-30T01:01:45.859Z"
   },
   "distribution": [
     {
@@ -35,26 +35,26 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "IS 121-002B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
+      "datePublished": "2025-08-30T01:01:45.859Z",
+      "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "EDITAL Nº 34/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34",
-      "datePublished": "2025-08-29T20:14:50.129Z",
+      "datePublished": "2025-08-30T01:01:45.859Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "EDITAL Nº 32/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32",
-      "datePublished": "2025-08-29T20:14:50.129Z",
-      "description": "Altera o Edital nº 19/SGP/2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 33/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33",
-      "datePublished": "2025-08-29T20:14:50.129Z",
-      "description": "Altera o Edital nº 17/SGP/2025",
+      "name": "IS 121-002B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
+      "datePublished": "2025-08-29T17:30:00.000Z",
+      "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
     },
     {
@@ -151,6 +151,14 @@
       "description": "Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17762/SRA, 27/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762",
+      "datePublished": "2025-08-27T00:00:00.000Z",
+      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador - Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -632,14 +640,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-716",
       "datePublished": "2025-07-04T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 714, 30/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-714",
-      "datePublished": "2025-06-30T00:00:00.000Z",
-      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)",
       "type": "legislação"
     },
     {

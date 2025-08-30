@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-89536f72-d029-4f24-8401-2299c056ee0b</id>
-  <updated>2025-08-29T20:14:50.129Z</updated>
+  <id>urn:uuid:anac-feed-c063c0b2-6719-4c71-b340-943a312cbd8c</id>
+  <updated>2025-08-30T01:01:45.859Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,11 +14,30 @@
   
   
   <entry>
+    <title type="html">IS 121-002B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b</id>
+    <published>2025-08-30T01:01:45.859Z</published>
+    <updated>2025-08-30T01:01:45.859Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</summary>
+    <content type="html"><![CDATA[
+      <p>Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">EDITAL Nº 34/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34</id>
-    <published>2025-08-29T20:14:50.129Z</published>
-    <updated>2025-08-29T20:14:50.129Z</updated>
+    <published>2025-08-30T01:01:45.859Z</published>
+    <updated>2025-08-30T01:01:45.859Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -33,36 +52,17 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 32/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-32</id>
-    <published>2025-08-29T20:14:50.129Z</published>
-    <updated>2025-08-29T20:14:50.129Z</updated>
+    <title type="html">IS 121-002B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b</id>
+    <published>2025-08-29T17:30:00.000Z</published>
+    <updated>2025-08-29T17:30:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera o Edital nº 19/SGP/2025</summary>
+    <summary type="html">Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</summary>
     <content type="html"><![CDATA[
-      <p>Altera o Edital nº 19/SGP/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 33/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-33</id>
-    <published>2025-08-29T20:14:50.129Z</published>
-    <updated>2025-08-29T20:14:50.129Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera o Edital nº 17/SGP/2025</summary>
-    <content type="html"><![CDATA[
-      <p>Altera o Edital nº 17/SGP/2025</p>
+      <p>Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -300,6 +300,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17762/SRA, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762</id>
+    <published>2025-08-27T00:00:00.000Z</published>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador - Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)</summary>
+    <content type="html"><![CDATA[
+      <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador - Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1466,25 +1485,6 @@ Participe!</p>
     <summary type="html">Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da CANYON SUL BALONISMO LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 714, 30/06/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-714" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-714</id>
-    <published>2025-06-30T00:00:00.000Z</published>
-    <updated>2025-06-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Brasília (DF)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
