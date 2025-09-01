@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a5595733-a36c-45fb-8cf9-d2f19cdc9c45",
+  "identifier": "urn:uuid:anac-feed-eff48a21-0161-4902-ad13-91b385ccbd7b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-01T16:16:41.540Z",
-  "dateModified": "2025-09-01T16:16:41.540Z",
+  "dateCreated": "2025-09-01T20:14:20.813Z",
+  "dateModified": "2025-09-01T20:14:20.813Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-26T00:00:00.000Z"
+    "endDate": "2025-09-01T20:14:20.806Z"
   },
   "distribution": [
     {
@@ -35,17 +35,9 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17746/SIA, 26/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746",
-      "datePublished": "2025-09-26T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 121-002B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
-      "datePublished": "2025-09-01T16:16:41.532Z",
+      "datePublished": "2025-09-01T20:14:20.806Z",
       "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
     },
@@ -187,14 +179,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17762/SRA, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762-1",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador – Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17755/SPO, 27/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17755",
       "datePublished": "2025-08-27T00:00:00.000Z",
@@ -268,6 +252,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17746/SIA, 26/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746",
+      "datePublished": "2025-08-26T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17747/SPO, 26/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17747",
       "datePublished": "2025-08-26T00:00:00.000Z",
@@ -312,6 +304,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17739",
       "datePublished": "2025-08-25T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SIEM HELIX I (9PSH)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17732/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17732",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 58 (9PHT)",
       "type": "legislação"
     },
     {
