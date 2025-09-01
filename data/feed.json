@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2330f3f0-8641-4684-b9a1-c955116351fc",
+  "identifier": "urn:uuid:anac-feed-b5ac8fd2-900a-419a-95bc-c7d915fe7321",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-01T04:24:05.248Z",
-  "dateModified": "2025-09-01T04:24:05.248Z",
+  "dateCreated": "2025-09-01T08:20:27.571Z",
+  "dateModified": "2025-09-01T08:20:27.571Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-01T04:24:05.241Z"
+    "endDate": "2025-09-01T08:20:27.564Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-002B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
-      "datePublished": "2025-09-01T04:24:05.241Z",
+      "datePublished": "2025-09-01T08:20:27.564Z",
       "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 34/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34",
-      "datePublished": "2025-09-01T04:24:05.241Z",
+      "datePublished": "2025-09-01T08:20:27.564Z",
       "description": "Altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
