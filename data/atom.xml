@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-b5ac8fd2-900a-419a-95bc-c7d915fe7321</id>
-  <updated>2025-09-01T08:20:27.564Z</updated>
+  <id>urn:uuid:anac-feed-9d19e459-543c-4508-a2b4-2636acafa6d5</id>
+  <updated>2025-09-26T00:00:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,17 +14,17 @@
   
   
   <entry>
-    <title type="html">IS 121-002B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b</id>
-    <published>2025-09-01T08:20:27.564Z</published>
-    <updated>2025-09-01T08:20:27.564Z</updated>
+    <title type="html">PORTARIA Nº 17746/SIA, 26/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746</id>
+    <published>2025-09-26T00:00:00.000Z</published>
+    <updated>2025-09-26T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</summary>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</p>
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -33,17 +33,17 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 34/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-34</id>
-    <published>2025-09-01T08:20:27.564Z</published>
-    <updated>2025-09-01T08:20:27.564Z</updated>
+    <title type="html">IS 121-002B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b</id>
+    <published>2025-09-01T12:28:49.737Z</published>
+    <updated>2025-09-01T12:28:49.737Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera o Edital nº 18/SGP/2025</summary>
+    <summary type="html">Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</summary>
     <content type="html"><![CDATA[
-      <p>Altera o Edital nº 18/SGP/2025</p>
+      <p>Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -340,6 +340,82 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   <entry>
     <title type="html">PORTARIA Nº 17762/SRA, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762-1" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762-1</id>
+    <published>2025-08-27T00:00:00.000Z</published>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador – Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)</summary>
+    <content type="html"><![CDATA[
+      <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador – Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17755/SPO, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17755" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17755</id>
+    <published>2025-08-27T00:00:00.000Z</published>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a emissão de Certificado de Organização de Manutenção</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a emissão de Certificado de Organização de Manutenção</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17760/SIA, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17760" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17760</id>
+    <published>2025-08-27T00:00:00.000Z</published>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Valida a Categoria Contraincêndio do Aeroporto Estadual de Jundiaí - Comandante Rolim Adolfo Amaro</summary>
+    <content type="html"><![CDATA[
+      <p>Valida a Categoria Contraincêndio do Aeroporto Estadual de Jundiaí - Comandante Rolim Adolfo Amaro</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17753/SIA, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17753" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17753</id>
+    <published>2025-08-27T00:00:00.000Z</published>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0498 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0498 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17762/SRA, 27/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762</id>
     <published>2025-08-27T00:00:00.000Z</published>
@@ -605,25 +681,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17731/SPL, 23/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17731" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17731</id>
-    <published>2025-08-23T00:00:00.000Z</published>
-    <updated>2025-08-23T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Revalida credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Inovação e crescimento da aviação agrícola brasileira foram destaques no Congresso AvAg 202</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202</id>
@@ -712,44 +769,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17724/SPL, 22/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17724" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17724</id>
-    <published>2025-08-22T00:00:00.000Z</published>
-    <updated>2025-08-22T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da BOEING U.S. TRAINING AND FLIGHT SERVICES L.L.C., para conduzir treinamentos e exames segundo o RBAC nº 142</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a renovação de Certificado de Validação de Centro de Treinamento emitido em favor da BOEING U.S. TRAINING AND FLIGHT SERVICES L.L.C., para conduzir treinamentos e exames segundo o RBAC nº 142</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17726/SPO, DE 22/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17726" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17726</id>
-    <published>2025-08-22T00:00:00.000Z</published>
-    <updated>2025-08-22T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a Instrução Suplementar nº 121-002B</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a Instrução Suplementar nº 121-002B</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos</id>
@@ -818,25 +837,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Fortaleza - Pinto Martins, localizado no Município de Fortaleza (CE)</summary>
     <content type="html"><![CDATA[
       <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Fortaleza - Pinto Martins, localizado no Município de Fortaleza (CE)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 777, 21/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-777" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-777</id>
-    <published>2025-08-21T00:00:00.000Z</published>
-    <updated>2025-08-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova emendas ao RBAC nº 25</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova emendas ao RBAC nº 25</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
