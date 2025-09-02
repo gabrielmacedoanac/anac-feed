@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-eff48a21-0161-4902-ad13-91b385ccbd7b</id>
-  <updated>2025-09-01T20:14:20.806Z</updated>
+  <id>urn:uuid:anac-feed-4880790d-ed65-4ac4-b19a-67186828eb0b</id>
+  <updated>2025-09-02T01:05:39.698Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 121-002B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b</id>
-    <published>2025-09-01T20:14:20.806Z</published>
-    <updated>2025-09-01T20:14:20.806Z</updated>
+    <published>2025-09-02T01:05:39.698Z</published>
+    <updated>2025-09-02T01:05:39.698Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aberta consulta pública para atualizar regulamentos de aeroportos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos</id>
+    <published>2025-09-01T17:52:00.000Z</published>
+    <updated>2025-09-01T17:52:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira</summary>
+    <content type="html"><![CDATA[
+      <p>Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1104,25 +1123,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <content type="html"><![CDATA[
       <p>Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva/1.jpg/@@images/a8eee1a4-53f7-4f5b-a5e2-e73f0655ddce.jpeg" alt="Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Encontro internacional discute mitigação de riscos de saúde pública na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil</id>
-    <published>2025-08-11T15:17:00.000Z</published>
-    <updated>2025-08-11T15:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac sediou discussões entre os dias 5 e 8 de agosto</summary>
-    <content type="html"><![CDATA[
-      <p>Anac sediou discussões entre os dias 5 e 8 de agosto</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil/2025-capsca-dia-2-37.png/@@images/02506f64-026b-4794-8121-b0cf32a8008f.png" alt="Encontro internacional discute mitigação de riscos de saúde pública na aviação civil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

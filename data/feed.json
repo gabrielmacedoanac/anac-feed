@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-eff48a21-0161-4902-ad13-91b385ccbd7b",
+  "identifier": "urn:uuid:anac-feed-4880790d-ed65-4ac4-b19a-67186828eb0b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-01T20:14:20.813Z",
-  "dateModified": "2025-09-01T20:14:20.813Z",
+  "dateCreated": "2025-09-02T01:05:39.705Z",
+  "dateModified": "2025-09-02T01:05:39.705Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-01T20:14:20.806Z"
+    "endDate": "2025-09-02T01:05:39.698Z"
   },
   "distribution": [
     {
@@ -37,9 +37,17 @@
       "@type": "Legislation",
       "name": "IS 121-002B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
-      "datePublished": "2025-09-01T20:14:20.806Z",
+      "datePublished": "2025-09-02T01:05:39.698Z",
       "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta consulta pública para atualizar regulamentos de aeroportos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos",
+      "datePublished": "2025-09-01T17:52:00.000Z",
+      "description": "Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -492,15 +500,6 @@
       "datePublished": "2025-08-11T16:33:00.000Z",
       "description": "Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva/1.jpg/@@images/a8eee1a4-53f7-4f5b-a5e2-e73f0655ddce.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Encontro internacional discute mitigação de riscos de saúde pública na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil",
-      "datePublished": "2025-08-11T15:17:00.000Z",
-      "description": "Anac sediou discussões entre os dias 5 e 8 de agosto",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/encontro-internacional-discute-mitigacao-de-riscos-de-saude-publica-na-aviacao-civil/2025-capsca-dia-2-37.png/@@images/02506f64-026b-4794-8121-b0cf32a8008f.png",
       "type": "notícia"
     },
     {
