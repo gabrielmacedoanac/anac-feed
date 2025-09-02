@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-accb5732-a145-4c6f-8c2e-1e2e82facfcb</id>
-  <updated>2025-09-02T12:28:30.812Z</updated>
+  <id>urn:uuid:anac-feed-efe28058-1132-449c-942f-f325bcf6ae2f</id>
+  <updated>2025-09-02T09:40:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,21 +14,21 @@
   
   
   <entry>
-    <title type="html">IS 121-002B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b</id>
-    <published>2025-09-02T12:28:30.812Z</published>
-    <updated>2025-09-02T12:28:30.812Z</updated>
+    <title type="html">Anac lança manual inédito sobre o uso de drones em aeroportos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos</id>
+    <published>2025-09-02T09:40:00.000Z</published>
+    <updated>2025-09-02T09:40:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</summary>
+    <summary type="html">Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor</summary>
     <content type="html"><![CDATA[
-      <p>Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121</p>
-      
+      <p>Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos/drone.jpg/@@images/5f88e20d-ab80-48c6-8942-83c02bda91c9.jpeg" alt="Anac lança manual inédito sobre o uso de drones em aeroportos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -48,6 +48,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">INSTRUÇÃO NORMATIVA Nº 215, 01/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-215" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-215</id>
+    <published>2025-09-01T00:00:00.000Z</published>
+    <updated>2025-09-01T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Instrução Normativa nº 117, de 6 de setembro de 2017</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Instrução Normativa nº 117, de 6 de setembro de 2017</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">INSTRUÇÃO NORMATIVA Nº 215, 01/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-215" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-215</id>
+    <published>2025-09-01T00:00:00.000Z</published>
+    <updated>2025-09-01T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Instrução Normativa nº 117, de 6 de setembro de 2017</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Instrução Normativa nº 117, de 6 de setembro de 2017</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -270,6 +308,82 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17767/SPO, 28/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17767" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17767</id>
+    <published>2025-08-28T00:00:00.000Z</published>
+    <updated>2025-08-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17768/SPO, 28/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17768" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17768</id>
+    <published>2025-08-28T00:00:00.000Z</published>
+    <updated>2025-08-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17769/SPO, 28/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17769" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17769</id>
+    <published>2025-08-28T00:00:00.000Z</published>
+    <updated>2025-08-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17766/SPO, 28/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17766" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17766</id>
+    <published>2025-08-28T00:00:00.000Z</published>
+    <updated>2025-08-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">DECISÃO Nº 722, 28/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722</id>
@@ -377,6 +491,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17754/SPO, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17754" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17754</id>
+    <published>2025-08-27T00:00:00.000Z</published>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova a Instrução Suplementar nº 91-010D</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova a Instrução Suplementar nº 91-010D</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17761/SIA, 27/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17761" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17761</id>
@@ -453,44 +586,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17762/SRA, 27/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17762</id>
-    <published>2025-08-27T00:00:00.000Z</published>
-    <updated>2025-08-27T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador - Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)</summary>
-    <content type="html"><![CDATA[
-      <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Salvador - Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17759/SPO, 27/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17759" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17759</id>
-    <published>2025-08-27T00:00:00.000Z</published>
-    <updated>2025-08-27T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação do Certificado de Operador Aéreo Empresa Ilog 2 Serviços Aeroportuários</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação do Certificado de Operador Aéreo Empresa Ilog 2 Serviços Aeroportuários</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)</title>
     <link href="https://www.youtube.com/watch?v=gx-VCn_gx98" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=gx-VCn_gx98</id>
@@ -525,6 +620,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Portaria nº 17749/SIA, 26/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-7749" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-7749</id>
+    <published>2025-08-26T00:00:00.000Z</published>
+    <updated>2025-08-26T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0410 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0410 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -586,25 +700,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17747/SPO, 26/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17747" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17747</id>
-    <published>2025-08-26T00:00:00.000Z</published>
-    <updated>2025-08-26T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">BAIST publica três novos guias para aprimorar a segurança operacional em aeródromos</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/baist-publica-tres-novos-guias-para-aprimorar-a-seguranca-operacional-em-aerodromos" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/baist-publica-tres-novos-guias-para-aprimorar-a-seguranca-operacional-em-aerodromos</id>
@@ -643,6 +738,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17743/SIA, 25/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17743" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17743</id>
+    <published>2025-08-25T00:00:00.000Z</published>
+    <updated>2025-08-25T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Usiminas, Código OACI: SBIP; Código CIAD: MG0007, localizado em Santana do Paraíso (MG)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Usiminas, Código OACI: SBIP; Código CIAD: MG0007, localizado em Santana do Paraíso (MG)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA 17734/SRA, 25/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17734" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17734</id>
@@ -654,63 +768,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <summary type="html">Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Porto Alegre – Salgado Filho, localizado no Município de Porto Alegre (RS)</summary>
     <content type="html"><![CDATA[
       <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Porto Alegre – Salgado Filho, localizado no Município de Porto Alegre (RS)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17741/SIA, 25/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17741" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17741</id>
-    <published>2025-08-25T00:00:00.000Z</published>
-    <updated>2025-08-25T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade WEST JUPITER (9PWJ)</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade WEST JUPITER (9PWJ)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17739/SIA, 25/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17739" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17739</id>
-    <published>2025-08-25T00:00:00.000Z</published>
-    <updated>2025-08-25T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SIEM HELIX I (9PSH)</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SIEM HELIX I (9PSH)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17732/SIA, 25/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17732" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17732</id>
-    <published>2025-08-25T00:00:00.000Z</published>
-    <updated>2025-08-25T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 58 (9PHT)</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 58 (9PHT)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1035,25 +1092,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17684/SIA, 14/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17684" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17684</id>
-    <published>2025-08-14T00:00:00.000Z</published>
-    <updated>2025-08-14T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1152 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MT1152 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia</id>
@@ -1107,25 +1145,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva</id>
-    <published>2025-08-11T16:33:00.000Z</published>
-    <updated>2025-08-11T16:33:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</summary>
-    <content type="html"><![CDATA[
-      <p>Agência atendeu ao público e participou de painéis sobre inovação, segurança e digitalização</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/parceria-entre-anac-e-labace-leva-inovacao-e-prestacao-de-servicos-ao-segmento-de-aviacao-geral-e-executiva/1.jpg/@@images/a8eee1a4-53f7-4f5b-a5e2-e73f0655ddce.jpeg" alt="Parceria entre Anac e Labace leva inovação e prestação de serviços ao segmento de aviação geral e executiva">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1466,25 +1485,6 @@ Participe!</p>
     <summary type="html">Aprova emenda ao RBAC nº 135 e altera o anexo da Resolução nº 352, de 10 de fevereiro de 2015</summary>
     <content type="html"><![CDATA[
       <p>Aprova emenda ao RBAC nº 135 e altera o anexo da Resolução nº 352, de 10 de fevereiro de 2015</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 715, 04/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-715" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-715</id>
-    <published>2025-07-04T00:00:00.000Z</published>
-    <updated>2025-07-04T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da AEROMAGIC BALONISMO LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da AEROMAGIC BALONISMO LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
