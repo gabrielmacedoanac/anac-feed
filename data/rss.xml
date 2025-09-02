@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 02 Sep 2025 16:17:07 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2025 16:17:07 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 20:14:42 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 20:14:42 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -40,6 +40,23 @@
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>RESOLUÇÃO Nº 778, 01/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-778</link>
+      <description>Altera dispositivos do Regimento Interno da ANAC</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-778</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-01T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera dispositivos do Regimento Interno da ANAC</p>
         
       ]]></content:encoded>
     </item>
@@ -210,6 +227,74 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     
     
     <item>
+      <title>PORTARIA Nº 17773/SPO, 29/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17773</link>
+      <description>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17773</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-29T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17779/SPL, 29/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17779</link>
+      <description>Suspende a pedido o Certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17779</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-29T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Suspende a pedido o Certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17772/SPO, 29/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17772</link>
+      <description>Torna pública a revogação do Cadastro de GUANAGRI AVIAÇÃO AGRICOLA LTDA</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17772</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-29T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a revogação do Cadastro de GUANAGRI AVIAÇÃO AGRICOLA LTDA</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17771/SPO, 29/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17771</link>
+      <description>Torna pública a revogação do Cadastro de TPX COMÉRCIO TRANSPORTE E SERVIÇOS LTDA</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17771</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-29T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a revogação do Cadastro de TPX COMÉRCIO TRANSPORTE E SERVIÇOS LTDA</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>RBAC 25 EMD 150</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-25</link>
       <description>Requisitos de Aeronavegabilidade: Aviões Categoria Transporte</description>
@@ -363,23 +448,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     
     
     <item>
-      <title>DECISÃO Nº 722, 28/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722</link>
-      <description>Defere pedido de isenção temporária e parcial de cumprimento do requisito de que trata o parágrafo 135.151(a)(1) do RBAC nº 135, em favor da RICO TÁXI AÉREO LTDA.</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-28T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Defere pedido de isenção temporária e parcial de cumprimento do requisito de que trata o parágrafo 135.151(a)(1) do RBAC nº 135, em favor da RICO TÁXI AÉREO LTDA.</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>Webinário Engenharia de Aeroportos 2025</title>
       <link>https://www.youtube.com/watch?v=zoj9US-rtXA</link>
       <description>O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. 
@@ -460,74 +528,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     
     
     <item>
-      <title>PORTARIA Nº 17761/SIA, 27/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17761</link>
-      <description>Inscreve no cadastro o heliponto privado a bordo da unidade DEEPWATER MYKONOS (9PEZ)</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17761</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-27T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve no cadastro o heliponto privado a bordo da unidade DEEPWATER MYKONOS (9PEZ)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17755/SPO, 27/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17755</link>
-      <description>Torna pública a emissão de Certificado de Organização de Manutenção</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17755</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-27T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Torna pública a emissão de Certificado de Organização de Manutenção</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17760/SIA, 27/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17760</link>
-      <description>Valida a Categoria Contraincêndio do Aeroporto Estadual de Jundiaí - Comandante Rolim Adolfo Amaro</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17760</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-27T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Valida a Categoria Contraincêndio do Aeroporto Estadual de Jundiaí - Comandante Rolim Adolfo Amaro</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17753/SIA, 27/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17753</link>
-      <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0498 no cadastro de aeródromos</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17753</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-27T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0498 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)</title>
       <link>https://www.youtube.com/watch?v=gx-VCn_gx98</link>
       <description>Processo 00058.030675/2025-84</description>
@@ -562,68 +562,34 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     
     
     <item>
+      <title>PORTARIA Nº 17751/SIA, DE 26/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17751</link>
+      <description>Aprova a petição de forma alternativa de cumprimento de requisito para o item 6.2.1.11 da IS nº 154-002, Revisão B, para o operador do Aeroporto Atlas Brasil Cantanhede, Código OACI: SBBV, Código CIAD: RR0001,  localizado em Boa Vista (RR)</description>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17751</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-26T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprova a petição de forma alternativa de cumprimento de requisito para o item 6.2.1.11 da IS nº 154-002, Revisão B, para o operador do Aeroporto Atlas Brasil Cantanhede, Código OACI: SBBV, Código CIAD: RR0001,  localizado em Boa Vista (RR)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>Portaria nº 17749/SIA, 26/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-7749</link>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17749</link>
       <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0410 no cadastro de aeródromos</description>
       <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-7749</guid>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17749</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-08-26T00:00:00.000Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0410 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17752/SIA, 26/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17752</link>
-      <description>Exclui o Aeródromo de uso privativo FAZENDA SÃO JORGE (BA) no cadastro de aeródromos</description>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17752</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-26T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Exclui o Aeródromo de uso privativo FAZENDA SÃO JORGE (BA) no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17748/SIA, 26/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17748</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD RN0023 no cadastro de aeródromos</description>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17748</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-26T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD RN0023 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17746/SIA, 26/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746</link>
-      <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos</description>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-26T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
@@ -664,6 +630,40 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     
     
     <item>
+      <title>PORTARIA Nº 17736/SIA, 25/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17736</link>
+      <description>Altera a Portaria nº 15.055/SIA, de 16 de julho de 2024</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17736</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-25T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a Portaria nº 15.055/SIA, de 16 de julho de 2024</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17737/SIA, 25/08/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17737</link>
+      <description>Aprova a petição de forma alternativa de cumprimento de requisito para os itens 6.5.5.1, 6.5.5.2, 6.5.5.3 e 6.5.5.4 da IS nº 154-002, Revisão B, para o operador do Aeroporto de Teresina/Senador Petrônio Portela, localizado em Teresina/PI (Código OACI: SBTE, Código CIAD: PI0001)</description>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17737</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-08-25T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprova a petição de forma alternativa de cumprimento de requisito para os itens 6.5.5.1, 6.5.5.2, 6.5.5.3 e 6.5.5.4 da IS nº 154-002, Revisão B, para o operador do Aeroporto de Teresina/Senador Petrônio Portela, localizado em Teresina/PI (Código OACI: SBTE, Código CIAD: PI0001)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17743/SIA, 25/08/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17743</link>
       <description>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Usiminas, Código OACI: SBIP; Código CIAD: MG0007, localizado em Santana do Paraíso (MG)</description>
@@ -675,23 +675,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Usiminas, Código OACI: SBIP; Código CIAD: MG0007, localizado em Santana do Paraíso (MG)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA 17734/SRA, 25/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17734</link>
-      <description>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Porto Alegre – Salgado Filho, localizado no Município de Porto Alegre (RS)</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17734</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-25T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Porto Alegre – Salgado Filho, localizado no Município de Porto Alegre (RS)</p>
         
       ]]></content:encoded>
     </item>
@@ -761,23 +744,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     
     
     <item>
-      <title>PORTARIA Nº 17718/SIA, 22/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17718</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD GO0381 no cadastro de aeródromos</description>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17718</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-22T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD GO0381 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos</link>
       <description>Com as melhores notas entre as agências por três anos seguidos, a Anac também se destacou no desempenho consolidado entre os órgãos avaliados na Administração Pública</description>
@@ -807,23 +773,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <content:encoded><![CDATA[
         <p>A capacitação, reconhecida pela Oaci, é voltado a profissionais da aviação civil que desejam desenvolver competências em inglês técnico</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8/linkedin-2.png/@@images/36256ef0-27c6-4f2d-b397-44c3fc20e5ba.png" alt="Inscrições abertas para o curso gratuito Aviation English Level 3 até o dia 30/8">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17713/SIA, 21/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17713</link>
-      <description>Altera a inscrição do Aeródromo de uso privativo CIAD MS0395 no cadastro de aeródromos</description>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17713</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-21T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Altera a inscrição do Aeródromo de uso privativo CIAD MS0395 no cadastro de aeródromos</p>
-        
       ]]></content:encoded>
     </item>
     
@@ -1011,23 +960,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <content:encoded><![CDATA[
         <p>Os interessados podem se inscrever até o início do evento, em 21/8</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png" alt="Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17669/SPL, 13/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17669</link>
-      <description>Altera a Portaria nº 9.888/SPL, de 28 de novembro de 2022</description>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17669</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-13T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Altera a Portaria nº 9.888/SPL, de 28 de novembro de 2022</p>
-        
       ]]></content:encoded>
     </item>
     

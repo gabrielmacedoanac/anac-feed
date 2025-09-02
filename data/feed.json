@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-efe28058-1132-449c-942f-f325bcf6ae2f",
+  "identifier": "urn:uuid:anac-feed-77861948-f7a5-4e42-8b75-513c8476e7b6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-02T16:17:07.641Z",
-  "dateModified": "2025-09-02T16:17:07.641Z",
+  "dateCreated": "2025-09-02T20:14:42.297Z",
+  "dateModified": "2025-09-02T20:14:42.297Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -49,6 +49,14 @@
       "datePublished": "2025-09-01T17:52:00.000Z",
       "description": "Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 778, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-778",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Altera dispositivos do Regimento Interno da ANAC",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -117,6 +125,38 @@
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H",
       "image": "https://i2.ytimg.com/vi/ijUF7KGaE1Q/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17773/SPO, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17773",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17779/SPL, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17779",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Suspende a pedido o Certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17772/SPO, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17772",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de GUANAGRI AVIAÇÃO AGRICOLA LTDA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17771/SPO, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17771",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de TPX COMÉRCIO TRANSPORTE E SERVIÇOS LTDA",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -192,14 +232,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 722, 28/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722",
-      "datePublished": "2025-08-28T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária e parcial de cumprimento do requisito de que trata o parágrafo 135.151(a)(1) do RBAC nº 135, em favor da RICO TÁXI AÉREO LTDA.",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário Engenharia de Aeroportos 2025",
       "url": "https://www.youtube.com/watch?v=zoj9US-rtXA",
@@ -235,38 +267,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17761/SIA, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17761",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade DEEPWATER MYKONOS (9PEZ)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17755/SPO, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17755",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17760/SIA, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17760",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Valida a Categoria Contraincêndio do Aeroporto Estadual de Jundiaí - Comandante Rolim Adolfo Amaro",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17753/SIA, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17753",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0498 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)",
       "url": "https://www.youtube.com/watch?v=gx-VCn_gx98",
@@ -285,34 +285,18 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17751/SIA, DE 26/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17751",
+      "datePublished": "2025-08-26T00:00:00.000Z",
+      "description": "Aprova a petição de forma alternativa de cumprimento de requisito para o item 6.2.1.11 da IS nº 154-002, Revisão B, para o operador do Aeroporto Atlas Brasil Cantanhede, Código OACI: SBBV, Código CIAD: RR0001,  localizado em Boa Vista (RR)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "Portaria nº 17749/SIA, 26/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-7749",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17749",
       "datePublished": "2025-08-26T00:00:00.000Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0410 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17752/SIA, 26/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17752",
-      "datePublished": "2025-08-26T00:00:00.000Z",
-      "description": "Exclui o Aeródromo de uso privativo FAZENDA SÃO JORGE (BA) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17748/SIA, 26/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17748",
-      "datePublished": "2025-08-26T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD RN0023 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17746/SIA, 26/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17746",
-      "datePublished": "2025-08-26T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1494 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -333,18 +317,26 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17743/SIA, 25/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17743",
+      "name": "PORTARIA Nº 17736/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17736",
       "datePublished": "2025-08-25T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Usiminas, Código OACI: SBIP; Código CIAD: MG0007, localizado em Santana do Paraíso (MG)",
+      "description": "Altera a Portaria nº 15.055/SIA, de 16 de julho de 2024",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA 17734/SRA, 25/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17734",
+      "name": "PORTARIA Nº 17737/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17737",
       "datePublished": "2025-08-25T00:00:00.000Z",
-      "description": "Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional de Porto Alegre – Salgado Filho, localizado no Município de Porto Alegre (RS)",
+      "description": "Aprova a petição de forma alternativa de cumprimento de requisito para os itens 6.5.5.1, 6.5.5.2, 6.5.5.3 e 6.5.5.4 da IS nº 154-002, Revisão B, para o operador do Aeroporto de Teresina/Senador Petrônio Portela, localizado em Teresina/PI (Código OACI: SBTE, Código CIAD: PI0001)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17743/SIA, 25/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17743",
+      "datePublished": "2025-08-25T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 02) do Aeroporto Usiminas, Código OACI: SBIP; Código CIAD: MG0007, localizado em Santana do Paraíso (MG)",
       "type": "legislação"
     },
     {
@@ -375,14 +367,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17718/SIA, 22/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17718",
-      "datePublished": "2025-08-22T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0381 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos",
@@ -399,14 +383,6 @@
       "description": "A capacitação, reconhecida pela Oaci, é voltado a profissionais da aviação civil que desejam desenvolver competências em inglês técnico",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8/linkedin-2.png/@@images/36256ef0-27c6-4f2d-b397-44c3fc20e5ba.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17713/SIA, 21/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17713",
-      "datePublished": "2025-08-21T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0395 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -501,14 +477,6 @@
       "description": "Os interessados podem se inscrever até o início do evento, em 21/8",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17669/SPL, 13/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17669",
-      "datePublished": "2025-08-13T00:00:00.000Z",
-      "description": "Altera a Portaria nº 9.888/SPL, de 28 de novembro de 2022",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
