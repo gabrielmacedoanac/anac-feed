@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0dcf2a41-c46d-406b-9a09-700faed36492",
+  "identifier": "urn:uuid:anac-feed-031ff466-e12c-4f85-b50a-2df757ad63d5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-03T12:27:24.114Z",
-  "dateModified": "2025-09-03T12:27:24.114Z",
+  "dateCreated": "2025-09-03T16:16:30.395Z",
+  "dateModified": "2025-09-03T16:16:30.395Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-02T09:40:00.000Z"
+    "endDate": "2025-09-03T11:16:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 91-010D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
+      "datePublished": "2025-09-03T11:16:00.000Z",
+      "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac lança manual inédito sobre o uso de drones em aeroportos",
@@ -624,14 +632,6 @@
       "description": "O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.\n\nAssim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 774, 07/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-774",
-      "datePublished": "2025-07-07T00:00:00.000Z",
-      "description": "Aprova emenda ao RBAC nº 135 e altera o anexo da Resolução nº 352, de 10 de fevereiro de 2015",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
