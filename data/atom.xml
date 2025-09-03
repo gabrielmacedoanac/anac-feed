@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-031ff466-e12c-4f85-b50a-2df757ad63d5</id>
-  <updated>2025-09-03T11:16:00.000Z</updated>
+  <id>urn:uuid:anac-feed-5908db96-14b3-4139-b991-67a3c8fa4a73</id>
+  <updated>2025-09-03T16:45:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac lança manual para avaliar áreas não pavimentadas em aeródromos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1</id>
+    <published>2025-09-03T16:45:00.000Z</published>
+    <updated>2025-09-03T16:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento traz informações sobre uso do software PCASE</summary>
+    <content type="html"><![CDATA[
+      <p>Documento traz informações sobre uso do software PCASE</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac é líder digital na qualidade de serviços no Governo Federal</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal</id>
+    <published>2025-09-03T15:16:00.000Z</published>
+    <updated>2025-09-03T15:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários</summary>
+    <content type="html"><![CDATA[
+      <p>Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png" alt="Anac é líder digital na qualidade de serviços no Governo Federal">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1104,44 +1142,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <content type="html"><![CDATA[
       <p>Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo/linkedin-24.png/@@images/7079c9b3-6966-44ea-9452-36b1db1ef2e1.png" alt="Anac avança na qualidade de serviços digitais prestados ao setor aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia</id>
-    <published>2025-08-13T14:24:00.000Z</published>
-    <updated>2025-08-13T14:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Campanha pretende mobilizar passageiros e trabalhadores dos aeroportos a promover o combate ao assédio e um ambiente mais seguro</summary>
-    <content type="html"><![CDATA[
-      <p>Campanha pretende mobilizar passageiros e trabalhadores dos aeroportos a promover o combate ao assédio e um ambiente mais seguro</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia/assedio-nao-decola-1.jpeg/@@images/ed1cb817-be98-4a41-b7c8-a0476e67bdee.jpeg" alt="Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas</id>
-    <published>2025-08-13T10:58:00.000Z</published>
-    <updated>2025-08-13T10:58:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Os interessados podem se inscrever até o início do evento, em 21/8</summary>
-    <content type="html"><![CDATA[
-      <p>Os interessados podem se inscrever até o início do evento, em 21/8</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png" alt="Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

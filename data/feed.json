@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-031ff466-e12c-4f85-b50a-2df757ad63d5",
+  "identifier": "urn:uuid:anac-feed-5908db96-14b3-4139-b991-67a3c8fa4a73",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-03T16:16:30.395Z",
-  "dateModified": "2025-09-03T16:16:30.395Z",
+  "dateCreated": "2025-09-03T20:14:39.737Z",
+  "dateModified": "2025-09-03T20:14:39.737Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-03T11:16:00.000Z"
+    "endDate": "2025-09-03T16:45:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lança manual para avaliar áreas não pavimentadas em aeródromos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1",
+      "datePublished": "2025-09-03T16:45:00.000Z",
+      "description": "Documento traz informações sobre uso do software PCASE",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac é líder digital na qualidade de serviços no Governo Federal",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal",
+      "datePublished": "2025-09-03T15:16:00.000Z",
+      "description": "Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png",
+      "type": "notícia"
+    },
     {
       "@type": "Legislation",
       "name": "IS 91-010D",
@@ -490,24 +507,6 @@
       "datePublished": "2025-08-15T12:03:00.000Z",
       "description": "Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo/linkedin-24.png/@@images/7079c9b3-6966-44ea-9452-36b1db1ef2e1.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Assédio não decola: ação nos aeroportos brasileiros quer combater o assédio",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia",
-      "datePublished": "2025-08-13T14:24:00.000Z",
-      "description": "Campanha pretende mobilizar passageiros e trabalhadores dos aeroportos a promover o combate ao assédio e um ambiente mais seguro",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/assedio-nao-decola-acao-nos-aeroportos-teve-inicio-no-aeroporto-de-brasilia/assedio-nao-decola-1.jpeg/@@images/ed1cb817-be98-4a41-b7c8-a0476e67bdee.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Inscrições para o Webinário BHEST sobre processo decisório na operação de helicópteros estão abertas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas",
-      "datePublished": "2025-08-13T10:58:00.000Z",
-      "description": "Os interessados podem se inscrever até o início do evento, em 21/8",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-para-o-webinario-bhest-sobre-processo-decisorio-na-operacao-de-helicopteros-estao-abertas/banner_portal_webinarios_anac_bhest_processo_decisorio.png/@@images/13817f59-1dbc-4086-8acb-807780fef0fd.png",
       "type": "notícia"
     },
     {
