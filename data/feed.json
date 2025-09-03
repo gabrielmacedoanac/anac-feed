@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e7afbacc-d131-457b-bbc3-eb6d107abe76",
+  "identifier": "urn:uuid:anac-feed-0dcf2a41-c46d-406b-9a09-700faed36492",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-03T08:18:26.628Z",
-  "dateModified": "2025-09-03T08:18:26.628Z",
+  "dateCreated": "2025-09-03T12:27:24.114Z",
+  "dateModified": "2025-09-03T12:27:24.114Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -52,6 +52,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17792/SPO, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17792",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Torna pública a revogação do Cadastro de AERO AGRICOLA VALE DO GUAPORE LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 778, 01/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-778",
       "datePublished": "2025-09-01T00:00:00.000Z",
@@ -82,6 +90,14 @@
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y\n\nAPRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip",
       "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17789/SPL, 30/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17789",
+      "datePublished": "2025-08-30T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -190,6 +206,14 @@
       "datePublished": "2025-08-28T09:47:00.000Z",
       "description": "Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17765/SPO, 28/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17765",
+      "datePublished": "2025-08-28T00:00:00.000Z",
+      "description": "Aprova a Instrução Suplementar nº 91-003B, a Instrução Suplementar nº 91-011C, a Instrução Suplementar nº 121-006E e a Instrução Suplementar nº 121-011D",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
