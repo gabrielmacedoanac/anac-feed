@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5908db96-14b3-4139-b991-67a3c8fa4a73",
+  "identifier": "urn:uuid:anac-feed-9f2e4f05-2ad1-4008-8c0d-0724d10b316a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-03T20:14:39.737Z",
-  "dateModified": "2025-09-03T20:14:39.737Z",
+  "dateCreated": "2025-09-04T01:04:15.933Z",
+  "dateModified": "2025-09-04T01:04:15.933Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-03T16:45:00.000Z"
+    "endDate": "2025-09-04T01:04:15.931Z"
   },
   "distribution": [
     {
@@ -33,6 +33,46 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 91-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
+      "datePublished": "2025-09-04T01:04:15.931Z",
+      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-006E",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
+      "datePublished": "2025-09-03T17:37:00.000Z",
+      "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-011D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011",
+      "datePublished": "2025-09-03T17:35:00.000Z",
+      "description": "Procedimentos para elaboração de programa de treinamento operacional de comissários de voo segundo o RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
+      "datePublished": "2025-09-03T17:33:00.000Z",
+      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-011C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011",
+      "datePublished": "2025-09-03T17:31:00.000Z",
+      "description": "Aprovação de aproximação por instrumento utilizando créditos operacionais mediante o uso de um EFVS - Enhanced Flight Vision System",
+      "type": "legislação"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac lança manual para avaliar áreas não pavimentadas em aeródromos",
@@ -341,14 +381,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "Portaria nº 17749/SIA, 26/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17749",
-      "datePublished": "2025-08-26T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0410 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "BAIST publica três novos guias para aprimorar a segurança operacional em aeródromos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/baist-publica-tres-novos-guias-para-aprimorar-a-seguranca-operacional-em-aerodromos",
@@ -527,26 +559,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 145-010C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-010c",
-      "datePublished": "2025-08-07T16:11:00.000Z",
-      "description": "Programa de treinamento de organizações de manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 119-010A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a",
       "datePublished": "2025-08-07T16:08:00.000Z",
       "description": "Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 120-016C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-120-016",
-      "datePublished": "2025-08-07T14:40:00.000Z",
-      "description": "Manutenção realizada por empresas de transporte aéreo",
       "type": "legislação"
     },
     {
@@ -599,14 +615,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 717, 21/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-717",
-      "datePublished": "2025-07-21T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 141.45(d)(1) do RBAC nº 141 e 61.29(i) do RBAC nº 61, em favor da ESCOLA DE BALONISMO LTDA.",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor",
       "url": "https://www.youtube.com/watch?v=mtlWqyDEfxc",
@@ -614,14 +622,6 @@
       "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.\n\nArquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arquivos/webinario-longarinas-air-tractor-final-11jul2025.pptx",
       "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 135 EMD 15",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135-emd-15",
-      "datePublished": "2025-07-09T17:06:00.000Z",
-      "description": "Operações de serviço de transporte aéreo com aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg (7.500 lb) ou helicópteros",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
