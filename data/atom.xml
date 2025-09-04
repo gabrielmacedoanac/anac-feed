@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0c2eacf6-6e40-47be-b482-fa6d6082c8f6</id>
-  <updated>2025-09-04T08:18:38.474Z</updated>
+  <id>urn:uuid:anac-feed-54e73b88-cf9c-46ea-88dd-77718d6b5dbd</id>
+  <updated>2025-09-04T12:28:01.887Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 91-003B</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b</id>
-    <published>2025-09-04T08:18:38.474Z</published>
-    <updated>2025-09-04T08:18:38.474Z</updated>
+    <published>2025-09-04T12:28:01.887Z</published>
+    <updated>2025-09-04T12:28:01.887Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -234,25 +234,6 @@
     <summary type="html">Altera dispositivos do Regimento Interno da ANAC</summary>
     <content type="html"><![CDATA[
       <p>Altera dispositivos do Regimento Interno da ANAC</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">INSTRUÇÃO NORMATIVA Nº 215, 01/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-215" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-215</id>
-    <published>2025-09-01T00:00:00.000Z</published>
-    <updated>2025-09-01T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Instrução Normativa nº 117, de 6 de setembro de 2017</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Instrução Normativa nº 117, de 6 de setembro de 2017</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -593,6 +574,25 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17763/SIA, DE 28/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17763" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17763</id>
+    <published>2025-08-28T00:00:00.000Z</published>
+    <updated>2025-08-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto privado a bordo da unidade DEEPWATER CORCOVADO (9PFJ)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto privado a bordo da unidade DEEPWATER CORCOVADO (9PFJ)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 17765/SPO, 28/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17765" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17765</id>
@@ -634,44 +634,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     <title type="html">PORTARIA Nº 17768/SPO, 28/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17768" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17768</id>
-    <published>2025-08-28T00:00:00.000Z</published>
-    <updated>2025-08-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17769/SPO, 28/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17769" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17769</id>
-    <published>2025-08-28T00:00:00.000Z</published>
-    <updated>2025-08-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17766/SPO, 28/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17766" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17766</id>
     <published>2025-08-28T00:00:00.000Z</published>
     <updated>2025-08-28T00:00:00.000Z</updated>
     <author>
@@ -776,17 +738,17 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17754/SPO, 27/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17754" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17754</id>
+    <title type="html">PORTARIA Nº 17757/SIA, 27/08/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17757" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17757</id>
     <published>2025-08-27T00:00:00.000Z</published>
     <updated>2025-08-27T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Aprova a Instrução Suplementar nº 91-010D</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD PI0012 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Aprova a Instrução Suplementar nº 91-010D</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD PI0012 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
