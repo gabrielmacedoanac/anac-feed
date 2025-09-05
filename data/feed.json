@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e101923e-4cf7-4a4b-8eac-8b20a7c0fd85",
+  "identifier": "urn:uuid:anac-feed-764da4af-1997-4054-b25c-392862b04d1a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-05T04:16:35.309Z",
-  "dateModified": "2025-09-05T04:16:35.309Z",
+  "dateCreated": "2025-09-05T08:18:10.990Z",
+  "dateModified": "2025-09-05T08:18:10.990Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-05T04:16:35.307Z"
+    "endDate": "2025-09-05T08:18:10.988Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 91-003B",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
-      "datePublished": "2025-09-05T04:16:35.307Z",
+      "datePublished": "2025-09-05T08:18:10.988Z",
       "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
       "type": "legislação"
     },
