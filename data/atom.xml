@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-4f98d56b-5dec-484a-9526-cb08179365c9</id>
-  <updated>2025-09-07T12:23:59.775Z</updated>
+  <id>urn:uuid:anac-feed-798cb5ea-f1c6-4928-8c6c-1286eb98e3b2</id>
+  <updated>2025-09-07T16:14:36.704Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,11 +14,30 @@
   
   
   <entry>
+    <title type="html">IS 91-003B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b</id>
+    <published>2025-09-07T16:14:36.704Z</published>
+    <updated>2025-09-07T16:14:36.704Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">EDITAL Nº 39/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-39" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-39</id>
-    <published>2025-09-07T12:23:59.775Z</published>
-    <updated>2025-09-07T12:23:59.775Z</updated>
+    <published>2025-09-07T16:14:36.703Z</published>
+    <updated>2025-09-07T16:14:36.703Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +55,8 @@
     <title type="html">EDITAL Nº 38/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-38" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-38</id>
-    <published>2025-09-07T12:23:59.775Z</published>
-    <updated>2025-09-07T12:23:59.775Z</updated>
+    <published>2025-09-07T16:14:36.703Z</published>
+    <updated>2025-09-07T16:14:36.703Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,33 +74,14 @@
     <title type="html">EDITAL Nº 37/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-37" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-37</id>
-    <published>2025-09-07T12:23:59.775Z</published>
-    <updated>2025-09-07T12:23:59.775Z</updated>
+    <published>2025-09-07T16:14:36.703Z</published>
+    <updated>2025-09-07T16:14:36.703Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Torna público o resultado preliminar do Edital nº 17/SGP/2025</summary>
     <content type="html"><![CDATA[
       <p>Torna público o resultado preliminar do Edital nº 17/SGP/2025</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 91-003B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b</id>
-    <published>2025-09-07T12:23:59.775Z</published>
-    <updated>2025-09-07T12:23:59.775Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
