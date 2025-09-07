@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-798cb5ea-f1c6-4928-8c6c-1286eb98e3b2",
+  "identifier": "urn:uuid:anac-feed-69d469dd-7f07-42d5-89cb-c401be5963b0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-07T16:14:36.707Z",
-  "dateModified": "2025-09-07T16:14:36.707Z",
+  "dateCreated": "2025-09-07T20:13:30.880Z",
+  "dateModified": "2025-09-07T20:13:30.880Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-07T16:14:36.704Z"
+    "endDate": "2025-09-07T20:13:30.878Z"
   },
   "distribution": [
     {
@@ -35,17 +35,9 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "IS 91-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
-      "datePublished": "2025-09-07T16:14:36.704Z",
-      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "EDITAL Nº 39/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-39",
-      "datePublished": "2025-09-07T16:14:36.703Z",
+      "datePublished": "2025-09-07T20:13:30.878Z",
       "description": "Torna público o resultado preliminar e altera o Edital nº 19/SGP/2025",
       "type": "legislação"
     },
@@ -53,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 38/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-38",
-      "datePublished": "2025-09-07T16:14:36.703Z",
+      "datePublished": "2025-09-07T20:13:30.878Z",
       "description": "Torna público o resultado preliminar e altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -61,8 +53,16 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 37/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-37",
-      "datePublished": "2025-09-07T16:14:36.703Z",
+      "datePublished": "2025-09-07T20:13:30.878Z",
       "description": "Torna público o resultado preliminar do Edital nº 17/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
+      "datePublished": "2025-09-07T20:13:30.878Z",
+      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
       "type": "legislação"
     },
     {
