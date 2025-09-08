@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7f872781-1d25-401d-b49a-f761627f0e6d",
+  "identifier": "urn:uuid:anac-feed-f590b6c8-7899-46f1-a9c1-1765da96d42c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-08T16:16:08.900Z",
-  "dateModified": "2025-09-08T16:16:08.900Z",
+  "dateCreated": "2025-09-08T20:15:11.984Z",
+  "dateModified": "2025-09-08T20:15:11.984Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-08T16:16:08.898Z"
+    "endDate": "2025-09-08T20:15:11.981Z"
   },
   "distribution": [
     {
@@ -35,26 +35,18 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "EDITAL Nº 39/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-39",
-      "datePublished": "2025-09-08T16:16:08.898Z",
-      "description": "Torna público o resultado preliminar e altera o Edital nº 19/SGP/2025",
+      "name": "DAVSEC Nº 07/2025, REVISÃO A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07",
+      "datePublished": "2025-09-08T20:15:11.981Z",
+      "description": "Medidas adicionais de segurança durante a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025 (COP30)",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "EDITAL Nº 38/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-38",
-      "datePublished": "2025-09-08T16:16:08.898Z",
-      "description": "Torna público o resultado preliminar e altera o Edital nº 18/SGP/2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 37/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-37",
-      "datePublished": "2025-09-08T16:16:08.898Z",
-      "description": "Torna público o resultado preliminar do Edital nº 17/SGP/2025",
+      "name": "PORTARIA Nº 17824/AUD, 05/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17824",
+      "datePublished": "2025-09-05T00:00:00.000Z",
+      "description": "Designa servidores para a realização do trabalho de Auditoria nº 5/2025, do tipo \"Avaliação\", em \"Apuração de Denúncias\"",
       "type": "legislação"
     },
     {
@@ -71,62 +63,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
       "datePublished": "2025-09-04T16:22:00.000Z",
       "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17815/SPL, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17815",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17821/SPO, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17821",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Torna pública a suspensão do Certificado de Operador Aéreo EMPRESA TRIPLE P TRANSPORTE LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17818/CRG, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17818",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17816/CRG, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17816",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17817/CRG, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17817",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17820/SIA, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17820",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 2.997/SIA, de 28 de agosto de 2017, e a Portaria nº 7.930/SIA, de 3 de maio de 2022.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17819/SIA, 04/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17819",
-      "datePublished": "2025-09-04T00:00:00.000Z",
-      "description": "Concede Certificado Operacional de Aeroporto à SPE NOVO NORTE AEROPORTOS S.A., operador do Aeroporto Internacional de Belém/Val de Cans - Júlio Cezar Ribeiro, código OACI: SBBE; código CIAD: PA0001, localizado em Belém (PA)",
       "type": "legislação"
     },
     {
@@ -189,26 +125,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17807/SIA, 02/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17807",
+      "name": "PORTARIA Nº 17801/SAF, 02/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17801",
       "datePublished": "2025-09-02T00:00:00.000Z",
-      "description": "Exclui os aeródromos privados e heliponto privado abaixo listados do cadastro de aeródromos",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17806/SIA, 02/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17806",
+      "name": "PORTARIA Nº 17803/SAF, 02/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17803",
       "datePublished": "2025-09-02T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0636 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17809/SPL, 02/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17809-1",
-      "datePublished": "2025-09-02T00:00:00.000Z",
-      "description": "Suspende cautelarmente o Certificado de CIAC emitido em favor da AUTOGIRO ESCOLA DE AVIAÇÃO CIVIL EIRELI",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
@@ -221,10 +149,58 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17343/SIA, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17343",
+      "name": "PORTARIA Nº 17799/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17799",
       "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0787 no cadastro de aeródromos",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17797/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17797",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17796/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17796",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17791/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17791",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17794/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17794",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17798/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17798",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17795/SAF, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17795",
+      "datePublished": "2025-09-01T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
@@ -289,6 +265,70 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17778/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17778",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17780/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17780",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17775/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17775",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17781/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17781",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17788/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17788",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17787/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17787",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17784/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17784",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17785/SAF, 29/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17785",
+      "datePublished": "2025-08-29T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "RBAC 25 EMD 150",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-25",
       "datePublished": "2025-08-28T17:55:00.000Z",
@@ -319,14 +359,6 @@
       "datePublished": "2025-08-28T09:47:00.000Z",
       "description": "Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17770/SIA, 28/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17770",
-      "datePublished": "2025-08-28T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1153 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
