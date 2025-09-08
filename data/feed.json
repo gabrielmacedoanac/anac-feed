@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-24b74ff6-1a3a-4631-867e-50891cbb18be",
+  "identifier": "urn:uuid:anac-feed-7f872781-1d25-401d-b49a-f761627f0e6d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-08T12:29:22.357Z",
-  "dateModified": "2025-09-08T12:29:22.357Z",
+  "dateCreated": "2025-09-08T16:16:08.900Z",
+  "dateModified": "2025-09-08T16:16:08.900Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-08T12:29:22.354Z"
+    "endDate": "2025-09-08T16:16:08.898Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 39/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-39",
-      "datePublished": "2025-09-08T12:29:22.354Z",
+      "datePublished": "2025-09-08T16:16:08.898Z",
       "description": "Torna público o resultado preliminar e altera o Edital nº 19/SGP/2025",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 38/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-38",
-      "datePublished": "2025-09-08T12:29:22.354Z",
+      "datePublished": "2025-09-08T16:16:08.898Z",
       "description": "Torna público o resultado preliminar e altera o Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -53,16 +53,16 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 37/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-37",
-      "datePublished": "2025-09-08T12:29:22.354Z",
+      "datePublished": "2025-09-08T16:16:08.898Z",
       "description": "Torna público o resultado preliminar do Edital nº 17/SGP/2025",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 91-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
-      "datePublished": "2025-09-08T12:29:22.354Z",
-      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
+      "name": "PORTARIA Nº 17823/SIA, 05/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17823",
+      "datePublished": "2025-09-05T00:00:00.000Z",
+      "description": "Aprova a Diretriz de Segurança da Aviação Civil contra Atos de Interferência Ilícita nº 07-2025, Revisão A",
       "type": "legislação"
     },
     {
@@ -71,6 +71,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
       "datePublished": "2025-09-04T16:22:00.000Z",
       "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17815/SPL, 04/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17815",
+      "datePublished": "2025-09-04T00:00:00.000Z",
+      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17821/SPO, 04/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17821",
+      "datePublished": "2025-09-04T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Operador Aéreo EMPRESA TRIPLE P TRANSPORTE LTDA.",
       "type": "legislação"
     },
     {
@@ -173,6 +189,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17807/SIA, 02/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17807",
+      "datePublished": "2025-09-02T00:00:00.000Z",
+      "description": "Exclui os aeródromos privados e heliponto privado abaixo listados do cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17806/SIA, 02/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17806",
+      "datePublished": "2025-09-02T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0636 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17809/SPL, 02/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17809-1",
       "datePublished": "2025-09-02T00:00:00.000Z",
@@ -189,18 +221,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17790/SIA, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17790",
+      "name": "PORTARIA Nº 17343/SIA, 01/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17343",
       "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORMAND MERMAID (9PMT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17792/SPO, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17792",
-      "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Torna pública a revogação do Cadastro de AERO AGRICOLA VALE DO GUAPORE LTDA.",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0787 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -219,14 +243,6 @@
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y\n\nAPRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip",
       "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17789/SPL, 30/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17789",
-      "datePublished": "2025-08-30T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -306,10 +322,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17763/SIA, DE 28/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17763",
+      "name": "PORTARIA Nº 17770/SIA, 28/08/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17770",
       "datePublished": "2025-08-28T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade DEEPWATER CORCOVADO (9PFJ)",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1153 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -346,22 +362,6 @@
       "description": "Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17756/SIA, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17756",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1359 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17757/SIA, 27/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17757",
-      "datePublished": "2025-08-27T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PI0012 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
