@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e807dd07-8a3c-4c94-be7b-70863437006f</id>
-  <updated>2025-09-09T08:19:38.949Z</updated>
+  <id>urn:uuid:anac-feed-c7211a14-2888-47a0-a302-6ad9db658bdd</id>
+  <updated>2025-09-09T12:29:34.759Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">DAVSEC Nº 07/2025, REVISÃO A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07</id>
-    <published>2025-09-09T08:19:38.949Z</published>
-    <updated>2025-09-09T08:19:38.949Z</updated>
+    <published>2025-09-09T12:29:34.759Z</published>
+    <updated>2025-09-09T12:29:34.759Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -44,25 +44,6 @@
     <summary type="html">Designa servidores para a realização do trabalho de Auditoria nº 5/2025, do tipo &quot;Avaliação&quot;, em &quot;Apuração de Denúncias&quot;</summary>
     <content type="html"><![CDATA[
       <p>Designa servidores para a realização do trabalho de Auditoria nº 5/2025, do tipo "Avaliação", em "Apuração de Denúncias"</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17823/SIA, 05/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17823" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17823</id>
-    <published>2025-09-05T00:00:00.000Z</published>
-    <updated>2025-09-05T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a Diretriz de Segurança da Aviação Civil contra Atos de Interferência Ilícita nº 07-2025, Revisão A</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a Diretriz de Segurança da Aviação Civil contra Atos de Interferência Ilícita nº 07-2025, Revisão A</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -204,6 +185,44 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17811/SIA, 03/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17811" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17811</id>
+    <published>2025-09-03T00:00:00.000Z</published>
+    <updated>2025-09-03T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MG0642 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD MG0642 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17810/SIA, 03/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17810" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17810</id>
+    <published>2025-09-03T00:00:00.000Z</published>
+    <updated>2025-09-03T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD GO0409 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD GO0409 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac lança manual inédito sobre o uso de drones em aeroportos</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos</id>
@@ -223,17 +242,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17801/SAF, 02/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17801" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17801</id>
+    <title type="html">PORTARIA Nº 17805/SIA, 02/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria17805" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria17805</id>
     <published>2025-09-02T00:00:00.000Z</published>
     <updated>2025-09-02T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
+    <summary type="html">Altera a inscrição do Heliponto privado elevado CIAD SP0393 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
+      <p>Altera a inscrição do Heliponto privado elevado CIAD SP0393 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -242,9 +261,9 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17803/SAF, 02/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17803" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17803</id>
+    <title type="html">PORTARIA Nº 17801/SAF, 02/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17801" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17801</id>
     <published>2025-09-02T00:00:00.000Z</published>
     <updated>2025-09-02T00:00:00.000Z</updated>
     <author>
@@ -699,25 +718,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
     <content type="html"><![CDATA[
       <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17785/SAF, 29/08/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17785" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17785</id>
-    <published>2025-08-29T00:00:00.000Z</published>
-    <updated>2025-08-29T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Gestor de Contrato</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Gestor de Contrato</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
