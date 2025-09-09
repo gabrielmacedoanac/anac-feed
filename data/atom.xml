@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c7211a14-2888-47a0-a302-6ad9db658bdd</id>
-  <updated>2025-09-09T12:29:34.759Z</updated>
+  <id>urn:uuid:anac-feed-50e7aba2-6f22-429b-bc2c-1360a864bc30</id>
+  <updated>2025-09-09T16:17:32.444Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">DAVSEC Nº 07/2025, REVISÃO A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07</id>
-    <published>2025-09-09T12:29:34.759Z</published>
-    <updated>2025-09-09T12:29:34.759Z</updated>
+    <published>2025-09-09T16:17:32.444Z</published>
+    <updated>2025-09-09T16:17:32.444Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -63,6 +63,25 @@
     <summary type="html">Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121</summary>
     <content type="html"><![CDATA[
       <p>Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17822/SAF, 04/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17822" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17822</id>
+    <published>2025-09-04T00:00:00.000Z</published>
+    <updated>2025-09-04T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a concessão de suprimento fundos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a concessão de suprimento fundos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -397,25 +416,6 @@
     <title type="html">PORTARIA Nº 17798/SAF, 01/09/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17798" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17798</id>
-    <published>2025-09-01T00:00:00.000Z</published>
-    <updated>2025-09-01T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17795/SAF, 01/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17795" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17795</id>
     <published>2025-09-01T00:00:00.000Z</published>
     <updated>2025-09-01T00:00:00.000Z</updated>
     <author>

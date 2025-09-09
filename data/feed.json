@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c7211a14-2888-47a0-a302-6ad9db658bdd",
+  "identifier": "urn:uuid:anac-feed-50e7aba2-6f22-429b-bc2c-1360a864bc30",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-09T12:29:34.762Z",
-  "dateModified": "2025-09-09T12:29:34.762Z",
+  "dateCreated": "2025-09-09T16:17:32.446Z",
+  "dateModified": "2025-09-09T16:17:32.446Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-09T12:29:34.759Z"
+    "endDate": "2025-09-09T16:17:32.444Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "DAVSEC Nº 07/2025, REVISÃO A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07",
-      "datePublished": "2025-09-09T12:29:34.759Z",
+      "datePublished": "2025-09-09T16:17:32.444Z",
       "description": "Medidas adicionais de segurança durante a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025 (COP30)",
       "type": "legislação"
     },
@@ -55,6 +55,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
       "datePublished": "2025-09-04T16:22:00.000Z",
       "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17822/SAF, 04/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17822",
+      "datePublished": "2025-09-04T00:00:00.000Z",
+      "description": "Torna pública a concessão de suprimento fundos",
       "type": "legislação"
     },
     {
@@ -199,14 +207,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17798/SAF, 01/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17798",
-      "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17795/SAF, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17795",
       "datePublished": "2025-09-01T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
