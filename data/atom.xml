@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-50e7aba2-6f22-429b-bc2c-1360a864bc30</id>
-  <updated>2025-09-09T16:17:32.444Z</updated>
+  <id>urn:uuid:anac-feed-aa8aa727-6a52-4334-8d29-c2bc05b809f0</id>
+  <updated>2025-09-09T20:15:04.413Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">DAVSEC Nº 07/2025, REVISÃO A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07</id>
-    <published>2025-09-09T16:17:32.444Z</published>
-    <updated>2025-09-09T16:17:32.444Z</updated>
+    <published>2025-09-09T20:15:04.413Z</published>
+    <updated>2025-09-09T20:15:04.413Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Pilotos do Semiárido: publicados a lista final e o cronograma atualizado do processo seletivo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo</id>
+    <published>2025-09-09T17:09:00.000Z</published>
+    <updated>2025-09-09T17:09:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1221,25 +1240,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac avança na qualidade de serviços digitais prestados ao setor aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo</id>
-    <published>2025-08-15T12:03:00.000Z</published>
-    <updated>2025-08-15T12:03:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais</summary>
-    <content type="html"><![CDATA[
-      <p>Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo/linkedin-24.png/@@images/7079c9b3-6966-44ea-9452-36b1db1ef2e1.png" alt="Anac avança na qualidade de serviços digitais prestados ao setor aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

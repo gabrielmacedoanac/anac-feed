@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-50e7aba2-6f22-429b-bc2c-1360a864bc30",
+  "identifier": "urn:uuid:anac-feed-aa8aa727-6a52-4334-8d29-c2bc05b809f0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-09T16:17:32.446Z",
-  "dateModified": "2025-09-09T16:17:32.446Z",
+  "dateCreated": "2025-09-09T20:15:04.415Z",
+  "dateModified": "2025-09-09T20:15:04.415Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-09T16:17:32.444Z"
+    "endDate": "2025-09-09T20:15:04.413Z"
   },
   "distribution": [
     {
@@ -37,9 +37,17 @@
       "@type": "Legislation",
       "name": "DAVSEC Nº 07/2025, REVISÃO A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07",
-      "datePublished": "2025-09-09T16:17:32.444Z",
+      "datePublished": "2025-09-09T20:15:04.413Z",
       "description": "Medidas adicionais de segurança durante a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025 (COP30)",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Pilotos do Semiárido: publicados a lista final e o cronograma atualizado do processo seletivo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo",
+      "datePublished": "2025-09-09T17:09:00.000Z",
+      "description": "Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -539,15 +547,6 @@
       "datePublished": "2025-08-15T14:31:00.000Z",
       "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac avança na qualidade de serviços digitais prestados ao setor aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo",
-      "datePublished": "2025-08-15T12:03:00.000Z",
-      "description": "Agência alcança a 9ª posição no ranking do Governo Federal que avalia a satisfação do usuário com serviços digitais",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-na-qualidade-de-servicos-digitais-prestados-ao-setor-aereo/linkedin-24.png/@@images/7079c9b3-6966-44ea-9452-36b1db1ef2e1.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
