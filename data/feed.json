@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3c3dc4e5-4e83-4902-98a1-513954cdaa8d",
+  "identifier": "urn:uuid:anac-feed-1b5239fd-eca9-4770-a3cf-822bc94a27d5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-10T12:27:23.649Z",
-  "dateModified": "2025-09-10T12:27:23.649Z",
+  "dateCreated": "2025-09-10T16:17:05.905Z",
+  "dateModified": "2025-09-10T16:17:05.905Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-05-28T21:41:32.000Z",
-    "endDate": "2025-09-10T12:27:23.647Z"
+    "startDate": "2025-05-29T21:23:16.000Z",
+    "endDate": "2025-09-10T16:17:05.903Z"
   },
   "distribution": [
     {
@@ -35,11 +35,52 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "EDITAL Nº 40/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40",
+      "datePublished": "2025-09-10T16:17:05.903Z",
+      "description": "Torna público o resultado definitivo do Edital nº 17/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 42/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42",
+      "datePublished": "2025-09-10T16:17:05.903Z",
+      "description": "Torna público o resultado definitivo do Edital nº 19/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 41/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41",
+      "datePublished": "2025-09-10T16:17:05.903Z",
+      "description": "Torna público o resultado definitivo do Edital nº 18/SGP/2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 43/SPL/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-43",
+      "datePublished": "2025-09-10T16:17:05.903Z",
+      "description": "Altera o Edital nº 21/SPL/2025, de 9 de setembro de 2025.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "DAVSEC Nº 07/2025, REVISÃO A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/planos-e-programas/davsec-07",
-      "datePublished": "2025-09-10T12:27:23.647Z",
+      "datePublished": "2025-09-10T16:17:05.903Z",
       "description": "Medidas adicionais de segurança durante a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025 (COP30)",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Cerimônia de posse da nova diretoria da Anac",
+      "url": "https://www.youtube.com/watch?v=jTD_JdU6otI",
+      "datePublished": "2025-09-10T15:17:51.000Z",
+      "description": "",
+      "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
@@ -48,6 +89,14 @@
       "datePublished": "2025-09-09T17:09:00.000Z",
       "description": "Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17829/SAF, 08/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17829",
+      "datePublished": "2025-09-08T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -156,14 +205,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17801/SAF, 02/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17801",
-      "datePublished": "2025-09-02T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Aberta consulta pública para atualizar regulamentos de aeroportos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos",
@@ -191,30 +232,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17796/SAF, 01/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17796",
-      "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17791/SAF, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17791",
-      "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17794/SAF, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17794",
-      "datePublished": "2025-09-01T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17798/SAF, 01/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17798",
       "datePublished": "2025-09-01T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
@@ -323,14 +340,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17787/SAF, 29/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17787",
-      "datePublished": "2025-08-29T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17784/SAF, 29/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17784",
       "datePublished": "2025-08-29T00:00:00.000Z",
       "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
@@ -691,15 +700,6 @@
       "datePublished": "2025-05-29T21:23:16.000Z",
       "description": "Seja bem-vindo!\n \nWebinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.\n \nO objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  \n \nPara perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU\n \nMais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros\n \nParticipe!",
       "image": "https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "28/05 - Digital Week 2025, das 16h30 às 18h",
-      "url": "https://www.youtube.com/watch?v=crgpnzzFz9s",
-      "datePublished": "2025-05-28T21:41:32.000Z",
-      "description": "Seja bem-vindo!\n\nPainel: SuperApp e Citizen Experience - Avançado para o Governo Proativo \nFormato: Digital, com transmissão pelo Canal Oficial do Youtube \nLink do Slido (perguntas): https://app.sli.do/event/aDKcWpJ2s5KDin8c7MyTXV\n\nModerador: Felipe Cruz, gerente de Soluções Digitais da Anac\n\nPainelista 1: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação Digital da Anac\nPainelista 2: Marcos Moreira, coordenador-geral de Interação e Inteligência do Ministério da Gestão e da Inovação do Serviço Público\nPainelista 3: Sheila Valeriano Lopes Antonioli, head of Customer Happiness do SERPRO\nPainelista 4: Rafael Cunha, secretário de Transformação Digital e Ciência e Tecnologia da Prefeitura da cidade de Recife\n\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
-      "image": "https://i4.ytimg.com/vi/crgpnzzFz9s/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
