@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d2efc896-9452-42df-98a2-27689fcbe77a</id>
-  <updated>2025-09-11T16:16:55.696Z</updated>
+  <id>urn:uuid:anac-feed-d8a4c531-dcc9-4c4e-807f-a277c40c0ded</id>
+  <updated>2025-09-11T20:11:48.162Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 40/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40</id>
-    <published>2025-09-11T16:16:55.696Z</published>
-    <updated>2025-09-11T16:16:55.696Z</updated>
+    <published>2025-09-11T20:11:48.162Z</published>
+    <updated>2025-09-11T20:11:48.162Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">EDITAL Nº 42/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42</id>
-    <published>2025-09-11T16:16:55.696Z</published>
-    <updated>2025-09-11T16:16:55.696Z</updated>
+    <published>2025-09-11T20:11:48.162Z</published>
+    <updated>2025-09-11T20:11:48.162Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,8 +55,8 @@
     <title type="html">EDITAL Nº 41/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41</id>
-    <published>2025-09-11T16:16:55.696Z</published>
-    <updated>2025-09-11T16:16:55.696Z</updated>
+    <published>2025-09-11T20:11:48.162Z</published>
+    <updated>2025-09-11T20:11:48.162Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -74,8 +74,8 @@
     <title type="html">EDITAL Nº 43/SPL/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-43" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-43</id>
-    <published>2025-09-11T16:16:55.696Z</published>
-    <updated>2025-09-11T16:16:55.696Z</updated>
+    <published>2025-09-11T20:11:48.162Z</published>
+    <updated>2025-09-11T20:11:48.162Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -86,6 +86,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo</id>
+    <published>2025-09-11T16:09:00.000Z</published>
+    <updated>2025-09-11T16:09:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</summary>
+    <content type="html"><![CDATA[
+      <p>Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png" alt="Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia</id>
+    <published>2025-09-11T14:12:00.000Z</published>
+    <updated>2025-09-11T14:12:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/20250910_153022-1.jpg/@@images/390e844d-3451-4a5b-83fd-bc6a3636addb.jpeg" alt="Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -105,6 +143,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17848, 10/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17848" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17848</id>
+    <published>2025-09-10T00:00:00.000Z</published>
+    <updated>2025-09-10T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Isadora Valle de Oliveira Pinha para exercer a Presidência da Comissão de Ética da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Isadora Valle de Oliveira Pinha para exercer a Presidência da Comissão de Ética da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -481,25 +538,6 @@
     <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
     <content type="html"><![CDATA[
       <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17797/SAF, 01/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17797" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17797</id>
-    <published>2025-09-01T00:00:00.000Z</published>
-    <updated>2025-09-01T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1180,44 +1218,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <content type="html"><![CDATA[
       <p>O objetivo é fortalecer a cultura de segurança operacional e atualizar regulados sobre alterações normativas</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/webinario-engenharia-de-aeroportos-2025-sera-realizado-nos-dias-27-e-29-8/linkedin-webinarios_anac_engenharia_aeroportos_2025.png/@@images/943a99e6-adad-41ff-90c1-1a3cdc44e6e2.png" alt="Webinário Engenharia de Aeroportos 2025 será realizado entre os dias 27 a 29/8">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">BHEST publica boletim de ocorrências operacionais e estudo preliminar de segurança operacional para eVTOLs</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/bhest-publica-boletim-de-ocorrencias-operacionais-e-estudo-preliminar-de-seguranca-operacional-para-evtols" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/bhest-publica-boletim-de-ocorrencias-operacionais-e-estudo-preliminar-de-seguranca-operacional-para-evtols</id>
-    <published>2025-08-15T15:25:00.000Z</published>
-    <updated>2025-08-15T15:25:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publicações trazem dados de 2024 e apontam desafios para a entrada em serviço de aeronaves elétricas de pouso e decolagem vertical</summary>
-    <content type="html"><![CDATA[
-      <p>Publicações trazem dados de 2024 e apontam desafios para a entrada em serviço de aeronaves elétricas de pouso e decolagem vertical</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac certifica nova empresa para a operação de voos comerciais</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-nova-empresa-para-a-operacao-de-voos-comerciais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-nova-empresa-para-a-operacao-de-voos-comerciais</id>
-    <published>2025-08-15T15:00:00.000Z</published>
-    <updated>2025-08-15T15:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A companhia Placar Linhas Aéreas poderá operar rotas comerciais não regulares no Brasil e América do Sul</summary>
-    <content type="html"><![CDATA[
-      <p>A companhia Placar Linhas Aéreas poderá operar rotas comerciais não regulares no Brasil e América do Sul</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
