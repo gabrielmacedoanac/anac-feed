@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-bb0d7c7e-a6c8-4ec8-89ae-24ed9993d821</id>
-  <updated>2025-09-12T12:26:49.727Z</updated>
+  <id>urn:uuid:anac-feed-7060a5f3-47ba-477d-b669-76509feadf57</id>
+  <updated>2025-09-12T16:13:45.462Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 40/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40</id>
-    <published>2025-09-12T12:26:49.727Z</published>
-    <updated>2025-09-12T12:26:49.727Z</updated>
+    <published>2025-09-12T16:13:45.462Z</published>
+    <updated>2025-09-12T16:13:45.462Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">EDITAL Nº 42/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42</id>
-    <published>2025-09-12T12:26:49.727Z</published>
-    <updated>2025-09-12T12:26:49.727Z</updated>
+    <published>2025-09-12T16:13:45.462Z</published>
+    <updated>2025-09-12T16:13:45.462Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -55,8 +55,8 @@
     <title type="html">EDITAL Nº 41/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41</id>
-    <published>2025-09-12T12:26:49.727Z</published>
-    <updated>2025-09-12T12:26:49.727Z</updated>
+    <published>2025-09-12T16:13:45.462Z</published>
+    <updated>2025-09-12T16:13:45.462Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -74,8 +74,8 @@
     <title type="html">EDITAL Nº 43/SPL/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-43" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-43</id>
-    <published>2025-09-12T12:26:49.727Z</published>
-    <updated>2025-09-12T12:26:49.727Z</updated>
+    <published>2025-09-12T16:13:45.462Z</published>
+    <updated>2025-09-12T16:13:45.462Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -86,6 +86,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Semana de Cibersegurança da ANAC 2025</title>
+    <link href="https://www.youtube.com/watch?v=59Nj2ERVgWE" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=59Nj2ERVgWE</id>
+    <published>2025-09-12T15:51:17.000Z</published>
+    <updated>2025-09-12T15:51:17.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2</summary>
+    <content type="html"><![CDATA[
+      <p>Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2</p>
+      <img src="https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg" alt="Semana de Cibersegurança da ANAC 2025">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -120,7 +139,7 @@
     <summary type="html">Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</summary>
     <content type="html"><![CDATA[
       <p>Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/20250910_153022-1.jpg/@@images/390e844d-3451-4a5b-83fd-bc6a3636addb.jpeg" alt="Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília">
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/01.png/@@images/b188f5b1-4df4-486c-8a9f-af43a6c52973.png" alt="Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -181,6 +200,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17842/SAF, 09/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17842" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17842</id>
+    <published>2025-09-09T00:00:00.000Z</published>
+    <updated>2025-09-09T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Equipe de Fiscalização de Contrato</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Equipe de Fiscalização de Contrato</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -523,25 +561,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17799/SAF, 01/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17799" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17799</id>
-    <published>2025-09-01T00:00:00.000Z</published>
-    <updated>2025-09-01T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1690,45 +1709,6 @@ Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-ins
 
 Participe!</p>
       <img src="https://i2.ytimg.com/vi/aQXaMrKaNyg/hqdefault.jpg" alt="29/05 - Digital Week 2025, das 14h às 16h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Webinário BHEST: gestão do risco meteorológico em helicópteros</title>
-    <link href="https://www.youtube.com/watch?v=eP_kUuagOIg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=eP_kUuagOIg</id>
-    <published>2025-05-29T21:23:16.000Z</published>
-    <updated>2025-05-29T21:23:16.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Seja bem-vindo!
- 
-Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
- 
-O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
- 
-Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
- 
-Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
- 
-Participe!</summary>
-    <content type="html"><![CDATA[
-      <p>Seja bem-vindo!
- 
-Webinário BHEST: gestão do risco meteorológico em helicópteros, dia 29 de maio, das 16h às 18h.
- 
-O objetivo do evento é concentrar os esforços na disseminação da cultura, dos conceitos e das melhores práticas relacionadas à Segurança Operacional junto aos provedores de serviço da aviação civil, abrangendo temas relacionados aos trabalhos desenvolvidos pelo Grupo de Segurança Operacional de Helicópteros (BHEST).  
- 
-Para perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/vDonSfQeHnp1Xtii3qKuAU
- 
-Mais informações:  https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-bhest-gestao-do-risco-meteorologico-em-helicopteros
- 
-Participe!</p>
-      <img src="https://i2.ytimg.com/vi/eP_kUuagOIg/hqdefault.jpg" alt="Webinário BHEST: gestão do risco meteorológico em helicópteros">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
