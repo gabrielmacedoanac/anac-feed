@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a9b75388-eff1-4e9b-8a35-2b30e82f5751",
+  "identifier": "urn:uuid:anac-feed-4de8329e-ab86-45b6-8c3a-c253fce26bed",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-12T20:14:49.302Z",
-  "dateModified": "2025-09-12T20:14:49.302Z",
+  "dateCreated": "2025-09-13T00:58:50.308Z",
+  "dateModified": "2025-09-13T00:58:50.308Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-30T07:15:34.000Z",
-    "endDate": "2025-09-12T20:14:49.300Z"
+    "endDate": "2025-09-13T00:58:50.306Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 40/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40",
-      "datePublished": "2025-09-12T20:14:49.300Z",
+      "datePublished": "2025-09-13T00:58:50.306Z",
       "description": "Torna público o resultado definitivo do Edital nº 17/SGP/2025",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 42/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42",
-      "datePublished": "2025-09-12T20:14:49.300Z",
+      "datePublished": "2025-09-13T00:58:50.306Z",
       "description": "Torna público o resultado definitivo do Edital nº 19/SGP/2025",
       "type": "legislação"
     },
@@ -53,7 +53,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 41/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41",
-      "datePublished": "2025-09-12T20:14:49.300Z",
+      "datePublished": "2025-09-13T00:58:50.306Z",
       "description": "Torna público o resultado definitivo do Edital nº 18/SGP/2025",
       "type": "legislação"
     },
@@ -61,7 +61,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 43/SPL/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-43",
-      "datePublished": "2025-09-12T20:14:49.300Z",
+      "datePublished": "2025-09-13T00:58:50.306Z",
       "description": "Altera o Edital nº 21/SPL/2025, de 9 de setembro de 2025.",
       "type": "legislação"
     },
