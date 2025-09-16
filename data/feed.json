@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-16f6baa4-959e-449c-b7e3-d7bedf31cf74",
+  "identifier": "urn:uuid:anac-feed-3cfde41a-a053-4d1e-be34-94ff6cf76443",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-16T12:27:51.863Z",
-  "dateModified": "2025-09-16T12:27:51.863Z",
+  "dateCreated": "2025-09-16T16:17:24.724Z",
+  "dateModified": "2025-09-16T16:17:24.724Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-30T07:15:34.000Z",
-    "endDate": "2025-09-16T12:27:51.861Z"
+    "endDate": "2025-09-16T16:17:24.722Z"
   },
   "distribution": [
     {
@@ -37,32 +37,8 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 1/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1",
-      "datePublished": "2025-09-16T12:27:51.861Z",
+      "datePublished": "2025-09-16T16:17:24.722Z",
       "description": "Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 40/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-40",
-      "datePublished": "2025-09-16T12:27:51.861Z",
-      "description": "Torna público o resultado definitivo do Edital nº 17/SGP/2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 42/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-42",
-      "datePublished": "2025-09-16T12:27:51.861Z",
-      "description": "Torna público o resultado definitivo do Edital nº 19/SGP/2025",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 41/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-41",
-      "datePublished": "2025-09-16T12:27:51.861Z",
-      "description": "Torna público o resultado definitivo do Edital nº 18/SGP/2025",
       "type": "legislação"
     },
     {
@@ -84,6 +60,22 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17864/SAF, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17864",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17868/SAF, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17868",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Designa Responsável pelo Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Semana de Cibersegurança da ANAC 2025",
       "url": "https://www.youtube.com/watch?v=59Nj2ERVgWE",
@@ -91,6 +83,14 @@
       "description": "Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2",
       "image": "https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17862/CRG, 12/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17862",
+      "datePublished": "2025-09-12T00:00:00.000Z",
+      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -111,6 +111,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17853/SIA, 11/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17853",
+      "datePublished": "2025-09-11T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD ES0056 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Cerimônia de posse da nova diretoria da Anac",
       "url": "https://www.youtube.com/watch?v=jTD_JdU6otI",
@@ -118,6 +126,22 @@
       "description": "",
       "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17845/SIA, 10/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17845",
+      "datePublished": "2025-09-10T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1155 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17850/SIA, 10/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17850",
+      "datePublished": "2025-09-10T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0111 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -150,6 +174,14 @@
       "datePublished": "2025-09-09T17:09:00.000Z",
       "description": "Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17833/SIA, 09/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17833",
+      "datePublished": "2025-09-09T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0040 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -189,30 +221,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17831",
       "datePublished": "2025-09-08T00:00:00.000Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0405 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17829/SAF, 08/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17829",
-      "datePublished": "2025-09-08T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17826/SIA, 05/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17826",
-      "datePublished": "2025-09-05T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0510 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17827/SPL, 05/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17827",
-      "datePublished": "2025-09-05T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
@@ -296,14 +304,6 @@
       "description": "Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos/drone.jpg/@@images/5f88e20d-ab80-48c6-8942-83c02bda91c9.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17804/SRA, 02/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17804",
-      "datePublished": "2025-09-02T00:00:00.000Z",
-      "description": "Revisa o teto da Tarifa de Embarque Doméstica aplicável ao Contrato de Concessão do Aeroporto Internacional de Salvador – Deputado Luís Eduardo Magalhães, localizado no município de Salvador (BA)",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -659,14 +659,6 @@
       "description": "Início - 1:58\nProcesso 00058.032050/2020-42 - 2:30\nProcesso 00058.016682/2025-73 - 18:47\nProcesso 00058.034495/2025-71 - 52:43\nProcesso 00058.021107/2025-92 - 1:43:44\nProcesso 00058.016310/2020-32 - 2:13:53",
       "image": "https://i4.ytimg.com/vi/w5UcldjPOtw/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17264/SIA, 23/06/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17264",
-      "datePublished": "2025-06-23T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0785 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
