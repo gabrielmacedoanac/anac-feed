@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a46271e7-d419-4f4c-8a68-2570a044bf84",
+  "identifier": "urn:uuid:anac-feed-38df9f6a-154e-4519-970d-1955391091d8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-17T16:17:32.768Z",
-  "dateModified": "2025-09-17T16:17:32.768Z",
+  "dateCreated": "2025-09-17T20:14:49.368Z",
+  "dateModified": "2025-09-17T20:14:49.368Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2024-12-18T12:52:37.000Z",
-    "endDate": "2025-09-17T16:17:32.765Z"
+    "endDate": "2025-09-17T20:14:49.365Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 1/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1",
-      "datePublished": "2025-09-17T16:17:32.765Z",
+      "datePublished": "2025-09-17T20:14:49.365Z",
       "description": "Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df",
+      "datePublished": "2025-09-17T16:32:00.000Z",
+      "description": "Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -550,14 +559,6 @@
       "datePublished": "2025-08-20T10:45:00.000Z",
       "description": "Esse é o maior número de passageiros movimentados em um único mês",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho/card-6_julho__.png/@@images/33575d3c-9546-4a8f-bd73-7137c1e5390d.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Funcionamento de motores e procedimentos de segurança são abordados em nova Instrução Suplementar da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/funcionamento-de-motores-e-procedimentos-de-seguranca-sao-abordados-em-nova-instrucao-suplementar-da-anac",
-      "datePublished": "2025-08-18T17:54:00.000Z",
-      "description": "Elaborado com a comunidade aeronáutica, o documento orienta sobre prevenção de ocorrências e estabelece procedimentos para fortalecer a segurança operacional.",
       "type": "notícia"
     },
     {
