@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9742768c-d132-4f51-b04b-f8ee10705c8b",
+  "identifier": "urn:uuid:anac-feed-fa4b3743-9bdf-43ae-a1ef-7780d0302d8d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-18T01:02:04.123Z",
-  "dateModified": "2025-09-18T01:02:04.123Z",
+  "dateCreated": "2025-09-18T04:16:19.716Z",
+  "dateModified": "2025-09-18T04:16:19.716Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-31T03:00:21.000Z",
-    "endDate": "2025-09-18T01:02:04.118Z"
+    "endDate": "2025-09-18T04:16:19.714Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 1/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1",
-      "datePublished": "2025-09-18T01:02:04.118Z",
+      "datePublished": "2025-09-18T04:16:19.714Z",
       "description": "Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026",
       "type": "legislação"
     },
