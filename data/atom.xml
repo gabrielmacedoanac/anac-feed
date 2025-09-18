@@ -4,32 +4,13 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0e0d71bc-4469-4dc1-b885-789d8bbbcde0</id>
-  <updated>2025-09-18T08:18:16.374Z</updated>
+  <id>urn:uuid:anac-feed-33c3d00a-ce1c-43f7-8e2a-70daaa89ad81</id>
+  <updated>2025-09-18T00:39:56.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
-  
-  
-  <entry>
-    <title type="html">EDITAL Nº 1/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1</id>
-    <published>2025-09-18T08:18:16.374Z</published>
-    <updated>2025-09-18T08:18:16.374Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
   
   
   <entry>
@@ -113,6 +94,25 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17889/SPL, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17889" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17889</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183</summary>
+    <content type="html"><![CDATA[
+      <p>Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac firma compromisso para ampliar práticas sustentáveis na Agência</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia</id>
@@ -143,6 +143,25 @@
     <summary type="html">Aprova o Manual de Procedimentos - MPR/SPL-015-R00</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Manual de Procedimentos - MPR/SPL-015-R00</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17863/SIA, 15/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17863" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17863</id>
+    <published>2025-09-15T00:00:00.000Z</published>
+    <updated>2025-09-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto de Rondonópolis - Maestro Marinho Franco (Código OACI: SBRD, Código CIAD: MT0004), localizado em Rondonópolis (MT)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto de Rondonópolis - Maestro Marinho Franco (Código OACI: SBRD, Código CIAD: MT0004), localizado em Rondonópolis (MT)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -675,25 +694,6 @@
     <summary type="html">Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)</summary>
     <content type="html"><![CDATA[
       <p>Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17814/SPO, 03/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17814" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17814</id>
-    <published>2025-09-03T00:00:00.000Z</published>
-    <updated>2025-09-03T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a emissão de Certificado de Organização de Manutenção</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a emissão de Certificado de Organização de Manutenção</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0e0d71bc-4469-4dc1-b885-789d8bbbcde0",
+  "identifier": "urn:uuid:anac-feed-33c3d00a-ce1c-43f7-8e2a-70daaa89ad81",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-18T08:18:16.376Z",
-  "dateModified": "2025-09-18T08:18:16.376Z",
+  "dateCreated": "2025-09-18T12:27:36.062Z",
+  "dateModified": "2025-09-18T12:27:36.062Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-31T03:00:21.000Z",
-    "endDate": "2025-09-18T08:18:16.374Z"
+    "endDate": "2025-09-18T00:39:56.000Z"
   },
   "distribution": [
     {
@@ -33,14 +33,6 @@
     }
   ],
   "items": [
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 1/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1",
-      "datePublished": "2025-09-18T08:18:16.374Z",
-      "description": "Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026",
-      "type": "legislação"
-    },
     {
       "@type": "VideoObject",
       "name": "12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)",
@@ -78,6 +70,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17889/SPL, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17889",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac firma compromisso para ampliar práticas sustentáveis na Agência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia",
@@ -92,6 +92,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17873",
       "datePublished": "2025-09-15T00:00:00.000Z",
       "description": "Aprova o Manual de Procedimentos - MPR/SPL-015-R00",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17863/SIA, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17863",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto de Rondonópolis - Maestro Marinho Franco (Código OACI: SBRD, Código CIAD: MT0004), localizado em Rondonópolis (MT)",
       "type": "legislação"
     },
     {
@@ -320,14 +328,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
       "datePublished": "2025-09-03T11:16:00.000Z",
       "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17814/SPO, 03/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17814",
-      "datePublished": "2025-09-03T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
       "type": "legislação"
     },
     {
