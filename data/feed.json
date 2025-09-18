@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-33c3d00a-ce1c-43f7-8e2a-70daaa89ad81",
+  "identifier": "urn:uuid:anac-feed-ee6feec1-899b-42af-9249-91baff7f9187",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-18T12:27:36.062Z",
-  "dateModified": "2025-09-18T12:27:36.062Z",
+  "dateCreated": "2025-09-18T16:16:34.672Z",
+  "dateModified": "2025-09-18T16:16:34.672Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -68,6 +68,14 @@
       "description": "Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17887/CRG, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17887",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Designa Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -223,14 +231,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17850",
       "datePublished": "2025-09-10T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0111 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17852/SAF, 10/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17852",
-      "datePublished": "2025-09-10T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
       "type": "legislação"
     },
     {
