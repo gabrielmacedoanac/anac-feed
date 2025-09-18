@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-38df9f6a-154e-4519-970d-1955391091d8",
+  "identifier": "urn:uuid:anac-feed-9742768c-d132-4f51-b04b-f8ee10705c8b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-17T20:14:49.368Z",
-  "dateModified": "2025-09-17T20:14:49.368Z",
+  "dateCreated": "2025-09-18T01:02:04.123Z",
+  "dateModified": "2025-09-18T01:02:04.123Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2024-12-18T12:52:37.000Z",
-    "endDate": "2025-09-17T20:14:49.365Z"
+    "startDate": "2025-05-31T03:00:21.000Z",
+    "endDate": "2025-09-18T01:02:04.118Z"
   },
   "distribution": [
     {
@@ -37,9 +37,18 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 1/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1",
-      "datePublished": "2025-09-17T20:14:49.365Z",
+      "datePublished": "2025-09-18T01:02:04.118Z",
       "description": "Torna pública a seleção interna de servidor(a) para indicação ao Curso de Altos Estudos de Política e Estratégia (CAEPE) – 2026",
       "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)",
+      "url": "https://www.youtube.com/watch?v=FBySE3Veewg",
+      "datePublished": "2025-09-18T00:39:56.000Z",
+      "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
+      "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
@@ -694,15 +703,6 @@
       "datePublished": "2025-05-31T03:00:21.000Z",
       "description": "Seja bem-vindo!\n\nPainel: O Futuro da Regulação na Era da IA \nFormato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube \n\nLink do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3\n\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação \nDigital da Anac\n\nPainelista 1: Mirian Wimmer, diretora da ANPD\nPainelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)",
-      "url": "https://www.youtube.com/watch?v=FBySE3Veewg",
-      "datePublished": "2024-12-18T12:52:37.000Z",
-      "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
-      "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
       "type": "vídeo"
     }
   ]

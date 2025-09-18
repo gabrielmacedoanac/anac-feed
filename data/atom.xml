@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-38df9f6a-154e-4519-970d-1955391091d8</id>
-  <updated>2025-09-17T20:14:49.365Z</updated>
+  <id>urn:uuid:anac-feed-9742768c-d132-4f51-b04b-f8ee10705c8b</id>
+  <updated>2025-09-18T01:02:04.118Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 1/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-1</id>
-    <published>2025-09-17T20:14:49.365Z</published>
-    <updated>2025-09-17T20:14:49.365Z</updated>
+    <published>2025-09-18T01:02:04.118Z</published>
+    <updated>2025-09-18T01:02:04.118Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,29 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)</title>
+    <link href="https://www.youtube.com/watch?v=FBySE3Veewg" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=FBySE3Veewg</id>
+    <published>2025-09-18T00:39:56.000Z</published>
+    <updated>2025-09-18T00:39:56.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Início - 10:43
+1) Processo 00058.078972/2025-19 - 25:09
+2) Processo 00058.070806/2024-85 - 38:09</summary>
+    <content type="html"><![CDATA[
+      <p>Início - 10:43
+1) Processo 00058.078972/2025-19 - 25:09
+2) Processo 00058.070806/2024-85 - 38:09</p>
+      <img src="https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg" alt="12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1668,29 +1691,6 @@ Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-ins
 
 Participe!</p>
       <img src="https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg" alt="30/05 - Digital Week 2025, das 10h às 12h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)</title>
-    <link href="https://www.youtube.com/watch?v=FBySE3Veewg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=FBySE3Veewg</id>
-    <published>2024-12-18T12:52:37.000Z</published>
-    <updated>2024-12-18T12:52:37.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Início - 10:43
-1) Processo 00058.078972/2025-19 - 25:09
-2) Processo 00058.070806/2024-85 - 38:09</summary>
-    <content type="html"><![CDATA[
-      <p>Início - 10:43
-1) Processo 00058.078972/2025-19 - 25:09
-2) Processo 00058.070806/2024-85 - 38:09</p>
-      <img src="https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg" alt="12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
