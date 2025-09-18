@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 18 Sep 2025 16:16:34 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 16:16:34 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 20:15:40 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 20:15:40 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Anac promove 3ª Oficina de Melhoria Contínua AVSEC para reforçar a segurança da aviação civil</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-3a-oficina-de-melhoria-continua-avsec-para-reforcar-a-seguranca-da-aviacao-civil</link>
+      <description>Evento reunirá profissionais entre 21 e 23/10 para alinhamento técnico e troca de experiências</description>
+      <pubDate>Thu, 18 Sep 2025 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-3a-oficina-de-melhoria-continua-avsec-para-reforcar-a-seguranca-da-aviacao-civil</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-18T14:17:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Evento reunirá profissionais entre 21 e 23/10 para alinhamento técnico e troca de experiências</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -1134,23 +1151,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <content:encoded><![CDATA[
         <p>Aprova emendas ao RBAC nº 25</p>
         
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Recorde histórico: setor aéreo alcança 11,6 milhões de passageiros transportados em julho</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho</link>
-      <description>Esse é o maior número de passageiros movimentados em um único mês</description>
-      <pubDate>Wed, 20 Aug 2025 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-20T10:45:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho/card-6_julho__.png/@@images/33575d3c-9546-4a8f-bd73-7137c1e5390d.png" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Esse é o maior número de passageiros movimentados em um único mês</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho/card-6_julho__.png/@@images/33575d3c-9546-4a8f-bd73-7137c1e5390d.png" alt="Recorde histórico: setor aéreo alcança 11,6 milhões de passageiros transportados em julho">
       ]]></content:encoded>
     </item>
     

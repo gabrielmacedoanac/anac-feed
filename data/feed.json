@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ee6feec1-899b-42af-9249-91baff7f9187",
+  "identifier": "urn:uuid:anac-feed-cc241916-a2c2-40e5-b750-f8d0ff286170",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-18T16:16:34.672Z",
-  "dateModified": "2025-09-18T16:16:34.672Z",
+  "dateCreated": "2025-09-18T20:15:40.561Z",
+  "dateModified": "2025-09-18T20:15:40.561Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-31T03:00:21.000Z",
-    "endDate": "2025-09-18T00:39:56.000Z"
+    "endDate": "2025-09-18T14:17:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac promove 3ª Oficina de Melhoria Contínua AVSEC para reforçar a segurança da aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-3a-oficina-de-melhoria-continua-avsec-para-reforcar-a-seguranca-da-aviacao-civil",
+      "datePublished": "2025-09-18T14:17:00.000Z",
+      "description": "Evento reunirá profissionais entre 21 e 23/10 para alinhamento técnico e troca de experiências",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)",
@@ -560,15 +568,6 @@
       "datePublished": "2025-08-21T00:00:00.000Z",
       "description": "Aprova emendas ao RBAC nº 25",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Recorde histórico: setor aéreo alcança 11,6 milhões de passageiros transportados em julho",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho",
-      "datePublished": "2025-08-20T10:45:00.000Z",
-      "description": "Esse é o maior número de passageiros movimentados em um único mês",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/recorde-historico-setor-aereo-alcanca-11-6-milhoes-de-passageiros-transportados-em-julho/card-6_julho__.png/@@images/33575d3c-9546-4a8f-bd73-7137c1e5390d.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
