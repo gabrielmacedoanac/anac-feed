@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9197dfaa-dcd5-48d5-9416-e32242dbe97e",
+  "identifier": "urn:uuid:anac-feed-f463c1cf-2103-4976-9f9a-8b2a38f4fb30",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-19T08:18:20.844Z",
-  "dateModified": "2025-09-19T08:18:20.844Z",
+  "dateCreated": "2025-09-19T12:28:06.976Z",
+  "dateModified": "2025-09-19T12:28:06.976Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -60,6 +60,22 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 779, 18/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-779",
+      "datePublished": "2025-09-18T00:00:00.000Z",
+      "description": "Aprova a Emenda nº 09 ao RBAC nº 153",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 779, 18/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-779",
+      "datePublished": "2025-09-18T00:00:00.000Z",
+      "description": "Aprova a Emenda nº 09 ao RBAC nº 153",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df",
@@ -88,6 +104,38 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17880/SIA, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17880",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Torna pública a revogação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Internacional de Belém/Val de Cans/Júlio Cezar Ribeiro, Código OACI: SBBE; Código CIAD: PA0001.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17886/SIA, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17886",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PLATAFORMA VIII (P-08) (9PES)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17883, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17883",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORMAND MERMAID (9PMT)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17884/SPL, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17884",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Revoga o Certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17887/CRG, 16/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17887",
       "datePublished": "2025-09-16T00:00:00.000Z",
@@ -110,6 +158,22 @@
       "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17871/SIA, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17871",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD PE0045 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17869/SPO, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17869",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Operador Aéreo EMPRESA FLORAIS TAXI AÉREO LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -185,14 +249,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17862/CRG, 12/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17862",
-      "datePublished": "2025-09-12T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo",
@@ -220,34 +276,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17853/SIA, 11/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17853",
-      "datePublished": "2025-09-11T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD ES0056 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 17846/SPL, 10/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17846",
       "datePublished": "2025-09-10T00:00:00.000Z",
       "description": "Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da AVIATION ACADEMY AUSTRIA GmbH para conduzir treinamentos e exames segundo o RBAC nº 142",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17845/SIA, 10/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17845",
-      "datePublished": "2025-09-10T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1155 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17850/SIA, 10/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17850",
-      "datePublished": "2025-09-10T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0111 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -260,34 +292,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17838/SIA, 09/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17838",
+      "name": "PORTARIA Nº 17837/SIA, 09/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17837",
       "datePublished": "2025-09-09T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0179 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17833/SIA, 09/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17833",
-      "datePublished": "2025-09-09T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0040 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17836/SPO, 09/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17836",
-      "datePublished": "2025-09-09T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/SPO-023-R02",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17828/SPO, 08/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17828",
-      "datePublished": "2025-09-08T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/SPO-143-R05",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP0471 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -591,14 +599,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
       "datePublished": "2025-08-08T09:53:00.000Z",
       "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 119-010A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-010a",
-      "datePublished": "2025-08-07T16:08:00.000Z",
-      "description": "Programa de treinamento de manutenção e manutenção preventiva de operadores de serviço de transporte aéreo",
       "type": "legislação"
     },
     {
