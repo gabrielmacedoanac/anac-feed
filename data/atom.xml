@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-eda2146d-9dbb-4ad1-8b4a-7248ab4313d2</id>
-  <updated>2025-09-19T14:45:05.000Z</updated>
+  <id>urn:uuid:anac-feed-5f10dbbe-7b8a-4c2a-a7de-dca9c9946db0</id>
+  <updated>2025-09-19T16:45:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">RBAC 153 EMD 09</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
+    <published>2025-09-19T16:45:00.000Z</published>
+    <updated>2025-09-19T16:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aeródromos - Operação, Manutenção e Resposta à Emergência</summary>
+    <content type="html"><![CDATA[
+      <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac abre consulta pública sobre edital de venda assistida para a concessão do Aeroporto do Galeão</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-sobre-edital-de-venda-assistida-para-a-concessao-do-aeroporto-do-galeao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-sobre-edital-de-venda-assistida-para-a-concessao-do-aeroporto-do-galeao</id>
+    <published>2025-09-19T15:07:00.000Z</published>
+    <updated>2025-09-19T15:07:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O processo também contará com audiência pública a ser realizada em 14/10</summary>
+    <content type="html"><![CDATA[
+      <p>O processo também contará com audiência pública a ser realizada em 14/10</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -33,6 +71,25 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aviação nacional registra 12 meses seguidos de crescimento no transporte de passageiros</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros</id>
+    <published>2025-09-19T13:47:00.000Z</published>
+    <updated>2025-09-19T13:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Mercado doméstico também tem o melhor movimento para agosto desde o início da série histórica, com 8,7 milhões de pessoas transportadas no mês</summary>
+    <content type="html"><![CDATA[
+      <p>Mercado doméstico também tem o melhor movimento para agosto desde o início da série histórica, com 8,7 milhões de pessoas transportadas no mês</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros/d-do-setor-aereo_ago_2025_card-6.png/@@images/fc180174-5ec6-4925-9b5b-25697b5cb324.png" alt="Aviação nacional registra 12 meses seguidos de crescimento no transporte de passageiros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1240,44 +1297,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">Confira as orientações da Anac sobre o transporte de líquidos em voos internacionais</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/confira-as-orientacoes-da-anac-sobre-o-transporte-de-liquidos-em-voos-internacionais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/confira-as-orientacoes-da-anac-sobre-o-transporte-de-liquidos-em-voos-internacionais</id>
-    <published>2025-08-25T11:17:00.000Z</published>
-    <updated>2025-08-25T11:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros</summary>
-    <content type="html"><![CDATA[
-      <p>Exigência de embalagem específica para acondicionar itens na bagagem de mão vale desde 2019, com o objetivo de garantir a segurança de passageiros</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Inovação e crescimento da aviação agrícola brasileira foram destaques no Congresso AvAg 202</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202</id>
-    <published>2025-08-22T15:59:00.000Z</published>
-    <updated>2025-08-22T15:59:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Edição realizada em Mato Grosso teve leilão inédito, foco em sustentabilidade e avanços tecnológicos como IA, drones e nanotecnologia</summary>
-    <content type="html"><![CDATA[
-      <p>Edição realizada em Mato Grosso teve leilão inédito, foco em sustentabilidade e avanços tecnológicos como IA, drones e nanotecnologia</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/inovacao-e-crescimento-da-aviacao-agricola-brasileira-foram-destaques-no-congresso-avag-202/whatsapp-image-2025-08-22-at-15-22-13.jpeg/@@images/16d26a8d-c76d-4add-817f-706a1bd35168.jpeg" alt="Inovação e crescimento da aviação agrícola brasileira foram destaques no Congresso AvAg 202">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário BHEST - PROCESSO DECISÓRIO NA AVIAÇÃO DE ASAS ROTATIVAS</title>
     <link href="https://www.youtube.com/watch?v=dTihSc1E3_M" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=dTihSc1E3_M</id>
@@ -1459,25 +1478,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <summary type="html">Aprova emenda ao RBAC nº 121</summary>
     <content type="html"><![CDATA[
       <p>Aprova emenda ao RBAC nº 121</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 91-012C</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-012-1</id>
-    <published>2025-08-04T11:51:00.000Z</published>
-    <updated>2025-08-04T11:51:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes</summary>
-    <content type="html"><![CDATA[
-      <p>Lista de Equipamentos Mínimos (MEL) e operação com equipamentos e instrumentos inoperantes</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
