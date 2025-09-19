@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-cc241916-a2c2-40e5-b750-f8d0ff286170",
+  "identifier": "urn:uuid:anac-feed-f6740721-90f9-443e-87f1-d9e8998358b9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-18T20:15:40.561Z",
-  "dateModified": "2025-09-18T20:15:40.561Z",
+  "dateCreated": "2025-09-19T01:04:40.837Z",
+  "dateModified": "2025-09-19T01:04:40.837Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-31T03:00:21.000Z",
-    "endDate": "2025-09-18T14:17:00.000Z"
+    "endDate": "2025-09-18T18:15:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac, CNJ e SAC firmam Acordo de Cooperação Técnica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1",
+      "datePublished": "2025-09-18T18:15:00.000Z",
+      "description": "Renovação de parceria foi assinada no gabinete do ministro do STF Luís Roberto Barroso, com destaque para o compartilhamento de dados de voos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1/imagem-do-whatsapp-de-2025-09-18-a-s-18-02-30_74599b57.jpg/@@images/cd9f23cd-aadf-4e5f-90bc-3f3849d02e48.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac promove 3ª Oficina de Melhoria Contínua AVSEC para reforçar a segurança da aviação civil",
@@ -550,15 +559,6 @@
       "datePublished": "2025-08-21T16:27:00.000Z",
       "description": "Com as melhores notas entre as agências por três anos seguidos, a Anac também se destacou no desempenho consolidado entre os órgãos avaliados na Administração Pública",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos/PORTAL1.png/@@images/46afcec7-0f18-48d2-bb69-7ab3f260993c.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Inscrições abertas para o curso gratuito Aviation English Level 3 até o dia 30/8",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8",
-      "datePublished": "2025-08-21T13:21:00.000Z",
-      "description": "A capacitação, reconhecida pela Oaci, é voltado a profissionais da aviação civil que desejam desenvolver competências em inglês técnico",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8/linkedin-2.png/@@images/36256ef0-27c6-4f2d-b397-44c3fc20e5ba.png",
       "type": "notícia"
     },
     {

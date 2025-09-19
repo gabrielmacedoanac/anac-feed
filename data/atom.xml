@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-cc241916-a2c2-40e5-b750-f8d0ff286170</id>
-  <updated>2025-09-18T14:17:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f6740721-90f9-443e-87f1-d9e8998358b9</id>
+  <updated>2025-09-18T18:15:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac, CNJ e SAC firmam Acordo de Cooperação Técnica</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1</id>
+    <published>2025-09-18T18:15:00.000Z</published>
+    <updated>2025-09-18T18:15:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Renovação de parceria foi assinada no gabinete do ministro do STF Luís Roberto Barroso, com destaque para o compartilhamento de dados de voos</summary>
+    <content type="html"><![CDATA[
+      <p>Renovação de parceria foi assinada no gabinete do ministro do STF Luís Roberto Barroso, com destaque para o compartilhamento de dados de voos</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1/imagem-do-whatsapp-de-2025-09-18-a-s-18-02-30_74599b57.jpg/@@images/cd9f23cd-aadf-4e5f-90bc-3f3849d02e48.jpeg" alt="Anac, CNJ e SAC firmam Acordo de Cooperação Técnica">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1241,25 +1260,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <content type="html"><![CDATA[
       <p>Com as melhores notas entre as agências por três anos seguidos, a Anac também se destacou no desempenho consolidado entre os órgãos avaliados na Administração Pública</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos/PORTAL1.png/@@images/46afcec7-0f18-48d2-bb69-7ab3f260993c.png" alt="Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Inscrições abertas para o curso gratuito Aviation English Level 3 até o dia 30/8</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8</id>
-    <published>2025-08-21T13:21:00.000Z</published>
-    <updated>2025-08-21T13:21:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A capacitação, reconhecida pela Oaci, é voltado a profissionais da aviação civil que desejam desenvolver competências em inglês técnico</summary>
-    <content type="html"><![CDATA[
-      <p>A capacitação, reconhecida pela Oaci, é voltado a profissionais da aviação civil que desejam desenvolver competências em inglês técnico</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/inscricoes-abertas-para-o-curso-gratuito-aviation-english-level-3-ate-o-dia-30-8/linkedin-2.png/@@images/36256ef0-27c6-4f2d-b397-44c3fc20e5ba.png" alt="Inscrições abertas para o curso gratuito Aviation English Level 3 até o dia 30/8">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
