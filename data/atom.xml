@@ -4,13 +4,74 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f463c1cf-2103-4976-9f9a-8b2a38f4fb30</id>
-  <updated>2025-09-18T18:15:00.000Z</updated>
+  <id>urn:uuid:anac-feed-eda2146d-9dbb-4ad1-8b4a-7248ab4313d2</id>
+  <updated>2025-09-19T14:45:05.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Webinário &amp;quot;Acordos Bilaterais EASA, UK, CAA e FAA para Organizações de Manutenção&amp;quot;</title>
+    <link href="https://www.youtube.com/watch?v=hlRq2eZOm18" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=hlRq2eZOm18</id>
+    <published>2025-09-19T14:45:05.000Z</published>
+    <updated>2025-09-19T14:45:05.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.
+
+Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</summary>
+    <content type="html"><![CDATA[
+      <p>A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.
+
+Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
+      <img src="https://i1.ytimg.com/vi/hlRq2eZOm18/hqdefault.jpg" alt="Webinário &quot;Acordos Bilaterais EASA, UK, CAA e FAA para Organizações de Manutenção&quot;">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac abre consulta setorial sobre requisitos de contenção de fogo em sistemas propulsivos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos</id>
+    <published>2025-09-19T11:57:00.000Z</published>
+    <updated>2025-09-19T11:57:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contribuições podem ser enviadas até o dia 20 de outubro</summary>
+    <content type="html"><![CDATA[
+      <p>Contribuições podem ser enviadas até o dia 20 de outubro</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Manual da Anac sobre desinterdição de pista ganha versão em inglês</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/manual-da-anac-sobre-desinterdicao-de-pista-ganha-versao-em-ingles" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/manual-da-anac-sobre-desinterdicao-de-pista-ganha-versao-em-ingles</id>
+    <published>2025-09-19T10:53:00.000Z</published>
+    <updated>2025-09-19T10:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -71,6 +132,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17900/SAF, 18/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900</id>
+    <published>2025-09-18T00:00:00.000Z</published>
+    <updated>2025-09-18T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -151,6 +231,63 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 17895/SAF, 17/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17895" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17895</id>
+    <published>2025-09-17T00:00:00.000Z</published>
+    <updated>2025-09-17T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Portaria nº 15.586/SAF, de 3 de outubro de 2024</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Portaria nº 15.586/SAF, de 3 de outubro de 2024</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17894/SPO, 17/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17894" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17894</id>
+    <published>2025-09-17T00:00:00.000Z</published>
+    <updated>2025-09-17T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a revisão do certificado de operador aéreo da MÍDIA RIO PROPAGANDA AÉREA LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a revisão do certificado de operador aéreo da MÍDIA RIO PROPAGANDA AÉREA LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17892/SIA, 17/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17892" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17892</id>
+    <published>2025-09-17T00:00:00.000Z</published>
+    <updated>2025-09-17T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 03) Aeroporto Internacional de Belém / Val de Cans / Júlio Cezar Ribeiro (Código OACI:SBBE, Código CIAD: PA0001), em Belém (PA)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 03) Aeroporto Internacional de Belém / Val de Cans / Júlio Cezar Ribeiro (Código OACI:SBBE, Código CIAD: PA0001), em Belém (PA)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h</id>
@@ -166,6 +303,101 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17878/SIA, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17878" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17878</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto privado a bordo da unidade BGP DRAGON (9PKY)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto privado a bordo da unidade BGP DRAGON (9PKY)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17882/SIA, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17882" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17882</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto privado a bordo da unidade ISLAND VICTORY (9PLE)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto privado a bordo da unidade ISLAND VICTORY (9PLE)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17885/SPO, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17885" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17885</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto uso privativo a bordo da unidade NOBLE COURAGE (9PBS)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto uso privativo a bordo da unidade NOBLE COURAGE (9PBS)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17888/SPL, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17888" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17888</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da M &amp; F CONSULTORIA E TREINAMENTOS LTDA</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da M & F CONSULTORIA E TREINAMENTOS LTDA</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17879/SIA, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17879" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17879</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DO BLOCO CENTRAL S.A., operadora do Aeroporto Prefeito Renato Moreira, código OACI: SBIZ, código CIAD: MA0002, localizado em Imperatriz (MA)</summary>
+    <content type="html"><![CDATA[
+      <p>Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DO BLOCO CENTRAL S.A., operadora do Aeroporto Prefeito Renato Moreira, código OACI: SBIZ, código CIAD: MA0002, localizado em Imperatriz (MA)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -246,44 +478,6 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17887/CRG, 16/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17887" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17887</id>
-    <published>2025-09-16T00:00:00.000Z</published>
-    <updated>2025-09-16T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Comissão de Processo Administrativo Disciplinar</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17889/SPL, 16/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17889" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17889</id>
-    <published>2025-09-16T00:00:00.000Z</published>
-    <updated>2025-09-16T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183</summary>
-    <content type="html"><![CDATA[
-      <p>Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac firma compromisso para ampliar práticas sustentáveis na Agência</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia</id>
@@ -299,6 +493,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17877/SIA, 15/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877</id>
+    <published>2025-09-15T00:00:00.000Z</published>
+    <updated>2025-09-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ANNA NERY (9PNN)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ANNA NERY (9PNN)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17865/SPL, 15/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17865" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17865</id>
+    <published>2025-09-15T00:00:00.000Z</published>
+    <updated>2025-09-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do PILOTO PADRÃO TAXI AÉREO E SERVIÇOS DE MANUTENÇÃO AERONÁUTICA</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do PILOTO PADRÃO TAXI AÉREO E SERVIÇOS DE MANUTENÇÃO AERONÁUTICA</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -341,139 +573,6 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17873/SPL, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17873" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17873</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Manual de Procedimentos - MPR/SPL-015-R00</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Manual de Procedimentos - MPR/SPL-015-R00</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17863/SIA, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17863" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17863</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto de Rondonópolis - Maestro Marinho Franco (Código OACI: SBRD, Código CIAD: MT0004), localizado em Rondonópolis (MT)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto de Rondonópolis - Maestro Marinho Franco (Código OACI: SBRD, Código CIAD: MT0004), localizado em Rondonópolis (MT)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17875/SPL, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17875" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17875</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183</summary>
-    <content type="html"><![CDATA[
-      <p>Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17870/SPL, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17870" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17870</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17866/SPL, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17866" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17866</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17864/SAF, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17864" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17864</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Gestor de Contrato</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Gestor de Contrato</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17868/SAF, 15/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17868" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17868</id>
-    <published>2025-09-15T00:00:00.000Z</published>
-    <updated>2025-09-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Responsável pelo Planejamento da Contratação</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Responsável pelo Planejamento da Contratação</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Semana de Cibersegurança da ANAC 2025</title>
     <link href="https://www.youtube.com/watch?v=59Nj2ERVgWE" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=59Nj2ERVgWE</id>
@@ -489,25 +588,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17858/SIA, 12/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17858" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17858</id>
-    <published>2025-09-12T00:00:00.000Z</published>
-    <updated>2025-09-12T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a aplicação de medida administrativa cautelar e exclui o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE NITERÓI MV 18 (9PCN) do cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a aplicação de medida administrativa cautelar e exclui o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE NITERÓI MV 18 (9PCN) do cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -550,36 +630,17 @@
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17856/SAR, 11/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17856" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17856</id>
+    <title type="html">PORTARIA Nº 17854/SIA, 11/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854</id>
     <published>2025-09-11T00:00:00.000Z</published>
     <updated>2025-09-11T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Torna pública a Emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER S.A. modelos EMB-135 e EMB-145</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1156 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Torna pública a Emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER S.A. modelos EMB-135 e EMB-145</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17846/SPL, 10/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17846" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17846</id>
-    <published>2025-09-10T00:00:00.000Z</published>
-    <updated>2025-09-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da AVIATION ACADEMY AUSTRIA GmbH para conduzir treinamentos e exames segundo o RBAC nº 142</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da AVIATION ACADEMY AUSTRIA GmbH para conduzir treinamentos e exames segundo o RBAC nº 142</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD MT1156 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1217,25 +1278,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">Programa Asas para Todos é apresentado na 1ª edição da Cumbre de Mujeres da Clac na Guatemala</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala</id>
-    <published>2025-08-22T12:13:00.000Z</published>
-    <updated>2025-08-22T12:13:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A participação da Anac no evento é um reconhecimento pela cooperação no Prêmio de Excelência em Equidade de Gênero no setor de Aviação Civil na América Latina e Caribe</summary>
-    <content type="html"><![CDATA[
-      <p>A participação da Anac no evento é um reconhecimento pela cooperação no Prêmio de Excelência em Equidade de Gênero no setor de Aviação Civil na América Latina e Caribe</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala/3a5a4384.jpg/@@images/3c86c6de-1d5c-40a9-8cbf-d510a6569af5.jpeg" alt="Programa Asas para Todos é apresentado na 1ª edição da Cumbre de Mujeres da Clac na Guatemala">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário BHEST - PROCESSO DECISÓRIO NA AVIAÇÃO DE ASAS ROTATIVAS</title>
     <link href="https://www.youtube.com/watch?v=dTihSc1E3_M" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=dTihSc1E3_M</id>
@@ -1263,25 +1305,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos</id>
-    <published>2025-08-21T16:27:00.000Z</published>
-    <updated>2025-08-21T16:27:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Com as melhores notas entre as agências por três anos seguidos, a Anac também se destacou no desempenho consolidado entre os órgãos avaliados na Administração Pública</summary>
-    <content type="html"><![CDATA[
-      <p>Com as melhores notas entre as agências por três anos seguidos, a Anac também se destacou no desempenho consolidado entre os órgãos avaliados na Administração Pública</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos/PORTAL1.png/@@images/46afcec7-0f18-48d2-bb69-7ab3f260993c.png" alt="Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1644,53 +1667,6 @@ Para dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link h
 
 Para participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.</p>
       <img src="https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg" alt="Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">30/05 - Digital Week 2025, das 10h às 12h</title>
-    <link href="https://www.youtube.com/watch?v=Mrc-DnVMbeY" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=Mrc-DnVMbeY</id>
-    <published>2025-05-31T03:00:21.000Z</published>
-    <updated>2025-05-31T03:00:21.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Seja bem-vindo!
-
-Painel: O Futuro da Regulação na Era da IA 
-Formato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube 
-
-Link do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3
-
-Moderador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação 
-Digital da Anac
-
-Painelista 1: Mirian Wimmer, diretora da ANPD
-Painelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel
-Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
-
-Participe!</summary>
-    <content type="html"><![CDATA[
-      <p>Seja bem-vindo!
-
-Painel: O Futuro da Regulação na Era da IA 
-Formato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube 
-
-Link do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3
-
-Moderador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação 
-Digital da Anac
-
-Painelista 1: Mirian Wimmer, diretora da ANPD
-Painelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel
-Mais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac
-
-Participe!</p>
-      <img src="https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg" alt="30/05 - Digital Week 2025, das 10h às 12h">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

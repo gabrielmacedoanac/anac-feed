@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f463c1cf-2103-4976-9f9a-8b2a38f4fb30",
+  "identifier": "urn:uuid:anac-feed-eda2146d-9dbb-4ad1-8b4a-7248ab4313d2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-19T12:28:06.976Z",
-  "dateModified": "2025-09-19T12:28:06.976Z",
+  "dateCreated": "2025-09-19T16:16:30.181Z",
+  "dateModified": "2025-09-19T16:16:30.181Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-05-31T03:00:21.000Z",
-    "endDate": "2025-09-18T18:15:00.000Z"
+    "startDate": "2025-06-13T06:39:47.000Z",
+    "endDate": "2025-09-19T14:45:05.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,31 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário &quot;Acordos Bilaterais EASA, UK, CAA e FAA para Organizações de Manutenção&quot;",
+      "url": "https://www.youtube.com/watch?v=hlRq2eZOm18",
+      "datePublished": "2025-09-19T14:45:05.000Z",
+      "description": "A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.\n\nLink Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C",
+      "image": "https://i1.ytimg.com/vi/hlRq2eZOm18/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre consulta setorial sobre requisitos de contenção de fogo em sistemas propulsivos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos",
+      "datePublished": "2025-09-19T11:57:00.000Z",
+      "description": "Contribuições podem ser enviadas até o dia 20 de outubro",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Manual da Anac sobre desinterdição de pista ganha versão em inglês",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/manual-da-anac-sobre-desinterdicao-de-pista-ganha-versao-em-ingles",
+      "datePublished": "2025-09-19T10:53:00.000Z",
+      "description": "Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac, CNJ e SAC firmam Acordo de Cooperação Técnica",
@@ -58,6 +83,14 @@
       "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
       "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17900/SAF, 18/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900",
+      "datePublished": "2025-09-18T00:00:00.000Z",
+      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -94,6 +127,30 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17895/SAF, 17/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17895",
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "description": "Altera a Portaria nº 15.586/SAF, de 3 de outubro de 2024",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17894/SPO, 17/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17894",
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "description": "Torna pública a revisão do certificado de operador aéreo da MÍDIA RIO PROPAGANDA AÉREA LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17892/SIA, 17/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17892",
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) Aeroporto Internacional de Belém / Val de Cans / Júlio Cezar Ribeiro (Código OACI:SBBE, Código CIAD: PA0001), em Belém (PA)",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h",
@@ -101,6 +158,46 @@
       "description": "Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17878/SIA, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17878",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade BGP DRAGON (9PKY)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17882/SIA, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17882",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade ISLAND VICTORY (9PLE)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17885/SPO, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17885",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto uso privativo a bordo da unidade NOBLE COURAGE (9PBS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17888/SPL, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17888",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da M & F CONSULTORIA E TREINAMENTOS LTDA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17879/SIA, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17879",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DO BLOCO CENTRAL S.A., operadora do Aeroporto Prefeito Renato Moreira, código OACI: SBIZ, código CIAD: MA0002, localizado em Imperatriz (MA)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -135,22 +232,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17887/CRG, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17887",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Designa Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17889/SPL, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17889",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac firma compromisso para ampliar práticas sustentáveis na Agência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia",
@@ -158,6 +239,22 @@
       "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17877/SIA, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ANNA NERY (9PNN)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17865/SPL, 15/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17865",
+      "datePublished": "2025-09-15T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do PILOTO PADRÃO TAXI AÉREO E SERVIÇOS DE MANUTENÇÃO AERONÁUTICA",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -176,62 +273,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17873/SPL, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17873",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimentos - MPR/SPL-015-R00",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17863/SIA, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17863",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 01) do Aeroporto de Rondonópolis - Maestro Marinho Franco (Código OACI: SBRD, Código CIAD: MT0004), localizado em Rondonópolis (MT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17875/SPL, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17875",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Credencia Pessoa Jurídica para aplicação do Santos Dumont English Assessment em conformidade com o RBAC nº 183",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17870/SPL, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17870",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Credenciamento de clínica em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17866/SPL, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17866",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17864/SAF, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17864",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17868/SAF, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17868",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Designa Responsável pelo Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Semana de Cibersegurança da ANAC 2025",
       "url": "https://www.youtube.com/watch?v=59Nj2ERVgWE",
@@ -239,14 +280,6 @@
       "description": "Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2",
       "image": "https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17858/SIA, 12/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17858",
-      "datePublished": "2025-09-12T00:00:00.000Z",
-      "description": "Torna pública a aplicação de medida administrativa cautelar e exclui o heliponto de uso privativo a bordo da unidade FPSO CIDADE DE NITERÓI MV 18 (9PCN) do cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -268,18 +301,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17856/SAR, 11/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17856",
+      "name": "PORTARIA Nº 17854/SIA, 11/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854",
       "datePublished": "2025-09-11T00:00:00.000Z",
-      "description": "Torna pública a Emissão de Diretriz de Aeronavegabilidade para os aviões EMBRAER S.A. modelos EMB-135 e EMB-145",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17846/SPL, 10/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17846",
-      "datePublished": "2025-09-10T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da AVIATION ACADEMY AUSTRIA GmbH para conduzir treinamentos e exames segundo o RBAC nº 142",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1156 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -543,15 +568,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Programa Asas para Todos é apresentado na 1ª edição da Cumbre de Mujeres da Clac na Guatemala",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala",
-      "datePublished": "2025-08-22T12:13:00.000Z",
-      "description": "A participação da Anac no evento é um reconhecimento pela cooperação no Prêmio de Excelência em Equidade de Gênero no setor de Aviação Civil na América Latina e Caribe",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/programa-asas-para-todos-e-apresentado-na-1a-edicao-da-cumbre-de-mujeres-da-clac-na-guatemala/3a5a4384.jpg/@@images/3c86c6de-1d5c-40a9-8cbf-d510a6569af5.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário BHEST - PROCESSO DECISÓRIO NA AVIAÇÃO DE ASAS ROTATIVAS",
       "url": "https://www.youtube.com/watch?v=dTihSc1E3_M",
@@ -559,15 +575,6 @@
       "description": "Este evento faz parte da Ação Nacional de Aviação Civil, iniciativa instituída em 2011 pela ANAC com o objetivo de disseminar informações e conhecimentos sobre o transporte aéreo e de aumentar a proximidade da Agência com seus principais públicos, entre eles pilotos, profissionais, empresários, estudantes, pesquisadores ligados à aviação civil e demais interessados.\n\nO evento pretende atingir a maior quantidade de regulados possível e apresentar diversos assuntos, conforme indicado na Programação, para fomentar a discussão, tratar e receber as críticas e sugestões e promover a melhoria da segurança operacional no Brasil.\n\nA iniciativa também é aderente ao Programa de Implementação do PSOE-ANAC, otimizando recursos e aperfeiçoando as ferramentas de disseminação da cultura de segurança operacional.\n\nPerguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb",
       "image": "https://i1.ytimg.com/vi/dTihSc1E3_M/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Tesouro Nacional reconhece Anac como a melhor agência na qualidade da informação de custos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos",
-      "datePublished": "2025-08-21T16:27:00.000Z",
-      "description": "Com as melhores notas entre as agências por três anos seguidos, a Anac também se destacou no desempenho consolidado entre os órgãos avaliados na Administração Pública",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/tesouro-nacional-reconhece-anac-como-a-melhor-agencia-na-qualidade-da-informacao-de-custos/PORTAL1.png/@@images/46afcec7-0f18-48d2-bb69-7ab3f260993c.png",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -693,15 +700,6 @@
       "datePublished": "2025-06-13T06:39:47.000Z",
       "description": "O webinário visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.\n\nPara dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9H\n\nPara participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.",
       "image": "https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "30/05 - Digital Week 2025, das 10h às 12h",
-      "url": "https://www.youtube.com/watch?v=Mrc-DnVMbeY",
-      "datePublished": "2025-05-31T03:00:21.000Z",
-      "description": "Seja bem-vindo!\n\nPainel: O Futuro da Regulação na Era da IA \nFormato: Híbrido, presencial no auditório com transmissão no Canal Oficial Youtube \n\nLink do Slido (perguntas): https://app.sli.do/event/dwSryTK5cVRT3U57zFZrE3\n\nModerador: Fernando Mitkiewicz, superintendente de Tecnologia e Transformação \nDigital da Anac\n\nPainelista 1: Mirian Wimmer, diretora da ANPD\nPainelista 2: Cristiana Camarate Quinália, conselheira e diretora substituta da Anatel\nMais informações: https://www.gov.br/anac/pt-br/noticias/2025/digital-week-inscricoes-abertas-para-o-evento-de-transformacao-digital-da-anac\n\nParticipe!",
-      "image": "https://i2.ytimg.com/vi/Mrc-DnVMbeY/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
