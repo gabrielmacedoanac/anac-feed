@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-013bf3a2-d6f5-4e8d-9885-5d485748ab63",
+  "identifier": "urn:uuid:anac-feed-790e19d1-a7b0-42b2-a4fb-59506faaa331",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-22T08:19:59.668Z",
-  "dateModified": "2025-09-22T08:19:59.668Z",
+  "dateCreated": "2025-09-22T12:28:47.239Z",
+  "dateModified": "2025-09-22T12:28:47.239Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-19T16:45:00.000Z"
+    "endDate": "2025-09-22T12:28:47.232Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17213/SIA, 13/092025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
+      "datePublished": "2025-09-22T12:28:47.232Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 153 EMD 09",
@@ -115,14 +123,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900",
       "datePublished": "2025-09-18T00:00:00.000Z",
       "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 779, 18/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-779",
-      "datePublished": "2025-09-18T00:00:00.000Z",
-      "description": "Aprova a Emenda nº 09 ao RBAC nº 153",
       "type": "legislação"
     },
     {
@@ -246,14 +246,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17883",
       "datePublished": "2025-09-16T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORMAND MERMAID (9PMT)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17884/SPL, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17884",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Revoga o Certificado de CIAC emitido em favor do CENTRO DE INSTRUÇÃO DE AVIAÇÃO CIVIL LTDA.",
       "type": "legislação"
     },
     {
@@ -674,6 +666,14 @@
       "description": "O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.\n\nAssim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.\n\nParticipe!",
       "image": "https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17376/SIA, 03/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17376",
+      "datePublished": "2025-07-03T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1138 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
