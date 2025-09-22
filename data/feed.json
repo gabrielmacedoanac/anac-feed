@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3b4f9d87-0ce1-45e7-bdbb-5fa5379956cd",
+  "identifier": "urn:uuid:anac-feed-aa721e55-5fcc-481d-8fb2-1eff2a5d08c5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-22T16:17:36.080Z",
-  "dateModified": "2025-09-22T16:17:36.080Z",
+  "dateCreated": "2025-09-22T20:15:15.334Z",
+  "dateModified": "2025-09-22T20:15:15.334Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-22T16:17:36.073Z"
+    "endDate": "2025-09-22T20:15:15.327Z"
   },
   "distribution": [
     {
@@ -37,8 +37,24 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17213/SIA, 13/092025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
-      "datePublished": "2025-09-22T16:17:36.073Z",
+      "datePublished": "2025-09-22T20:15:15.327Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-011C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011",
+      "datePublished": "2025-09-22T15:22:00.000Z",
+      "description": "Aprovação de aproximação por instrumento utilizando créditos operacionais mediante o uso de um EFVS - Enhanced Flight Vision System",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-006E",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
+      "datePublished": "2025-09-22T14:09:00.000Z",
+      "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
     },
     {
@@ -335,14 +351,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 121-006E",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
-      "datePublished": "2025-09-04T16:22:00.000Z",
-      "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 121-011D",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011",
       "datePublished": "2025-09-03T17:35:00.000Z",
@@ -355,14 +363,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
       "datePublished": "2025-09-03T17:33:00.000Z",
       "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 91-011C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011",
-      "datePublished": "2025-09-03T17:31:00.000Z",
-      "description": "Aprovação de aproximação por instrumento utilizando créditos operacionais mediante o uso de um EFVS - Enhanced Flight Vision System",
       "type": "legislação"
     },
     {
