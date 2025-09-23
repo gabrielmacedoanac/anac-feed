@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3e4aeb39-56d9-4df0-821e-11b2c3b5313d",
+  "identifier": "urn:uuid:anac-feed-fb8ee6db-ecad-4398-9c8f-c69d57383a8a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-23T08:18:42.721Z",
-  "dateModified": "2025-09-23T08:18:42.721Z",
+  "dateCreated": "2025-09-23T12:28:02.440Z",
+  "dateModified": "2025-09-23T12:28:02.440Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-23T08:18:42.715Z"
+    "endDate": "2025-09-23T12:28:02.431Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17213/SIA, 13/092025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
-      "datePublished": "2025-09-23T08:18:42.715Z",
+      "datePublished": "2025-09-23T12:28:02.431Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
       "type": "legislação"
     },
