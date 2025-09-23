@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-9b3002d5-1c7b-4127-b877-9f6519c10d3d</id>
-  <updated>2025-09-23T01:04:07.803Z</updated>
+  <id>urn:uuid:anac-feed-e10b5198-e061-497a-a7cd-78bccecf0a7b</id>
+  <updated>2025-09-23T04:17:06.219Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17213/SIA, 13/092025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213</id>
-    <published>2025-09-23T01:04:07.803Z</published>
-    <updated>2025-09-23T01:04:07.803Z</updated>
+    <published>2025-09-23T04:17:06.219Z</published>
+    <updated>2025-09-23T04:17:06.219Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -71,25 +71,6 @@
   
   
   <entry>
-    <title type="html">Anac chefiará delegação brasileira na 42ª Assembleia da Oaci, no Canadá</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-chefiara-delegacao-brasileira-na-42a-assembleia-da-oaci-no-canada" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-chefiara-delegacao-brasileira-na-42a-assembleia-da-oaci-no-canada</id>
-    <published>2025-09-22T09:44:00.000Z</published>
-    <updated>2025-09-22T09:44:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento promoverá debates sobre temas estratégicos para o setor aéreo, como SAF, EVTOLS e inovação regulatória</summary>
-    <content type="html"><![CDATA[
-      <p>Evento promoverá debates sobre temas estratégicos para o setor aéreo, como SAF, EVTOLS e inovação regulatória</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-chefiara-delegacao-brasileira-na-42a-assembleia-da-oaci-no-canada/banner_portal_assembleia_oaci_42_port.jpg/@@images/38fad55f-3848-4e66-9f8c-57e2f20444fd.jpeg" alt="Anac chefiará delegação brasileira na 42ª Assembleia da Oaci, no Canadá">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RBAC 153 EMD 09</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
@@ -105,25 +86,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac abre consulta pública sobre edital de venda assistida para a concessão do Aeroporto do Galeão</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-sobre-edital-de-venda-assistida-para-a-concessao-do-aeroporto-do-galeao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-sobre-edital-de-venda-assistida-para-a-concessao-do-aeroporto-do-galeao</id>
-    <published>2025-09-19T15:07:00.000Z</published>
-    <updated>2025-09-19T15:07:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O processo também contará com audiência pública a ser realizada em 14/10</summary>
-    <content type="html"><![CDATA[
-      <p>O processo também contará com audiência pública a ser realizada em 14/10</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -147,101 +109,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aviação nacional registra 12 meses seguidos de crescimento no transporte de passageiros</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros</id>
-    <published>2025-09-19T13:47:00.000Z</published>
-    <updated>2025-09-19T13:47:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Mercado doméstico também tem o melhor movimento para agosto desde o início da série histórica, com 8,7 milhões de pessoas transportadas no mês</summary>
-    <content type="html"><![CDATA[
-      <p>Mercado doméstico também tem o melhor movimento para agosto desde o início da série histórica, com 8,7 milhões de pessoas transportadas no mês</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros/d-do-setor-aereo_ago_2025_card-6.png/@@images/fc180174-5ec6-4925-9b5b-25697b5cb324.png" alt="Aviação nacional registra 12 meses seguidos de crescimento no transporte de passageiros">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac abre consulta setorial sobre requisitos de contenção de fogo em sistemas propulsivos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos</id>
-    <published>2025-09-19T11:57:00.000Z</published>
-    <updated>2025-09-19T11:57:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições podem ser enviadas até o dia 20 de outubro</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições podem ser enviadas até o dia 20 de outubro</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Manual da Anac sobre desinterdição de pista ganha versão em inglês</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/manual-da-anac-sobre-desinterdicao-de-pista-ganha-versao-em-ingles" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/manual-da-anac-sobre-desinterdicao-de-pista-ganha-versao-em-ingles</id>
-    <published>2025-09-19T10:53:00.000Z</published>
-    <updated>2025-09-19T10:53:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac, CNJ e SAC firmam Acordo de Cooperação Técnica</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1</id>
-    <published>2025-09-18T18:15:00.000Z</published>
-    <updated>2025-09-18T18:15:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Renovação de parceria foi assinada no gabinete do ministro do STF Luís Roberto Barroso, com destaque para o compartilhamento de dados de voos</summary>
-    <content type="html"><![CDATA[
-      <p>Renovação de parceria foi assinada no gabinete do ministro do STF Luís Roberto Barroso, com destaque para o compartilhamento de dados de voos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1/imagem-do-whatsapp-de-2025-09-18-a-s-18-02-30_74599b57.jpg/@@images/cd9f23cd-aadf-4e5f-90bc-3f3849d02e48.jpeg" alt="Anac, CNJ e SAC firmam Acordo de Cooperação Técnica">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac promove 3ª Oficina de Melhoria Contínua AVSEC para reforçar a segurança da aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-3a-oficina-de-melhoria-continua-avsec-para-reforcar-a-seguranca-da-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-3a-oficina-de-melhoria-continua-avsec-para-reforcar-a-seguranca-da-aviacao-civil</id>
-    <published>2025-09-18T14:17:00.000Z</published>
-    <updated>2025-09-18T14:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento reunirá profissionais entre 21 e 23/10 para alinhamento técnico e troca de experiências</summary>
-    <content type="html"><![CDATA[
-      <p>Evento reunirá profissionais entre 21 e 23/10 para alinhamento técnico e troca de experiências</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -345,25 +212,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
   
   
   <entry>
-    <title type="html">Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df</id>
-    <published>2025-09-17T16:32:00.000Z</published>
-    <updated>2025-09-17T16:32:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg" alt="Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Cerimônia de posse da nova diretoria da Anac</title>
     <link href="https://www.youtube.com/watch?v=jTD_JdU6otI" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=jTD_JdU6otI</id>
@@ -455,25 +303,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h</id>
-    <published>2025-09-16T08:36:00.000Z</published>
-    <updated>2025-09-16T08:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos</summary>
-    <content type="html"><![CDATA[
-      <p>Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg" alt="Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -592,25 +421,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
   
   
   <entry>
-    <title type="html">Anac firma compromisso para ampliar práticas sustentáveis na Agência</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia</id>
-    <published>2025-09-15T16:21:00.000Z</published>
-    <updated>2025-09-15T16:21:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.</summary>
-    <content type="html"><![CDATA[
-      <p>Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png" alt="Anac firma compromisso para ampliar práticas sustentáveis na Agência">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">PORTARIA Nº 17877/SIA, 15/09/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877</id>
@@ -668,44 +478,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
   
   
   <entry>
-    <title type="html">Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo</id>
-    <published>2025-09-11T16:09:00.000Z</published>
-    <updated>2025-09-11T16:09:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</summary>
-    <content type="html"><![CDATA[
-      <p>Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png" alt="Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia</id>
-    <published>2025-09-11T14:12:00.000Z</published>
-    <updated>2025-09-11T14:12:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</summary>
-    <content type="html"><![CDATA[
-      <p>Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/01.png/@@images/b188f5b1-4df4-486c-8a9f-af43a6c52973.png" alt="Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">PORTARIA Nº 17854/SIA, 11/09/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854</id>
@@ -721,25 +493,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Pilotos do Semiárido: publicados a lista final e o cronograma atualizado do processo seletivo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo</id>
-    <published>2025-09-09T17:09:00.000Z</published>
-    <updated>2025-09-09T17:09:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -782,44 +535,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
   
   
   <entry>
-    <title type="html">Anac lança manual para avaliar áreas não pavimentadas em aeródromos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1</id>
-    <published>2025-09-03T16:45:00.000Z</published>
-    <updated>2025-09-03T16:45:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento traz informações sobre uso do software PCASE</summary>
-    <content type="html"><![CDATA[
-      <p>Documento traz informações sobre uso do software PCASE</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac é líder digital na qualidade de serviços no Governo Federal</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal</id>
-    <published>2025-09-03T15:16:00.000Z</published>
-    <updated>2025-09-03T15:16:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários</summary>
-    <content type="html"><![CDATA[
-      <p>Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png" alt="Anac é líder digital na qualidade de serviços no Governo Federal">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">IS 91-010D</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010</id>
@@ -835,44 +550,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac lança manual inédito sobre o uso de drones em aeroportos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos</id>
-    <published>2025-09-02T09:40:00.000Z</published>
-    <updated>2025-09-02T09:40:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor</summary>
-    <content type="html"><![CDATA[
-      <p>Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos/drone.jpg/@@images/5f88e20d-ab80-48c6-8942-83c02bda91c9.jpeg" alt="Anac lança manual inédito sobre o uso de drones em aeroportos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aberta consulta pública para atualizar regulamentos de aeroportos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos</id>
-    <published>2025-09-01T17:52:00.000Z</published>
-    <updated>2025-09-01T17:52:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira</summary>
-    <content type="html"><![CDATA[
-      <p>Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -950,63 +627,6 @@ APRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrai
   
   
   <entry>
-    <title type="html">País passa a contar com primeira empresa certificada para operar voos com balões</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes</id>
-    <published>2025-08-29T13:14:00.000Z</published>
-    <updated>2025-08-29T13:14:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Rubic Balões poderá fazer voos com passageiros utilizando aeronaves de fabricação própria, também certificadas pela Anac</summary>
-    <content type="html"><![CDATA[
-      <p>Rubic Balões poderá fazer voos com passageiros utilizando aeronaves de fabricação própria, também certificadas pela Anac</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes/imagem-do-whatsapp-de-2025-08-27-a-s-18-39-56_0c79f628.jpg/@@images/c97e9cfe-58a7-4f29-ba40-3725a0fb81d1.jpeg" alt="País passa a contar com primeira empresa certificada para operar voos com balões">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Nomeados os novos diretores da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac</id>
-    <published>2025-08-29T12:19:00.000Z</published>
-    <updated>2025-08-29T12:19:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Nomeações de Tiago Faierstein, Rui Mesquita e Antonio Mathias Moreira foram publicadas no Diário Oficial da União desta sexta (29/8)</summary>
-    <content type="html"><![CDATA[
-      <p>Nomeações de Tiago Faierstein, Rui Mesquita e Antonio Mathias Moreira foram publicadas no Diário Oficial da União desta sexta (29/8)</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac/879604df-d270-4327-aee3-6cc6efba69b4.jpeg/@@images/b8ca629f-7e29-493b-af2e-d85a75d418c2.jpeg" alt="Nomeados os novos diretores da Anac">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tetos das tarifas aeroportuárias de Fortaleza, Florianópolis, Porto Alegre e Salvador são reajustados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-fortaleza-florianopolis-porto-alegre-e-salvador-sao-reajustados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-fortaleza-florianopolis-porto-alegre-e-salvador-sao-reajustados</id>
-    <published>2025-08-29T10:03:00.000Z</published>
-    <updated>2025-08-29T10:03:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</summary>
-    <content type="html"><![CDATA[
-      <p>Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário Engenharia de Aeroportos 2025</title>
     <link href="https://www.youtube.com/watch?v=ijUF7KGaE1Q" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=ijUF7KGaE1Q</id>
@@ -1076,44 +696,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
   
   
   <entry>
-    <title type="html">Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil</id>
-    <published>2025-08-28T15:24:00.000Z</published>
-    <updated>2025-08-28T15:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil/dsc04029-1.jpg/@@images/5402c1f5-3f18-46bd-bbf0-85121ba3312e.jpeg" alt="Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Alerta aos operadores aéreos: saiba quais são as três principais ocorrências na aviação geral</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/alerta-aos-operadores-aereos-saiba-quais-sao-os-tres-principais-riscos-de-acidentes-na-aviacao-geral" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/alerta-aos-operadores-aereos-saiba-quais-sao-os-tres-principais-riscos-de-acidentes-na-aviacao-geral</id>
-    <published>2025-08-28T09:47:00.000Z</published>
-    <updated>2025-08-28T09:47:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país</summary>
-    <content type="html"><![CDATA[
-      <p>Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 722, 28/08/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722</id>
@@ -1164,44 +746,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
   
   
   <entry>
-    <title type="html">Anac cria plataforma digital para pagamento e consulta de informações financeiras</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras</id>
-    <published>2025-08-27T18:38:00.000Z</published>
-    <updated>2025-08-27T18:38:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência</summary>
-    <content type="html"><![CDATA[
-      <p>Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras/linkedin-3.png/@@images/dbc85eb1-e98c-41c9-98b7-4c06551b7cba.png" alt="Anac cria plataforma digital para pagamento e consulta de informações financeiras">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos</id>
-    <published>2025-08-27T14:15:00.000Z</published>
-    <updated>2025-08-27T14:15:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais</summary>
-    <content type="html"><![CDATA[
-      <p>Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg" alt="Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)</title>
     <link href="https://www.youtube.com/watch?v=gx-VCn_gx98" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=gx-VCn_gx98</id>
@@ -1217,25 +761,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Kalitta Air LLC recebe autorização para operar voos internacionais regulares no Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil</id>
-    <published>2025-08-26T16:51:00.000Z</published>
-    <updated>2025-08-26T16:51:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos</summary>
-    <content type="html"><![CDATA[
-      <p>Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9b3002d5-1c7b-4127-b877-9f6519c10d3d",
+  "identifier": "urn:uuid:anac-feed-e10b5198-e061-497a-a7cd-78bccecf0a7b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-23T01:04:07.806Z",
-  "dateModified": "2025-09-23T01:04:07.806Z",
+  "dateCreated": "2025-09-23T04:17:06.225Z",
+  "dateModified": "2025-09-23T04:17:06.225Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-23T01:04:07.803Z"
+    "endDate": "2025-09-23T04:17:06.219Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17213/SIA, 13/092025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
-      "datePublished": "2025-09-23T01:04:07.803Z",
+      "datePublished": "2025-09-23T04:17:06.219Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
       "type": "legislação"
     },
@@ -58,29 +58,12 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac chefiará delegação brasileira na 42ª Assembleia da Oaci, no Canadá",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-chefiara-delegacao-brasileira-na-42a-assembleia-da-oaci-no-canada",
-      "datePublished": "2025-09-22T09:44:00.000Z",
-      "description": "Evento promoverá debates sobre temas estratégicos para o setor aéreo, como SAF, EVTOLS e inovação regulatória",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-chefiara-delegacao-brasileira-na-42a-assembleia-da-oaci-no-canada/banner_portal_assembleia_oaci_42_port.jpg/@@images/38fad55f-3848-4e66-9f8c-57e2f20444fd.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "RBAC 153 EMD 09",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
       "datePublished": "2025-09-19T16:45:00.000Z",
       "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac abre consulta pública sobre edital de venda assistida para a concessão do Aeroporto do Galeão",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-sobre-edital-de-venda-assistida-para-a-concessao-do-aeroporto-do-galeao",
-      "datePublished": "2025-09-19T15:07:00.000Z",
-      "description": "O processo também contará com audiência pública a ser realizada em 14/10",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -90,48 +73,6 @@
       "description": "A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.\n\nLink Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C",
       "image": "https://i1.ytimg.com/vi/hlRq2eZOm18/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aviação nacional registra 12 meses seguidos de crescimento no transporte de passageiros",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros",
-      "datePublished": "2025-09-19T13:47:00.000Z",
-      "description": "Mercado doméstico também tem o melhor movimento para agosto desde o início da série histórica, com 8,7 milhões de pessoas transportadas no mês",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros/d-do-setor-aereo_ago_2025_card-6.png/@@images/fc180174-5ec6-4925-9b5b-25697b5cb324.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac abre consulta setorial sobre requisitos de contenção de fogo em sistemas propulsivos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos",
-      "datePublished": "2025-09-19T11:57:00.000Z",
-      "description": "Contribuições podem ser enviadas até o dia 20 de outubro",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Manual da Anac sobre desinterdição de pista ganha versão em inglês",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/manual-da-anac-sobre-desinterdicao-de-pista-ganha-versao-em-ingles",
-      "datePublished": "2025-09-19T10:53:00.000Z",
-      "description": "Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac, CNJ e SAC firmam Acordo de Cooperação Técnica",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1",
-      "datePublished": "2025-09-18T18:15:00.000Z",
-      "description": "Renovação de parceria foi assinada no gabinete do ministro do STF Luís Roberto Barroso, com destaque para o compartilhamento de dados de voos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1/imagem-do-whatsapp-de-2025-09-18-a-s-18-02-30_74599b57.jpg/@@images/cd9f23cd-aadf-4e5f-90bc-3f3849d02e48.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac promove 3ª Oficina de Melhoria Contínua AVSEC para reforçar a segurança da aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-promove-3a-oficina-de-melhoria-continua-avsec-para-reforcar-a-seguranca-da-aviacao-civil",
-      "datePublished": "2025-09-18T14:17:00.000Z",
-      "description": "Evento reunirá profissionais entre 21 e 23/10 para alinhamento técnico e troca de experiências",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -175,15 +116,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df",
-      "datePublished": "2025-09-17T16:32:00.000Z",
-      "description": "Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Cerimônia de posse da nova diretoria da Anac",
       "url": "https://www.youtube.com/watch?v=jTD_JdU6otI",
@@ -223,15 +155,6 @@
       "datePublished": "2025-09-17T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) Aeroporto Internacional de Belém / Val de Cans / Júlio Cezar Ribeiro (Código OACI:SBBE, Código CIAD: PA0001), em Belém (PA)",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h",
-      "datePublished": "2025-09-16T08:36:00.000Z",
-      "description": "Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -282,15 +205,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac firma compromisso para ampliar práticas sustentáveis na Agência",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia",
-      "datePublished": "2025-09-15T16:21:00.000Z",
-      "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17877/SIA, 15/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877",
@@ -316,38 +230,12 @@
       "type": "vídeo"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo",
-      "datePublished": "2025-09-11T16:09:00.000Z",
-      "description": "Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia",
-      "datePublished": "2025-09-11T14:12:00.000Z",
-      "description": "Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/01.png/@@images/b188f5b1-4df4-486c-8a9f-af43a6c52973.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "PORTARIA Nº 17854/SIA, 11/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854",
       "datePublished": "2025-09-11T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1156 no cadastro de aeródromos",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Pilotos do Semiárido: publicados a lista final e o cronograma atualizado do processo seletivo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo",
-      "datePublished": "2025-09-09T17:09:00.000Z",
-      "description": "Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -366,46 +254,12 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac lança manual para avaliar áreas não pavimentadas em aeródromos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1",
-      "datePublished": "2025-09-03T16:45:00.000Z",
-      "description": "Documento traz informações sobre uso do software PCASE",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac é líder digital na qualidade de serviços no Governo Federal",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal",
-      "datePublished": "2025-09-03T15:16:00.000Z",
-      "description": "Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "IS 91-010D",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
       "datePublished": "2025-09-03T11:16:00.000Z",
       "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac lança manual inédito sobre o uso de drones em aeroportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos",
-      "datePublished": "2025-09-02T09:40:00.000Z",
-      "description": "Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos/drone.jpg/@@images/5f88e20d-ab80-48c6-8942-83c02bda91c9.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aberta consulta pública para atualizar regulamentos de aeroportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-para-atualizar-regulamentos-de-aeroportos",
-      "datePublished": "2025-09-01T17:52:00.000Z",
-      "description": "Anac quer ouvir comunidade aeronáutica para adaptar novas regras internacionais à realidade brasileira",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -433,32 +287,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "País passa a contar com primeira empresa certificada para operar voos com balões",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes",
-      "datePublished": "2025-08-29T13:14:00.000Z",
-      "description": "Rubic Balões poderá fazer voos com passageiros utilizando aeronaves de fabricação própria, também certificadas pela Anac",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes/imagem-do-whatsapp-de-2025-08-27-a-s-18-39-56_0c79f628.jpg/@@images/c97e9cfe-58a7-4f29-ba40-3725a0fb81d1.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Nomeados os novos diretores da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac",
-      "datePublished": "2025-08-29T12:19:00.000Z",
-      "description": "Nomeações de Tiago Faierstein, Rui Mesquita e Antonio Mathias Moreira foram publicadas no Diário Oficial da União desta sexta (29/8)",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac/879604df-d270-4327-aee3-6cc6efba69b4.jpeg/@@images/b8ca629f-7e29-493b-af2e-d85a75d418c2.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Tetos das tarifas aeroportuárias de Fortaleza, Florianópolis, Porto Alegre e Salvador são reajustados",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tetos-das-tarifas-aeroportuarias-de-fortaleza-florianopolis-porto-alegre-e-salvador-sao-reajustados",
-      "datePublished": "2025-08-29T10:03:00.000Z",
-      "description": "Novas tarifas poderão ser praticadas 30 dias após divulgação pelas concessionárias",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário Engenharia de Aeroportos 2025",
       "url": "https://www.youtube.com/watch?v=ijUF7KGaE1Q",
@@ -484,23 +312,6 @@
       "type": "legislação"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil",
-      "datePublished": "2025-08-28T15:24:00.000Z",
-      "description": "Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil/dsc04029-1.jpg/@@images/5402c1f5-3f18-46bd-bbf0-85121ba3312e.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Alerta aos operadores aéreos: saiba quais são as três principais ocorrências na aviação geral",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/alerta-aos-operadores-aereos-saiba-quais-sao-os-tres-principais-riscos-de-acidentes-na-aviacao-geral",
-      "datePublished": "2025-08-28T09:47:00.000Z",
-      "description": "Os alertas da Agência passarão a ser traduzidos para outros idiomas ampliando o alcance aos profissionais de outras nacionalidades que atuam no país",
-      "type": "notícia"
-    },
-    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 722, 28/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722",
@@ -518,24 +329,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac cria plataforma digital para pagamento e consulta de informações financeiras",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras",
-      "datePublished": "2025-08-27T18:38:00.000Z",
-      "description": "Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras/linkedin-3.png/@@images/dbc85eb1-e98c-41c9-98b7-4c06551b7cba.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos",
-      "datePublished": "2025-08-27T14:15:00.000Z",
-      "description": "Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)",
       "url": "https://www.youtube.com/watch?v=gx-VCn_gx98",
@@ -543,14 +336,6 @@
       "description": "Processo 00058.030675/2025-84",
       "image": "https://i4.ytimg.com/vi/gx-VCn_gx98/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Kalitta Air LLC recebe autorização para operar voos internacionais regulares no Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil",
-      "datePublished": "2025-08-26T16:51:00.000Z",
-      "description": "Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
