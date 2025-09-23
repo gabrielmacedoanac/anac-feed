@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-fb8ee6db-ecad-4398-9c8f-c69d57383a8a</id>
-  <updated>2025-09-23T12:28:02.431Z</updated>
+  <id>urn:uuid:anac-feed-b2d9c9b3-a0e1-41fa-9362-5cc09faa500d</id>
+  <updated>2025-09-23T16:17:38.131Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,14 +17,52 @@
     <title type="html">PORTARIA Nº 17213/SIA, 13/092025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213</id>
-    <published>2025-09-23T12:28:02.431Z</published>
-    <updated>2025-09-23T12:28:02.431Z</updated>
+    <published>2025-09-23T16:17:38.131Z</published>
+    <updated>2025-09-23T16:17:38.131Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aberta a tomada de subsídios para tratar da regulamentação de serviços Camo no Brasil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-a-tomada-de-subsidios-para-tratar-da-regulamentacao-de-servicos-camo-no-brasil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-a-tomada-de-subsidios-para-tratar-da-regulamentacao-de-servicos-camo-no-brasil</id>
+    <published>2025-09-23T11:32:00.000Z</published>
+    <updated>2025-09-23T11:32:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">As participações devem ser registradas até o dia 15 de outubro, no site da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>As participações devem ser registradas até o dia 15 de outubro, no site da Agência</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RBAC 153 EMD 09</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
+    <published>2025-09-23T10:16:00.000Z</published>
+    <updated>2025-09-23T10:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aeródromos - Operação, Manutenção e Resposta à Emergência</summary>
+    <content type="html"><![CDATA[
+      <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -86,25 +124,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RBAC 153 EMD 09</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
-    <published>2025-09-19T16:45:00.000Z</published>
-    <updated>2025-09-19T16:45:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aeródromos - Operação, Manutenção e Resposta à Emergência</summary>
-    <content type="html"><![CDATA[
-      <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -265,6 +284,44 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17905/SAF, 18/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17905" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17905</id>
+    <published>2025-09-18T00:00:00.000Z</published>
+    <updated>2025-09-18T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Gestor de Contrato</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Gestor de Contrato</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17902/SPL, 18/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17849" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17849</id>
+    <published>2025-09-18T00:00:00.000Z</published>
+    <updated>2025-09-18T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da FLYRIGHT INC. para conduzir treinamentos e exames segundo o RBAC nº 142</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da FLYRIGHT INC. para conduzir treinamentos e exames segundo o RBAC nº 142</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -546,44 +603,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     <summary type="html">Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da M &amp; F CONSULTORIA E TREINAMENTOS LTDA</summary>
     <content type="html"><![CDATA[
       <p>Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da M & F CONSULTORIA E TREINAMENTOS LTDA</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17879/SIA, 16/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17879" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17879</id>
-    <published>2025-09-16T00:00:00.000Z</published>
-    <updated>2025-09-16T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DO BLOCO CENTRAL S.A., operadora do Aeroporto Prefeito Renato Moreira, código OACI: SBIZ, código CIAD: MA0002, localizado em Imperatriz (MA)</summary>
-    <content type="html"><![CDATA[
-      <p>Concede Certificado Operacional de Aeroporto à CONCESSIONÁRIA DO BLOCO CENTRAL S.A., operadora do Aeroporto Prefeito Renato Moreira, código OACI: SBIZ, código CIAD: MA0002, localizado em Imperatriz (MA)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17880/SIA, 16/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17880" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17880</id>
-    <published>2025-09-16T00:00:00.000Z</published>
-    <updated>2025-09-16T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a revogação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Internacional de Belém/Val de Cans/Júlio Cezar Ribeiro, Código OACI: SBBE; Código CIAD: PA0001.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a revogação de medida cautelar de proibição de aumento de frequência das operações aéreas de transporte público de passageiros no Aeroporto Internacional de Belém/Val de Cans/Júlio Cezar Ribeiro, Código OACI: SBBE; Código CIAD: PA0001.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1217,25 +1236,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Kalitta Air LLC recebe autorização para operar voos internacionais regulares no Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/kalitta-air-llc-recebe-autorizacao-para-operar-voos-internacionais-regulares-no-brasil</id>
-    <published>2025-08-26T16:51:00.000Z</published>
-    <updated>2025-08-26T16:51:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos</summary>
-    <content type="html"><![CDATA[
-      <p>Companhia americana poderá definir com os aeroportos as rotas e frequências dos voos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
