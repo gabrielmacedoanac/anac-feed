@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b2d9c9b3-a0e1-41fa-9362-5cc09faa500d",
+  "identifier": "urn:uuid:anac-feed-13d29bfb-fd4e-4d3d-bd88-bdd8f4ee4393",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-23T16:17:38.137Z",
-  "dateModified": "2025-09-23T16:17:38.137Z",
+  "dateCreated": "2025-09-23T20:15:02.549Z",
+  "dateModified": "2025-09-23T20:15:02.549Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-23T16:17:38.131Z"
+    "endDate": "2025-09-23T20:15:02.540Z"
   },
   "distribution": [
     {
@@ -37,8 +37,48 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17213/SIA, 13/092025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
-      "datePublished": "2025-09-23T16:17:38.131Z",
+      "datePublished": "2025-09-23T20:15:02.540Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-011D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011",
+      "datePublished": "2025-09-23T17:06:00.000Z",
+      "description": "Procedimentos para elaboração de programa de treinamento operacional de comissários de voo segundo o RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
+      "datePublished": "2025-09-23T15:38:00.000Z",
+      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 121-002B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
+      "datePublished": "2025-09-23T15:36:00.000Z",
+      "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 135.21-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
+      "datePublished": "2025-09-23T15:11:00.000Z",
+      "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-010D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
+      "datePublished": "2025-09-23T14:47:00.000Z",
+      "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
       "type": "legislação"
     },
     {
@@ -83,6 +123,30 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 216, 22/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-216",
+      "datePublished": "2025-09-22T00:00:00.000Z",
+      "description": "Altera a Instrução Normativa nº 155, de 14 de maio de 2020",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17922/SFI, 22/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17922",
+      "datePublished": "2025-09-22T00:00:00.000Z",
+      "description": "Altera a Portaria nº 13.333/SFI, de 11 de dezembro de 2023",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "INSTRUÇÃO NORMATIVA Nº 216, 22/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-216",
+      "datePublished": "2025-09-22T00:00:00.000Z",
+      "description": "Altera a Instrução Normativa nº 155, de 14 de maio de 2020",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac abre consulta pública sobre edital de venda assistida para a concessão do Aeroporto do Galeão",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-publica-sobre-edital-de-venda-assistida-para-a-concessao-do-aeroporto-do-galeao",
@@ -125,6 +189,22 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17912/SAF, 19/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17912",
+      "datePublished": "2025-09-19T00:00:00.000Z",
+      "description": "Designa Equipe de Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17911/SPO, 19/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17911",
+      "datePublished": "2025-09-19T00:00:00.000Z",
+      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac, CNJ e SAC firmam Acordo de Cooperação Técnica",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cnj-e-sac-firmam-acordo-de-cooperacao-tecnica-1",
@@ -156,14 +236,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17905",
       "datePublished": "2025-09-18T00:00:00.000Z",
       "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17902/SPL, 18/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17849",
-      "datePublished": "2025-09-18T00:00:00.000Z",
-      "description": "Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da FLYRIGHT INC. para conduzir treinamentos e exames segundo o RBAC nº 142",
       "type": "legislação"
     },
     {
@@ -233,22 +305,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17894/SPO, 17/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17894",
-      "datePublished": "2025-09-17T00:00:00.000Z",
-      "description": "Torna pública a revisão do certificado de operador aéreo da MÍDIA RIO PROPAGANDA AÉREA LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17892/SIA, 17/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17892",
-      "datePublished": "2025-09-17T00:00:00.000Z",
-      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 03) Aeroporto Internacional de Belém / Val de Cans / Júlio Cezar Ribeiro (Código OACI:SBBE, Código CIAD: PA0001), em Belém (PA)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h",
@@ -279,14 +335,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17885",
       "datePublished": "2025-09-16T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto uso privativo a bordo da unidade NOBLE COURAGE (9PBS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17888/SPL, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17888",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Torna público a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da M & F CONSULTORIA E TREINAMENTOS LTDA",
       "type": "legislação"
     },
     {
@@ -343,10 +391,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17854/SIA, 11/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17854",
-      "datePublished": "2025-09-11T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1156 no cadastro de aeródromos",
+      "name": "PORTARIA Nº 17849/SPL, 10/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17849",
+      "datePublished": "2025-09-10T00:00:00.000Z",
+      "description": "Torna pública a emissão de Certificado de Validação de Centro de Treinamento emitido em favor da FLYRIGHT INC. para conduzir treinamentos e exames segundo o RBAC nº 142",
       "type": "legislação"
     },
     {
@@ -356,22 +404,6 @@
       "datePublished": "2025-09-09T17:09:00.000Z",
       "description": "Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-011D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011",
-      "datePublished": "2025-09-03T17:35:00.000Z",
-      "description": "Procedimentos para elaboração de programa de treinamento operacional de comissários de voo segundo o RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 91-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
-      "datePublished": "2025-09-03T17:33:00.000Z",
-      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -389,14 +421,6 @@
       "description": "Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 91-010D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
-      "datePublished": "2025-09-03T11:16:00.000Z",
-      "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -431,14 +455,6 @@
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y\n\nAPRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip",
       "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-002B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
-      "datePublished": "2025-08-29T17:30:00.000Z",
-      "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -587,14 +603,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 135.21-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
-      "datePublished": "2025-08-08T09:53:00.000Z",
-      "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 719, 07/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719",
       "datePublished": "2025-08-07T00:00:00.000Z",
@@ -624,14 +632,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Aprova emenda ao RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 718, 31/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-718",
-      "datePublished": "2025-07-31T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 121.391(a)(4) do RBAC nº 121, em favor da TAM LINHAS AÉREAS S.A.",
       "type": "legislação"
     },
     {
