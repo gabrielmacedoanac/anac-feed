@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e74778b4-1e4c-42b1-b7c0-c6cba346a391</id>
-  <updated>2025-09-24T16:17:55.838Z</updated>
+  <id>urn:uuid:anac-feed-e5088c62-1bab-4c0d-bc2c-688b9f9a3809</id>
+  <updated>2025-09-24T20:15:31.732Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">PORTARIA Nº 17213/SIA, 13/092025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213</id>
-    <published>2025-09-24T16:17:55.838Z</published>
-    <updated>2025-09-24T16:17:55.838Z</updated>
+    <published>2025-09-24T20:15:31.732Z</published>
+    <updated>2025-09-24T20:15:31.732Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Desafios e soluções para Mecânicos de Manutenção Aeronáutica foram o destaque da Anac no MRO Brasil 2025</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2024/desafios-e-solucoes-para-mecanicos-de-manutencao-aeronautica-foram-o-destaque-da-anac-no-mro-brasil-2025" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2024/desafios-e-solucoes-para-mecanicos-de-manutencao-aeronautica-foram-o-destaque-da-anac-no-mro-brasil-2025</id>
+    <published>2025-09-24T16:19:00.000Z</published>
+    <updated>2025-09-24T16:19:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -573,25 +592,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 17900/SAF, 18/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900</id>
-    <published>2025-09-18T00:00:00.000Z</published>
-    <updated>2025-09-18T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Gerente e Substituto de Ata de Registro de Preços</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Gerente e Substituto de Ata de Registro de Preços</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RESOLUÇÃO Nº 779, 18/09/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-779" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-779</id>
@@ -740,6 +740,25 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17881/SPO, 16/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17881" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17881</id>
+    <published>2025-09-16T00:00:00.000Z</published>
+    <updated>2025-09-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revoga a Instrução Suplementar nº 145-003</summary>
+    <content type="html"><![CDATA[
+      <p>Revoga a Instrução Suplementar nº 145-003</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1214,25 +1233,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</
     <content type="html"><![CDATA[
       <p>Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras/linkedin-3.png/@@images/dbc85eb1-e98c-41c9-98b7-4c06551b7cba.png" alt="Anac cria plataforma digital para pagamento e consulta de informações financeiras">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos</id>
-    <published>2025-08-27T14:15:00.000Z</published>
-    <updated>2025-08-27T14:15:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais</summary>
-    <content type="html"><![CDATA[
-      <p>Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg" alt="Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

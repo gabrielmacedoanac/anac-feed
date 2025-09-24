@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e74778b4-1e4c-42b1-b7c0-c6cba346a391",
+  "identifier": "urn:uuid:anac-feed-e5088c62-1bab-4c0d-bc2c-688b9f9a3809",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-24T16:17:55.844Z",
-  "dateModified": "2025-09-24T16:17:55.844Z",
+  "dateCreated": "2025-09-24T20:15:31.738Z",
+  "dateModified": "2025-09-24T20:15:31.738Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-24T16:17:55.838Z"
+    "endDate": "2025-09-24T20:15:31.732Z"
   },
   "distribution": [
     {
@@ -37,9 +37,17 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17213/SIA, 13/092025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
-      "datePublished": "2025-09-24T16:17:55.838Z",
+      "datePublished": "2025-09-24T20:15:31.732Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Desafios e soluções para Mecânicos de Manutenção Aeronáutica foram o destaque da Anac no MRO Brasil 2025",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2024/desafios-e-solucoes-para-mecanicos-de-manutencao-aeronautica-foram-o-destaque-da-anac-no-mro-brasil-2025",
+      "datePublished": "2025-09-24T16:19:00.000Z",
+      "description": "Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -272,14 +280,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17900/SAF, 18/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17900",
-      "datePublished": "2025-09-18T00:00:00.000Z",
-      "description": "Designa Gerente e Substituto de Ata de Registro de Preços",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 779, 18/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-779",
       "datePublished": "2025-09-18T00:00:00.000Z",
@@ -344,6 +344,14 @@
       "description": "Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17881/SPO, 16/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17881",
+      "datePublished": "2025-09-16T00:00:00.000Z",
+      "description": "Revoga a Instrução Suplementar nº 145-003",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -540,15 +548,6 @@
       "datePublished": "2025-08-27T18:38:00.000Z",
       "description": "Integrado a sistemas bancários e de registro, Anac Pay oferece atendimento seguro, fácil e rápido a serviços financeiros e emissões de documentos da Agência",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-cria-plataforma-digital-para-pagamento-e-consulta-de-informacoes-financeiras/linkedin-3.png/@@images/dbc85eb1-e98c-41c9-98b7-4c06551b7cba.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novos equipamentos de inspeção elevam segurança no aeroporto de Guarulhos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos",
-      "datePublished": "2025-08-27T14:15:00.000Z",
-      "description": "Aparelhos doados pelos Estados Unidos visam aumentar a segurança e a experiência de viajantes internacionais",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/novos-equipamentos-de-inspecao-elevam-seguranca-no-aeroporto-de-guarulhos/novos-equipamentos-de-inspecao-em-gru-1/@@images/395f6493-9c23-43e8-b902-1dbd33008de2.jpeg",
       "type": "notícia"
     },
     {
