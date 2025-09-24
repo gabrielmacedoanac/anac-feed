@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1f7650d4-3b48-4604-bd7c-d174f0e71cb5",
+  "identifier": "urn:uuid:anac-feed-e74778b4-1e4c-42b1-b7c0-c6cba346a391",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-24T12:28:34.384Z",
-  "dateModified": "2025-09-24T12:28:34.384Z",
+  "dateCreated": "2025-09-24T16:17:55.844Z",
+  "dateModified": "2025-09-24T16:17:55.844Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-24T12:28:34.378Z"
+    "endDate": "2025-09-24T16:17:55.838Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 17213/SIA, 13/092025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17213",
-      "datePublished": "2025-09-24T12:28:34.378Z",
+      "datePublished": "2025-09-24T16:17:55.838Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1133 no cadastro de aeródromos",
       "type": "legislação"
     },
@@ -99,6 +99,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17927/SAF, 23/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17927",
+      "datePublished": "2025-09-23T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "IS 91-011C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011",
       "datePublished": "2025-09-22T15:22:00.000Z",
@@ -144,6 +152,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-216",
       "datePublished": "2025-09-22T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 155, de 14 de maio de 2020",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17916/SPL, 20/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17916",
+      "datePublished": "2025-09-20T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -290,6 +306,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17893/SIA, 17/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17893-1",
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "description": "Exclui o Aeródromo de uso privativo Fazenda Barra Grande (PR) no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17896/SIA, 17/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17896",
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0792 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17891/SPO, 17/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17891",
       "datePublished": "2025-09-17T00:00:00.000Z",
@@ -314,30 +346,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17878/SIA, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17878",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade BGP DRAGON (9PKY)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17882/SIA, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17882",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto privado a bordo da unidade ISLAND VICTORY (9PLE)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17885/SPO, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17885",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto uso privativo a bordo da unidade NOBLE COURAGE (9PBS)",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac firma compromisso para ampliar práticas sustentáveis na Agência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia",
@@ -345,22 +353,6 @@
       "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17877/SIA, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17877",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ANNA NERY (9PNN)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17865/SPL, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17865",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do PILOTO PADRÃO TAXI AÉREO E SERVIÇOS DE MANUTENÇÃO AERONÁUTICA",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -648,6 +640,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17504",
       "datePublished": "2025-07-22T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MS0756 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17439/SIA, 15/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17439",
+      "datePublished": "2025-07-15T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1139 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
