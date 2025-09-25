@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-bbad7912-8f88-462f-87c7-ca575812e125</id>
+  <id>urn:uuid:anac-feed-5e9038de-df58-43ef-8924-1aa0d3a4e687</id>
   <updated>2025-09-24T18:16:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -22,9 +22,9 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Em sua 7ª edição, Guardião Cibernético avaliou o preparo do Brasil na segurança nacional e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</summary>
+    <summary type="html">Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</summary>
     <content type="html"><![CDATA[
-      <p>Em sua 7ª edição, Guardião Cibernético avaliou o preparo do Brasil na segurança nacional e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</p>
+      <p>Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg" alt="Exercício testa cenários de segurança cibernética no transporte aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -702,6 +702,25 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17897/SIA, 17/09/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17897" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17897</id>
+    <published>2025-09-17T00:00:00.000Z</published>
+    <updated>2025-09-17T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PI0025 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0025 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1440,25 +1459,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     <summary type="html">Aprova emenda ao RBAC nº 121</summary>
     <content type="html"><![CDATA[
       <p>Aprova emenda ao RBAC nº 121</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17532/SIA, 25/07/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17532" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17532</id>
-    <published>2025-07-25T00:00:00.000Z</published>
-    <updated>2025-07-25T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MS0788 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MS0788 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

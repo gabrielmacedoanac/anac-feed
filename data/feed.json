@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bbad7912-8f88-462f-87c7-ca575812e125",
+  "identifier": "urn:uuid:anac-feed-5e9038de-df58-43ef-8924-1aa0d3a4e687",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-25T12:29:35.097Z",
-  "dateModified": "2025-09-25T12:29:35.097Z",
+  "dateCreated": "2025-09-25T16:17:15.168Z",
+  "dateModified": "2025-09-25T16:17:15.168Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -38,7 +38,7 @@
       "name": "Exercício testa cenários de segurança cibernética no transporte aéreo",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo",
       "datePublished": "2025-09-24T18:16:00.000Z",
-      "description": "Em sua 7ª edição, Guardião Cibernético avaliou o preparo do Brasil na segurança nacional e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo",
+      "description": "Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg",
       "type": "notícia"
     },
@@ -329,6 +329,14 @@
       "description": "",
       "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17897/SIA, 17/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17897",
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0025 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -632,14 +640,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Aprova emenda ao RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17532/SIA, 25/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17532",
-      "datePublished": "2025-07-25T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0788 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
