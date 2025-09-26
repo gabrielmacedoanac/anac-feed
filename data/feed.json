@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-98f7cd1f-98ef-45ad-8496-9b5da846811c",
+  "identifier": "urn:uuid:anac-feed-48442c7b-1548-435f-a835-b9e9a1a51dd3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-26T16:17:00.900Z",
-  "dateModified": "2025-09-26T16:17:00.900Z",
+  "dateCreated": "2025-09-26T20:15:00.694Z",
+  "dateModified": "2025-09-26T20:15:00.694Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -151,6 +151,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17928/SIA, 23/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17928",
+      "datePublished": "2025-09-23T00:00:00.000Z",
+      "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 05) do Aeroporto Senador Petrônio Portella (Código OACI: SBTE, Código CIAD: PI0001), localizado em Teresina (PI)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17935/SIA, 23/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17935",
       "datePublished": "2025-09-23T00:00:00.000Z",
@@ -236,14 +244,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-216",
       "datePublished": "2025-09-22T00:00:00.000Z",
       "description": "Altera a Instrução Normativa nº 155, de 14 de maio de 2020",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17916/SPL, 20/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17916",
-      "datePublished": "2025-09-20T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
