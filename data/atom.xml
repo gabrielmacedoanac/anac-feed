@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-72fca88b-9b05-4581-94c5-69262c447031</id>
-  <updated>2025-09-24T18:16:00.000Z</updated>
+  <id>urn:uuid:anac-feed-2b5dd457-c8cc-414a-a897-a529c986ebb4</id>
+  <updated>2025-09-25T17:56:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Assinado acordo que moderniza o contrato de concessão do Galeão</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao</id>
+    <published>2025-09-25T17:56:00.000Z</published>
+    <updated>2025-09-25T17:56:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Termo prevê a venda assistida da concessionária, nova cobrança de contribuição variável e compensação financeira relacionada à operação do Santos Dumont</summary>
+    <content type="html"><![CDATA[
+      <p>Termo prevê a venda assistida da concessionária, nova cobrança de contribuição variável e compensação financeira relacionada à operação do Santos Dumont</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao/54811733604_d985b8c716_c.jpg/@@images/6df2a82c-36c7-4d21-8eca-f847cdb5a3c9.jpeg" alt="Assinado acordo que moderniza o contrato de concessão do Galeão">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1205,25 +1224,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil</id>
-    <published>2025-08-28T15:24:00.000Z</published>
-    <updated>2025-08-28T15:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025</summary>
-    <content type="html"><![CDATA[
-      <p>Aplicativo da Agência voltado a aspirantes a pilotos civis recebeu o reconhecimento nacional na categoria Órgãos Federais durante o Agile Trends Gov 2025</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-conquista-1o-lugar-na-premiacao-agilidade-brasil/dsc04029-1.jpg/@@images/5402c1f5-3f18-46bd-bbf0-85121ba3312e.jpeg" alt="Super App da Anac conquista 1º lugar na Premiação Agilidade Brasil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
