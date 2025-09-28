@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-62fa9656-44f8-4a23-a894-78d0f240c20c",
+  "identifier": "urn:uuid:anac-feed-6e4c1290-298f-4c70-a484-75b70ca50968",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-27T20:13:33.372Z",
-  "dateModified": "2025-09-27T20:13:33.372Z",
+  "dateCreated": "2025-09-28T01:10:13.495Z",
+  "dateModified": "2025-09-28T01:10:13.495Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-26T11:42:00.000Z"
+    "endDate": "2025-09-27T11:14:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil é o país mais votado em eleição para o Conselho da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028",
+      "datePublished": "2025-09-27T11:14:00.000Z",
+      "description": "Durante o próximo triênio, Brasil terá assento em foro que decide o conjunto básico de regras da aviação mundial",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028/imagem-do-whatsapp-de-2025-09-26-a-s-16-04-50_a0b747aa.jpg/@@images/357bf1e4-cae8-41d9-bf15-6049af37757b.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Brasil atualiza plano para reduzir emissões de CO2 na aviação civil",
@@ -523,15 +532,6 @@
       "datePublished": "2025-08-29T13:14:00.000Z",
       "description": "Rubic Balões poderá fazer voos com passageiros utilizando aeronaves de fabricação própria, também certificadas pela Anac",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/pais-passa-a-contar-com-primeira-empresa-certificada-para-operar-voos-com-baloes/imagem-do-whatsapp-de-2025-08-27-a-s-18-39-56_0c79f628.jpg/@@images/c97e9cfe-58a7-4f29-ba40-3725a0fb81d1.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Nomeados os novos diretores da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac",
-      "datePublished": "2025-08-29T12:19:00.000Z",
-      "description": "Nomeações de Tiago Faierstein, Rui Mesquita e Antonio Mathias Moreira foram publicadas no Diário Oficial da União desta sexta (29/8)",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/nomeados-os-novos-diretores-da-anac/879604df-d270-4327-aee3-6cc6efba69b4.jpeg/@@images/b8ca629f-7e29-493b-af2e-d85a75d418c2.jpeg",
       "type": "notícia"
     },
     {
