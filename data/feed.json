@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a2530f67-94dd-4822-b465-5877fe6fa9ba",
+  "identifier": "urn:uuid:anac-feed-06970a27-181a-4b1b-b006-957921942262",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-29T16:14:26.681Z",
-  "dateModified": "2025-09-29T16:14:26.681Z",
+  "dateCreated": "2025-09-29T20:14:15.712Z",
+  "dateModified": "2025-09-29T20:14:15.712Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -52,6 +52,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17953/SAF, 26/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17953",
+      "datePublished": "2025-09-26T00:00:00.000Z",
+      "description": "Designa Comissão Gestora do Plano Diretor de Logística Sustentável",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Assinado acordo que moderniza o contrato de concessão do Galeão",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao",
@@ -85,6 +93,38 @@
       "datePublished": "2025-09-24T16:19:00.000Z",
       "description": "Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17937/SIA, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17937",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade AKOFS SANTOS (9PBF)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17938/SIA, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17938",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade GOLD STAR (9PGS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17945/SIA, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17945",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Exclui o Aeródromo Público Bela Vista, localizado em Bela Vista (MS), do cadastro de aeródromos públicos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17943/SPO, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17943",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Torna pública a suspensão do certificado de operador aéreo da  HERA TÁXI AÉREO LTDA.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -176,6 +216,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17936/SIA, 23/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17936",
+      "datePublished": "2025-09-23T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade RELIANCE I (9PCL)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17929/SIA, 23/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17929",
+      "datePublished": "2025-09-23T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0700 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17928/SIA, 23/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17928",
       "datePublished": "2025-09-23T00:00:00.000Z",
@@ -237,30 +293,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17919",
       "datePublished": "2025-09-22T00:00:00.000Z",
       "description": "Publica ação administrativa de suspensão e cassação de licenças e habilitações técnicas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17923/SIA, 22/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17923",
-      "datePublished": "2025-09-22T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0413 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17926/SAR, 22/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17926",
-      "datePublished": "2025-09-22T00:00:00.000Z",
-      "description": "Torna pública a Diretriz de Aeronavegabilidade no 2025-09-02 (Emenda 39-1591)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17924/SPO, 22/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17924",
-      "datePublished": "2025-09-22T00:00:00.000Z",
-      "description": "Tornar pública a revogação da suspensão do Certificado de Operador Aéreo",
       "type": "legislação"
     },
     {
@@ -398,30 +430,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17899/SIA, 17/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17899",
-      "datePublished": "2025-09-17T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MS0270 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17898/SIA, 17/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17898",
-      "datePublished": "2025-09-17T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0437 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17897/SIA, 17/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17897",
-      "datePublished": "2025-09-17T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0025 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h",
@@ -438,14 +446,6 @@
       "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17876/SIA, 15/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17876",
-      "datePublished": "2025-09-15T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo elevado CIAD PR0224 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",

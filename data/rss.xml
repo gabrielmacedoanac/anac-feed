@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 29 Sep 2025 16:14:26 GMT</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2025 16:14:26 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 20:14:15 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 20:14:15 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -41,6 +41,23 @@
       <content:encoded><![CDATA[
         <p>Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg" alt="Brasil atualiza plano para reduzir emissões de CO2 na aviação civil">
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17953/SAF, 26/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17953</link>
+      <description>Designa Comissão Gestora do Plano Diretor de Logística Sustentável</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17953</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-26T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Designa Comissão Gestora do Plano Diretor de Logística Sustentável</p>
+        
       ]]></content:encoded>
     </item>
     
@@ -108,6 +125,74 @@
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17937/SIA, 24/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17937</link>
+      <description>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade AKOFS SANTOS (9PBF)</description>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17937</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-24T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade AKOFS SANTOS (9PBF)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17938/SIA, 24/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17938</link>
+      <description>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade GOLD STAR (9PGS)</description>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17938</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-24T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade GOLD STAR (9PGS)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17945/SIA, 24/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17945</link>
+      <description>Exclui o Aeródromo Público Bela Vista, localizado em Bela Vista (MS), do cadastro de aeródromos públicos</description>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17945</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-24T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Exclui o Aeródromo Público Bela Vista, localizado em Bela Vista (MS), do cadastro de aeródromos públicos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17943/SPO, 24/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17943</link>
+      <description>Torna pública a suspensão do certificado de operador aéreo da  HERA TÁXI AÉREO LTDA.</description>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17943</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-24T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Torna pública a suspensão do certificado de operador aéreo da  HERA TÁXI AÉREO LTDA.</p>
         
       ]]></content:encoded>
     </item>
@@ -301,6 +386,40 @@
     
     
     <item>
+      <title>PORTARIA Nº 17936/SIA, 23/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17936</link>
+      <description>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade RELIANCE I (9PCL)</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17936</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-23T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade RELIANCE I (9PCL)</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17929/SIA, 23/09/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17929</link>
+      <description>Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0700 no cadastro de aeródromos</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17929</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-09-23T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0700 no cadastro de aeródromos</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17928/SIA, 23/09/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17928</link>
       <description>Aprova o Programa de Segurança Aeroportuária (Revisão 05) do Aeroporto Senador Petrônio Portella (Código OACI: SBTE, Código CIAD: PI0001), localizado em Teresina (PI)</description>
@@ -431,57 +550,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Publica ação administrativa de suspensão e cassação de licenças e habilitações técnicas</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17923/SIA, 22/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17923</link>
-      <description>Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0413 no cadastro de aeródromos</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17923</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-22T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD GO0413 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17926/SAR, 22/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17926</link>
-      <description>Torna pública a Diretriz de Aeronavegabilidade no 2025-09-02 (Emenda 39-1591)</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17926</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-22T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Torna pública a Diretriz de Aeronavegabilidade no 2025-09-02 (Emenda 39-1591)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17924/SPO, 22/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17924</link>
-      <description>Tornar pública a revogação da suspensão do Certificado de Operador Aéreo</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17924</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-22T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Tornar pública a revogação da suspensão do Certificado de Operador Aéreo</p>
         
       ]]></content:encoded>
     </item>
@@ -768,57 +836,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     
     
     <item>
-      <title>PORTARIA Nº 17899/SIA, 17/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17899</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD MS0270 no cadastro de aeródromos</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17899</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-17T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD MS0270 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17898/SIA, 17/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17898</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD PA0437 no cadastro de aeródromos</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17898</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-17T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD PA0437 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17897/SIA, 17/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17897</link>
-      <description>Altera a inscrição do Aeródromo de uso privativo CIAD PI0025 no cadastro de aeródromos</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17897</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-17T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Altera a inscrição do Aeródromo de uso privativo CIAD PI0025 no cadastro de aeródromos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h</link>
       <description>Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos</description>
@@ -848,23 +865,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
       <content:encoded><![CDATA[
         <p>Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png" alt="Anac firma compromisso para ampliar práticas sustentáveis na Agência">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17876/SIA, 15/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17876</link>
-      <description>Inscreve o Heliponto de uso privativo elevado CIAD PR0224 no cadastro de aeródromos</description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17876</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-15T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Heliponto de uso privativo elevado CIAD PR0224 no cadastro de aeródromos</p>
-        
       ]]></content:encoded>
     </item>
     
