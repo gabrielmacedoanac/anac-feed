@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-97e5ff9c-01d9-4aed-b25f-29abb7f68e28",
+  "identifier": "urn:uuid:anac-feed-a2530f67-94dd-4822-b465-5877fe6fa9ba",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-29T12:29:00.433Z",
-  "dateModified": "2025-09-29T12:29:00.433Z",
+  "dateCreated": "2025-09-29T16:14:26.681Z",
+  "dateModified": "2025-09-29T16:14:26.681Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -39,7 +39,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028",
       "datePublished": "2025-09-27T11:14:00.000Z",
       "description": "Durante o próximo triênio, Brasil terá assento em foro que decide o conjunto básico de regras da aviação mundial",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028/imagem-do-whatsapp-de-2025-09-26-a-s-16-04-50_a0b747aa.jpg/@@images/357bf1e4-cae8-41d9-bf15-6049af37757b.jpeg",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028/imagem-do-whatsapp-de-2025-09-26-a-s-16-04-50_a0b747aa.jpg/@@images/880ae139-4efa-4eaf-a121-c1e23a825455.jpeg",
       "type": "notícia"
     },
     {
@@ -85,6 +85,22 @@
       "datePublished": "2025-09-24T16:19:00.000Z",
       "description": "Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17942/SPL, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17942",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Torna pública a revisão do certificado de operador aéreo da  FLEX AERO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17946/SPL, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17946",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Credencia piloto examinador conforme Edital nº 20/ANAC/2023",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -415,14 +431,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17881/SPO, 16/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17881",
-      "datePublished": "2025-09-16T00:00:00.000Z",
-      "description": "Revoga a Instrução Suplementar nº 145-003",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac firma compromisso para ampliar práticas sustentáveis na Agência",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia",
@@ -649,14 +657,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Aprova emenda ao RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17436/SIA, 15/07/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17436",
-      "datePublished": "2025-07-15T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1144 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
