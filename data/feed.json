@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2c32fccb-4ef4-4572-bd41-59ae2f0feb73",
+  "identifier": "urn:uuid:anac-feed-a7476ffb-25e5-411c-b0c1-5bd1244aebb3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-30T16:17:53.943Z",
-  "dateModified": "2025-09-30T16:17:53.943Z",
+  "dateCreated": "2025-09-30T20:15:04.915Z",
+  "dateModified": "2025-09-30T20:15:04.915Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -138,6 +138,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17940/SPO, 24/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17940",
+      "datePublished": "2025-09-24T00:00:00.000Z",
+      "description": "Tornar pública a revogação da suspensão do Certificado de Organização de Manutenção da REMASUL AVIACAO MANUTENCAO DE AERONAVES LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17937/SIA, 24/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17937",
       "datePublished": "2025-09-24T00:00:00.000Z",
@@ -190,14 +198,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17941",
       "datePublished": "2025-09-24T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17939/SAF, 24/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17939",
-      "datePublished": "2025-09-24T00:00:00.000Z",
-      "description": "Designa Responsável pelo Planejamento da Contratação",
       "type": "legislação"
     },
     {
@@ -258,6 +258,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17930/SIA, 23/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17930",
+      "datePublished": "2025-09-23T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD PR0110 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17936/SIA, 23/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17936",
       "datePublished": "2025-09-23T00:00:00.000Z",
@@ -290,14 +298,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17934/SIA, 23/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17934",
-      "datePublished": "2025-09-23T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade AQUARIUS BRASIL (9PHI)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 91-011C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011",
       "datePublished": "2025-09-22T15:22:00.000Z",
@@ -320,6 +320,14 @@
       "description": "Evento promoverá debates sobre temas estratégicos para o setor aéreo, como SAF, EVTOLS e inovação regulatória",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-chefiara-delegacao-brasileira-na-42a-assembleia-da-oaci-no-canada/banner_portal_assembleia_oaci_42_port.jpg/@@images/38fad55f-3848-4e66-9f8c-57e2f20444fd.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17918/SIA, 22/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17918",
+      "datePublished": "2025-09-22T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1490 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -412,14 +420,6 @@
       "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
       "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17904/SAF, 18/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17904",
-      "datePublished": "2025-09-18T00:00:00.000Z",
-      "description": "Designa os pontos focais de custos da ANAC",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
