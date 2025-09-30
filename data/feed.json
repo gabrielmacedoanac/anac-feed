@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-620e7343-4e3b-4a58-932e-cf45f2c0d67b",
+  "identifier": "urn:uuid:anac-feed-74f306ef-6a5e-4f78-9056-aae9bd8e9db0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-09-30T01:04:25.211Z",
-  "dateModified": "2025-09-30T01:04:25.211Z",
+  "dateCreated": "2025-09-30T04:16:59.683Z",
+  "dateModified": "2025-09-30T04:16:59.683Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T06:39:47.000Z",
-    "endDate": "2025-09-29T17:37:00.000Z"
+    "endDate": "2025-09-30T03:23:38.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Semana de Cibersegurança da ANAC 2025",
+      "url": "https://www.youtube.com/watch?v=59Nj2ERVgWE",
+      "datePublished": "2025-09-30T03:23:38.000Z",
+      "description": "Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2",
+      "image": "https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Workshop técnico de aviação fortalece cooperação internacional",
@@ -455,15 +464,6 @@
       "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Semana de Cibersegurança da ANAC 2025",
-      "url": "https://www.youtube.com/watch?v=59Nj2ERVgWE",
-      "datePublished": "2025-09-12T15:51:17.000Z",
-      "description": "Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2",
-      "image": "https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
