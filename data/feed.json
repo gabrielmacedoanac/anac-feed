@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d44ff38b-3499-4416-93df-681aa0d5bbca",
+  "identifier": "urn:uuid:anac-feed-adc58660-46f7-448e-85b4-9fbb30e30ad2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-01T16:17:26.886Z",
-  "dateModified": "2025-10-01T16:17:26.886Z",
+  "dateCreated": "2025-10-01T20:15:52.606Z",
+  "dateModified": "2025-10-01T20:15:52.606Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -61,6 +61,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17967/ASSOP, 30/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17967",
+      "datePublished": "2025-09-30T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimentos - MPR/ASSOP-009-R00",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Workshop técnico de aviação fortalece cooperação internacional",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-fortalece-cooperacao-internacional-em-workshop-tecnico-de-aviacao-1",
@@ -94,6 +102,14 @@
       "description": "Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17960/SPL, 26/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17960",
+      "datePublished": "2025-09-26T00:00:00.000Z",
+      "description": "Aprova as Instruções Suplementares nº 65-001F e 183-003C",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -236,14 +252,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17938/SIA, 24/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17938",
-      "datePublished": "2025-09-24T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade GOLD STAR (9PGS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 121-011D",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011",
       "datePublished": "2025-09-23T17:06:00.000Z",
@@ -304,22 +312,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17930",
       "datePublished": "2025-09-23T00:00:00.000Z",
       "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD PR0110 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17936/SIA, 23/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17936",
-      "datePublished": "2025-09-23T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade RELIANCE I (9PCL)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17929/SIA, 23/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17929",
-      "datePublished": "2025-09-23T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0700 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -412,6 +404,14 @@
       "datePublished": "2025-09-19T10:53:00.000Z",
       "description": "Documento serve de referência para empresas internacionais e facilita o acesso às orientações pelas empresas aéreas estrangeiras que atuam no Brasil",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17915/SAF, 19/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17915",
+      "datePublished": "2025-09-19T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
