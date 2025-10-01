@@ -4,13 +4,40 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c13471c1-994a-483b-9b7a-fe05b7f6a319</id>
-  <updated>2025-09-30T03:23:38.000Z</updated>
+  <id>urn:uuid:anac-feed-f93c2539-202f-4cc1-ad76-47b871ce3677</id>
+  <updated>2025-10-01T12:13:39.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Programa Asas para Todos</title>
+    <link href="https://www.youtube.com/watch?v=eeWySesFFAk" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=eeWySesFFAk</id>
+    <published>2025-10-01T12:13:39.000Z</published>
+    <updated>2025-10-01T12:13:39.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A aviação é feita de tecnologia, inovação e, acima de tudo, pessoas. 
+
+Com o programa Asas para Todos, a Agência Nacional de Aviação Civil (Anac) abre caminhos para que mais pessoas realizem seus sonhos no setor aéreo — da infância à formação profissional. 
+
+Conheça mais sobre o programa que inspira e abre oportunidades para as carreiras da aviação: https://hotsites.anac.gov.br/asasparatodos/</summary>
+    <content type="html"><![CDATA[
+      <p>A aviação é feita de tecnologia, inovação e, acima de tudo, pessoas. 
+
+Com o programa Asas para Todos, a Agência Nacional de Aviação Civil (Anac) abre caminhos para que mais pessoas realizem seus sonhos no setor aéreo — da infância à formação profissional. 
+
+Conheça mais sobre o programa que inspira e abre oportunidades para as carreiras da aviação: https://hotsites.anac.gov.br/asasparatodos/</p>
+      <img src="https://i2.ytimg.com/vi/eeWySesFFAk/hqdefault.jpg" alt="Programa Asas para Todos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1640,33 +1667,6 @@ o Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Téc
 
 Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</p>
       <img src="https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg" alt="Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos</title>
-    <link href="https://www.youtube.com/watch?v=974dC6O1zPk" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=974dC6O1zPk</id>
-    <published>2025-06-13T06:39:47.000Z</published>
-    <updated>2025-06-13T06:39:47.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O webinário visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.
-
-Para dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9H
-
-Para participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.</summary>
-    <content type="html"><![CDATA[
-      <p>O webinário visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 11 da Agenda Regulatória que trata das propostas de requisitos de SGSO em fabricantes aeronáuticos.
-
-Para dúvidas e perguntas durante a transmissão: QR Code na tela ou pelo link https://app.sli.do/event/9uyCe3cVTd9H
-
-Para participar da consulta pública e enviar suas contribuições, acesse a página oficial disponível no site da Anac.</p>
-      <img src="https://i2.ytimg.com/vi/974dC6O1zPk/hqdefault.jpg" alt="Webinário - Consulta Pública - SGSO em fabricantes aeronáuticos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
