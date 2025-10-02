@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-adc58660-46f7-448e-85b4-9fbb30e30ad2",
+  "identifier": "urn:uuid:anac-feed-31864de9-4568-4e2b-8365-fcfd05ac8a67",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-01T20:15:52.606Z",
-  "dateModified": "2025-10-01T20:15:52.606Z",
+  "dateCreated": "2025-10-02T01:02:27.453Z",
+  "dateModified": "2025-10-02T01:02:27.453Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T20:30:10.000Z",
-    "endDate": "2025-10-01T12:13:39.000Z"
+    "endDate": "2025-10-01T19:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,30 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 183-003C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
+      "datePublished": "2025-10-01T19:04:00.000Z",
+      "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 65-001F",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-65-001",
+      "datePublished": "2025-10-01T18:32:00.000Z",
+      "description": "Procedimentos para concessão de licença e de habilitação e para recadastramento de mecânicos de manutenção aeronáutica",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 141-001E",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001",
+      "datePublished": "2025-10-01T17:35:00.000Z",
+      "description": "Procedimentos para a comunicação da relação de alunos matriculados e instrutores pelos Centros de Instrução de Aviação Civil - Ciacs",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Programa Asas para Todos",
@@ -571,14 +595,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "RBAC 121 EMD 22",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121",
-      "datePublished": "2025-08-28T17:38:00.000Z",
-      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 722, 28/08/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722",
       "datePublished": "2025-08-28T00:00:00.000Z",
@@ -622,14 +638,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 91.409-002A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002",
-      "datePublished": "2025-08-15T14:31:00.000Z",
-      "description": "Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RBAC 121 EMD 22",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-22",
       "datePublished": "2025-08-08T17:16:00.000Z",
@@ -659,14 +667,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-775",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 776, 05/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776",
-      "datePublished": "2025-08-05T00:00:00.000Z",
-      "description": "Aprova emenda ao RBAC nº 121",
       "type": "legislação"
     },
     {

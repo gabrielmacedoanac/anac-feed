@@ -5,10 +5,61 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 01 Oct 2025 20:15:52 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 20:15:52 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 01:02:27 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 01:02:27 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>IS 183-003C</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</link>
+      <description>Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica</description>
+      <pubDate>Wed, 01 Oct 2025 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-01T19:04:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>IS 65-001F</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-65-001</link>
+      <description>Procedimentos para concessão de licença e de habilitação e para recadastramento de mecânicos de manutenção aeronáutica</description>
+      <pubDate>Wed, 01 Oct 2025 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-65-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-01T18:32:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Procedimentos para concessão de licença e de habilitação e para recadastramento de mecânicos de manutenção aeronáutica</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>IS 141-001E</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001</link>
+      <description>Procedimentos para a comunicação da relação de alunos matriculados e instrutores pelos Centros de Instrução de Aviação Civil - Ciacs</description>
+      <pubDate>Wed, 01 Oct 2025 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-01T17:35:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Procedimentos para a comunicação da relação de alunos matriculados e instrutores pelos Centros de Instrução de Aviação Civil - Ciacs</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -1144,23 +1195,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     
     
     <item>
-      <title>RBAC 121 EMD 22</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121</link>
-      <description>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</description>
-      <pubDate>Thu, 28 Aug 2025 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-28T17:38:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>DECISÃO Nº 722, 28/08/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-722</link>
       <description>Defere pedido de isenção temporária e parcial de cumprimento do requisito de que trata o parágrafo 135.151(a)(1) do RBAC nº 135, em favor da RICO TÁXI AÉREO LTDA.</description>
@@ -1270,23 +1304,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
     
     
     <item>
-      <title>IS 91.409-002A</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002</link>
-      <description>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</description>
-      <pubDate>Fri, 15 Aug 2025 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-15T14:31:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Prevenção de acidentes por perda de potência em voo e monitoramento de tendências de motores convencionais</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>RBAC 121 EMD 22</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-22</link>
       <description>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</description>
@@ -1355,23 +1372,6 @@ Perguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RESOLUÇÃO Nº 776, 05/08/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776</link>
-      <description>Aprova emenda ao RBAC nº 121</description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-776</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-08-05T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aprova emenda ao RBAC nº 121</p>
         
       ]]></content:encoded>
     </item>
