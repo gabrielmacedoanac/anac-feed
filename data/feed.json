@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b932f2c8-794e-4ccf-94a0-02ebbcdd39b4",
+  "identifier": "urn:uuid:anac-feed-cbbafd84-67dc-40ac-8bf7-0c1eca6dffa5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-02T16:16:46.608Z",
-  "dateModified": "2025-10-02T16:16:46.608Z",
+  "dateCreated": "2025-10-02T20:14:49.931Z",
+  "dateModified": "2025-10-02T20:14:49.931Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-06-13T20:30:10.000Z",
-    "endDate": "2025-10-01T19:04:00.000Z"
+    "endDate": "2025-10-02T15:38:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac",
+      "datePublished": "2025-10-02T15:38:00.000Z",
+      "description": "Candidatos estavam no cadastro reserva do certame realizado em 2023",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png",
+      "type": "notícia"
+    },
     {
       "@type": "Legislation",
       "name": "IS 183-003C",
@@ -548,15 +557,6 @@
       "datePublished": "2025-09-03T15:16:00.000Z",
       "description": "Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac lança manual inédito sobre o uso de drones em aeroportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos",
-      "datePublished": "2025-09-02T09:40:00.000Z",
-      "description": "Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos/drone.jpg/@@images/5f88e20d-ab80-48c6-8942-83c02bda91c9.jpeg",
       "type": "notícia"
     },
     {

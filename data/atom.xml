@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-b932f2c8-794e-4ccf-94a0-02ebbcdd39b4</id>
-  <updated>2025-10-01T19:04:00.000Z</updated>
+  <id>urn:uuid:anac-feed-cbbafd84-67dc-40ac-8bf7-0c1eca6dffa5</id>
+  <updated>2025-10-02T15:38:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac</id>
+    <published>2025-10-02T15:38:00.000Z</published>
+    <updated>2025-10-02T15:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Candidatos estavam no cadastro reserva do certame realizado em 2023</summary>
+    <content type="html"><![CDATA[
+      <p>Candidatos estavam no cadastro reserva do certame realizado em 2023</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png" alt="Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1201,25 +1220,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     <content type="html"><![CDATA[
       <p>Agência conquistou o 1º lugar no ranking da avaliação de satisfação dos usuários</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-lider-digital-na-qualidade-de-servicos-no-governo-federal/linkedin.png/@@images/2849f6a3-31dd-4f62-aa41-bdb430303ce0.png" alt="Anac é líder digital na qualidade de serviços no Governo Federal">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac lança manual inédito sobre o uso de drones em aeroportos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos</id>
-    <published>2025-09-02T09:40:00.000Z</published>
-    <updated>2025-09-02T09:40:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor</summary>
-    <content type="html"><![CDATA[
-      <p>Documento elaborado em parceria com a indústria traz orientações valiosas para o uso seguro e eficiente dessa tecnologia no setor</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-inedito-sobre-o-uso-de-drones-em-aeroportos/drone.jpg/@@images/5f88e20d-ab80-48c6-8942-83c02bda91c9.jpeg" alt="Anac lança manual inédito sobre o uso de drones em aeroportos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
