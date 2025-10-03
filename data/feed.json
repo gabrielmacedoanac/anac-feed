@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8a96b039-d28f-4bc4-84fc-6af9755a9983",
+  "identifier": "urn:uuid:anac-feed-dc449253-4545-46b4-a35e-e5a0ed485cab",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-03T12:27:30.462Z",
-  "dateModified": "2025-10-03T12:27:30.462Z",
+  "dateCreated": "2025-10-03T16:16:07.186Z",
+  "dateModified": "2025-10-03T16:16:07.186Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -95,6 +95,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17971/SIA, 30/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17971",
+      "datePublished": "2025-09-30T00:00:00.000Z",
+      "description": "Torna pública a revogação de medida administrativa cautelar de restrição às operações de pouso de aeronaves de asa fixa com motores a reação (turbojatos) no aeródromo de uso público Ibotirama, localizado em Ibotirama (BA)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17967/ASSOP, 30/09/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17967",
       "datePublished": "2025-09-30T00:00:00.000Z",
@@ -116,6 +124,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17965",
       "datePublished": "2025-09-29T00:00:00.000Z",
       "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade SAFE EURUS (9PUR)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17963/SIA, 29/09/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17963",
+      "datePublished": "2025-09-29T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 62 (9PHU)",
       "type": "legislação"
     },
     {
@@ -190,30 +206,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17956",
       "datePublished": "2025-09-26T00:00:00.000Z",
       "description": "Altera a Portaria nº 5.145/SPL, de 6 de junho de 2021",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17958/SAF, 26/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17958",
-      "datePublished": "2025-09-26T00:00:00.000Z",
-      "description": "Torna pública a concessão de suprimento fundos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17951/SAF, 26/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17951",
-      "datePublished": "2025-09-26T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17952/SAF, 26/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17952",
-      "datePublished": "2025-09-26T00:00:00.000Z",
-      "description": "Designa Equipe de Planejamento da Contratação",
       "type": "legislação"
     },
     {
@@ -667,6 +659,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-775",
       "datePublished": "2025-08-05T00:00:00.000Z",
       "description": "Dispõe sobre as regras para constituição e funcionamento de Ambiente Regulatório Experimental (Sandbox Regulatório) na ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17564/SIA, 30/07/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17564",
+      "datePublished": "2025-07-30T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD RR0166 no cadastro de aeródromos.",
       "type": "legislação"
     },
     {
