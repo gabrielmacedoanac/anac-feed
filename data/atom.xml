@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-7ecfabc0-219e-4f56-9869-7f10d88f9cfd</id>
+  <id>urn:uuid:anac-feed-1c9ae8a8-c419-4897-806a-0e8a2ec95747</id>
   <updated>2025-10-02T15:38:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17983/CRG, 02/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17983" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17983</id>
+    <published>2025-10-02T00:00:00.000Z</published>
+    <updated>2025-10-02T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reconduz Comissão de Processo Administrativo Disciplinar</summary>
+    <content type="html"><![CDATA[
+      <p>Reconduz Comissão de Processo Administrativo Disciplinar</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -546,25 +565,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MT1076 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD MT1076 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17940/SPO, 24/09/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17940" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17940</id>
-    <published>2025-09-24T00:00:00.000Z</published>
-    <updated>2025-09-24T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Tornar pública a revogação da suspensão do Certificado de Organização de Manutenção da REMASUL AVIACAO MANUTENCAO DE AERONAVES LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Tornar pública a revogação da suspensão do Certificado de Organização de Manutenção da REMASUL AVIACAO MANUTENCAO DE AERONAVES LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

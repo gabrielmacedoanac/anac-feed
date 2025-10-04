@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7ecfabc0-219e-4f56-9869-7f10d88f9cfd",
+  "identifier": "urn:uuid:anac-feed-1c9ae8a8-c419-4897-806a-0e8a2ec95747",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-03T20:14:42.300Z",
-  "dateModified": "2025-10-03T20:14:42.300Z",
+  "dateCreated": "2025-10-04T00:59:39.231Z",
+  "dateModified": "2025-10-04T00:59:39.231Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -41,6 +41,14 @@
       "description": "Candidatos estavam no cadastro reserva do certame realizado em 2023",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17983/CRG, 02/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17983",
+      "datePublished": "2025-10-02T00:00:00.000Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -265,14 +273,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17944",
       "datePublished": "2025-09-24T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT1076 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17940/SPO, 24/09/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17940",
-      "datePublished": "2025-09-24T00:00:00.000Z",
-      "description": "Tornar pública a revogação da suspensão do Certificado de Organização de Manutenção da REMASUL AVIACAO MANUTENCAO DE AERONAVES LTDA.",
       "type": "legislação"
     },
     {
