@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 07 Oct 2025 12:29:03 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 12:29:03 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 16:17:05 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:17:05 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -75,6 +75,23 @@
       <content:encoded><![CDATA[
         <p>Candidatos estavam no cadastro reserva do certame realizado em 2023</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png" alt="Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac">
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>PORTARIA Nº 17986/SAF, 02/10/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17986</link>
+      <description>Designa Gestores e Fiscais de Acordo de Cooperação Técnica</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17986</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-02T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Designa Gestores e Fiscais de Acordo de Cooperação Técnica</p>
+        
       ]]></content:encoded>
     </item>
     
@@ -428,23 +445,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     
     
     <item>
-      <title>PORTARIA Nº 17962/SPO, 29/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17962</link>
-      <description>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</description>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17962</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-29T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>Brasil é o país mais votado em eleição para o Conselho da Oaci</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028</link>
       <description>Durante o próximo triênio, Brasil terá assento em foro que decide o conjunto básico de regras da aviação mundial</description>
@@ -558,23 +558,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17944/SIA, 24/09/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17944</link>
-      <description>Inscreve o Aeródromo de uso privativo CIAD MT1076 no cadastro de aeródromos</description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17944</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-24T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Inscreve o Aeródromo de uso privativo CIAD MT1076 no cadastro de aeródromos</p>
         
       ]]></content:encoded>
     </item>
