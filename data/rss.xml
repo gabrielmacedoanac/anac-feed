@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 06 Oct 2025 20:15:30 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2025 20:15:30 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 01:03:05 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 01:03:05 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -24,6 +24,23 @@
       <content:encoded><![CDATA[
         <p>Designa Assistente Técnico</p>
         
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10</link>
+      <description>Interessados também podem se inscrever para participar remotamente até o dia 9</description>
+      <pubDate>Mon, 06 Oct 2025 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-06T18:01:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Interessados também podem se inscrever para participar remotamente até o dia 9</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png" alt="Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10">
       ]]></content:encoded>
     </item>
     
@@ -1059,23 +1076,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Anac lança manual para avaliar áreas não pavimentadas em aeródromos</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1</link>
-      <description>Documento traz informações sobre uso do software PCASE</description>
-      <pubDate>Wed, 03 Sep 2025 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-03T16:45:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Documento traz informações sobre uso do software PCASE</p>
         
       ]]></content:encoded>
     </item>

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3974875a-7279-4ee8-b32e-fd8472fc24a8",
+  "identifier": "urn:uuid:anac-feed-160a01ef-04e3-480f-bcf9-3c7fa588c887",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-06T20:15:30.360Z",
-  "dateModified": "2025-10-06T20:15:30.360Z",
+  "dateCreated": "2025-10-07T01:03:05.466Z",
+  "dateModified": "2025-10-07T01:03:05.466Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -40,6 +40,15 @@
       "datePublished": "2025-10-30T00:00:00.000Z",
       "description": "Designa Assistente Técnico",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10",
+      "datePublished": "2025-10-06T18:01:00.000Z",
+      "description": "Interessados também podem se inscrever para participar remotamente até o dia 9",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png",
+      "type": "notícia"
     },
     {
       "@type": "NewsArticle",
@@ -540,14 +549,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo",
       "datePublished": "2025-09-09T17:09:00.000Z",
       "description": "Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac lança manual para avaliar áreas não pavimentadas em aeródromos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-manual-para-avaliar-areas-nao-pavimentadas-em-aerodromos-1",
-      "datePublished": "2025-09-03T16:45:00.000Z",
-      "description": "Documento traz informações sobre uso do software PCASE",
       "type": "notícia"
     },
     {
