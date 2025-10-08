@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-82ae2c21-24c0-4db0-84b7-7e9bb090490e</id>
+  <id>urn:uuid:anac-feed-7b5f3992-562f-4dae-a316-1d791913739c</id>
   <updated>2025-10-30T00:00:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Agências federais discutem formas de aprimoramento da regulação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao</id>
+    <published>2025-10-08T16:48:00.000Z</published>
+    <updated>2025-10-08T16:48:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Comitê elegeu Guilherme Theo Sampaio (ANTT) para presidente e Tiago Faierstein (Anac) para vice-presidente da instituição</summary>
+    <content type="html"><![CDATA[
+      <p>Comitê elegeu Guilherme Theo Sampaio (ANTT) para presidente e Tiago Faierstein (Anac) para vice-presidente da instituição</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -543,9 +562,9 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD TO0098 no cadastro de aeródromos</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD TO0162 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD TO0098 no cadastro de aeródromos</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD TO0162 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1201,25 +1220,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     <content type="html"><![CDATA[
       <p>Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/01.png/@@images/b188f5b1-4df4-486c-8a9f-af43a6c52973.png" alt="Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Pilotos do Semiárido: publicados a lista final e o cronograma atualizado do processo seletivo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/pilotos-do-semiarido-publicados-a-lista-final-e-o-cronograma-atualizado-do-processo-seletivo</id>
-    <published>2025-09-09T17:09:00.000Z</published>
-    <updated>2025-09-09T17:09:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Projeto da Anac incentiva a formação de novos profissionais e contribui para o fortalecimento da aviação regional no Brasil</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
