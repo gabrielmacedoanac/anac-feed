@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e161b929-b582-49a6-ba0d-744773d8493e",
+  "identifier": "urn:uuid:anac-feed-b059018a-3b42-47d3-ad9d-9b6aec8083e4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-09T16:18:36.230Z",
-  "dateModified": "2025-10-09T16:18:36.230Z",
+  "dateCreated": "2025-10-09T20:15:34.805Z",
+  "dateModified": "2025-10-09T20:15:34.805Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -110,6 +110,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 17987, 02/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17987",
+      "datePublished": "2025-10-02T00:00:00.000Z",
+      "description": "Atualiza a composição do Grupo de Pontos Focais sobre o tema AAM (Advanced Air Mobility) no âmbito da ANAC",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 17989/SPO, 02/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17989",
       "datePublished": "2025-10-02T00:00:00.000Z",
@@ -146,14 +154,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17995",
       "datePublished": "2025-10-02T00:00:00.000Z",
       "description": "Aplica medidas cautelares ao aeródromo de uso público Hugo Cantergiani, localizado em Caxias do Sul (RS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17992/SPO, 02/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17992",
-      "datePublished": "2025-10-02T00:00:00.000Z",
-      "description": "Tornar pública a revogação da suspensão do Certificado de Operador Aéreo TRIPLE P TRANSPORTES LTDA.",
       "type": "legislação"
     },
     {

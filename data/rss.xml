@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 09 Oct 2025 16:18:36 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 16:18:36 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 20:15:34 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 20:15:34 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -165,6 +165,23 @@
     
     
     <item>
+      <title>PORTARIA Nº 17987, 02/10/2025</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17987</link>
+      <description>Atualiza a composição do Grupo de Pontos Focais sobre o tema AAM (Advanced Air Mobility) no âmbito da ANAC</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17987</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-02T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Atualiza a composição do Grupo de Pontos Focais sobre o tema AAM (Advanced Air Mobility) no âmbito da ANAC</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
       <title>PORTARIA Nº 17989/SPO, 02/10/2025</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17989</link>
       <description>Torna pública a emissão de Certificado de Organização de Manutenção</description>
@@ -244,23 +261,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Aplica medidas cautelares ao aeródromo de uso público Hugo Cantergiani, localizado em Caxias do Sul (RS)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>PORTARIA Nº 17992/SPO, 02/10/2025</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17992</link>
-      <description>Tornar pública a revogação da suspensão do Certificado de Operador Aéreo TRIPLE P TRANSPORTES LTDA.</description>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17992</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-10-02T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Tornar pública a revogação da suspensão do Certificado de Operador Aéreo TRIPLE P TRANSPORTES LTDA.</p>
         
       ]]></content:encoded>
     </item>
