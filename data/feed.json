@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-49d25f8d-7977-4f95-83c5-6e1ebc8a3b03",
+  "identifier": "urn:uuid:anac-feed-414a6f92-2e48-4b95-a113-4379027af194",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-09T08:19:02.674Z",
-  "dateModified": "2025-10-09T08:19:02.674Z",
+  "dateCreated": "2025-10-09T12:28:40.424Z",
+  "dateModified": "2025-10-09T12:28:40.424Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -66,6 +66,14 @@
       "datePublished": "2025-10-06T09:54:00.000Z",
       "description": "As contribuições podem ser enviadas até 20/10",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18003/SPO, 03/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18003",
+      "datePublished": "2025-10-03T00:00:00.000Z",
+      "description": "Torna pública a emissão de Certificado de Organização de Manutenção",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -142,14 +150,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 17983/CRG, 02/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17983",
-      "datePublished": "2025-10-02T00:00:00.000Z",
-      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 183-003C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
       "datePublished": "2025-10-01T19:04:00.000Z",
@@ -189,6 +189,14 @@
       "description": "Anac apresentou ações e compromisso em dialogar com a sociedade para aprimorar o atendimento às pessoas com deficiência",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-da-camara-debate-acessibilidade-no-transporte-aereo/20250930_121714_.jpg/@@images/9ab51587-f0e0-4890-baf3-d3983432d7b2.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17974/SPL, 01/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17974",
+      "datePublished": "2025-10-01T00:00:00.000Z",
+      "description": "Estende as prerrogativas de Mecânico de Manutenção Aeronáutica - MMA Examinador Credenciado vinculado à Organização de Manutenção - OMA",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -236,14 +244,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17976",
       "datePublished": "2025-10-01T00:00:00.000Z",
       "description": "Torna pública a suspensão de Certificado de Organização de Manutenção",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17977/SIA, 01/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17977",
-      "datePublished": "2025-10-01T00:00:00.000Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade ADMARINE 511 (9PLU)",
       "type": "legislação"
     },
     {
