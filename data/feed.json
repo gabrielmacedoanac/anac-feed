@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7b5f3992-562f-4dae-a316-1d791913739c",
+  "identifier": "urn:uuid:anac-feed-51bb04eb-98f0-4b9f-a6d1-60622ae26539",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-08T20:15:18.951Z",
-  "dateModified": "2025-10-08T20:15:18.951Z",
+  "dateCreated": "2025-10-09T01:03:34.647Z",
+  "dateModified": "2025-10-09T01:03:34.647Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -47,6 +47,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao",
       "datePublished": "2025-10-08T16:48:00.000Z",
       "description": "Comitê elegeu Guilherme Theo Sampaio (ANTT) para presidente e Tiago Faierstein (Anac) para vice-presidente da instituição",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao/2025-reuniao-coarf-11.png/@@images/5adc2ba7-9058-4d15-b117-be7f2960775d.png",
       "type": "notícia"
     },
     {
