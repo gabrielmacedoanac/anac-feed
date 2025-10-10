@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1517e2a7-c73c-4536-b1d9-3e110d392a4a</id>
+  <id>urn:uuid:anac-feed-531fa7a9-94c2-4498-8155-e365fcee11ac</id>
   <updated>2025-10-30T00:00:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -33,6 +33,25 @@
   
   
   <entry>
+    <title type="html">Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci</id>
+    <published>2025-10-10T11:52:00.000Z</published>
+    <updated>2025-10-10T11:52:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional</summary>
+    <content type="html"><![CDATA[
+      <p>Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg" alt="Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Webinário IS 65-001F - Concessão de Licença e Habilitações para MMA</title>
     <link href="https://www.youtube.com/watch?v=zgHAnR8oBsY" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=zgHAnR8oBsY</id>
@@ -41,13 +60,13 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência recente. É necessário explicar ao público interessado tais mudanças. 
+    <summary type="html">A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência prática. É necessário explicar ao público interessado tais mudanças. 
 
 O objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.
 
 Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</summary>
     <content type="html"><![CDATA[
-      <p>A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência recente. É necessário explicar ao público interessado tais mudanças. 
+      <p>A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência prática. É necessário explicar ao público interessado tais mudanças. 
 
 O objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.
 
@@ -56,6 +75,25 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18029/CRG, 09/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18029" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18029</id>
+    <published>2025-10-09T00:00:00.000Z</published>
+    <updated>2025-10-09T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Prorroga Comissão de Processo Administrativo Disciplinar</summary>
+    <content type="html"><![CDATA[
+      <p>Prorroga Comissão de Processo Administrativo Disciplinar</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -75,25 +113,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18013/SPO, 07/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18013" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18013</id>
-    <published>2025-10-07T00:00:00.000Z</published>
-    <updated>2025-10-07T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Manual de Procedimento - MPR/SPO-130-R00</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Manual de Procedimento - MPR/SPO-130-R00</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -132,6 +151,44 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA N° 18010/SIA 06/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010</id>
+    <published>2025-10-06T00:00:00.000Z</published>
+    <updated>2025-10-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos</summary>
+    <content type="html"><![CDATA[
+      <p>Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18006/SIA, 06/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18006" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18006</id>
+    <published>2025-10-06T00:00:00.000Z</published>
+    <updated>2025-10-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera o Anexo à Portaria nº 16.739/SIA, de 7 de abril de 2025, que dispõe sobre a classificação dos aeródromos civis públicos para fins de aplicação do RBAC nº 107</summary>
+    <content type="html"><![CDATA[
+      <p>Altera o Anexo à Portaria nº 16.739/SIA, de 7 de abril de 2025, que dispõe sobre a classificação dos aeródromos civis públicos para fins de aplicação do RBAC nº 107</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -280,44 +337,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     <summary type="html">Aplica medidas cautelares aos aeródromos de uso público Araçatuba (SBAU), Regional do Sul (SBJA), Lauro Kurtz (SBPF), Presidente Prudente (SBDN) e Professor Eribelto Manoel Reino (SBSR)</summary>
     <content type="html"><![CDATA[
       <p>Aplica medidas cautelares aos aeródromos de uso público Araçatuba (SBAU), Regional do Sul (SBJA), Lauro Kurtz (SBPF), Presidente Prudente (SBDN) e Professor Eribelto Manoel Reino (SBSR)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17994, 02/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17994" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17994</id>
-    <published>2025-10-02T00:00:00.000Z</published>
-    <updated>2025-10-02T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aplica medidas cautelares ao aeródromo de uso público Fernando de Noronha, localizado Fernando de Noronha (PE)</summary>
-    <content type="html"><![CDATA[
-      <p>Aplica medidas cautelares ao aeródromo de uso público Fernando de Noronha, localizado Fernando de Noronha (PE)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 17995, 02/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17995" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17995</id>
-    <published>2025-10-02T00:00:00.000Z</published>
-    <updated>2025-10-02T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aplica medidas cautelares ao aeródromo de uso público Hugo Cantergiani, localizado em Caxias do Sul (RS)</summary>
-    <content type="html"><![CDATA[
-      <p>Aplica medidas cautelares ao aeródromo de uso público Hugo Cantergiani, localizado em Caxias do Sul (RS)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1228,25 +1247,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     <content type="html"><![CDATA[
       <p>Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png" alt="Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia</id>
-    <published>2025-09-11T14:12:00.000Z</published>
-    <updated>2025-09-11T14:12:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</summary>
-    <content type="html"><![CDATA[
-      <p>Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/01.png/@@images/b188f5b1-4df4-486c-8a9f-af43a6c52973.png" alt="Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

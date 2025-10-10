@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1517e2a7-c73c-4536-b1d9-3e110d392a4a",
+  "identifier": "urn:uuid:anac-feed-531fa7a9-94c2-4498-8155-e365fcee11ac",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-10T12:28:44.582Z",
-  "dateModified": "2025-10-10T12:28:44.582Z",
+  "dateCreated": "2025-10-10T16:17:15.328Z",
+  "dateModified": "2025-10-10T16:17:15.328Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -42,13 +42,30 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci",
+      "datePublished": "2025-10-10T11:52:00.000Z",
+      "description": "Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Webinário IS 65-001F - Concessão de Licença e Habilitações para MMA",
       "url": "https://www.youtube.com/watch?v=zgHAnR8oBsY",
       "datePublished": "2025-10-10T11:10:51.000Z",
-      "description": "A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência recente. É necessário explicar ao público interessado tais mudanças. \n\nO objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.\n\nLink do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF",
+      "description": "A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência prática. É necessário explicar ao público interessado tais mudanças. \n\nO objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.\n\nLink do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF",
       "image": "https://i3.ytimg.com/vi/zgHAnR8oBsY/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18029/CRG, 09/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18029",
+      "datePublished": "2025-10-09T00:00:00.000Z",
+      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -58,14 +75,6 @@
       "description": "Comitê elegeu Guilherme Theo Sampaio (ANTT) para presidente e Tiago Faierstein (Anac) para vice-presidente da instituição",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao/2025-reuniao-coarf-11.png/@@images/5adc2ba7-9058-4d15-b117-be7f2960775d.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18013/SPO, 07/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18013",
-      "datePublished": "2025-10-07T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/SPO-130-R00",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -83,6 +92,22 @@
       "datePublished": "2025-10-06T09:54:00.000Z",
       "description": "As contribuições podem ser enviadas até 20/10",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA N° 18010/SIA 06/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010",
+      "datePublished": "2025-10-06T00:00:00.000Z",
+      "description": "Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18006/SIA, 06/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18006",
+      "datePublished": "2025-10-06T00:00:00.000Z",
+      "description": "Altera o Anexo à Portaria nº 16.739/SIA, de 7 de abril de 2025, que dispõe sobre a classificação dos aeródromos civis públicos para fins de aplicação do RBAC nº 107",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -147,22 +172,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17993",
       "datePublished": "2025-10-02T00:00:00.000Z",
       "description": "Aplica medidas cautelares aos aeródromos de uso público Araçatuba (SBAU), Regional do Sul (SBJA), Lauro Kurtz (SBPF), Presidente Prudente (SBDN) e Professor Eribelto Manoel Reino (SBSR)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17994, 02/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17994",
-      "datePublished": "2025-10-02T00:00:00.000Z",
-      "description": "Aplica medidas cautelares ao aeródromo de uso público Fernando de Noronha, localizado Fernando de Noronha (PE)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17995, 02/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17995",
-      "datePublished": "2025-10-02T00:00:00.000Z",
-      "description": "Aplica medidas cautelares ao aeródromo de uso público Hugo Cantergiani, localizado em Caxias do Sul (RS)",
       "type": "legislação"
     },
     {
@@ -558,15 +567,6 @@
       "datePublished": "2025-09-11T16:09:00.000Z",
       "description": "Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Vivenciando a aviação: projeto Criando Asas leva 40 crianças de escola pública do DF para visita ao Aeroporto de Brasília",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia",
-      "datePublished": "2025-09-11T14:12:00.000Z",
-      "description": "Iniciativa desperta o interesse dos estudantes para as carreiras da aviação e amplia as oportunidades de grupos minoritários",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/vivenciando-a-aviacao-projeto-criando-asas-leva-40-criancas-de-escola-publica-do-df-para-visita-ao-aeroporto-de-brasilia/01.png/@@images/b188f5b1-4df4-486c-8a9f-af43a6c52973.png",
       "type": "notícia"
     },
     {
