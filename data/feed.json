@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-531fa7a9-94c2-4498-8155-e365fcee11ac",
+  "identifier": "urn:uuid:anac-feed-d3a0aa8f-c34a-45a2-a4a1-3c6abf3ebcf1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-10T16:17:15.328Z",
-  "dateModified": "2025-10-10T16:17:15.328Z",
+  "dateCreated": "2025-10-10T20:14:41.549Z",
+  "dateModified": "2025-10-10T20:14:41.549Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -39,6 +39,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17968",
       "datePublished": "2025-10-30T00:00:00.000Z",
       "description": "Designa Assistente Técnico",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA N° 180.10, /SIA 6/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010",
+      "datePublished": "2025-10-10T20:14:41.545Z",
+      "description": "Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos",
       "type": "legislação"
     },
     {
@@ -92,14 +100,6 @@
       "datePublished": "2025-10-06T09:54:00.000Z",
       "description": "As contribuições podem ser enviadas até 20/10",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA N° 18010/SIA 06/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010",
-      "datePublished": "2025-10-06T00:00:00.000Z",
-      "description": "Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
