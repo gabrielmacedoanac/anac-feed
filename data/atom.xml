@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-be5a034d-4c54-44b3-a9e5-2b84d12908c4</id>
+  <id>urn:uuid:anac-feed-1517e2a7-c73c-4536-b1d9-3e110d392a4a</id>
   <updated>2025-10-30T00:00:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -29,6 +29,33 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário IS 65-001F - Concessão de Licença e Habilitações para MMA</title>
+    <link href="https://www.youtube.com/watch?v=zgHAnR8oBsY" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=zgHAnR8oBsY</id>
+    <published>2025-10-10T11:10:51.000Z</published>
+    <updated>2025-10-10T11:10:51.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência recente. É necessário explicar ao público interessado tais mudanças. 
+
+O objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.
+
+Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</summary>
+    <content type="html"><![CDATA[
+      <p>A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência recente. É necessário explicar ao público interessado tais mudanças. 
+
+O objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.
+
+Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
+      <img src="https://i3.ytimg.com/vi/zgHAnR8oBsY/hqdefault.jpg" alt="Webinário IS 65-001F - Concessão de Licença e Habilitações para MMA">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1626,47 +1653,6 @@ Processo 00058.034495/2025-71 - 52:43
 Processo 00058.021107/2025-92 - 1:43:44
 Processo 00058.016310/2020-32 - 2:13:53</p>
       <img src="https://i4.ytimg.com/vi/w5UcldjPOtw/hqdefault.jpg" alt="9ª Reunião Deliberativa da Diretoria Colegiada (24/06/2025)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones</title>
-    <link href="https://www.youtube.com/watch?v=I1BtI840LHs" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=I1BtI840LHs</id>
-    <published>2025-06-13T20:30:10.000Z</published>
-    <updated>2025-06-13T20:30:10.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.
-
-Programação: 
-• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto
-• 1h20 subsequentes - Apresentação do assunto:
-o Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)
-o Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)
-o Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)
-o Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)
-• 30 minutos finais - Esclarecimento de dúvidas.
-
-Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</summary>
-    <content type="html"><![CDATA[
-      <p>O evento visa esclarecer dúvidas e fomentar a participação da sociedade na Consulta Pública do Tema 9 da Agenda Regulatória que trata das propostas de alterações regulatórias para as operações de drones no Brasil.
-
-Programação: 
-• 10 minutos iniciais - Abertura - Superintendente de Aeronavegabilidade substituto
-• 1h20 subsequentes - Apresentação do assunto:
-o Kleber Jesuino - Coordenador de Normas de Aeronavegabilidade - Gerência Técnica de Normas e Inovação (SAR/Anac)
-o Rui Josino - Coordenador de Drones e Novas Tecnologias - Gerência Técnica de Programas de Certificação (SAR/Anac)
-o Conrado Klein - Gerente Técnico de Vigilância Continuada (SPO/Anac)
-o Camilo Baldy - Especialista em Regulação de Aviação Civil - Gerência Técnica de Normas (SPL/Anac)
-• 30 minutos finais - Esclarecimento de dúvidas.
-
-Dúvidas e perguntas: https://app.sli.do/event/qpPsKRbT5PvKa51bhTULqb</p>
-      <img src="https://i2.ytimg.com/vi/I1BtI840LHs/hqdefault.jpg" alt="Webinário - Consulta Pública Tema 9 Agenda Regulatória - Revisão das regras de Drones">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
