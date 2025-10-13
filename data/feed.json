@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5049b9ea-24aa-457c-9094-0e159f7aace5",
+  "identifier": "urn:uuid:anac-feed-f65a5a27-0094-487b-957b-9129a9f943ab",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-13T16:17:16.169Z",
-  "dateModified": "2025-10-13T16:17:16.169Z",
+  "dateCreated": "2025-10-13T20:15:42.163Z",
+  "dateModified": "2025-10-13T20:15:42.163Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-05-08T00:00:00.000Z",
-    "endDate": "2025-10-13T13:46:41.000Z"
+    "endDate": "2025-10-13T19:18:56.000Z"
   },
   "distribution": [
     {
@@ -35,12 +35,38 @@
   "items": [
     {
       "@type": "VideoObject",
+      "name": "Embraer Ipanema: boas práticas de segurança",
+      "url": "https://www.youtube.com/watch?v=oIgGzr1zey8",
+      "datePublished": "2025-10-13T19:18:56.000Z",
+      "description": "Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv",
+      "image": "https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Exames teóricos para comissários voo serão retomados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados",
+      "datePublished": "2025-10-13T17:04:00.000Z",
+      "description": "Inscrições e agendamentos podem ser solicitados no site da FGV a partir desta segunda-feira (13/10)",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados/comunicado_retomada_provas_comissarios_banner-portal-rotativo.png/@@images/2fb5dc59-f18f-4dee-9d93-1631cde63c5e.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "VideoObject",
       "name": "Já se perguntou como o avião consegue voar?",
       "url": "https://www.youtube.com/watch?v=_-5lBoZoZCU",
       "datePublished": "2025-10-13T13:46:41.000Z",
       "description": "Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! \n\nPorque aprender pode ser tão divertido quanto brincar! 💙\n\nFeliz Dia das Crianças! 🎉\n\nLetra:\nComo o avião voa?\n\nOlha o avião lá no céu a planar,\nMas como será que ele consegue voar?\nAs asas têm formato especial, você vai ver,\nFazendo o ar se mover pra cima crescer.\n\nPor cima o ar corre mais depressa, é tensão,\nPor baixo ele vai lento, isso dá sustentação.\nÉ a física que cria essa força no ar,\nChamamos de sustentação pra ele levantar!\n\nVoa, voa avião, no céu a planar,\nCom motor e asa, pronto pra voar!\nEmpurrando lá na frente, turbinas a girar,\nÉ propulsão que ajuda ele a avançar!\n\nMas não é só isso que faz o avião flutuar,\nO piloto também precisa o voo controlar.\nUsa leme, profundor e aileron pra guiar,\nMudando direção pra rota manter no ar.\n\nCom motor, asas e ciência no coração,\nO avião corta o céu numa perfeita canção.\nÉ física, engenharia e um sonho no ar,\nJuntos fazendo o avião poder voar!\n\nVoa, voa avião, sobe lá no ar,\nLevando gente e sonhos pra viajar.\nDecola bonito, com ciência a soprar,\nAgora você sabe como o avião pode voar!\n\n*Vídeo e música produzida com inteligência artificial.",
       "image": "https://i4.ytimg.com/vi/_-5lBoZoZCU/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18047, 13/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18047",
+      "datePublished": "2025-10-13T00:00:00.000Z",
+      "description": "Designa membro para compor a Comissão de Ética da ANAC",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -78,7 +104,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18035, 09/10/2025",
+      "name": "PORTARIA Nº 18035/SPO, 09/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18035",
       "datePublished": "2025-10-09T00:00:00.000Z",
       "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
@@ -159,7 +185,7 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18023, 08/10/2025",
+      "name": "PORTARIA Nº 18023/SIA, 08/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18023",
       "datePublished": "2025-10-08T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD SP1448 no cadastro de aeródromos",
@@ -220,14 +246,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18008",
       "datePublished": "2025-10-06T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD PA0438 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA N° 18010/SIA, 06/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010",
-      "datePublished": "2025-10-06T00:00:00.000Z",
-      "description": "Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos",
       "type": "legislação"
     },
     {
@@ -462,7 +480,7 @@
       "name": "Webinário &quot;Acordos Bilaterais EASA, UK, CAA e FAA para Organizações de Manutenção&quot;",
       "url": "https://www.youtube.com/watch?v=hlRq2eZOm18",
       "datePublished": "2025-09-19T14:45:05.000Z",
-      "description": "A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.\n\nLink Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C",
+      "description": "A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.\n\nLink Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr",
       "image": "https://i1.ytimg.com/vi/hlRq2eZOm18/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -559,15 +577,6 @@
       "datePublished": "2025-09-15T16:21:00.000Z",
       "description": "Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo",
-      "datePublished": "2025-09-11T16:09:00.000Z",
-      "description": "Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png",
       "type": "notícia"
     },
     {
@@ -679,15 +688,6 @@
       "datePublished": "2025-07-12T03:29:33.000Z",
       "description": "O evento tem como objetivo esclarecer sobre as condicionantes técnicas e regulatórias para que o cumprimento das tarefas previstas nas FAA AD seja considerado regular, evitando, assim, suspensão de CA por serviços cumpridos, registrados e controlados de modo não aceitável.\n\nDurante o Webnário, receberemos o representante da Air Tractor e serão abordados os seguintes temas:\n- Introdução ao problema técnico do TIS das longarinas e tarefas previstas nas FAA AD n\n- Vigilância sobre o cumprimento das FAA AD pelos operadores 137\n- Condicionantes aplicáveis às OM que podem cumprir com as tarefas previstas nas FAA AD\n- Suporte técnico aos operadores e OM\n- Esclarecimento de dúvidas\n\nPerguntas: use o QR code na tela de transmissão ou pelo link https://app.sli.do/event/eHmoDPRWtPz4nSCrwoLJZm\n\nContamos com sua participação para promover o alinhamento técnico e regulatório, evitando suspensão de CA das aeronaves e contribuindo para a segurança e a regularidade das operações.\n\nArquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arquivos/webinario-longarinas-air-tractor-final-11jul2025.pptx",
       "image": "https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "6ª edição do Aviação Sustentável",
-      "url": "https://www.youtube.com/watch?v=qrKLkBkd__M",
-      "datePublished": "2025-07-09T06:57:28.000Z",
-      "description": "O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.\n\nAssim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.\n\nParticipe!",
-      "image": "https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg",
       "type": "vídeo"
     },
     {

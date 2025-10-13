@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5049b9ea-24aa-457c-9094-0e159f7aace5</id>
-  <updated>2025-10-13T13:46:41.000Z</updated>
+  <id>urn:uuid:anac-feed-f65a5a27-0094-487b-957b-9129a9f943ab</id>
+  <updated>2025-10-13T19:18:56.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Embraer Ipanema: boas práticas de segurança</title>
+    <link href="https://www.youtube.com/watch?v=oIgGzr1zey8" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=oIgGzr1zey8</id>
+    <published>2025-10-13T19:18:56.000Z</published>
+    <updated>2025-10-13T19:18:56.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</summary>
+    <content type="html"><![CDATA[
+      <p>Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</p>
+      <img src="https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg" alt="Embraer Ipanema: boas práticas de segurança">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Exames teóricos para comissários voo serão retomados</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados</id>
+    <published>2025-10-13T17:04:00.000Z</published>
+    <updated>2025-10-13T17:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscrições e agendamentos podem ser solicitados no site da FGV a partir desta segunda-feira (13/10)</summary>
+    <content type="html"><![CDATA[
+      <p>Inscrições e agendamentos podem ser solicitados no site da FGV a partir desta segunda-feira (13/10)</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados/comunicado_retomada_provas_comissarios_banner-portal-rotativo.png/@@images/2fb5dc59-f18f-4dee-9d93-1631cde63c5e.png" alt="Exames teóricos para comissários voo serão retomados">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -111,6 +149,25 @@ Agora você sabe como o avião pode voar!
   
   
   <entry>
+    <title type="html">PORTARIA Nº 18047, 13/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18047" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18047</id>
+    <published>2025-10-13T00:00:00.000Z</published>
+    <updated>2025-10-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa membro para compor a Comissão de Ética da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Designa membro para compor a Comissão de Ética da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci</id>
@@ -195,7 +252,7 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18035, 09/10/2025</title>
+    <title type="html">PORTARIA Nº 18035/SPO, 09/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18035" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18035</id>
     <published>2025-10-09T00:00:00.000Z</published>
@@ -385,7 +442,7 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18023, 08/10/2025</title>
+    <title type="html">PORTARIA Nº 18023/SIA, 08/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18023" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18023</id>
     <published>2025-10-08T00:00:00.000Z</published>
@@ -529,25 +586,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD PA0438 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD PA0438 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA N° 18010/SIA, 06/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18010</id>
-    <published>2025-10-06T00:00:00.000Z</published>
-    <updated>2025-10-06T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos</summary>
-    <content type="html"><![CDATA[
-      <p>Exclui o Aeródromo Público Conceição, localizado em Conceição (PB), do cadastro de aeródromos públicos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1087,11 +1125,11 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     </author>
     <summary type="html">A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.
 
-Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</summary>
+Link Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr</summary>
     <content type="html"><![CDATA[
       <p>A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.
 
-Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
+Link Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr</p>
       <img src="https://i1.ytimg.com/vi/hlRq2eZOm18/hqdefault.jpg" alt="Webinário &quot;Acordos Bilaterais EASA, UK, CAA e FAA para Organizações de Manutenção&quot;">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1306,25 +1344,6 @@ Link Slido: https://app.sli.do/event/rVjVCi3bT29xAJYkYy9X4C</p>
     <content type="html"><![CDATA[
       <p>Adesão à Agenda Ambiental na Administração Pública (A3P), do Ministério do Meio Ambiente, incentiva práticas de sustentabilidade e qualidade de vida no ambiente de trabalho.</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-compromisso-para-ampliar-praticas-sustentaveis-na-agencia/linkedin-2.png/@@images/b0d4e7f8-c769-4f71-b734-34a5a567eeac.png" alt="Anac firma compromisso para ampliar práticas sustentáveis na Agência">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo</id>
-    <published>2025-09-11T16:09:00.000Z</published>
-    <updated>2025-09-11T16:09:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</summary>
-    <content type="html"><![CDATA[
-      <p>Nova ferramenta possibilita consultas e comparações sobre a saúde financeira das companhias brasileiras</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/demonstracoes-contabeis-das-empresas-aereas-sao-disponibilizadas-em-painel-interativo/painel-demonstracoes-contabeis/@@images/e11bd902-fd57-446a-ac59-c8c47dc7a0aa.png" alt="Demonstrações contábeis das empresas aéreas são   disponibilizadas em painel interativo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1656,33 +1675,6 @@ Contamos com sua participação para promover o alinhamento técnico e regulató
 
 Arquivo utilizado no vídeo disponível aqui: https://www.gov.br/anac/pt-br/arquivos/webinario-longarinas-air-tractor-final-11jul2025.pptx</p>
       <img src="https://i2.ytimg.com/vi/mtlWqyDEfxc/hqdefault.jpg" alt="Workshop sobre o controle do limite de vida em serviço das longarinas dos Air Tractor">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">6ª edição do Aviação Sustentável</title>
-    <link href="https://www.youtube.com/watch?v=qrKLkBkd__M" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=qrKLkBkd__M</id>
-    <published>2025-07-09T06:57:28.000Z</published>
-    <updated>2025-07-09T06:57:28.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.
-
-Assim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.
-
-Participe!</summary>
-    <content type="html"><![CDATA[
-      <p>O evento Aviação Sustentável já consta como um evento consolidado e perene no cronograma anual da ANAC. Trata-se de uma oportunidade para divulgação de informações relevantes relacionadas à sustentabilidade do setor, além de ser necessário para premiação dos aeroportos melhores classificados no programa Aeroportos Sustentáveis.
-
-Assim, o objetivo é reconhecer os melhores colocados no Aeroportos Sustentáveis.
-
-Participe!</p>
-      <img src="https://i2.ytimg.com/vi/qrKLkBkd__M/hqdefault.jpg" alt="6ª edição do Aviação Sustentável">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
