@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f65a5a27-0094-487b-957b-9129a9f943ab",
+  "identifier": "urn:uuid:anac-feed-df14340b-e229-4f45-a124-9d2bf40c764b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-13T20:15:42.163Z",
-  "dateModified": "2025-10-13T20:15:42.163Z",
+  "dateCreated": "2025-10-14T01:03:22.482Z",
+  "dateModified": "2025-10-14T01:03:22.482Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -44,7 +44,7 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Exames teóricos para comissários voo serão retomados",
+      "name": "Exames teóricos para comissários de voo serão retomados",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados",
       "datePublished": "2025-10-13T17:04:00.000Z",
       "description": "Inscrições e agendamentos podem ser solicitados no site da FGV a partir desta segunda-feira (13/10)",
