@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-383d5d44-75d4-4771-97a4-8e200cd80721",
+  "identifier": "urn:uuid:anac-feed-12bffdd1-add5-49c5-a15b-93da91251a70",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-15T12:30:08.639Z",
-  "dateModified": "2025-10-15T12:30:08.639Z",
+  "dateCreated": "2025-10-15T16:15:00.122Z",
+  "dateModified": "2025-10-15T16:15:00.122Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-15T07:00:50.000Z"
+    "endDate": "2025-10-15T12:05:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo",
+      "datePublished": "2025-10-15T12:05:00.000Z",
+      "description": "Anac apoia evento Tecnologia e Segurança - O Futuro dos Aeroportos no Brasil, realizado pela ABR",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo/tecnologia-e-seguranca-o-futuro-dos-aeroportos-no-brasil.png/@@images/e9af3e44-0b74-4162-9b61-6f31ec2b2505.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Audiência Pública Virtual da Consulta Pública nº 11/2025",
@@ -77,6 +86,14 @@
       "description": "Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! \n\nPorque aprender pode ser tão divertido quanto brincar! 💙\n\nFeliz Dia das Crianças! 🎉\n\nLetra:\nComo o avião voa?\n\nOlha o avião lá no céu a planar,\nMas como será que ele consegue voar?\nAs asas têm formato especial, você vai ver,\nFazendo o ar se mover pra cima crescer.\n\nPor cima o ar corre mais depressa, é tensão,\nPor baixo ele vai lento, isso dá sustentação.\nÉ a física que cria essa força no ar,\nChamamos de sustentação pra ele levantar!\n\nVoa, voa avião, no céu a planar,\nCom motor e asa, pronto pra voar!\nEmpurrando lá na frente, turbinas a girar,\nÉ propulsão que ajuda ele a avançar!\n\nMas não é só isso que faz o avião flutuar,\nO piloto também precisa o voo controlar.\nUsa leme, profundor e aileron pra guiar,\nMudando direção pra rota manter no ar.\n\nCom motor, asas e ciência no coração,\nO avião corta o céu numa perfeita canção.\nÉ física, engenharia e um sonho no ar,\nJuntos fazendo o avião poder voar!\n\nVoa, voa avião, sobe lá no ar,\nLevando gente e sonhos pra viajar.\nDecola bonito, com ciência a soprar,\nAgora você sabe como o avião pode voar!\n\n*Vídeo e música produzida com inteligência artificial.",
       "image": "https://i4.ytimg.com/vi/_-5lBoZoZCU/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18052/SPL, 13/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18052",
+      "datePublished": "2025-10-13T00:00:00.000Z",
+      "description": "Revoga a Portaria nº 2.737, de 30 de agosto de 2018",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -162,14 +179,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18038/SPO, 09/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18038",
-      "datePublished": "2025-10-09T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviços aéreos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "DECISÃO Nº 723, 09/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-723",
       "datePublished": "2025-10-09T00:00:00.000Z",
@@ -207,22 +216,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18025",
       "datePublished": "2025-10-08T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MG0207 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18023/SIA, 08/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18023",
-      "datePublished": "2025-10-08T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1448 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18019/SIA, 08/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18019",
-      "datePublished": "2025-10-08T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0163 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -268,6 +261,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18011/SIA, 06/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18011",
+      "datePublished": "2025-10-06T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PR0074 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18009/SIA, 06/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18009",
       "datePublished": "2025-10-06T00:00:00.000Z",
@@ -298,6 +299,14 @@
       "description": "Candidatos estavam no cadastro reserva do certame realizado em 2023",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 17990/SIA, 02/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17990",
+      "datePublished": "2025-10-02T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0757 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -594,15 +603,6 @@
       "description": "",
       "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h",
-      "datePublished": "2025-09-16T08:36:00.000Z",
-      "description": "Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",

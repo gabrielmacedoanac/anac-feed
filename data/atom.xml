@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-383d5d44-75d4-4771-97a4-8e200cd80721</id>
-  <updated>2025-10-15T07:00:50.000Z</updated>
+  <id>urn:uuid:anac-feed-12bffdd1-add5-49c5-a15b-93da91251a70</id>
+  <updated>2025-10-15T12:05:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo</id>
+    <published>2025-10-15T12:05:00.000Z</published>
+    <updated>2025-10-15T12:05:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Anac apoia evento Tecnologia e Segurança - O Futuro dos Aeroportos no Brasil, realizado pela ABR</summary>
+    <content type="html"><![CDATA[
+      <p>Anac apoia evento Tecnologia e Segurança - O Futuro dos Aeroportos no Brasil, realizado pela ABR</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo/tecnologia-e-seguranca-o-futuro-dos-aeroportos-no-brasil.png/@@images/e9af3e44-0b74-4162-9b61-6f31ec2b2505.png" alt="Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -193,6 +212,25 @@ Agora você sabe como o avião pode voar!
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18052/SPL, 13/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18052" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18052</id>
+    <published>2025-10-13T00:00:00.000Z</published>
+    <updated>2025-10-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revoga a Portaria nº 2.737, de 30 de agosto de 2018</summary>
+    <content type="html"><![CDATA[
+      <p>Revoga a Portaria nº 2.737, de 30 de agosto de 2018</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -395,25 +433,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18038/SPO, 09/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18038" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18038</id>
-    <published>2025-10-09T00:00:00.000Z</published>
-    <updated>2025-10-09T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
-    <content type="html"><![CDATA[
-      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 723, 09/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-723" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-723</id>
@@ -501,44 +520,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MG0207 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Altera a inscrição do Aeródromo de uso privativo CIAD MG0207 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18023/SIA, 08/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18023" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18023</id>
-    <published>2025-10-08T00:00:00.000Z</published>
-    <updated>2025-10-08T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD SP1448 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD SP1448 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18019/SIA, 08/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18019" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18019</id>
-    <published>2025-10-08T00:00:00.000Z</published>
-    <updated>2025-10-08T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD TO0163 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD TO0163 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -642,6 +623,25 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 18011/SIA, 06/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18011" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18011</id>
+    <published>2025-10-06T00:00:00.000Z</published>
+    <updated>2025-10-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD PR0074 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD PR0074 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 18009/SIA, 06/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18009" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18009</id>
@@ -714,6 +714,25 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 17990/SIA, 02/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17990" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17990</id>
+    <published>2025-10-02T00:00:00.000Z</published>
+    <updated>2025-10-02T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0757 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0757 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1395,25 +1414,6 @@ Link Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h</id>
-    <published>2025-09-16T08:36:00.000Z</published>
-    <updated>2025-09-16T08:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos</summary>
-    <content type="html"><![CDATA[
-      <p>Evento, que será transmitido ao vivo pelo Youtube, terá a presença do ministro de Portos e Aeroportos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-cerimonia-de-posse-de-novos-diretores-no-dia-17-9-as-10h/posse_diretores_2025.jpg/@@images/bf7e3be9-ac96-47bd-a7c8-a41a7cd95eaf.jpeg" alt="Anac realiza cerimônia de posse de novos diretores no dia 17/9, às 10h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
