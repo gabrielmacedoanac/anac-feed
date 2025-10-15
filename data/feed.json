@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-66e107e3-d674-492b-be40-2e37b3ac959e",
+  "identifier": "urn:uuid:anac-feed-0443de6b-20f7-4b70-a055-fc72edb60461",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-15T04:16:55.700Z",
-  "dateModified": "2025-10-15T04:16:55.700Z",
+  "dateCreated": "2025-10-15T08:20:02.786Z",
+  "dateModified": "2025-10-15T08:20:02.786Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-14T14:00:00.000Z"
+    "endDate": "2025-10-15T07:00:50.000Z"
   },
   "distribution": [
     {
@@ -34,6 +34,15 @@
   ],
   "items": [
     {
+      "@type": "VideoObject",
+      "name": "Audiência Pública Virtual da Consulta Pública nº 11/2025",
+      "url": "https://www.youtube.com/watch?v=6X1GXm4fgaM",
+      "datePublished": "2025-10-15T07:00:50.000Z",
+      "description": "Audiência Pública da Consulta Pública nº 11/2025 - Proposta de Edital de Venda Assistida - Contrato de Concessão nº 001/ANAC/2014 - Aeroporto Internacional do Rio de Janeiro (Galeão)\n \nDescrição:\nA Consulta Pública nº 11/2025 propõe o processo de Venda Assistida do Contrato de Concessão nº 001/ANAC/2014-SBGL, relativas à concessão para ampliação, manutenção e exploração do Aeroporto Internacional do Rio de Janeiro - Galeão. \n\nAcesse os documentos da Consulta Pública e faça a sua contribuição nos formulários eletrônicos disponíveis no endereço: https://www.gov.br/participamaisbrasil/cp-11-2025",
+      "image": "https://i3.ytimg.com/vi/6X1GXm4fgaM/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica",
@@ -41,15 +50,6 @@
       "description": "Evento será transmitido no dia 16/10 no canal da Agência no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Audiência Pública Virtual da Consulta Pública nº 11/2025",
-      "url": "https://www.youtube.com/watch?v=6X1GXm4fgaM",
-      "datePublished": "2025-10-14T13:31:10.000Z",
-      "description": "Audiência Pública da Consulta Pública nº 11/2025 - Proposta de Edital de Venda Assistida - Contrato de Concessão nº 001/ANAC/2014 - Aeroporto Internacional do Rio de Janeiro (Galeão)\n \nDescrição:\nA Consulta Pública nº 11/2025 propõe o processo de Venda Assistida do Contrato de Concessão nº 001/ANAC/2014-SBGL, relativas à concessão para ampliação, manutenção e exploração do Aeroporto Internacional do Rio de Janeiro - Galeão. \n\nAcesse os documentos da Consulta Pública e faça a sua contribuição nos formulários eletrônicos disponíveis no endereço: https://www.gov.br/participamaisbrasil/cp-11-2025",
-      "image": "https://i3.ytimg.com/vi/6X1GXm4fgaM/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "VideoObject",
