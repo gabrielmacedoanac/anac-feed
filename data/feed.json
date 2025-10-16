@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-12ea50ae-5b93-462b-9db1-c5a3bf5ddfae",
+  "identifier": "urn:uuid:anac-feed-e039c982-ba75-47d9-9f9f-df2d46448b91",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-16T01:04:39.250Z",
-  "dateModified": "2025-10-16T01:04:39.250Z",
+  "dateCreated": "2025-10-16T04:16:33.603Z",
+  "dateModified": "2025-10-16T04:16:33.603Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-15T12:05:00.000Z"
+    "endDate": "2025-10-15T23:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Medida cautelar é emitida pela Anac em sete aeroportos regionais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais",
+      "datePublished": "2025-10-15T23:01:00.000Z",
+      "description": "Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo",
@@ -585,15 +593,6 @@
       "datePublished": "2025-09-18T00:00:00.000Z",
       "description": "Aprova a Emenda nº 09 ao RBAC nº 153",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df",
-      "datePublished": "2025-09-17T16:32:00.000Z",
-      "description": "Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

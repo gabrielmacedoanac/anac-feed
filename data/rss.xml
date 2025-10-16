@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 16 Oct 2025 01:04:39 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2025 01:04:39 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 04:16:33 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 04:16:33 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Medida cautelar é emitida pela Anac em sete aeroportos regionais</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais</link>
+      <description>Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</description>
+      <pubDate>Wed, 15 Oct 2025 23:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-10-15T23:01:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -1241,23 +1258,6 @@ Link Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr</p>
       <content:encoded><![CDATA[
         <p>Aprova a Emenda nº 09 ao RBAC nº 153</p>
         
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df</link>
-      <description>Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo</description>
-      <pubDate>Wed, 17 Sep 2025 16:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-09-17T16:32:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg" alt="Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)">
       ]]></content:encoded>
     </item>
     

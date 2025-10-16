@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-12ea50ae-5b93-462b-9db1-c5a3bf5ddfae</id>
-  <updated>2025-10-15T12:05:00.000Z</updated>
+  <id>urn:uuid:anac-feed-e039c982-ba75-47d9-9f9f-df2d46448b91</id>
+  <updated>2025-10-15T23:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Medida cautelar é emitida pela Anac em sete aeroportos regionais</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais</id>
+    <published>2025-10-15T23:01:00.000Z</published>
+    <updated>2025-10-15T23:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</summary>
+    <content type="html"><![CDATA[
+      <p>Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1376,25 +1395,6 @@ Link Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df</id>
-    <published>2025-09-17T16:32:00.000Z</published>
-    <updated>2025-09-17T16:32:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Cerimônia contou com a presença de servidores, autoridades, parlamentares e representantes do setor aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/nova-diretoria-e-empossada-em-solenidade-na-sede-da-anac-em-brasilia-df/banner_portal_carrossel_posse_diretores_2025.jpg/@@images/22ed542f-1eb8-49ad-b2a9-28637ad7767f.jpeg" alt="Nova diretoria é empossada em solenidade na sede da Anac, em Brasília (DF)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
