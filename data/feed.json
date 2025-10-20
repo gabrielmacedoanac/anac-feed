@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-42ee363b-e248-4ce9-9c1e-61bb33bdd9fe",
+  "identifier": "urn:uuid:anac-feed-4f53e342-7610-43db-ad7c-b7637cb305aa",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-20T12:30:01.478Z",
-  "dateModified": "2025-10-20T12:30:01.478Z",
+  "dateCreated": "2025-10-20T16:17:45.726Z",
+  "dateModified": "2025-10-20T16:17:45.726Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -51,6 +51,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18072/SPL, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18072",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Medida cautelar é emitida pela Anac em sete aeroportos regionais",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais",
@@ -84,6 +92,14 @@
       "description": "Evento será transmitido no dia 16/10 no canal da Agência no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18062/SIA, 14/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18062",
+      "datePublished": "2025-10-14T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0491 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -138,6 +154,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18050/SPO, 13/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18050",
+      "datePublished": "2025-10-13T00:00:00.000Z",
+      "description": "Aprova a Instrução Suplementar nº 121-023A",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18045/SIA, 13/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18045",
       "datePublished": "2025-10-13T00:00:00.000Z",
@@ -170,14 +194,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18047, 13/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18047",
-      "datePublished": "2025-10-13T00:00:00.000Z",
-      "description": "Designa membro para compor a Comissão de Ética da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 18044/SPL, 12/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18044",
       "datePublished": "2025-10-12T00:00:00.000Z",
@@ -192,6 +208,14 @@
       "description": "Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18040/SIA, 10/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18040",
+      "datePublished": "2025-10-10T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1158 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -259,22 +283,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18017/SIA, 07/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18017",
-      "datePublished": "2025-10-07T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD BA0290 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18014/SIA, 07/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18014",
-      "datePublished": "2025-10-07T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0050 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10",
@@ -297,14 +305,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18011",
       "datePublished": "2025-10-06T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PR0074 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18009/SIA, 06/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18009",
-      "datePublished": "2025-10-06T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0435 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
