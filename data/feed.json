@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bde29bd4-495c-4b0b-b977-13bfa2eab8d8",
+  "identifier": "urn:uuid:anac-feed-ed451329-ce0d-4533-bc08-e4f5123f585d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-21T12:29:35.165Z",
-  "dateModified": "2025-10-21T12:29:35.165Z",
+  "dateCreated": "2025-10-21T16:18:52.997Z",
+  "dateModified": "2025-10-21T16:18:52.997Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-21T12:29:35.163Z"
+    "endDate": "2025-10-21T16:18:52.995Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-023A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023",
-      "datePublished": "2025-10-21T12:29:35.163Z",
+      "datePublished": "2025-10-21T16:18:52.995Z",
       "description": "Procedimentos aplicáveis aos operadores aéreos sob o RBAC nº 121 para permitir a execução de atividades em voo por servidores da Anac",
       "type": "legislação"
     },
@@ -83,6 +83,22 @@
       "description": "A SPL acaba de revisar a IS 65-001 com modificações significativas ao procedimento de exame prático para mecânico de manutenção aeronáutica (MMA) e contagem da experiência prática. É necessário explicar ao público interessado tais mudanças. \n\nO objetivo é explicar os novos procedimentos para concessão de licença e habilitações para MMA.\n\nLink do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF",
       "image": "https://i3.ytimg.com/vi/zgHAnR8oBsY/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18084/SAF, 17/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18084",
+      "datePublished": "2025-10-17T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18080/SAF, 17/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18080",
+      "datePublished": "2025-10-17T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -232,22 +248,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18054",
       "datePublished": "2025-10-13T00:00:00.000Z",
       "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade de Emergência para os aviões EMBRAER modelos ERJ-190-300 e ERJ 190-400",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18046/SPL, 13/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18046",
-      "datePublished": "2025-10-13T00:00:00.000Z",
-      "description": "Torna público o cumprimento dos requisitos para a exploração de serviço aéreo especializado e a emissão do Certificado de Centro de Instrução de Aviação Civil em favor da AEROMAGIC BALONISMO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18052/SPL, 13/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18052",
-      "datePublished": "2025-10-13T00:00:00.000Z",
-      "description": "Revoga a Portaria nº 2.737, de 30 de agosto de 2018",
       "type": "legislação"
     },
     {
