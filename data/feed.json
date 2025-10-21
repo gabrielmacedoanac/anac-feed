@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-13ba000c-76d3-446b-9c37-5f754fb62ecf",
+  "identifier": "urn:uuid:anac-feed-2f748e05-b2ca-40e8-b607-0584461fdd58",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-21T01:06:43.364Z",
-  "dateModified": "2025-10-21T01:06:43.364Z",
+  "dateCreated": "2025-10-21T04:17:01.194Z",
+  "dateModified": "2025-10-21T04:17:01.194Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-21T01:06:43.361Z"
+    "endDate": "2025-10-21T04:17:01.191Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-023A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023",
-      "datePublished": "2025-10-21T01:06:43.361Z",
+      "datePublished": "2025-10-21T04:17:01.191Z",
       "description": "Procedimentos aplicáveis aos operadores aéreos sob o RBAC nº 121 para permitir a execução de atividades em voo por servidores da Anac",
       "type": "legislação"
     },
