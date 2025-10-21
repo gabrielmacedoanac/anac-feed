@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9d32bbab-cb45-4d99-a066-fdd01bd8990e",
+  "identifier": "urn:uuid:anac-feed-bde29bd4-495c-4b0b-b977-13bfa2eab8d8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-21T08:20:19.892Z",
-  "dateModified": "2025-10-21T08:20:19.892Z",
+  "dateCreated": "2025-10-21T12:29:35.165Z",
+  "dateModified": "2025-10-21T12:29:35.165Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-21T08:20:19.890Z"
+    "endDate": "2025-10-21T12:29:35.163Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-023A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023",
-      "datePublished": "2025-10-21T08:20:19.890Z",
+      "datePublished": "2025-10-21T12:29:35.163Z",
       "description": "Procedimentos aplicáveis aos operadores aéreos sob o RBAC nº 121 para permitir a execução de atividades em voo por servidores da Anac",
       "type": "legislação"
     },
@@ -119,6 +119,22 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18068/SPO, 15/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18068",
+      "datePublished": "2025-10-15T00:00:00.000Z",
+      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da MANAV MANUTENCAO DE AERONAVES COMERCIO, IMPORTACAO E EXPORTACAO LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18065/SIA, 15/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18065",
+      "datePublished": "2025-10-15T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0440 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica",
@@ -126,6 +142,14 @@
       "description": "Evento será transmitido no dia 16/10 no canal da Agência no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18060/SIA, 14/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18060",
+      "datePublished": "2025-10-14T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0480 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -269,10 +293,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18043/CRG, 10/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18043",
-      "datePublished": "2025-10-10T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
+      "name": "PORTARIA Nº 18030/SIA, 09/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18030",
+      "datePublished": "2025-10-09T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1496 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18034/SIA, 09/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18034",
+      "datePublished": "2025-10-09T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1497 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -293,22 +325,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18021/SIA, 08/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18021",
-      "datePublished": "2025-10-08T00:00:00.000Z",
-      "description": "Exclui o Aeródromo Público Pedro Simões Pimenta, localizado em Cuité (PB), do cadastro de aeródromos públicos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18022/SIA, 08/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18022",
-      "datePublished": "2025-10-08T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD RO0116 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10",
@@ -326,14 +342,6 @@
       "type": "notícia"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18011/SIA, 06/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18011",
-      "datePublished": "2025-10-06T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PR0074 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac",
@@ -341,14 +349,6 @@
       "description": "Candidatos estavam no cadastro reserva do certame realizado em 2023",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 17990/SIA, 02/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-17990",
-      "datePublished": "2025-10-02T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD SP0757 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
