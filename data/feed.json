@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ed451329-ce0d-4533-bc08-e4f5123f585d",
+  "identifier": "urn:uuid:anac-feed-0faa03d2-ebc5-4000-859d-139c9334a886",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-21T16:18:52.997Z",
-  "dateModified": "2025-10-21T16:18:52.997Z",
+  "dateCreated": "2025-10-21T20:16:22.567Z",
+  "dateModified": "2025-10-21T20:16:22.567Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-21T16:18:52.995Z"
+    "endDate": "2025-10-21T20:16:22.564Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 121-023A",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023",
-      "datePublished": "2025-10-21T16:18:52.995Z",
+      "datePublished": "2025-10-21T20:16:22.564Z",
       "description": "Procedimentos aplicáveis aos operadores aéreos sob o RBAC nº 121 para permitir a execução de atividades em voo por servidores da Anac",
       "type": "legislação"
     },
@@ -102,6 +102,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18076/SIA, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18076",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Altera a Portaria nº 3.214/SIA, de 10 de novembro de 2020",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18072/SPL, 16/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18072",
       "datePublished": "2025-10-16T00:00:00.000Z",
@@ -136,6 +144,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18065/SIA, 15/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18065",
+      "datePublished": "2025-10-15T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0440 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18068/SPO, 15/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18068",
       "datePublished": "2025-10-15T00:00:00.000Z",
@@ -162,6 +178,14 @@
     {
       "@type": "Legislation",
       "name": "PORTARIA Nº 18060/SIA, 14/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18060",
+      "datePublished": "2025-10-14T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0480 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18060/SIA, 14/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18060",
       "datePublished": "2025-10-14T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT0480 no cadastro de aeródromos",
@@ -173,30 +197,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18062",
       "datePublished": "2025-10-14T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0491 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18056/SPL, 14/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18056",
-      "datePublished": "2025-10-14T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18058/SAF, 14/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18058",
-      "datePublished": "2025-10-14T00:00:00.000Z",
-      "description": "Designa Gestor de Contrato",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18061/SPO, 14/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18061",
-      "datePublished": "2025-10-14T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/SPO-144-R04",
       "type": "legislação"
     },
     {
@@ -243,22 +243,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18054/SAR, 13/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18054",
-      "datePublished": "2025-10-13T00:00:00.000Z",
-      "description": "Torna pública a emissão de Diretriz de Aeronavegabilidade de Emergência para os aviões EMBRAER modelos ERJ-190-300 e ERJ 190-400",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18044/SPL, 12/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18044",
-      "datePublished": "2025-10-12T00:00:00.000Z",
-      "description": "Publica ações administrativas de suspensão punitiva e cassação de habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci",
@@ -289,6 +273,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18042",
       "datePublished": "2025-10-10T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MG0657 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18034/SIA, 09/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18034",
+      "datePublished": "2025-10-09T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1497 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18030/SIA, 09/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18030",
+      "datePublished": "2025-10-09T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1496 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
