@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d1e4b130-43b7-49be-a6ed-5418d231190f</id>
-  <updated>2025-10-22T12:29:44.430Z</updated>
+  <id>urn:uuid:anac-feed-c40e305e-ae10-4243-9f2e-de978f0c82ad</id>
+  <updated>2025-10-22T16:18:58.172Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 121-023A</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023</id>
-    <published>2025-10-22T12:29:44.430Z</published>
-    <updated>2025-10-22T12:29:44.430Z</updated>
+    <published>2025-10-22T16:18:58.172Z</published>
+    <updated>2025-10-22T16:18:58.172Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -29,6 +29,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Operação Fronteira: Anac participa das operações da Receita Federal</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal</id>
+    <published>2025-10-22T10:13:00.000Z</published>
+    <updated>2025-10-22T10:13:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal/receita-federal-aeroporto-2.jpg/@@images/b74faeaf-b3b9-486d-bb0c-ecc2058b4792.jpeg" alt="Operação Fronteira: Anac participa das operações da Receita Federal">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -166,6 +185,25 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     <summary type="html">Designa Equipe de Gestão e Fiscalização do Contrato</summary>
     <content type="html"><![CDATA[
       <p>Designa Equipe de Gestão e Fiscalização do Contrato</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18073/SIA, 16/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18073" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18073</id>
+    <published>2025-10-16T00:00:00.000Z</published>
+    <updated>2025-10-16T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova a Diretriz de Segurança da Aviação Civil contra Atos de Interferência Ilícita nº 04-2021, Revisão C</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova a Diretriz de Segurança da Aviação Civil contra Atos de Interferência Ilícita nº 04-2021, Revisão C</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -634,25 +672,6 @@ Agora você sabe como o avião pode voar!
     <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0515 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD BA0515 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18042/SIA, 10/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18042" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18042</id>
-    <published>2025-10-10T00:00:00.000Z</published>
-    <updated>2025-10-10T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MG0657 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MG0657 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1350,25 +1369,6 @@ Link Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr</p>
     <content type="html"><![CDATA[
       <p>Mercado doméstico também tem o melhor movimento para agosto desde o início da série histórica, com 8,7 milhões de pessoas transportadas no mês</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-nacional-registra-12-meses-seguidos-de-crescimento-no-transporte-de-passageiros/d-do-setor-aereo_ago_2025_card-6.png/@@images/fc180174-5ec6-4925-9b5b-25697b5cb324.png" alt="Aviação nacional registra 12 meses seguidos de crescimento no transporte de passageiros">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac abre consulta setorial sobre requisitos de contenção de fogo em sistemas propulsivos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-consulta-setorial-sobre-requisitos-de-contencao-de-fogo-em-sistemas-propulsivos</id>
-    <published>2025-09-19T11:57:00.000Z</published>
-    <updated>2025-09-19T11:57:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições podem ser enviadas até o dia 20 de outubro</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições podem ser enviadas até o dia 20 de outubro</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
