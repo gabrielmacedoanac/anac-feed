@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-82e0f7fc-290b-4d24-a7c3-b6cc49b6d852",
+  "identifier": "urn:uuid:anac-feed-21d89d3e-d6d5-47d6-8655-ec1c0b0e784e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-23T16:18:04.396Z",
-  "dateModified": "2025-10-23T16:18:04.396Z",
+  "dateCreated": "2025-10-23T20:15:03.815Z",
+  "dateModified": "2025-10-23T20:15:03.815Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -62,6 +62,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18100/SPL, 21/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18100",
+      "datePublished": "2025-10-21T00:00:00.000Z",
+      "description": "Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC HTC TREINAMENTOS E NEGOCIOS EMPRESARIAIS LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18096/SPL, 21/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18096",
       "datePublished": "2025-10-21T00:00:00.000Z",
@@ -85,6 +93,14 @@
       "description": "Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18091/SIA, 20/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18091",
+      "datePublished": "2025-10-20T00:00:00.000Z",
+      "description": "Aprova o Plano Diretor do Aeródromo Oscar Laranjeiras / Caruaru  (PE), SNRU - CIAD:PE0004",
+      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -117,14 +133,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18083",
       "datePublished": "2025-10-17T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0278 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18084/SAF, 17/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18084",
-      "datePublished": "2025-10-17T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
       "type": "legislação"
     },
     {
@@ -318,6 +326,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18049/SPO, 13/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18049",
+      "datePublished": "2025-10-13T00:00:00.000Z",
+      "description": "Aprova o Manual de Procedimento - MPR/SPO-130-R00",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci",
@@ -325,22 +341,6 @@
       "description": "Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18034/SIA, 09/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18034",
-      "datePublished": "2025-10-09T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1497 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18030/SIA, 09/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18030",
-      "datePublished": "2025-10-09T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1496 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
