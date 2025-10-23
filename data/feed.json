@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b6a14e3c-d983-4d45-b51b-bab271be463f",
+  "identifier": "urn:uuid:anac-feed-82e0f7fc-290b-4d24-a7c3-b6cc49b6d852",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-23T12:29:53.223Z",
-  "dateModified": "2025-10-23T12:29:53.223Z",
+  "dateCreated": "2025-10-23T16:18:04.396Z",
+  "dateModified": "2025-10-23T16:18:04.396Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-08-05T07:25:14.000Z",
-    "endDate": "2025-10-23T12:29:53.220Z"
+    "startDate": "2025-08-22T09:15:57.000Z",
+    "endDate": "2025-10-23T15:56:07.000Z"
   },
   "distribution": [
     {
@@ -34,12 +34,13 @@
   ],
   "items": [
     {
-      "@type": "Legislation",
-      "name": "IS 121-023A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023",
-      "datePublished": "2025-10-23T12:29:53.220Z",
-      "description": "Procedimentos aplicáveis aos operadores aéreos sob o RBAC nº 121 para permitir a execução de atividades em voo por servidores da Anac",
-      "type": "legislação"
+      "@type": "VideoObject",
+      "name": "SMS Brazil: Há 10 anos contribuindo com a segurança operacional da aviação civil.",
+      "url": "https://www.youtube.com/watch?v=PGYrnRdnq30",
+      "datePublished": "2025-10-23T15:56:07.000Z",
+      "description": "Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.",
+      "image": "https://i1.ytimg.com/vi/PGYrnRdnq30/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
@@ -60,6 +61,14 @@
       "type": "notícia"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18096/SPL, 21/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18096",
+      "datePublished": "2025-10-21T00:00:00.000Z",
+      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta",
@@ -67,14 +76,6 @@
       "description": "Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta/card-6_set__.png/@@images/e917efca-f72e-4f3c-b1f6-13419ccdb018.png",
       "type": "notícia"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-023A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-023",
-      "datePublished": "2025-10-20T17:01:00.000Z",
-      "description": "Procedimentos aplicáveis aos operadores aéreos sob o RBAC nº 121 para permitir a execução de atividades em voo por servidores da Anac",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
@@ -104,6 +105,22 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18079/SIA, 17/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18079",
+      "datePublished": "2025-10-17T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0051 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18083/SIA, 17/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18083",
+      "datePublished": "2025-10-17T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MS0278 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18084/SAF, 17/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18084",
       "datePublished": "2025-10-17T00:00:00.000Z",
@@ -112,10 +129,50 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18080/SAF, 17/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18080",
-      "datePublished": "2025-10-17T00:00:00.000Z",
-      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "name": "PORTARIA Nº 18077/SIA, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18077",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0046 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18074/SIA, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18074",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0658 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 724, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-724",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Defere parcialmente pedido de isenção de cumprimento dos requisitos de que tratam os parágrafos 154.207(d) e (f) do RBAC nº 154, no Aeroporto Internacional Guararapes / Gilberto Freyre, localizado em Recife (PE)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 725, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-725",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Altera a Decisão nº 532, de 3 de junho de 2022, a Decisão nº 626, de 2 de agosto de 2023, e a Decisão nº 693, de 5 de dezembro de 2024",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 781, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-781",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Altera a Resolução nº 708, de 30 de março de 2023",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 780, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-780",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Regulamenta o registro e a divulgação dos dados de tarifas aéreas comercializadas referentes aos serviços de transporte aéreo de passageiros, e altera a Resolução nº 762, de 18 de dezembro de 2024",
       "type": "legislação"
     },
     {
@@ -144,10 +201,34 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18072/SPL, 16/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18072",
+      "name": "RESOLUÇÃO Nº 781, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-781",
       "datePublished": "2025-10-16T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
+      "description": "Altera a Resolução nº 708, de 30 de março de 2023",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 724, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-724",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Defere parcialmente pedido de isenção de cumprimento dos requisitos de que tratam os parágrafos 154.207(d) e (f) do RBAC nº 154, no Aeroporto Internacional Guararapes / Gilberto Freyre, localizado em Recife (PE)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 725, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-725",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Altera a Decisão nº 532, de 3 de junho de 2022, a Decisão nº 626, de 2 de agosto de 2023, e a Decisão nº 693, de 5 de dezembro de 2024",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 780, 16/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-780",
+      "datePublished": "2025-10-16T00:00:00.000Z",
+      "description": "Regulamenta o registro e a divulgação dos dados de tarifas aéreas comercializadas referentes aos serviços de transporte aéreo de passageiros, e altera a Resolução nº 762, de 18 de dezembro de 2024",
       "type": "legislação"
     },
     {
@@ -185,22 +266,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18068/SPO, 15/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18068",
-      "datePublished": "2025-10-15T00:00:00.000Z",
-      "description": "Torna pública a suspensão do Certificado de Organização de Manutenção da MANAV MANUTENCAO DE AERONAVES COMERCIO, IMPORTACAO E EXPORTACAO LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18065/SIA, 15/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18065",
-      "datePublished": "2025-10-15T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0440 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica",
@@ -211,26 +276,18 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18059/SIA, 14/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18059",
+      "datePublished": "2025-10-14T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD GO0416 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18060/SIA, 14/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18060",
       "datePublished": "2025-10-14T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MT0480 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18060/SIA, 14/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18060",
-      "datePublished": "2025-10-14T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT0480 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18062/SIA, 14/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18062",
-      "datePublished": "2025-10-14T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0491 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -261,14 +318,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18050/SPO, 13/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18050",
-      "datePublished": "2025-10-13T00:00:00.000Z",
-      "description": "Aprova a Instrução Suplementar nº 121-023A",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci",
@@ -291,22 +340,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18030",
       "datePublished": "2025-10-09T00:00:00.000Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1496 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18030/SIA, 09/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18030",
-      "datePublished": "2025-10-09T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD SP1496 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18034/SIA, 09/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portaria-18034",
-      "datePublished": "2025-10-09T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD SP1497 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -507,14 +540,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 135.21-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-21-001b",
-      "datePublished": "2025-09-23T15:11:00.000Z",
-      "description": "Instruções para a Elaboração do Manual Geral de Manutenção (MGM) – Operadores sob o RBAC nº 135 operando exclusivamente aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove) assentos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 91-010D",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
       "datePublished": "2025-09-23T14:47:00.000Z",
@@ -680,31 +705,6 @@
       "datePublished": "2025-08-22T09:15:57.000Z",
       "description": "Este evento faz parte da Ação Nacional de Aviação Civil, iniciativa instituída em 2011 pela ANAC com o objetivo de disseminar informações e conhecimentos sobre o transporte aéreo e de aumentar a proximidade da Agência com seus principais públicos, entre eles pilotos, profissionais, empresários, estudantes, pesquisadores ligados à aviação civil e demais interessados.\n\nO evento pretende atingir a maior quantidade de regulados possível e apresentar diversos assuntos, conforme indicado na Programação, para fomentar a discussão, tratar e receber as críticas e sugestões e promover a melhoria da segurança operacional no Brasil.\n\nA iniciativa também é aderente ao Programa de Implementação do PSOE-ANAC, otimizando recursos e aperfeiçoando as ferramentas de disseminação da cultura de segurança operacional.\n\nPerguntas: https://app.sli.do/event/gCBZJAp3Q6wDmCPPk994pb",
       "image": "https://i1.ytimg.com/vi/dTihSc1E3_M/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 777, 21/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-777",
-      "datePublished": "2025-08-21T00:00:00.000Z",
-      "description": "Aprova emendas ao RBAC nº 25",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 719, 07/08/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-719",
-      "datePublished": "2025-08-07T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam o parágrafo E94.9(c) e a Subparte E do RBAC-E nº 94, em favor da DR1 IMAGENS E INSPEÇÕES LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "10ª Reunião Deliberativa da Diretoria Colegiada (04/08/2025)",
-      "url": "https://www.youtube.com/watch?v=I-sJmTR8bIE",
-      "datePublished": "2025-08-05T07:25:14.000Z",
-      "description": "10ª Reunião Deliberativa da Diretoria Colegiada\n \n1) Processo 00058.070782/2023-83  \n2) Processo 00058.041531/2021-20",
-      "image": "https://i2.ytimg.com/vi/I-sJmTR8bIE/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
