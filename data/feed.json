@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8a11f9a8-3603-4b8e-9f35-d7b66f75045c",
+  "identifier": "urn:uuid:anac-feed-0bbf8fc0-5895-41d8-a418-2e4e4d5dca01",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-24T04:17:07.312Z",
-  "dateModified": "2025-10-24T04:17:07.312Z",
+  "dateCreated": "2025-10-24T08:19:19.556Z",
+  "dateModified": "2025-10-24T08:19:19.556Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-22T09:15:57.000Z",
-    "endDate": "2025-10-23T15:56:07.000Z"
+    "endDate": "2025-10-23T17:52:00.000Z"
   },
   "distribution": [
     {
@@ -34,6 +34,24 @@
   ],
   "items": [
     {
+      "@type": "NewsArticle",
+      "name": "SMS Brasil: há 10 anos contribuindo com a segurança operacional da aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil",
+      "datePublished": "2025-10-23T17:52:00.000Z",
+      "description": "Aprendizado e aprimoramento de todas as operações aéreas foram foco da 10ª edição",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil/agd_8329-2.jpg/@@images/59f80cb8-db1a-4f34-a94a-e666daf4656b.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Diretor-Presidente da Anac recebe Medalha da Ordem do Mérito Aeronáutico",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico",
+      "datePublished": "2025-10-23T17:10:00.000Z",
+      "description": "Comenda existe desde 1943 e destaca aqueles que contribuíram para o fomento da aeronáutica brasileira",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico/img-20251023-wa0049.jpg/@@images/857f38c8-22aa-419b-af71-0ed406a2683c.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "SMS Brazil: Há 10 anos contribuindo com a segurança operacional da aviação civil.",
       "url": "https://www.youtube.com/watch?v=PGYrnRdnq30",
@@ -41,6 +59,24 @@
       "description": "Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.",
       "image": "https://i1.ytimg.com/vi/PGYrnRdnq30/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac sedia Workshop IOSA em parceria com a IATA no dia 4/11",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11",
+      "datePublished": "2025-10-22T14:48:00.000Z",
+      "description": "Inscrições estão abertas e podem ser feitas por meio de formulário",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11/linkedin-3.png/@@images/e2dcdf57-1cd5-4672-b698-7ec405f1876e.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Operação Fronteira: Anac participa das operações da Receita Federal",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal",
+      "datePublished": "2025-10-22T10:13:00.000Z",
+      "description": "Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal/receita-federal-aeroporto-2.jpg/@@images/b74faeaf-b3b9-486d-bb0c-ecc2058b4792.jpeg",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -59,12 +95,38 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta",
+      "datePublished": "2025-10-20T17:13:00.000Z",
+      "description": "Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta/card-6_set__.png/@@images/e917efca-f72e-4f3c-b1f6-13419ccdb018.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Tecnologia e Segurança: o futuro dos aeroportos brasileiros em debate",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate",
+      "datePublished": "2025-10-20T14:10:00.000Z",
+      "description": "Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "PORTARIA Nº 18091/SIA, 20/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18091",
       "datePublished": "2025-10-20T00:00:00.000Z",
       "description": "Aprova o Plano Diretor do Aeródromo Oscar Laranjeiras / Caruaru  (PE), SNRU - CIAD:PE0004",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Estudo da Anac vai subsidiar PL das bagagens",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-portas-abertas-no-congresso-para-subsidiar-pl-das-bagagens",
+      "datePublished": "2025-10-17T11:25:00.000Z",
+      "description": "Em entrevista coletiva, presidente da Agência destacou que pretende encerrar discussões sobre bagagens entregando estudos técnicos para construção do projeto de lei",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -196,6 +258,23 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Medida cautelar é emitida pela Anac em sete aeroportos regionais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais",
+      "datePublished": "2025-10-15T23:01:00.000Z",
+      "description": "Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo",
+      "datePublished": "2025-10-15T12:05:00.000Z",
+      "description": "Anac apoia evento Tecnologia e Segurança - O Futuro dos Aeroportos no Brasil, realizado pela ABR",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo/tecnologia-e-seguranca-o-futuro-dos-aeroportos-no-brasil.png/@@images/e9af3e44-0b74-4162-9b61-6f31ec2b2505.png",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Audiência Pública Virtual da Consulta Pública nº 11/2025",
       "url": "https://www.youtube.com/watch?v=6X1GXm4fgaM",
@@ -211,6 +290,15 @@
       "datePublished": "2025-10-15T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD PA0440 no cadastro de aeródromos",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica",
+      "datePublished": "2025-10-14T14:00:00.000Z",
+      "description": "Evento será transmitido no dia 16/10 no canal da Agência no YouTube",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -238,6 +326,15 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Exames teóricos para comissários de voo serão retomados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados",
+      "datePublished": "2025-10-13T17:04:00.000Z",
+      "description": "Inscrições e agendamentos podem ser solicitados no site da FGV a partir desta segunda-feira (13/10)",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados/comunicado_retomada_provas_comissarios_banner-portal-rotativo.png/@@images/2fb5dc59-f18f-4dee-9d93-1631cde63c5e.png",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Já se perguntou como o avião consegue voar?",
       "url": "https://www.youtube.com/watch?v=_-5lBoZoZCU",
@@ -255,12 +352,30 @@
       "type": "legislação"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci",
+      "datePublished": "2025-10-10T11:52:00.000Z",
+      "description": "Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "Legislation",
       "name": "DECISÃO Nº 723, 09/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-723",
       "datePublished": "2025-10-09T00:00:00.000Z",
       "description": "Autoriza a exploração do aeródromo civil público denominado \"Aeródromo de Itapera\"",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Agências federais discutem formas de aprimoramento da regulação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao",
+      "datePublished": "2025-10-08T16:48:00.000Z",
+      "description": "Comitê elegeu Guilherme Theo Sampaio (ANTT) para presidente e Tiago Faierstein (Anac) para vice-presidente da instituição",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao/2025-reuniao-coarf-11.png/@@images/5adc2ba7-9058-4d15-b117-be7f2960775d.png",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -277,6 +392,32 @@
       "datePublished": "2025-10-08T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD PA0439 no cadastro de aeródromos",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10",
+      "datePublished": "2025-10-06T18:01:00.000Z",
+      "description": "Interessados também podem se inscrever para participar remotamente até o dia 9",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta pesquisa para elaboração do Plano de Dados Abertos da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-pesquisa-para-elaboracao-do-plano-de-dados-abertos-da-anac",
+      "datePublished": "2025-10-06T09:54:00.000Z",
+      "description": "As contribuições podem ser enviadas até 20/10",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac",
+      "datePublished": "2025-10-02T15:38:00.000Z",
+      "description": "Candidatos estavam no cadastro reserva do certame realizado em 2023",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -312,6 +453,15 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Audiência pública da Câmara debate acessibilidade no transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-da-camara-debate-acessibilidade-no-transporte-aereo",
+      "datePublished": "2025-10-01T11:32:00.000Z",
+      "description": "Anac apresentou ações e compromisso em dialogar com a sociedade para aprimorar o atendimento às pessoas com deficiência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-da-camara-debate-acessibilidade-no-transporte-aereo/20250930_121714_.jpg/@@images/9ab51587-f0e0-4890-baf3-d3983432d7b2.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Semana de Cibersegurança da ANAC 2025",
       "url": "https://www.youtube.com/watch?v=59Nj2ERVgWE",
@@ -319,6 +469,68 @@
       "description": "Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2",
       "image": "https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Workshop técnico de aviação fortalece cooperação internacional",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-fortalece-cooperacao-internacional-em-workshop-tecnico-de-aviacao-1",
+      "datePublished": "2025-09-29T17:37:00.000Z",
+      "description": "20º TSO Workshop reuniu autoridades e indústria para discutir inovação, harmonização de normas e segurança operacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-fortalece-cooperacao-internacional-em-workshop-tecnico-de-aviacao-1/3.jpg/@@images/b124d38d-0c70-41f4-adb0-50f9dbeed69d.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil é o país mais votado em eleição para o Conselho da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028",
+      "datePublished": "2025-09-27T11:14:00.000Z",
+      "description": "Durante o próximo triênio, Brasil terá assento em foro que decide o conjunto básico de regras da aviação mundial",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028/imagem-do-whatsapp-de-2025-09-26-a-s-16-04-50_a0b747aa.jpg/@@images/880ae139-4efa-4eaf-a121-c1e23a825455.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil atualiza plano para reduzir emissões de CO2 na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao",
+      "datePublished": "2025-09-26T11:42:00.000Z",
+      "description": "Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Assinado acordo que moderniza o contrato de concessão do Galeão",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao",
+      "datePublished": "2025-09-25T17:56:00.000Z",
+      "description": "Termo prevê a venda assistida da concessionária, nova cobrança de contribuição variável e compensação financeira relacionada à operação do Santos Dumont",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao/54811733604_d985b8c716_c.jpg/@@images/6df2a82c-36c7-4d21-8eca-f847cdb5a3c9.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Exercício testa cenários de segurança cibernética no transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo",
+      "datePublished": "2025-09-24T18:16:00.000Z",
+      "description": "Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil e Arábia Saudita assinam Protocolo Adicional ao Acordo de Serviços Aéreos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos",
+      "datePublished": "2025-09-24T17:57:00.000Z",
+      "description": "Acordo assinado no Canadá, durante a 42ª Assembleia da Oaci, permitirá aumento da frequência de voos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos/img_3620.png/@@images/d02e8c2b-a0ad-4deb-9f0a-2ab1ea628df5.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Desafios e soluções para Mecânicos de Manutenção Aeronáutica foram o destaque da Anac no MRO Brasil 2025",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2024/desafios-e-solucoes-para-mecanicos-de-manutencao-aeronautica-foram-o-destaque-da-anac-no-mro-brasil-2025",
+      "datePublished": "2025-09-24T16:19:00.000Z",
+      "description": "Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -351,6 +563,14 @@
       "datePublished": "2025-09-23T14:47:00.000Z",
       "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta a tomada de subsídios para tratar da regulamentação de serviços Camo no Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-a-tomada-de-subsidios-para-tratar-da-regulamentacao-de-servicos-camo-no-brasil",
+      "datePublished": "2025-09-23T11:32:00.000Z",
+      "description": "As participações devem ser registradas até o dia 15 de outubro, no site da Agência",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
