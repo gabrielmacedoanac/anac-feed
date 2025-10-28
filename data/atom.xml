@@ -4,13 +4,40 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5af2e3c4-213c-4bb1-be28-9f3f25b00b68</id>
-  <updated>2025-10-28T10:45:08.000Z</updated>
+  <id>urn:uuid:anac-feed-1023c201-c969-4222-be0e-d48e0f7b5f2b</id>
+  <updated>2025-10-28T20:12:36.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025)</title>
+    <link href="https://www.youtube.com/watch?v=pvYoq4oXEEI" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=pvYoq4oXEEI</id>
+    <published>2025-10-28T20:12:36.000Z</published>
+    <updated>2025-10-28T20:12:36.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">1) Processo: 00058.009139/2024-39
+  
+Assunto: Proposta de resolução para regulamentar disposição transitória para a exploração de serviços aéreos com balão e de emenda ao RBAC nº 103 - Fase 1 do Tema 17 da Agenda Regulatória 2025-2026
+  
+Relator: Luiz Ricardo Nascimento</summary>
+    <content type="html"><![CDATA[
+      <p>1) Processo: 00058.009139/2024-39
+  
+Assunto: Proposta de resolução para regulamentar disposição transitória para a exploração de serviços aéreos com balão e de emenda ao RBAC nº 103 - Fase 1 do Tema 17 da Agenda Regulatória 2025-2026
+  
+Relator: Luiz Ricardo Nascimento</p>
+      <img src="https://i1.ytimg.com/vi/pvYoq4oXEEI/hqdefault.jpg" alt="13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -1666,25 +1693,6 @@ Programação e mais informações no site do evento https://www.gov.br/anac/pt-
 
 Dúvidas e perguntas (Slido) - https://app.sli.do/event/8bV8Lo8SZu5sNDqwgBdrGz</p>
       <img src="https://i3.ytimg.com/vi/zoj9US-rtXA/hqdefault.jpg" alt="Webinário Engenharia de Aeroportos 2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)</title>
-    <link href="https://www.youtube.com/watch?v=gx-VCn_gx98" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=gx-VCn_gx98</id>
-    <published>2025-08-26T18:29:10.000Z</published>
-    <updated>2025-08-26T18:29:10.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Processo 00058.030675/2025-84</summary>
-    <content type="html"><![CDATA[
-      <p>Processo 00058.030675/2025-84</p>
-      <img src="https://i4.ytimg.com/vi/gx-VCn_gx98/hqdefault.jpg" alt="11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
