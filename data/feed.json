@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ba5266df-15e7-499c-8166-7ca7a7ee5586",
+  "identifier": "urn:uuid:anac-feed-5af2e3c4-213c-4bb1-be28-9f3f25b00b68",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-28T12:29:05.287Z",
-  "dateModified": "2025-10-28T12:29:05.287Z",
+  "dateCreated": "2025-10-28T16:18:55.320Z",
+  "dateModified": "2025-10-28T16:18:55.320Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -70,6 +70,22 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18108/SPL, DE 23/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18108-spl-de-23-10-2025",
+      "datePublished": "2025-10-23T00:00:00.000Z",
+      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18111/SIA,  23/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18111-sia-23-10-2025",
+      "datePublished": "2025-10-23T00:00:00.000Z",
+      "description": "Altera temporariamente a Categoria Contraincêndio do Aeroporto Internacional de Belém/Val de Cans - Júlio Cezar Ribeiro, código OACI: SBBE; código CIAD: PA0001, localizado em Belém (PA)",
+      "type": "legislação"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac sedia Workshop IOSA em parceria com a IATA no dia 4/11",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11",
@@ -93,6 +109,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18105-sia-22-10-2025",
       "datePublished": "2025-10-22T00:00:00.000Z",
       "description": "Exclui o Aeródromo de uso privativo Fazenda Bom Jardim (GO0199) no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18099/SIA, 21/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025",
+      "datePublished": "2025-10-21T00:00:00.000Z",
+      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0659 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18104/SIA, 21/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18104-sia-de-21-de-outubro-2025",
+      "datePublished": "2025-10-21T00:00:00.000Z",
+      "description": "Exclui o Aeródromo de uso privativo Projeto Paraíba (MT0900) no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -136,14 +168,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18096/SPL, 21/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18096",
-      "datePublished": "2025-10-21T00:00:00.000Z",
-      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta",
@@ -160,6 +184,14 @@
       "description": "Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18089/SAF, 20/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18089",
+      "datePublished": "2025-10-20T00:00:00.000Z",
+      "description": "Designa Responsável pelo Planejamento da Contratação",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -204,14 +236,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18079/SIA, 17/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18079",
-      "datePublished": "2025-10-17T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD TO0051 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 18078/SIA, 16/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18078-sia-16-10-2025",
       "datePublished": "2025-10-16T00:00:00.000Z",
@@ -224,30 +248,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18077",
       "datePublished": "2025-10-16T00:00:00.000Z",
       "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0046 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18074/SIA, 16/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18074",
-      "datePublished": "2025-10-16T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MG0658 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 724, 16/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-724",
-      "datePublished": "2025-10-16T00:00:00.000Z",
-      "description": "Defere parcialmente pedido de isenção de cumprimento dos requisitos de que tratam os parágrafos 154.207(d) e (f) do RBAC nº 154, no Aeroporto Internacional Guararapes / Gilberto Freyre, localizado em Recife (PE)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 725, 16/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2025/decisao-725",
-      "datePublished": "2025-10-16T00:00:00.000Z",
-      "description": "Altera a Decisão nº 532, de 3 de junho de 2022, a Decisão nº 626, de 2 de agosto de 2023, e a Decisão nº 693, de 5 de dezembro de 2024",
       "type": "legislação"
     },
     {
