@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1023c201-c969-4222-be0e-d48e0f7b5f2b",
+  "identifier": "urn:uuid:anac-feed-f33e0a5d-3356-46ce-8e6e-f24e80ec5c8f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-28T20:16:51.948Z",
-  "dateModified": "2025-10-28T20:16:51.948Z",
+  "dateCreated": "2025-10-29T01:09:41.846Z",
+  "dateModified": "2025-10-29T01:09:41.846Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -126,6 +126,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025",
       "datePublished": "2025-10-21T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD MG0659 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18098/SIA, 21/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18-098-sia-21-10-2025",
+      "datePublished": "2025-10-21T00:00:00.000Z",
+      "description": "Inscrever o Aeródromo de uso privativo CIAD RO0118 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -249,14 +257,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18078-sia-16-10-2025",
       "datePublished": "2025-10-16T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD RR0156 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18077/SIA, 16/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18077",
-      "datePublished": "2025-10-16T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD PI0046 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
