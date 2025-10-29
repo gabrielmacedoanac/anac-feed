@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6c545a6d-8d75-406a-aada-57635c489018</id>
-  <updated>2025-10-29T10:49:00.000Z</updated>
+  <id>urn:uuid:anac-feed-4e685fe3-7a0e-4aca-b02a-c23304041b20</id>
+  <updated>2025-10-29T16:39:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">3ª Oficina de Melhoria Contínua AVSEC reúne 300 profissionais de aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/3a-oficina-de-melhoria-continua-avsec-reune-300-profissionais-de-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/3a-oficina-de-melhoria-continua-avsec-reune-300-profissionais-de-aviacao-civil</id>
+    <published>2025-10-29T16:39:00.000Z</published>
+    <updated>2025-10-29T16:39:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O evento abordou temas estratégicos como Programas de Segurança Aeroportuária e Segurança Cibernética</summary>
+    <content type="html"><![CDATA[
+      <p>O evento abordou temas estratégicos como Programas de Segurança Aeroportuária e Segurança Cibernética</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -138,6 +157,25 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18110/SPL,  23/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18110-spl-23-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18110-spl-23-10-2025</id>
+    <published>2025-10-23T00:00:00.000Z</published>
+    <updated>2025-10-23T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC UNIVERSIDADE DE AVIAÇÃO CIVIL INTERNACIONAL LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC UNIVERSIDADE DE AVIAÇÃO CIVIL INTERNACIONAL LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -370,25 +408,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18100/SPL, 21/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18100" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18100</id>
-    <published>2025-10-21T00:00:00.000Z</published>
-    <updated>2025-10-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC HTC TREINAMENTOS E NEGOCIOS EMPRESARIAIS LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC HTC TREINAMENTOS E NEGOCIOS EMPRESARIAIS LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta</id>
@@ -476,25 +495,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Inscreve o Aeródromo de uso privativo CIAD BA0518 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Aeródromo de uso privativo CIAD BA0518 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18091/SIA, 20/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18091" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18091</id>
-    <published>2025-10-20T00:00:00.000Z</published>
-    <updated>2025-10-20T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o Plano Diretor do Aeródromo Oscar Laranjeiras / Caruaru  (PE), SNRU - CIAD:PE0004</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o Plano Diretor do Aeródromo Oscar Laranjeiras / Caruaru  (PE), SNRU - CIAD:PE0004</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -741,25 +741,6 @@ Acesse os documentos da Consulta Pública e faça a sua contribuição nos formu
     <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD PB0043 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD PB0043 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18064/SPL, 15/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18064-spl" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18064-spl</id>
-    <published>2025-10-15T00:00:00.000Z</published>
-    <updated>2025-10-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publica ações administrativas de suspensão punitiva e cassação de habilitações técnicas de aeronauta</summary>
-    <content type="html"><![CDATA[
-      <p>Publica ações administrativas de suspensão punitiva e cassação de habilitações técnicas de aeronauta</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1284,25 +1265,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <content type="html"><![CDATA[
       <p>Acordo assinado no Canadá, durante a 42ª Assembleia da Oaci, permitirá aumento da frequência de voos</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos/img_3620.png/@@images/d02e8c2b-a0ad-4deb-9f0a-2ab1ea628df5.jpeg" alt="Brasil e Arábia Saudita assinam Protocolo Adicional ao Acordo de Serviços Aéreos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Desafios e soluções para Mecânicos de Manutenção Aeronáutica foram o destaque da Anac no MRO Brasil 2025</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2024/desafios-e-solucoes-para-mecanicos-de-manutencao-aeronautica-foram-o-destaque-da-anac-no-mro-brasil-2025" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2024/desafios-e-solucoes-para-mecanicos-de-manutencao-aeronautica-foram-o-destaque-da-anac-no-mro-brasil-2025</id>
-    <published>2025-09-24T16:19:00.000Z</published>
-    <updated>2025-09-24T16:19:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Debates e programas estratégicos buscam suprir a demanda e qualificar mecânicos de aeronaves no Brasil</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
