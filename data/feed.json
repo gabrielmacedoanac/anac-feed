@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-945f12d1-3064-4cbe-a853-946a771f69d1",
+  "identifier": "urn:uuid:anac-feed-6c545a6d-8d75-406a-aada-57635c489018",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-29T12:30:43.044Z",
-  "dateModified": "2025-10-29T12:30:43.044Z",
+  "dateCreated": "2025-10-29T16:19:06.261Z",
+  "dateModified": "2025-10-29T16:19:06.261Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-10-28T20:12:36.000Z"
+    "endDate": "2025-10-29T10:49:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Aeroporto do Rio Grande do Norte recebeu workshop sobre combate ao tráfico de pessoas na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil",
+      "datePublished": "2025-10-29T10:49:00.000Z",
+      "description": "Ação compõe o projeto Liberdade no Ar",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil/workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil/@@images/adc9c730-7630-4e33-a6d6-645884f20b0d.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025)",
@@ -62,7 +71,7 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Diretor-Presidente da Anac recebe Medalha da Ordem do Mérito Aeronáutico",
+      "name": "Diretor-Presidente e superintendente da Anac recebem Medalha da Ordem do Mérito Aeronáutico",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico",
       "datePublished": "2025-10-23T17:10:00.000Z",
       "description": "Comenda existe desde 1943 e destaca aqueles que contribuíram para o fomento da aeronáutica brasileira",
@@ -581,14 +590,6 @@
       "datePublished": "2025-09-23T14:47:00.000Z",
       "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
       "type": "legislação"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aberta a tomada de subsídios para tratar da regulamentação de serviços Camo no Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-a-tomada-de-subsidios-para-tratar-da-regulamentacao-de-servicos-camo-no-brasil",
-      "datePublished": "2025-09-23T11:32:00.000Z",
-      "description": "As participações devem ser registradas até o dia 15 de outubro, no site da Agência",
-      "type": "notícia"
     },
     {
       "@type": "Legislation",

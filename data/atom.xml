@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-945f12d1-3064-4cbe-a853-946a771f69d1</id>
-  <updated>2025-10-28T20:12:36.000Z</updated>
+  <id>urn:uuid:anac-feed-6c545a6d-8d75-406a-aada-57635c489018</id>
+  <updated>2025-10-29T10:49:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Aeroporto do Rio Grande do Norte recebeu workshop sobre combate ao tráfico de pessoas na aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil</id>
+    <published>2025-10-29T10:49:00.000Z</published>
+    <updated>2025-10-29T10:49:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ação compõe o projeto Liberdade no Ar</summary>
+    <content type="html"><![CDATA[
+      <p>Ação compõe o projeto Liberdade no Ar</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil/workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil/@@images/adc9c730-7630-4e33-a6d6-645884f20b0d.jpeg" alt="Aeroporto do Rio Grande do Norte recebeu workshop sobre combate ao tráfico de pessoas na aviação civil">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -85,7 +104,7 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
-    <title type="html">Diretor-Presidente da Anac recebe Medalha da Ordem do Mérito Aeronáutico</title>
+    <title type="html">Diretor-Presidente e superintendente da Anac recebem Medalha da Ordem do Mérito Aeronáutico</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico</id>
     <published>2025-10-23T17:10:00.000Z</published>
@@ -96,7 +115,7 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Comenda existe desde 1943 e destaca aqueles que contribuíram para o fomento da aeronáutica brasileira</summary>
     <content type="html"><![CDATA[
       <p>Comenda existe desde 1943 e destaca aqueles que contribuíram para o fomento da aeronáutica brasileira</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico/img-20251023-wa0049.jpg/@@images/857f38c8-22aa-419b-af71-0ed406a2683c.jpeg" alt="Diretor-Presidente da Anac recebe Medalha da Ordem do Mérito Aeronáutico">
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico/img-20251023-wa0049.jpg/@@images/857f38c8-22aa-419b-af71-0ed406a2683c.jpeg" alt="Diretor-Presidente e superintendente da Anac recebem Medalha da Ordem do Mérito Aeronáutico">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -1363,25 +1382,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aberta a tomada de subsídios para tratar da regulamentação de serviços Camo no Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-a-tomada-de-subsidios-para-tratar-da-regulamentacao-de-servicos-camo-no-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-a-tomada-de-subsidios-para-tratar-da-regulamentacao-de-servicos-camo-no-brasil</id>
-    <published>2025-09-23T11:32:00.000Z</published>
-    <updated>2025-09-23T11:32:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">As participações devem ser registradas até o dia 15 de outubro, no site da Agência</summary>
-    <content type="html"><![CDATA[
-      <p>As participações devem ser registradas até o dia 15 de outubro, no site da Agência</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
