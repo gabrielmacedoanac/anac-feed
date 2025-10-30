@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-4e685fe3-7a0e-4aca-b02a-c23304041b20",
+  "identifier": "urn:uuid:anac-feed-a6c46dbc-6c30-4c8d-bad6-601a3b57c027",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-29T20:16:03.177Z",
-  "dateModified": "2025-10-29T20:16:03.177Z",
+  "dateCreated": "2025-10-30T01:08:51.930Z",
+  "dateModified": "2025-10-30T01:08:51.930Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -136,6 +136,14 @@
       "description": "Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal/receita-federal-aeroporto-2.jpg/@@images/b74faeaf-b3b9-486d-bb0c-ecc2058b4792.jpeg",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18106/SIA, 22/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18106",
+      "datePublished": "2025-10-22T00:00:00.000Z",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MA0025 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
