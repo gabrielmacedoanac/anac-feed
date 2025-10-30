@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bc4e7e8b-1b6b-437d-9537-c5d570c2d8f9",
+  "identifier": "urn:uuid:anac-feed-00bdf976-1d99-402c-8563-542cb40c08f9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-30T12:29:25.439Z",
-  "dateModified": "2025-10-30T12:29:25.439Z",
+  "dateCreated": "2025-10-30T16:19:02.117Z",
+  "dateModified": "2025-10-30T16:19:02.117Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -105,7 +105,15 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 1812/SIA, 23/10/2025",
+      "name": "PORTARIA Nº 18115/SIA, 23/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18115",
+      "datePublished": "2025-10-23T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0258 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18112/SIA, 23/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18112",
       "datePublished": "2025-10-23T00:00:00.000Z",
       "description": "Inscreve o Aeródromo de uso privativo CIAD RO0119 no cadastro de aeródromos",
@@ -163,18 +171,18 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18106/SIA, 22/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18106",
+      "name": "PORTARIA Nº 18107/SIA, 22/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18107",
       "datePublished": "2025-10-22T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MA0025 no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0131 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18105/SIA,  22/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18105-sia-22-10-2025",
+      "name": "PORTARIA Nº 18106/SIA, 22/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18106",
       "datePublished": "2025-10-22T00:00:00.000Z",
-      "description": "Exclui o Aeródromo de uso privativo Fazenda Bom Jardim (GO0199) no cadastro de aeródromos",
+      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MA0025 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -226,14 +234,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18097/SIA, 21/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18097-sia-21-10-2025",
-      "datePublished": "2025-10-21T00:00:00.000Z",
-      "description": "Altera a inscrição do Heliponto de uso privativo ao nível do solo CIAD GO0179 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta",
@@ -257,22 +257,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18089",
       "datePublished": "2025-10-20T00:00:00.000Z",
       "description": "Designa Responsável pelo Planejamento da Contratação",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18086/SIA, 20/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18086-sia-20-10-2025",
-      "datePublished": "2025-10-20T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD PA0442 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18085/SIA, 20/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18085-sia-20-10-2025",
-      "datePublished": "2025-10-20T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD BA0518 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -351,14 +335,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18063/SPL, 15/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18063-spl-15-10-2025",
-      "datePublished": "2025-10-15T00:00:00.000Z",
-      "description": "Publica ações administrativas de suspensão punitiva e cassação de habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica",
@@ -393,14 +369,6 @@
       "description": "Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! \n\nPorque aprender pode ser tão divertido quanto brincar! 💙\n\nFeliz Dia das Crianças! 🎉\n\nLetra:\nComo o avião voa?\n\nOlha o avião lá no céu a planar,\nMas como será que ele consegue voar?\nAs asas têm formato especial, você vai ver,\nFazendo o ar se mover pra cima crescer.\n\nPor cima o ar corre mais depressa, é tensão,\nPor baixo ele vai lento, isso dá sustentação.\nÉ a física que cria essa força no ar,\nChamamos de sustentação pra ele levantar!\n\nVoa, voa avião, no céu a planar,\nCom motor e asa, pronto pra voar!\nEmpurrando lá na frente, turbinas a girar,\nÉ propulsão que ajuda ele a avançar!\n\nMas não é só isso que faz o avião flutuar,\nO piloto também precisa o voo controlar.\nUsa leme, profundor e aileron pra guiar,\nMudando direção pra rota manter no ar.\n\nCom motor, asas e ciência no coração,\nO avião corta o céu numa perfeita canção.\nÉ física, engenharia e um sonho no ar,\nJuntos fazendo o avião poder voar!\n\nVoa, voa avião, sobe lá no ar,\nLevando gente e sonhos pra viajar.\nDecola bonito, com ciência a soprar,\nAgora você sabe como o avião pode voar!\n\n*Vídeo e música produzida com inteligência artificial.",
       "image": "https://i4.ytimg.com/vi/_-5lBoZoZCU/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18049/SPO, 13/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18049",
-      "datePublished": "2025-10-13T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimento - MPR/SPO-130-R00",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
