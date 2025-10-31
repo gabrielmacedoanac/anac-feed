@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-fbb90acb-f431-4e60-bfa5-8e21612a085e</id>
-  <updated>2025-10-31T16:17:50.199Z</updated>
+  <id>urn:uuid:anac-feed-0b50713b-2293-4eab-9743-2fecaf770b92</id>
+  <updated>2025-10-31T20:17:02.753Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">EDITAL Nº 4/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4</id>
-    <published>2025-10-31T16:17:50.199Z</published>
-    <updated>2025-10-31T16:17:50.199Z</updated>
+    <published>2025-10-31T20:17:02.753Z</published>
+    <updated>2025-10-31T20:17:02.753Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,82 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 782, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Regulamenta disposição transitória para a exploração de serviços aéreos com balão e aprova a Emenda nº 02 ao RBAC nº 103</summary>
+    <content type="html"><![CDATA[
+      <p>Regulamenta disposição transitória para a exploração de serviços aéreos com balão e aprova a Emenda nº 02 ao RBAC nº 103</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18150, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18150" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18150</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a distribuição de cargos comissionados da Agência Nacional de Aviação Civil - ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a distribuição de cargos comissionados da Agência Nacional de Aviação Civil - ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">INSTRUÇÃO NORMATIVA Nº 217, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-217-1" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-217-1</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Instrução Normativa nº 169, de 8 de junho de 2021</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Instrução Normativa nº 169, de 8 de junho de 2021</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 782, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Regulamenta disposição transitória para a exploração de serviços aéreos com balão e aprova a Emenda nº 02 ao RBAC nº 103</summary>
+    <content type="html"><![CDATA[
+      <p>Regulamenta disposição transitória para a exploração de serviços aéreos com balão e aprova a Emenda nº 02 ao RBAC nº 103</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -86,6 +162,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18138/SIA, 29/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18138" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18138</id>
+    <published>2025-10-29T00:00:00.000Z</published>
+    <updated>2025-10-29T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Manual de Procedimentos MPR/SIA 831-R00</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Manual de Procedimentos MPR/SIA 831-R00</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18136/SPL, 29/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18118-sia-24-10-2025-1" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18118-sia-24-10-2025-1</id>
+    <published>2025-10-29T00:00:00.000Z</published>
+    <updated>2025-10-29T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
+    <content type="html"><![CDATA[
+      <p>Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -142,6 +256,25 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 18130, 28/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18130" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18130</id>
+    <published>2025-10-28T00:00:00.000Z</published>
+    <updated>2025-10-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Fixa as metas intermediárias de desempenho institucional da ANAC para o 17º ciclo de avaliação</summary>
+    <content type="html"><![CDATA[
+      <p>Fixa as metas intermediárias de desempenho institucional da ANAC para o 17º ciclo de avaliação</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 18123/SIA, 28/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18123-sia-28-10-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18123-sia-28-10-2025</id>
@@ -191,6 +324,44 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
     <content type="html"><![CDATA[
       <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18118/SIA, 24/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18118-sia-24-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18118-sia-24-10-2025</id>
+    <published>2025-10-24T00:00:00.000Z</published>
+    <updated>2025-10-24T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Plano Diretor do Aeroporto Nelson Rodrigues Guimarães / Caldas Novas, GO (SBCN) - (CIAD: GO0003)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Plano Diretor do Aeroporto Nelson Rodrigues Guimarães / Caldas Novas, GO (SBCN) - (CIAD: GO0003)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18117/SIA, 24/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18117-sia-24-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18117-sia-24-10-2025</id>
+    <published>2025-10-24T00:00:00.000Z</published>
+    <updated>2025-10-24T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MS0564 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MS0564 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -332,63 +503,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18110/SPL,  23/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18110-spl-23-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18110-spl-23-10-2025</id>
-    <published>2025-10-23T00:00:00.000Z</published>
-    <updated>2025-10-23T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC UNIVERSIDADE DE AVIAÇÃO CIVIL INTERNACIONAL LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública a emissão do Certificado de Centro de Instrução de Aviação Civil em favor do Centro de Instrução AVSEC UNIVERSIDADE DE AVIAÇÃO CIVIL INTERNACIONAL LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18108/SPL, DE 23/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18108-spl-de-23-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18108-spl-de-23-10-2025</id>
-    <published>2025-10-23T00:00:00.000Z</published>
-    <updated>2025-10-23T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
-    <content type="html"><![CDATA[
-      <p>Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18111/SIA,  23/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18111-sia-23-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18111-sia-23-10-2025</id>
-    <published>2025-10-23T00:00:00.000Z</published>
-    <updated>2025-10-23T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera temporariamente a Categoria Contraincêndio do Aeroporto Internacional de Belém/Val de Cans - Júlio Cezar Ribeiro, código OACI: SBBE; código CIAD: PA0001, localizado em Belém (PA)</summary>
-    <content type="html"><![CDATA[
-      <p>Altera temporariamente a Categoria Contraincêndio do Aeroporto Internacional de Belém/Val de Cans - Júlio Cezar Ribeiro, código OACI: SBBE; código CIAD: PA0001, localizado em Belém (PA)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Anac sedia Workshop IOSA em parceria com a IATA no dia 4/11</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11</id>
@@ -446,17 +560,17 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18106/SIA, 22/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18106" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18106</id>
-    <published>2025-10-22T00:00:00.000Z</published>
-    <updated>2025-10-22T00:00:00.000Z</updated>
+    <title type="html">PORTARIA Nº 18101/SIA, 21/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18101-sia-21-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18101-sia-21-10-2025</id>
+    <published>2025-10-21T00:00:00.000Z</published>
+    <updated>2025-10-21T00:00:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD MA0025 no cadastro de aeródromos</summary>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD RR0172 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
-      <p>Altera a inscrição do Aeródromo de uso privativo CIAD MA0025 no cadastro de aeródromos</p>
+      <p>Inscreve o Aeródromo de uso privativo CIAD RR0172 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -476,63 +590,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Aprova o Plano Diretor do Aeródromo Público Una/Comandatuba - BA (SBTC) - (CIAD: BA0067)</summary>
     <content type="html"><![CDATA[
       <p>Aprova o Plano Diretor do Aeródromo Público Una/Comandatuba - BA (SBTC) - (CIAD: BA0067)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18099/SIA, 21/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025</id>
-    <published>2025-10-21T00:00:00.000Z</published>
-    <updated>2025-10-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD MG0659 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD MG0659 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18098/SIA, 21/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18-098-sia-21-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18-098-sia-21-10-2025</id>
-    <published>2025-10-21T00:00:00.000Z</published>
-    <updated>2025-10-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscrever o Aeródromo de uso privativo CIAD RO0118 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscrever o Aeródromo de uso privativo CIAD RO0118 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18104/SIA, 21/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18104-sia-de-21-de-outubro-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18104-sia-de-21-de-outubro-2025</id>
-    <published>2025-10-21T00:00:00.000Z</published>
-    <updated>2025-10-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Exclui o Aeródromo de uso privativo Projeto Paraíba (MT0900) no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Exclui o Aeródromo de uso privativo Projeto Paraíba (MT0900) no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -579,25 +636,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
-    <title type="html">PORTARIA Nº 18089/SAF, 20/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18089" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18089</id>
-    <published>2025-10-20T00:00:00.000Z</published>
-    <updated>2025-10-20T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Designa Responsável pelo Planejamento da Contratação</summary>
-    <content type="html"><![CDATA[
-      <p>Designa Responsável pelo Planejamento da Contratação</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Estudo da Anac vai subsidiar PL das bagagens</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-portas-abertas-no-congresso-para-subsidiar-pl-das-bagagens" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-portas-abertas-no-congresso-para-subsidiar-pl-das-bagagens</id>
@@ -640,6 +678,25 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18081/SIA, 17/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18081-sia-17-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18081-sia-17-10-2025</id>
+    <published>2025-10-17T00:00:00.000Z</published>
+    <updated>2025-10-17T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a inscrição do Aeródromo de uso privativo CIAD TO0060 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a inscrição do Aeródromo de uso privativo CIAD TO0060 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1589,25 +1646,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H</
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RBAC 25 EMD 150</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-25" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-25</id>
-    <published>2025-08-28T17:55:00.000Z</published>
-    <updated>2025-08-28T17:55:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Requisitos de Aeronavegabilidade: Aviões Categoria Transporte</summary>
-    <content type="html"><![CDATA[
-      <p>Requisitos de Aeronavegabilidade: Aviões Categoria Transporte</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
