@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-badf8b66-b132-432a-a801-41e09650f8f9",
+  "identifier": "urn:uuid:anac-feed-0523aee7-6630-4885-b017-f0f0e3905a45",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-31T08:18:59.293Z",
-  "dateModified": "2025-10-31T08:18:59.293Z",
+  "dateCreated": "2025-10-31T12:29:20.684Z",
+  "dateModified": "2025-10-31T12:29:20.684Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -67,6 +67,22 @@
       "description": "Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. \nNessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.\n  \nLink Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF",
       "image": "https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18123/SIA, 28/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18123-sia-28-10-2025",
+      "datePublished": "2025-10-28T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD GO0173 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18121/SPL, 25/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18121-spl-25-10-2025",
+      "datePublished": "2025-10-25T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -213,22 +229,6 @@
       "@type": "Legislation",
       "name": "PORTARIA Nº 18093/CRG, 21/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18093",
-      "datePublished": "2025-10-21T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18095/CRG, 21/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18095",
-      "datePublished": "2025-10-21T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18094/CRG, 21/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18094",
       "datePublished": "2025-10-21T00:00:00.000Z",
       "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
       "type": "legislação"
