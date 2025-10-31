@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0523aee7-6630-4885-b017-f0f0e3905a45</id>
-  <updated>2025-10-29T16:39:00.000Z</updated>
+  <id>urn:uuid:anac-feed-fbb90acb-f431-4e60-bfa5-8e21612a085e</id>
+  <updated>2025-10-31T16:17:50.199Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">EDITAL Nº 4/SGP/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4</id>
+    <published>2025-10-31T16:17:50.199Z</published>
+    <updated>2025-10-31T16:17:50.199Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Balonismo tem novas regras no Brasil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-no-brasil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-no-brasil</id>
+    <published>2025-10-31T11:30:00.000Z</published>
+    <updated>2025-10-31T11:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura</summary>
+    <content type="html"><![CDATA[
+      <p>Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -115,6 +153,25 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Altera a inscrição do Heliponto de uso privativo elevado CIAD GO0173 no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Altera a inscrição do Heliponto de uso privativo elevado CIAD GO0173 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18122/SPL, 25/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18122-spl-25-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18122-spl-25-10-2025</id>
+    <published>2025-10-25T00:00:00.000Z</published>
+    <updated>2025-10-25T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</summary>
+    <content type="html"><![CDATA[
+      <p>Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -408,6 +465,25 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 18103/SIA, 21/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18103-sia-21-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18103-sia-21-10-2025</id>
+    <published>2025-10-21T00:00:00.000Z</published>
+    <updated>2025-10-21T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Plano Diretor do Aeródromo Público Una/Comandatuba - BA (SBTC) - (CIAD: BA0067)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Plano Diretor do Aeródromo Público Una/Comandatuba - BA (SBTC) - (CIAD: BA0067)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 18099/SIA, 21/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025</id>
@@ -457,25 +533,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Exclui o Aeródromo de uso privativo Projeto Paraíba (MT0900) no cadastro de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Exclui o Aeródromo de uso privativo Projeto Paraíba (MT0900) no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18093/CRG, 21/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18093" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18093</id>
-    <published>2025-10-21T00:00:00.000Z</published>
-    <updated>2025-10-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prorroga Comissão de Processo Administrativo Disciplinar</summary>
-    <content type="html"><![CDATA[
-      <p>Prorroga Comissão de Processo Administrativo Disciplinar</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1208,25 +1265,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <content type="html"><![CDATA[
       <p>Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg" alt="Exercício testa cenários de segurança cibernética no transporte aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Brasil e Arábia Saudita assinam Protocolo Adicional ao Acordo de Serviços Aéreos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos</id>
-    <published>2025-09-24T17:57:00.000Z</published>
-    <updated>2025-09-24T17:57:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Acordo assinado no Canadá, durante a 42ª Assembleia da Oaci, permitirá aumento da frequência de voos</summary>
-    <content type="html"><![CDATA[
-      <p>Acordo assinado no Canadá, durante a 42ª Assembleia da Oaci, permitirá aumento da frequência de voos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos/img_3620.png/@@images/d02e8c2b-a0ad-4deb-9f0a-2ab1ea628df5.jpeg" alt="Brasil e Arábia Saudita assinam Protocolo Adicional ao Acordo de Serviços Aéreos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

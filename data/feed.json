@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0523aee7-6630-4885-b017-f0f0e3905a45",
+  "identifier": "urn:uuid:anac-feed-fbb90acb-f431-4e60-bfa5-8e21612a085e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-31T12:29:20.684Z",
-  "dateModified": "2025-10-31T12:29:20.684Z",
+  "dateCreated": "2025-10-31T16:17:50.202Z",
+  "dateModified": "2025-10-31T16:17:50.202Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-10-29T16:39:00.000Z"
+    "endDate": "2025-10-31T16:17:50.199Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "EDITAL Nº 4/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
+      "datePublished": "2025-10-31T16:17:50.199Z",
+      "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
+      "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Balonismo tem novas regras no Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-no-brasil",
+      "datePublished": "2025-10-31T11:30:00.000Z",
+      "description": "Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "3ª Oficina de Melhoria Contínua AVSEC reúne 300 profissionais de aviação civil",
@@ -74,6 +90,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18123-sia-28-10-2025",
       "datePublished": "2025-10-28T00:00:00.000Z",
       "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD GO0173 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18122/SPL, 25/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18122-spl-25-10-2025",
+      "datePublished": "2025-10-25T00:00:00.000Z",
+      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
       "type": "legislação"
     },
     {
@@ -203,6 +227,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18103/SIA, 21/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18103-sia-21-10-2025",
+      "datePublished": "2025-10-21T00:00:00.000Z",
+      "description": "Aprova o Plano Diretor do Aeródromo Público Una/Comandatuba - BA (SBTC) - (CIAD: BA0067)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18099/SIA, 21/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18099-sia-21-10-2025",
       "datePublished": "2025-10-21T00:00:00.000Z",
@@ -223,14 +255,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18104-sia-de-21-de-outubro-2025",
       "datePublished": "2025-10-21T00:00:00.000Z",
       "description": "Exclui o Aeródromo de uso privativo Projeto Paraíba (MT0900) no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18093/CRG, 21/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18093",
-      "datePublished": "2025-10-21T00:00:00.000Z",
-      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
       "type": "legislação"
     },
     {
@@ -516,15 +540,6 @@
       "datePublished": "2025-09-24T18:16:00.000Z",
       "description": "Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Brasil e Arábia Saudita assinam Protocolo Adicional ao Acordo de Serviços Aéreos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos",
-      "datePublished": "2025-09-24T17:57:00.000Z",
-      "description": "Acordo assinado no Canadá, durante a 42ª Assembleia da Oaci, permitirá aumento da frequência de voos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-arabia-saudita-assinam-protocolo-adicional-ao-acordo-de-servicos-aereos/img_3620.png/@@images/d02e8c2b-a0ad-4deb-9f0a-2ab1ea628df5.jpeg",
       "type": "notícia"
     },
     {
