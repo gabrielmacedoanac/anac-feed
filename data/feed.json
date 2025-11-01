@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-18d601eb-bee9-4fbd-9ee3-4ccdadce92f9",
+  "identifier": "urn:uuid:anac-feed-2348edd7-df65-4736-afaf-c1cf32352f1b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-01T12:25:18.521Z",
-  "dateModified": "2025-11-01T12:25:18.521Z",
+  "dateCreated": "2025-11-01T16:14:38.944Z",
+  "dateModified": "2025-11-01T16:14:38.944Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-01T12:25:18.518Z"
+    "endDate": "2025-11-01T16:14:38.941Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "RBAC 103 EMD 02",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
-      "datePublished": "2025-11-01T12:25:18.518Z",
+      "datePublished": "2025-11-01T16:14:38.941Z",
       "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 4/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
-      "datePublished": "2025-11-01T12:25:18.518Z",
+      "datePublished": "2025-11-01T16:14:38.941Z",
       "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
       "type": "legislação"
     },
@@ -64,6 +64,14 @@
       "datePublished": "2025-10-31T11:30:00.000Z",
       "description": "Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18149, 30/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18149-30-10-2025",
+      "datePublished": "2025-10-30T00:00:00.000Z",
+      "description": "Altera o quantitativo de cargos comissionados da Agência Nacional de Aviação Civil - ANAC.",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -158,6 +166,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18128, 28/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18128-28-10-2025",
+      "datePublished": "2025-10-28T00:00:00.000Z",
+      "description": "Fixa as metas globais de desempenho institucional da ANAC para o 17º ciclo de avaliação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18130, 28/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18130",
       "datePublished": "2025-10-28T00:00:00.000Z",
@@ -205,14 +221,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18116/SIA, 24/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18116",
-      "datePublished": "2025-10-24T00:00:00.000Z",
-      "description": "Altera a inscrição do Aeródromo de uso privativo CIAD MT0081 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
       "@type": "NewsArticle",
       "name": "SMS Brasil: há 10 anos contribuindo com a segurança operacional da aviação civil",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil",
@@ -238,14 +246,6 @@
       "description": "Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.",
       "image": "https://i1.ytimg.com/vi/PGYrnRdnq30/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18115/SIA, 23/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18115",
-      "datePublished": "2025-10-23T00:00:00.000Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0258 no cadastro de aeródromos",
-      "type": "legislação"
     },
     {
       "@type": "NewsArticle",
