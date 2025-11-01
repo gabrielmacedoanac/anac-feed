@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0b50713b-2293-4eab-9743-2fecaf770b92",
+  "identifier": "urn:uuid:anac-feed-01e89c72-c2bb-4fad-94ad-94c5e9dd5be4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-10-31T20:17:02.756Z",
-  "dateModified": "2025-10-31T20:17:02.756Z",
+  "dateCreated": "2025-11-01T01:11:02.760Z",
+  "dateModified": "2025-11-01T01:11:02.760Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-10-31T20:17:02.753Z"
+    "endDate": "2025-11-01T01:11:02.758Z"
   },
   "distribution": [
     {
@@ -35,10 +35,26 @@
   "items": [
     {
       "@type": "Legislation",
+      "name": "RBAC 103 EMD 02",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
+      "datePublished": "2025-11-01T01:11:02.758Z",
+      "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "EDITAL Nº 4/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
-      "datePublished": "2025-10-31T20:17:02.753Z",
+      "datePublished": "2025-11-01T01:11:02.758Z",
       "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 103 EMD 02",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
+      "datePublished": "2025-10-31T18:17:00.000Z",
+      "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
       "type": "legislação"
     },
     {
@@ -48,6 +64,14 @@
       "datePublished": "2025-10-31T11:30:00.000Z",
       "description": "Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 783, 30/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-783",
+      "datePublished": "2025-10-30T00:00:00.000Z",
+      "description": "Altera dispositivos do Regimento Interno da ANAC",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -221,22 +245,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18115",
       "datePublished": "2025-10-23T00:00:00.000Z",
       "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0258 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18112/SIA, 23/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18112",
-      "datePublished": "2025-10-23T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD RO0119 no cadastro de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18114/SIA, 23/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18114",
-      "datePublished": "2025-10-23T00:00:00.000Z",
-      "description": "Inscreve o Aeródromo de uso privativo CIAD MT1159 no cadastro de aeródromos",
       "type": "legislação"
     },
     {
@@ -580,14 +588,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
       "datePublished": "2025-09-23T15:38:00.000Z",
       "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-002B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-002b",
-      "datePublished": "2025-09-23T15:36:00.000Z",
-      "description": "Examinadores credenciados no âmbito dos operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
     },
     {
