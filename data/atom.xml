@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-505eafd3-7e05-45a3-b26a-c8a2eb68eced</id>
-  <updated>2025-11-03T01:10:53.710Z</updated>
+  <id>urn:uuid:anac-feed-f8e24421-d298-4573-9e2e-0bc5d504c41c</id>
+  <updated>2025-11-03T04:23:33.809Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,17 +14,17 @@
   
   
   <entry>
-    <title type="html">RBAC 103 EMD 02</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02</id>
-    <published>2025-11-03T01:10:53.710Z</published>
-    <updated>2025-11-03T01:10:53.710Z</updated>
+    <title type="html">EDITAL Nº 4/SGP/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4</id>
+    <published>2025-11-03T04:23:33.809Z</published>
+    <updated>2025-11-03T04:23:33.809Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade</summary>
+    <summary type="html">Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)</summary>
     <content type="html"><![CDATA[
-      <p>Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade</p>
+      <p>Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -33,17 +33,17 @@
   
   
   <entry>
-    <title type="html">EDITAL Nº 4/SGP/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4</id>
-    <published>2025-11-03T01:10:53.710Z</published>
-    <updated>2025-11-03T01:10:53.710Z</updated>
+    <title type="html">RBAC 103 EMD 02</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02</id>
+    <published>2025-11-03T04:23:33.808Z</published>
+    <updated>2025-11-03T04:23:33.808Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)</summary>
+    <summary type="html">Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade</summary>
     <content type="html"><![CDATA[
-      <p>Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)</p>
+      <p>Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
