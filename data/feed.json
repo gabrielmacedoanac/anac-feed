@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f8e24421-d298-4573-9e2e-0bc5d504c41c",
+  "identifier": "urn:uuid:anac-feed-25ea8a00-23c3-40c4-9222-985812a871f4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-03T04:23:33.811Z",
-  "dateModified": "2025-11-03T04:23:33.811Z",
+  "dateCreated": "2025-11-03T08:20:47.344Z",
+  "dateModified": "2025-11-03T08:20:47.344Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-03T04:23:33.809Z"
+    "endDate": "2025-11-03T08:20:47.341Z"
   },
   "distribution": [
     {
@@ -35,18 +35,18 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "EDITAL Nº 4/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
-      "datePublished": "2025-11-03T04:23:33.809Z",
-      "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
+      "name": "RBAC 103 EMD 02",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
+      "datePublished": "2025-11-03T08:20:47.341Z",
+      "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "RBAC 103 EMD 02",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
-      "datePublished": "2025-11-03T04:23:33.808Z",
-      "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
+      "name": "EDITAL Nº 4/SGP/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
+      "datePublished": "2025-11-03T08:20:47.341Z",
+      "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
       "type": "legislação"
     },
     {
