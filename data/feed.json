@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3a5edbba-38c2-4a48-9849-33e3a61b4e07",
+  "identifier": "urn:uuid:anac-feed-a3469fb1-1439-40ad-b85b-ca158407c640",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-04T16:18:19.247Z",
-  "dateModified": "2025-11-04T16:18:19.247Z",
+  "dateCreated": "2025-11-04T20:16:50.008Z",
+  "dateModified": "2025-11-04T20:16:50.008Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-04T16:18:19.241Z"
+    "endDate": "2025-11-04T20:16:50.006Z"
   },
   "distribution": [
     {
@@ -37,16 +37,8 @@
       "@type": "Legislation",
       "name": "RBAC 103 EMD 02",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
-      "datePublished": "2025-11-04T16:18:19.241Z",
+      "datePublished": "2025-11-04T20:16:50.006Z",
       "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "EDITAL Nº 4/SGP/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
-      "datePublished": "2025-11-04T16:18:19.241Z",
-      "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
       "type": "legislação"
     },
     {
@@ -82,6 +74,46 @@
       "datePublished": "2025-10-31T11:30:00.000Z",
       "description": "Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18165/CRG, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18165",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18154/SAF, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18154",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Designa Equipe de Gestão e Fiscalização do Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18163/SAF, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18163",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18167/CRG, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18167",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Reconduz Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18166/CRG, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18166",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Prorroga Comissão de Processo Administrativo Disciplinar",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -133,14 +165,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "INSTRUÇÃO NORMATIVA Nº 217, 30/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/instrucoes-normativas/2025/instrucao-normativa-217-1",
-      "datePublished": "2025-10-30T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 169, de 8 de junho de 2021",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 782, 30/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782",
       "datePublished": "2025-10-30T00:00:00.000Z",
@@ -166,18 +190,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18138/SIA, 29/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18138",
+      "name": "PORTARIA Nº 18134/SAF, 29/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18134",
       "datePublished": "2025-10-29T00:00:00.000Z",
-      "description": "Aprova o Manual de Procedimentos MPR/SIA 831-R00",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18136/SPL, 29/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18118-sia-24-10-2025-1",
-      "datePublished": "2025-10-29T00:00:00.000Z",
-      "description": "Credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
+      "description": "Designa servidores para realizarem inventário de bens permanentes e de materiais de consumo",
       "type": "legislação"
     },
     {
@@ -240,26 +256,10 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18122/SPL, 25/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18122-spl-25-10-2025",
-      "datePublished": "2025-10-25T00:00:00.000Z",
-      "description": "Revalida credenciamento de médico em conformidade com o Regulamento Brasileiro de Aviação Civil - RBAC nº 67",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "PORTARIA Nº 18120/SPL, 24/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18120-spl-24-10-2025",
       "datePublished": "2025-10-24T00:00:00.000Z",
       "description": "Revoga as Portarias nº 1.044, de 28 de março de 2018 e nº 30, de 4 de janeiro de 2019",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18118/SIA, 24/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18118-sia-24-10-2025",
-      "datePublished": "2025-10-24T00:00:00.000Z",
-      "description": "Aprova o Plano Diretor do Aeroporto Nelson Rodrigues Guimarães / Caldas Novas, GO (SBCN) - (CIAD: GO0003)",
       "type": "legislação"
     },
     {
