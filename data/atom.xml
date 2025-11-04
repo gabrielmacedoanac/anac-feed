@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-895a5d12-0321-450e-98d7-96286ffc337c</id>
-  <updated>2025-11-04T12:31:55.706Z</updated>
+  <id>urn:uuid:anac-feed-3a5edbba-38c2-4a48-9849-33e3a61b4e07</id>
+  <updated>2025-11-04T16:18:19.241Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">RBAC 103 EMD 02</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02</id>
-    <published>2025-11-04T12:31:55.706Z</published>
-    <updated>2025-11-04T12:31:55.706Z</updated>
+    <published>2025-11-04T16:18:19.241Z</published>
+    <updated>2025-11-04T16:18:19.241Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -36,8 +36,8 @@
     <title type="html">EDITAL Nº 4/SGP/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4</id>
-    <published>2025-11-04T12:31:55.706Z</published>
-    <updated>2025-11-04T12:31:55.706Z</updated>
+    <published>2025-11-04T16:18:19.241Z</published>
+    <updated>2025-11-04T16:18:19.241Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -48,6 +48,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac sedia reunião de grupo de trabalho da Oaci sobre combustíveis sustentáveis</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-reuniao-de-grupo-de-trabalho-da-oaci-sobre-combustiveis-sustentaveis" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-reuniao-de-grupo-de-trabalho-da-oaci-sobre-combustiveis-sustentaveis</id>
+    <published>2025-11-04T11:15:00.000Z</published>
+    <updated>2025-11-04T11:15:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reunião foi realizada entre 27 e 31 de outubro para a discussão sobre rotas para estimular a adoção de combustíveis sustentáveis na aviação mundial</summary>
+    <content type="html"><![CDATA[
+      <p>Reunião foi realizada entre 27 e 31 de outubro para a discussão sobre rotas para estimular a adoção de combustíveis sustentáveis na aviação mundial</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-reuniao-de-grupo-de-trabalho-da-oaci-sobre-combustiveis-sustentaveis/whatsapp-image-2025-10-31-at-11-38-34.jpeg/@@images/e1e84938-bed7-4c10-903a-ef807fdb6649.jpeg" alt="Anac sedia reunião de grupo de trabalho da Oaci sobre combustíveis sustentáveis">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac abre tomada de subsídios sobre aprovação de dados técnicos de reparos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos</id>
+    <published>2025-11-04T10:01:00.000Z</published>
+    <updated>2025-11-04T10:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações</summary>
+    <content type="html"><![CDATA[
+      <p>Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png" alt="Anac abre tomada de subsídios sobre aprovação de dados técnicos de reparos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -1303,44 +1341,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <content type="html"><![CDATA[
       <p>Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg" alt="Brasil atualiza plano para reduzir emissões de CO2 na aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Assinado acordo que moderniza o contrato de concessão do Galeão</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao</id>
-    <published>2025-09-25T17:56:00.000Z</published>
-    <updated>2025-09-25T17:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Termo prevê a venda assistida da concessionária, nova cobrança de contribuição variável e compensação financeira relacionada à operação do Santos Dumont</summary>
-    <content type="html"><![CDATA[
-      <p>Termo prevê a venda assistida da concessionária, nova cobrança de contribuição variável e compensação financeira relacionada à operação do Santos Dumont</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao/54811733604_d985b8c716_c.jpg/@@images/6df2a82c-36c7-4d21-8eca-f847cdb5a3c9.jpeg" alt="Assinado acordo que moderniza o contrato de concessão do Galeão">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Exercício testa cenários de segurança cibernética no transporte aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo</id>
-    <published>2025-09-24T18:16:00.000Z</published>
-    <updated>2025-09-24T18:16:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg" alt="Exercício testa cenários de segurança cibernética no transporte aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

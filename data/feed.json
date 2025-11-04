@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-895a5d12-0321-450e-98d7-96286ffc337c",
+  "identifier": "urn:uuid:anac-feed-3a5edbba-38c2-4a48-9849-33e3a61b4e07",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-04T12:31:55.709Z",
-  "dateModified": "2025-11-04T12:31:55.709Z",
+  "dateCreated": "2025-11-04T16:18:19.247Z",
+  "dateModified": "2025-11-04T16:18:19.247Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-04T12:31:55.706Z"
+    "endDate": "2025-11-04T16:18:19.241Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "RBAC 103 EMD 02",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
-      "datePublished": "2025-11-04T12:31:55.706Z",
+      "datePublished": "2025-11-04T16:18:19.241Z",
       "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
       "type": "legislação"
     },
@@ -45,9 +45,27 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 4/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
-      "datePublished": "2025-11-04T12:31:55.706Z",
+      "datePublished": "2025-11-04T16:18:19.241Z",
       "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
       "type": "legislação"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac sedia reunião de grupo de trabalho da Oaci sobre combustíveis sustentáveis",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-reuniao-de-grupo-de-trabalho-da-oaci-sobre-combustiveis-sustentaveis",
+      "datePublished": "2025-11-04T11:15:00.000Z",
+      "description": "Reunião foi realizada entre 27 e 31 de outubro para a discussão sobre rotas para estimular a adoção de combustíveis sustentáveis na aviação mundial",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-reuniao-de-grupo-de-trabalho-da-oaci-sobre-combustiveis-sustentaveis/whatsapp-image-2025-10-31-at-11-38-34.jpeg/@@images/e1e84938-bed7-4c10-903a-ef807fdb6649.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre tomada de subsídios sobre aprovação de dados técnicos de reparos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos",
+      "datePublished": "2025-11-04T10:01:00.000Z",
+      "description": "Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png",
+      "type": "notícia"
     },
     {
       "@type": "Legislation",
@@ -554,24 +572,6 @@
       "datePublished": "2025-09-26T11:42:00.000Z",
       "description": "Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Assinado acordo que moderniza o contrato de concessão do Galeão",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao",
-      "datePublished": "2025-09-25T17:56:00.000Z",
-      "description": "Termo prevê a venda assistida da concessionária, nova cobrança de contribuição variável e compensação financeira relacionada à operação do Santos Dumont",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/assinado-acordo-que-moderniza-o-contrato-de-concessao-do-galeao/54811733604_d985b8c716_c.jpg/@@images/6df2a82c-36c7-4d21-8eca-f847cdb5a3c9.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Exercício testa cenários de segurança cibernética no transporte aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo",
-      "datePublished": "2025-09-24T18:16:00.000Z",
-      "description": "Guardião Cibernético avaliou o preparo do Brasil na segurança e na proteção de infraestruturas. A Anac coordenou atividades ligadas ao transporte aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/exercicio-testa-cenarios-de-seguranca-cibernetica-no-transporte-aereo/imagem-do-whatsapp-de-2025-09-19-a-s-11-15-25_e4ed6627.jpg/@@images/38c6cd94-c534-42b3-9fbd-ef856057092b.jpeg",
       "type": "notícia"
     },
     {
