@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3c6da15b-a201-46dc-a61f-464777c95db5",
+  "identifier": "urn:uuid:anac-feed-cc408855-9b46-4467-836e-bf73749eaf95",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-04T01:07:43.532Z",
-  "dateModified": "2025-11-04T01:07:43.532Z",
+  "dateCreated": "2025-11-04T04:17:05.036Z",
+  "dateModified": "2025-11-04T04:17:05.036Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-04T01:07:43.530Z"
+    "endDate": "2025-11-04T04:17:05.033Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "RBAC 103 EMD 02",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
-      "datePublished": "2025-11-04T01:07:43.530Z",
+      "datePublished": "2025-11-04T04:17:05.033Z",
       "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
       "type": "legislação"
     },
@@ -45,7 +45,7 @@
       "@type": "Legislation",
       "name": "EDITAL Nº 4/SGP/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/editais/2025/edital-4",
-      "datePublished": "2025-11-04T01:07:43.530Z",
+      "datePublished": "2025-11-04T04:17:05.033Z",
       "description": "Torna pública a presente seleção interna de servidores para participação em cursos de capacitação oferecidos pelo Programa TRAINAIR PLUS da Organização da Aviação Civil Internacional (OACI)",
       "type": "legislação"
     },
