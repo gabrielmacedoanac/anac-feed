@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b41bafc8-31ba-4244-9a0c-74f3b15d0966",
+  "identifier": "urn:uuid:anac-feed-00ba686d-5258-4565-b8df-31e3d0786fad",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-05T12:30:05.248Z",
-  "dateModified": "2025-11-05T12:30:05.248Z",
+  "dateCreated": "2025-11-05T16:18:49.888Z",
+  "dateModified": "2025-11-05T16:18:49.888Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-05T12:30:05.246Z"
+    "endDate": "2025-11-04T11:15:00.000Z"
   },
   "distribution": [
     {
@@ -33,22 +33,6 @@
     }
   ],
   "items": [
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18173/SIA, 3/11/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18173-spl-3-11-2025",
-      "datePublished": "2025-11-05T12:30:05.246Z",
-      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORTH OCEAN 102 (9PIY)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18168/SIA, 3/11/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18168-sia-3-11-2025",
-      "datePublished": "2025-11-05T12:30:05.246Z",
-      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0257 no cadastro de aeródromos",
-      "type": "legislação"
-    },
     {
       "@type": "NewsArticle",
       "name": "Anac sedia reunião de grupo de trabalho da Oaci sobre combustíveis sustentáveis",
@@ -66,6 +50,30 @@
       "description": "Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18172/SPL, 03/11/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18172-de-03-de-novembro-de-2025",
+      "datePublished": "2025-11-03T00:00:00.000Z",
+      "description": "Revoga o Certificado de CIAC emitido em favor da AT-FZ ESCOLA DE AVIAÇÃO CIVIL LTDA.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18173/SIA, 03/11/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18173-spl-3-11-2025",
+      "datePublished": "2025-11-03T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORTH OCEAN 102 (9PIY)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18168/SIA, 03/11/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18168-sia-3-11-2025",
+      "datePublished": "2025-11-03T00:00:00.000Z",
+      "description": "Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0257 no cadastro de aeródromos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -252,14 +260,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18127-spl-28-10-2025",
       "datePublished": "2025-10-28T00:00:00.000Z",
       "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18128, 28/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18128-28-10-2025",
-      "datePublished": "2025-10-28T00:00:00.000Z",
-      "description": "Fixa as metas globais de desempenho institucional da ANAC para o 17º ciclo de avaliação",
       "type": "legislação"
     },
     {
