@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5a208edc-06fb-4221-9e21-c5992a649372</id>
-  <updated>2025-11-05T08:20:44.096Z</updated>
+  <id>urn:uuid:anac-feed-b41bafc8-31ba-4244-9a0c-74f3b15d0966</id>
+  <updated>2025-11-05T12:30:05.246Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,17 +14,36 @@
   
   
   <entry>
-    <title type="html">RBAC 103 EMD 02</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02</id>
-    <published>2025-11-05T08:20:44.096Z</published>
-    <updated>2025-11-05T08:20:44.096Z</updated>
+    <title type="html">PORTARIA Nº 18173/SIA, 3/11/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18173-spl-3-11-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18173-spl-3-11-2025</id>
+    <published>2025-11-05T12:30:05.246Z</published>
+    <updated>2025-11-05T12:30:05.246Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade</summary>
+    <summary type="html">Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORTH OCEAN 102 (9PIY)</summary>
     <content type="html"><![CDATA[
-      <p>Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade</p>
+      <p>Inscreve no cadastro o heliponto de uso privativo a bordo da unidade NORTH OCEAN 102 (9PIY)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18168/SIA, 3/11/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18168-sia-3-11-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18168-sia-3-11-2025</id>
+    <published>2025-11-05T12:30:05.246Z</published>
+    <updated>2025-11-05T12:30:05.246Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0257 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Heliponto de uso privativo ao nível do solo CIAD PR0257 no cadastro de aeródromos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -204,6 +223,63 @@
   
   
   <entry>
+    <title type="html">PORTARIA Nº 18142/SPO, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18142-spo-30-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18142-spo-30-10-2025</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18143/SPO, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18143-spo-30-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18143-spo-30-10-2025</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna público o cumprimento dos requisitos para a exploração de serviços aéreos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18148/SIA, 30/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18148-sia-30-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18148-sia-30-10-2025</id>
+    <published>2025-10-30T00:00:00.000Z</published>
+    <updated>2025-10-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a aplicação de medida cautelar de restrição às operações de pouso no aeródromo de uso privativo Surucucu, localizado em Alto Alegre/RR</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a aplicação de medida cautelar de restrição às operações de pouso no aeródromo de uso privativo Surucucu, localizado em Alto Alegre/RR</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 18146/SPL, 30/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18146-spl-30-10-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18146-spl-30-10-2025</id>
@@ -253,63 +329,6 @@
     <summary type="html">Altera o quantitativo de cargos comissionados da Agência Nacional de Aviação Civil - ANAC.</summary>
     <content type="html"><![CDATA[
       <p>Altera o quantitativo de cargos comissionados da Agência Nacional de Aviação Civil - ANAC.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 783, 30/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-783" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-783</id>
-    <published>2025-10-30T00:00:00.000Z</published>
-    <updated>2025-10-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera dispositivos do Regimento Interno da ANAC</summary>
-    <content type="html"><![CDATA[
-      <p>Altera dispositivos do Regimento Interno da ANAC</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 782, 30/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782</id>
-    <published>2025-10-30T00:00:00.000Z</published>
-    <updated>2025-10-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Regulamenta disposição transitória para a exploração de serviços aéreos com balão e aprova a Emenda nº 02 ao RBAC nº 103</summary>
-    <content type="html"><![CDATA[
-      <p>Regulamenta disposição transitória para a exploração de serviços aéreos com balão e aprova a Emenda nº 02 ao RBAC nº 103</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18150, 30/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18150" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18150</id>
-    <published>2025-10-30T00:00:00.000Z</published>
-    <updated>2025-10-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a distribuição de cargos comissionados da Agência Nacional de Aviação Civil - ANAC</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a distribuição de cargos comissionados da Agência Nacional de Aviação Civil - ANAC</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -446,6 +465,25 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
   
   
   <entry>
+    <title type="html">PORTARIA Nº 18124/SIA, 28/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18124-sia-28-10-2025" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18124-sia-28-10-2025</id>
+    <published>2025-10-28T00:00:00.000Z</published>
+    <updated>2025-10-28T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD GO0411 no cadastro de aeródromos</summary>
+    <content type="html"><![CDATA[
+      <p>Inscreve o Aeródromo de uso privativo CIAD GO0411 no cadastro de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">PORTARIA Nº 18129/SIA, 28/10/2025</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18129-sia-28-10-2025" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18129-sia-28-10-2025</id>
@@ -514,25 +552,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Fixa as metas globais de desempenho institucional da ANAC para o 17º ciclo de avaliação</summary>
     <content type="html"><![CDATA[
       <p>Fixa as metas globais de desempenho institucional da ANAC para o 17º ciclo de avaliação</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18130, 28/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18130" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18130</id>
-    <published>2025-10-28T00:00:00.000Z</published>
-    <updated>2025-10-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Fixa as metas intermediárias de desempenho institucional da ANAC para o 17º ciclo de avaliação</summary>
-    <content type="html"><![CDATA[
-      <p>Fixa as metas intermediárias de desempenho institucional da ANAC para o 17º ciclo de avaliação</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -651,25 +670,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18101/SIA, 21/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18101-sia-21-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18101-sia-21-10-2025</id>
-    <published>2025-10-21T00:00:00.000Z</published>
-    <updated>2025-10-21T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Inscreve o Aeródromo de uso privativo CIAD RR0172 no cadastro de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Inscreve o Aeródromo de uso privativo CIAD RR0172 no cadastro de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
