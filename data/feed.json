@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-00ba686d-5258-4565-b8df-31e3d0786fad",
+  "identifier": "urn:uuid:anac-feed-a63a93a4-6d1d-45bf-bf39-e462f78bb9a7",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-05T16:18:49.888Z",
-  "dateModified": "2025-11-05T16:18:49.888Z",
+  "dateCreated": "2025-11-05T20:16:52.480Z",
+  "dateModified": "2025-11-05T20:16:52.480Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-27T19:49:54.000Z",
-    "endDate": "2025-11-04T11:15:00.000Z"
+    "endDate": "2025-11-05T16:44:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Guia orienta condução de entrevistas para diretores e gerentes de manutenção",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao",
+      "datePublished": "2025-11-05T16:44:00.000Z",
+      "description": "Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac sedia reunião de grupo de trabalho da Oaci sobre combustíveis sustentáveis",
@@ -50,6 +58,14 @@
       "description": "Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18174/SAF, 03/11/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18174",
+      "datePublished": "2025-11-03T00:00:00.000Z",
+      "description": "Designa Equipe de Planejamento da Contratação",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -90,6 +106,22 @@
       "datePublished": "2025-10-31T11:30:00.000Z",
       "description": "Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18158/SAF, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18158",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Designa Gestor de Contrato",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18157/SAF, 31/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18157",
+      "datePublished": "2025-10-31T00:00:00.000Z",
+      "description": "Torna pública a concessão de suprimento fundos",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -165,22 +197,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "PORTARIA Nº 18139/SPL, 30/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18139-spl-30-10-2025",
-      "datePublished": "2025-10-30T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18149, 30/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18149-30-10-2025",
-      "datePublished": "2025-10-30T00:00:00.000Z",
-      "description": "Altera o quantitativo de cargos comissionados da Agência Nacional de Aviação Civil - ANAC.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 782, 30/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2025/resolucao-782",
       "datePublished": "2025-10-30T00:00:00.000Z",
@@ -252,14 +268,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18127-spl-28-10-2025-1",
       "datePublished": "2025-10-28T00:00:00.000Z",
       "description": "Publica ação administrativa de cassação e de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18127/SPL, 28/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18127-spl-28-10-2025",
-      "datePublished": "2025-10-28T00:00:00.000Z",
-      "description": "Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
@@ -563,15 +571,6 @@
       "datePublished": "2025-09-27T11:14:00.000Z",
       "description": "Durante o próximo triênio, Brasil terá assento em foro que decide o conjunto básico de regras da aviação mundial",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028/imagem-do-whatsapp-de-2025-09-26-a-s-16-04-50_a0b747aa.jpg/@@images/880ae139-4efa-4eaf-a121-c1e23a825455.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Brasil atualiza plano para reduzir emissões de CO2 na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao",
-      "datePublished": "2025-09-26T11:42:00.000Z",
-      "description": "Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg",
       "type": "notícia"
     },
     {

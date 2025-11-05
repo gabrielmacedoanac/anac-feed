@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-00ba686d-5258-4565-b8df-31e3d0786fad</id>
-  <updated>2025-11-04T11:15:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a63a93a4-6d1d-45bf-bf39-e462f78bb9a7</id>
+  <updated>2025-11-05T16:44:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Guia orienta condução de entrevistas para diretores e gerentes de manutenção</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao</id>
+    <published>2025-11-05T16:44:00.000Z</published>
+    <updated>2025-11-05T16:44:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos</summary>
+    <content type="html"><![CDATA[
+      <p>Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -48,6 +67,25 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18174/SAF, 03/11/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18174" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18174</id>
+    <published>2025-11-03T00:00:00.000Z</published>
+    <updated>2025-11-03T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Equipe de Planejamento da Contratação</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Equipe de Planejamento da Contratação</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -143,6 +181,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18158/SAF, 31/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18158" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18158</id>
+    <published>2025-10-31T00:00:00.000Z</published>
+    <updated>2025-10-31T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Designa Gestor de Contrato</summary>
+    <content type="html"><![CDATA[
+      <p>Designa Gestor de Contrato</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PORTARIA Nº 18157/SAF, 31/10/2025</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18157" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-18157</id>
+    <published>2025-10-31T00:00:00.000Z</published>
+    <updated>2025-10-31T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública a concessão de suprimento fundos</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública a concessão de suprimento fundos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -310,44 +386,6 @@
     <summary type="html">Suspende cautelarmente o Certificado de CIAC emitido em favor da SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Suspende cautelarmente o Certificado de CIAC emitido em favor da SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18139/SPL, 30/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18139-spl-30-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18139-spl-30-10-2025</id>
-    <published>2025-10-30T00:00:00.000Z</published>
-    <updated>2025-10-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publica ação administrativa de suspensão punitiva de habilitações técnicas de aeronauta</summary>
-    <content type="html"><![CDATA[
-      <p>Publica ação administrativa de suspensão punitiva de habilitações técnicas de aeronauta</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18149, 30/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18149-30-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18149-30-10-2025</id>
-    <published>2025-10-30T00:00:00.000Z</published>
-    <updated>2025-10-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera o quantitativo de cargos comissionados da Agência Nacional de Aviação Civil - ANAC.</summary>
-    <content type="html"><![CDATA[
-      <p>Altera o quantitativo de cargos comissionados da Agência Nacional de Aviação Civil - ANAC.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -533,25 +571,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Publica ação administrativa de cassação e de suspensão punitiva de licenças e habilitações técnicas de aeronauta</summary>
     <content type="html"><![CDATA[
       <p>Publica ação administrativa de cassação e de suspensão punitiva de licenças e habilitações técnicas de aeronauta</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">PORTARIA Nº 18127/SPL, 28/10/2025</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18127-spl-28-10-2025" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18127-spl-28-10-2025</id>
-    <published>2025-10-28T00:00:00.000Z</published>
-    <updated>2025-10-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta</summary>
-    <content type="html"><![CDATA[
-      <p>Publica ação administrativa de suspensão punitiva de licenças e habilitações técnicas de aeronauta</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -1322,25 +1341,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <content type="html"><![CDATA[
       <p>Durante o próximo triênio, Brasil terá assento em foro que decide o conjunto básico de regras da aviação mundial</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-reeleito-membro-do-conselho-da-oaci-para-o-trienio-2025-2028/imagem-do-whatsapp-de-2025-09-26-a-s-16-04-50_a0b747aa.jpg/@@images/880ae139-4efa-4eaf-a121-c1e23a825455.jpeg" alt="Brasil é o país mais votado em eleição para o Conselho da Oaci">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Brasil atualiza plano para reduzir emissões de CO2 na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao</id>
-    <published>2025-09-26T11:42:00.000Z</published>
-    <updated>2025-09-26T11:42:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá</summary>
-    <content type="html"><![CDATA[
-      <p>Documento foi apresentado a delegados estrangeiros durante a 42ª Assembleia da Oaci, em Montréal, Canadá</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-apresenta-5a-edicao-do-plano-de-acao-para-a-reducao-das-emissoes-de-co2-na-aviacao/banner_portal_oaci_42_24-09-2025.jpg/@@images/fad46c15-b3ad-40a2-bf48-3b61dd97b760.jpeg" alt="Brasil atualiza plano para reduzir emissões de CO2 na aviação civil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
