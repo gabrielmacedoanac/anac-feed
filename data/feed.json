@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6f78a7fc-997d-42b2-9fa5-502eac442a70",
+  "identifier": "urn:uuid:anac-feed-22591bdb-ef21-43f3-9912-61663646faaf",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-06T12:29:24.590Z",
-  "dateModified": "2025-11-06T12:29:24.590Z",
+  "dateCreated": "2025-11-06T16:19:00.038Z",
+  "dateModified": "2025-11-06T16:19:00.038Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -58,6 +58,14 @@
       "description": "Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png",
       "type": "notícia"
+    },
+    {
+      "@type": "Legislation",
+      "name": "PORTARIA Nº 18171/SIA, DE 03/11/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18171-sia-de-03-11-2025",
+      "datePublished": "2025-11-03T00:00:00.000Z",
+      "description": "Inscreve no cadastro o heliponto de uso privativo a bordo da unidade PETROBRAS 31 - P-31 (9PFQ)",
+      "type": "legislação"
     },
     {
       "@type": "Legislation",
@@ -165,6 +173,14 @@
     },
     {
       "@type": "Legislation",
+      "name": "PORTARIA Nº 18151/SIA, 30/10/2025",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18151-sia-30-10-2025",
+      "datePublished": "2025-10-30T00:00:00.000Z",
+      "description": "Altera a inscrição do Heliponto de uso privativo elevado CIAD ES0021 no cadastro de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
       "name": "PORTARIA Nº 18142/SPO, 30/10/2025",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18142-spo-30-10-2025",
       "datePublished": "2025-10-30T00:00:00.000Z",
@@ -185,14 +201,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18148-sia-30-10-2025",
       "datePublished": "2025-10-30T00:00:00.000Z",
       "description": "Torna pública a aplicação de medida cautelar de restrição às operações de pouso no aeródromo de uso privativo Surucucu, localizado em Alto Alegre/RR",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18146/SPL, 30/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18146-spl-30-10-2025",
-      "datePublished": "2025-10-30T00:00:00.000Z",
-      "description": "Suspende cautelarmente o Certificado de CIAC emitido em favor da SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA.",
       "type": "legislação"
     },
     {
@@ -260,14 +268,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18129-sia-28-10-2025",
       "datePublished": "2025-10-28T00:00:00.000Z",
       "description": "Aprova o Programa de Segurança Aeroportuária (Revisão 08) do Aeroporto Internacional de Viracopos (Código OACI: SBKP, Código CIAD: SP0003), localizado em Campinas (SP)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "PORTARIA Nº 18126/SPL, 28/10/2025",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2025/portaria-no-18127-spl-28-10-2025-1",
-      "datePublished": "2025-10-28T00:00:00.000Z",
-      "description": "Publica ação administrativa de cassação e de suspensão punitiva de licenças e habilitações técnicas de aeronauta",
       "type": "legislação"
     },
     {
