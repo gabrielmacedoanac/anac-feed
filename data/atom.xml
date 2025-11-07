@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-73a92d1f-dc9a-415e-aea2-f0921dadf1bd</id>
-  <updated>2025-11-07T09:34:00.000Z</updated>
+  <id>urn:uuid:anac-feed-17deaf11-da97-42da-a2bf-87a670fb7285</id>
+  <updated>2025-11-07T14:16:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">São Paulo (SP) receberá a última etapa da Semana Safety de 2025, nos dias 17 a 19/11</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11</id>
+    <published>2025-11-07T14:16:00.000Z</published>
+    <updated>2025-11-07T14:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O evento destacará as particularidades da segurança operacional na região sudeste do país</summary>
+    <content type="html"><![CDATA[
+      <p>O evento destacará as particularidades da segurança operacional na região sudeste do país</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11/s-safety_sp_nov___linkedin___.png/@@images/c7136dc3-b27c-4273-8cbb-6cbb7bfc068e.png" alt="São Paulo (SP) receberá a última etapa da Semana Safety de 2025, nos dias 17 a 19/11">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -755,25 +774,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Audiência pública da Câmara debate acessibilidade no transporte aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-da-camara-debate-acessibilidade-no-transporte-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-da-camara-debate-acessibilidade-no-transporte-aereo</id>
-    <published>2025-10-01T11:32:00.000Z</published>
-    <updated>2025-10-01T11:32:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac apresentou ações e compromisso em dialogar com a sociedade para aprimorar o atendimento às pessoas com deficiência</summary>
-    <content type="html"><![CDATA[
-      <p>Anac apresentou ações e compromisso em dialogar com a sociedade para aprimorar o atendimento às pessoas com deficiência</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-da-camara-debate-acessibilidade-no-transporte-aereo/20250930_121714_.jpg/@@images/9ab51587-f0e0-4890-baf3-d3983432d7b2.jpeg" alt="Audiência pública da Câmara debate acessibilidade no transporte aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
