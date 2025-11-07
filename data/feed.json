@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8cdd794b-5af8-46f1-988b-0afb919ec55b",
+  "identifier": "urn:uuid:anac-feed-b5094310-540f-40b7-9c7f-ba248b6b1f97",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-07T01:07:21.856Z",
-  "dateModified": "2025-11-07T01:07:21.856Z",
+  "dateCreated": "2025-11-07T04:17:13.714Z",
+  "dateModified": "2025-11-07T04:17:13.714Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-28T00:00:00.000Z",
-    "endDate": "2025-11-07T01:07:21.855Z"
+    "endDate": "2025-11-07T04:17:13.712Z"
   },
   "distribution": [
     {
@@ -35,25 +35,9 @@
   "items": [
     {
       "@type": "Legislation",
-      "name": "IS 91-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
-      "datePublished": "2025-11-07T01:07:21.855Z",
-      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 91-010D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
-      "datePublished": "2025-11-07T01:07:21.855Z",
-      "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RBAC 103 EMD 02",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Operação aerodesportiva em aeronaves sem Certificado de Aeronavegabilidade",
       "type": "legislação"
     },
@@ -61,7 +45,7 @@
       "@type": "Legislation",
       "name": "IS 141-001E",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Procedimentos para a comunicação da relação de alunos matriculados e instrutores pelos Centros de Instrução de Aviação Civil - Ciacs",
       "type": "legislação"
     },
@@ -69,7 +53,7 @@
       "@type": "Legislation",
       "name": "IS 183-003C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Processo de credenciamento de profissional qualificado para aplicação do exame de proficiência em Mecânicos de Manutenção Aeronáutica",
       "type": "legislação"
     },
@@ -77,7 +61,7 @@
       "@type": "Legislation",
       "name": "IS 65-001F",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-65-001",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Procedimentos para concessão de licença e de habilitação e para recadastramento de mecânicos de manutenção aeronáutica",
       "type": "legislação"
     },
@@ -85,7 +69,7 @@
       "@type": "Legislation",
       "name": "RBAC 153 EMD 09",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
       "type": "legislação"
     },
@@ -93,7 +77,7 @@
       "@type": "Legislation",
       "name": "IS 121-006E",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Procedimentos gerais para elaboração, aprovação, revisão e utilização de programas de treinamento operacional (PTO) de operadores aéreos regidos pelo RBAC nº 121",
       "type": "legislação"
     },
@@ -101,7 +85,7 @@
       "@type": "Legislation",
       "name": "IS 121-011D",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Procedimentos para elaboração de programa de treinamento operacional de comissários de voo segundo o RBAC nº 121",
       "type": "legislação"
     },
@@ -109,9 +93,34 @@
       "@type": "Legislation",
       "name": "IS 91-011C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011",
-      "datePublished": "2025-11-07T01:07:21.854Z",
+      "datePublished": "2025-11-07T04:17:13.712Z",
       "description": "Aprovação de aproximação por instrumento utilizando créditos operacionais mediante o uso de um EFVS - Enhanced Flight Vision System",
       "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-003B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b",
+      "datePublished": "2025-11-07T04:17:13.712Z",
+      "description": "Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 91-010D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010",
+      "datePublished": "2025-11-07T04:17:13.712Z",
+      "description": "Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)",
+      "type": "legislação"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "TransformANAC 2025",
+      "url": "https://www.youtube.com/watch?v=CO9w47Hc1f0",
+      "datePublished": "2025-11-07T03:40:37.000Z",
+      "description": "Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. \nNessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.\n  \nLink Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF",
+      "image": "https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg",
+      "type": "vídeo"
     },
     {
       "@type": "VideoObject",
@@ -196,15 +205,6 @@
       "datePublished": "2025-10-28T20:12:36.000Z",
       "description": "1) Processo: 00058.009139/2024-39\n  \nAssunto: Proposta de resolução para regulamentar disposição transitória para a exploração de serviços aéreos com balão e de emenda ao RBAC nº 103 - Fase 1 do Tema 17 da Agenda Regulatória 2025-2026\n  \nRelator: Luiz Ricardo Nascimento",
       "image": "https://i1.ytimg.com/vi/pvYoq4oXEEI/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "TransformANAC 2025",
-      "url": "https://www.youtube.com/watch?v=CO9w47Hc1f0",
-      "datePublished": "2025-10-28T10:45:08.000Z",
-      "description": "Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. \nNessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.\n  \nLink Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF",
-      "image": "https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg",
       "type": "vídeo"
     },
     {

@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8cdd794b-5af8-46f1-988b-0afb919ec55b</id>
-  <updated>2025-11-07T01:07:21.855Z</updated>
+  <id>urn:uuid:anac-feed-b5094310-540f-40b7-9c7f-ba248b6b1f97</id>
+  <updated>2025-11-07T04:17:13.712Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,49 +14,11 @@
   
   
   <entry>
-    <title type="html">IS 91-003B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b</id>
-    <published>2025-11-07T01:07:21.855Z</published>
-    <updated>2025-11-07T01:07:21.855Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</summary>
-    <content type="html"><![CDATA[
-      <p>Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 91-010D</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010</id>
-    <published>2025-11-07T01:07:21.855Z</published>
-    <updated>2025-11-07T01:07:21.855Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)</summary>
-    <content type="html"><![CDATA[
-      <p>Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RBAC 103 EMD 02</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103-emd-02</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -74,8 +36,8 @@
     <title type="html">IS 141-001E</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -93,8 +55,8 @@
     <title type="html">IS 183-003C</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-003</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -112,8 +74,8 @@
     <title type="html">IS 65-001F</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-65-001" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-65-001</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -131,8 +93,8 @@
     <title type="html">RBAC 153 EMD 09</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -150,8 +112,8 @@
     <title type="html">IS 121-006E</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-006</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -169,8 +131,8 @@
     <title type="html">IS 121-011D</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-011</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -188,8 +150,8 @@
     <title type="html">IS 91-011C</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011</id>
-    <published>2025-11-07T01:07:21.854Z</published>
-    <updated>2025-11-07T01:07:21.854Z</updated>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -200,6 +162,69 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 91-003B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b</id>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 91-010D</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-010</id>
+    <published>2025-11-07T04:17:13.712Z</published>
+    <updated>2025-11-07T04:17:13.712Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimentos para autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">TransformANAC 2025</title>
+    <link href="https://www.youtube.com/watch?v=CO9w47Hc1f0" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=CO9w47Hc1f0</id>
+    <published>2025-11-07T03:40:37.000Z</published>
+    <updated>2025-11-07T03:40:37.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. 
+Nessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.
+  
+Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</summary>
+    <content type="html"><![CDATA[
+      <p>Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. 
+Nessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.
+  
+Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
+      <img src="https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg" alt="TransformANAC 2025">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -395,31 +420,6 @@ Assunto: Proposta de resolução para regulamentar disposição transitória par
   
 Relator: Luiz Ricardo Nascimento</p>
       <img src="https://i1.ytimg.com/vi/pvYoq4oXEEI/hqdefault.jpg" alt="13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">TransformANAC 2025</title>
-    <link href="https://www.youtube.com/watch?v=CO9w47Hc1f0" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=CO9w47Hc1f0</id>
-    <published>2025-10-28T10:45:08.000Z</published>
-    <updated>2025-10-28T10:45:08.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. 
-Nessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.
-  
-Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</summary>
-    <content type="html"><![CDATA[
-      <p>Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. 
-Nessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.
-  
-Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
-      <img src="https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg" alt="TransformANAC 2025">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
