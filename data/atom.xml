@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a04fb96f-5b0b-4492-8d69-fcd91aa43ca5</id>
-  <updated>2025-11-10T12:02:00.000Z</updated>
+  <id>urn:uuid:anac-feed-d883746a-3a02-4b74-aed4-5b15c6d74fe6</id>
+  <updated>2025-11-10T15:28:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac participa de debates sobre concessões, investimentos e regulação em São Paulo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo</id>
+    <published>2025-11-10T15:28:00.000Z</published>
+    <updated>2025-11-10T15:28:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Eventos trataram de perspectivas para modernizar aeroportos e aprimorar a gestão de contratos de concessão</summary>
+    <content type="html"><![CDATA[
+      <p>Eventos trataram de perspectivas para modernizar aeroportos e aprimorar a gestão de contratos de concessão</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo/gri_anac-sp.jpg/@@images/6a61d5f5-cf49-471c-899c-246561fb36c2.jpeg" alt="Anac participa de debates sobre concessões, investimentos e regulação em São Paulo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -725,25 +744,6 @@ Agora você sabe como o avião pode voar!
     <content type="html"><![CDATA[
       <p>Interessados também podem se inscrever para participar remotamente até o dia 9</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png" alt="Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aberta pesquisa para elaboração do Plano de Dados Abertos da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-pesquisa-para-elaboracao-do-plano-de-dados-abertos-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-pesquisa-para-elaboracao-do-plano-de-dados-abertos-da-anac</id>
-    <published>2025-10-06T09:54:00.000Z</published>
-    <updated>2025-10-06T09:54:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">As contribuições podem ser enviadas até 20/10</summary>
-    <content type="html"><![CDATA[
-      <p>As contribuições podem ser enviadas até 20/10</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

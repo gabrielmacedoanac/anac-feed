@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a04fb96f-5b0b-4492-8d69-fcd91aa43ca5",
+  "identifier": "urn:uuid:anac-feed-d883746a-3a02-4b74-aed4-5b15c6d74fe6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-10T16:18:43.993Z",
-  "dateModified": "2025-11-10T16:18:43.993Z",
+  "dateCreated": "2025-11-10T20:17:04.581Z",
+  "dateModified": "2025-11-10T20:17:04.581Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-10T12:02:00.000Z"
+    "endDate": "2025-11-10T15:28:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac participa de debates sobre concessões, investimentos e regulação em São Paulo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo",
+      "datePublished": "2025-11-10T15:28:00.000Z",
+      "description": "Eventos trataram de perspectivas para modernizar aeroportos e aprimorar a gestão de contratos de concessão",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo/gri_anac-sp.jpg/@@images/6a61d5f5-cf49-471c-899c-246561fb36c2.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Webinário discute manutenção e operação segura do Embraer Ipanema",
@@ -312,14 +321,6 @@
       "datePublished": "2025-10-06T18:01:00.000Z",
       "description": "Interessados também podem se inscrever para participar remotamente até o dia 9",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aberta pesquisa para elaboração do Plano de Dados Abertos da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-pesquisa-para-elaboracao-do-plano-de-dados-abertos-da-anac",
-      "datePublished": "2025-10-06T09:54:00.000Z",
-      "description": "As contribuições podem ser enviadas até 20/10",
       "type": "notícia"
     },
     {
