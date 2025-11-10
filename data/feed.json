@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e6f91d86-42cd-4d27-8b94-10cfc9826204",
+  "identifier": "urn:uuid:anac-feed-a04fb96f-5b0b-4492-8d69-fcd91aa43ca5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-10T12:29:52.418Z",
-  "dateModified": "2025-11-10T12:29:52.418Z",
+  "dateCreated": "2025-11-10T16:18:43.993Z",
+  "dateModified": "2025-11-10T16:18:43.993Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-07T14:16:00.000Z"
+    "endDate": "2025-11-10T12:02:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Webinário discute manutenção e operação segura do Embraer Ipanema",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/webinario-da-anac-discute-manutencao-e-operacao-segura-do-embraer-ipanema",
+      "datePublished": "2025-11-10T12:02:00.000Z",
+      "description": "Evento reúne profissionais para tratar de práticas que fortalecem a segurança das operações aeroagrícolas no país",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "São Paulo (SP) receberá a última etapa da Semana Safety de 2025, nos dias 17 a 19/11",
@@ -312,15 +320,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-pesquisa-para-elaboracao-do-plano-de-dados-abertos-da-anac",
       "datePublished": "2025-10-06T09:54:00.000Z",
       "description": "As contribuições podem ser enviadas até 20/10",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac",
-      "datePublished": "2025-10-02T15:38:00.000Z",
-      "description": "Candidatos estavam no cadastro reserva do certame realizado em 2023",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png",
       "type": "notícia"
     },
     {

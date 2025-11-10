@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e6f91d86-42cd-4d27-8b94-10cfc9826204</id>
-  <updated>2025-11-07T14:16:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a04fb96f-5b0b-4492-8d69-fcd91aa43ca5</id>
+  <updated>2025-11-10T12:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Webinário discute manutenção e operação segura do Embraer Ipanema</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/webinario-da-anac-discute-manutencao-e-operacao-segura-do-embraer-ipanema" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/webinario-da-anac-discute-manutencao-e-operacao-segura-do-embraer-ipanema</id>
+    <published>2025-11-10T12:02:00.000Z</published>
+    <updated>2025-11-10T12:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento reúne profissionais para tratar de práticas que fortalecem a segurança das operações aeroagrícolas no país</summary>
+    <content type="html"><![CDATA[
+      <p>Evento reúne profissionais para tratar de práticas que fortalecem a segurança das operações aeroagrícolas no país</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -725,25 +744,6 @@ Agora você sabe como o avião pode voar!
     <content type="html"><![CDATA[
       <p>As contribuições podem ser enviadas até 20/10</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac</id>
-    <published>2025-10-02T15:38:00.000Z</published>
-    <updated>2025-10-02T15:38:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Candidatos estavam no cadastro reserva do certame realizado em 2023</summary>
-    <content type="html"><![CDATA[
-      <p>Candidatos estavam no cadastro reserva do certame realizado em 2023</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/governo-autoriza-convocacao-de-35-novos-especialistas-aprovados-no-concurso-da-anac/nova-convocacao-concurso.png/@@images/32cd6d58-4038-4d27-88de-24734cc79e46.png" alt="Governo autoriza convocação de 35 novos especialistas aprovados no concurso da Anac">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
