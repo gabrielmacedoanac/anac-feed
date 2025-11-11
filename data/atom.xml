@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6319ef6a-1686-48be-ab95-1f3543e3870e</id>
-  <updated>2025-11-11T10:07:00.000Z</updated>
+  <id>urn:uuid:anac-feed-e17a7544-d2ac-4880-90d7-2c184d7a0098</id>
+  <updated>2025-11-11T19:53:11.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Embraer Ipanema: boas práticas de segurança</title>
+    <link href="https://www.youtube.com/watch?v=oIgGzr1zey8" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=oIgGzr1zey8</id>
+    <published>2025-11-11T19:53:11.000Z</published>
+    <updated>2025-11-11T19:53:11.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</summary>
+    <content type="html"><![CDATA[
+      <p>Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</p>
+      <img src="https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg" alt="Embraer Ipanema: boas práticas de segurança">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -25,7 +44,7 @@
     <summary type="html">Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral</summary>
     <content type="html"><![CDATA[
       <p>Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral</p>
-      
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental/1761008173258.jpeg/@@images/26611ced-c140-4267-9cce-0730cf27266a.jpeg" alt="Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -612,25 +631,6 @@ Acesse os documentos da Consulta Pública e faça a sua contribuição nos formu
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Embraer Ipanema: boas práticas de segurança</title>
-    <link href="https://www.youtube.com/watch?v=oIgGzr1zey8" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=oIgGzr1zey8</id>
-    <published>2025-10-13T19:18:56.000Z</published>
-    <updated>2025-10-13T19:18:56.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</summary>
-    <content type="html"><![CDATA[
-      <p>Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</p>
-      <img src="https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg" alt="Embraer Ipanema: boas práticas de segurança">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

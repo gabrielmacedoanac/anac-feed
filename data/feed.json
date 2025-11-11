@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6319ef6a-1686-48be-ab95-1f3543e3870e",
+  "identifier": "urn:uuid:anac-feed-e17a7544-d2ac-4880-90d7-2c184d7a0098",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-11T16:18:12.561Z",
-  "dateModified": "2025-11-11T16:18:12.561Z",
+  "dateCreated": "2025-11-11T20:15:50.719Z",
+  "dateModified": "2025-11-11T20:15:50.719Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-11T10:07:00.000Z"
+    "endDate": "2025-11-11T19:53:11.000Z"
   },
   "distribution": [
     {
@@ -34,11 +34,21 @@
   ],
   "items": [
     {
+      "@type": "VideoObject",
+      "name": "Embraer Ipanema: boas práticas de segurança",
+      "url": "https://www.youtube.com/watch?v=oIgGzr1zey8",
+      "datePublished": "2025-11-11T19:53:11.000Z",
+      "description": "Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv",
+      "image": "https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
       "@type": "NewsArticle",
       "name": "Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental",
       "datePublished": "2025-11-11T10:07:00.000Z",
       "description": "Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental/1761008173258.jpeg/@@images/26611ced-c140-4267-9cce-0730cf27266a.jpeg",
       "type": "notícia"
     },
     {
@@ -294,15 +304,6 @@
       "description": "Evento será transmitido no dia 16/10 no canal da Agência no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Embraer Ipanema: boas práticas de segurança",
-      "url": "https://www.youtube.com/watch?v=oIgGzr1zey8",
-      "datePublished": "2025-10-13T19:18:56.000Z",
-      "description": "Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv",
-      "image": "https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
