@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8696d6b4-13eb-412f-b1a2-63f45f008729</id>
-  <updated>2025-11-10T19:00:00.000Z</updated>
+  <id>urn:uuid:anac-feed-6319ef6a-1686-48be-ab95-1f3543e3870e</id>
+  <updated>2025-11-11T10:07:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental</id>
+    <published>2025-11-11T10:07:00.000Z</published>
+    <updated>2025-11-11T10:07:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral</summary>
+    <content type="html"><![CDATA[
+      <p>Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -33,7 +52,7 @@
   
   
   <entry>
-    <title type="html">Anac firma acordos para fortalecer integração aérea na América Latina</title>
+    <title type="html">Novos acordos fortalecem integração aérea na América Latina</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina</id>
     <published>2025-11-10T17:19:00.000Z</published>
@@ -44,7 +63,7 @@
     <summary type="html">Assinatura de dois instrumentos de cooperação pela aviação regional ocorreu durante a 26ª Assembleia da Comissão Latino-Americana de Aviação Civil (CLAC)</summary>
     <content type="html"><![CDATA[
       <p>Assinatura de dois instrumentos de cooperação pela aviação regional ocorreu durante a 26ª Assembleia da Comissão Latino-Americana de Aviação Civil (CLAC)</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina/whatsapp-image-2025-11-08-at-18-28-31.jpeg/@@images/f1d9b9e5-52fe-4beb-9bb6-570ceec611c3.jpeg" alt="Anac firma acordos para fortalecer integração aérea na América Latina">
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina/whatsapp-image-2025-11-08-at-18-28-31.jpeg/@@images/f1d9b9e5-52fe-4beb-9bb6-570ceec611c3.jpeg" alt="Novos acordos fortalecem integração aérea na América Latina">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -728,25 +747,6 @@ Agora você sabe como o avião pode voar!
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci</id>
-    <published>2025-10-10T11:52:00.000Z</published>
-    <updated>2025-10-10T11:52:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional</summary>
-    <content type="html"><![CDATA[
-      <p>Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg" alt="Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

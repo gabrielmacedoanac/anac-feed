@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8696d6b4-13eb-412f-b1a2-63f45f008729",
+  "identifier": "urn:uuid:anac-feed-6319ef6a-1686-48be-ab95-1f3543e3870e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-11T12:29:27.758Z",
-  "dateModified": "2025-11-11T12:29:27.758Z",
+  "dateCreated": "2025-11-11T16:18:12.561Z",
+  "dateModified": "2025-11-11T16:18:12.561Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-10T19:00:00.000Z"
+    "endDate": "2025-11-11T10:07:00.000Z"
   },
   "distribution": [
     {
@@ -35,6 +35,14 @@
   "items": [
     {
       "@type": "NewsArticle",
+      "name": "Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental",
+      "datePublished": "2025-11-11T10:07:00.000Z",
+      "description": "Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
       "name": "Anac trabalha há 18 meses pela segurança dos voos durante a COP30",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-trabalha-ha-18-meses-pela-seguranca-dos-voos-durante-a-cop30",
       "datePublished": "2025-11-10T19:00:00.000Z",
@@ -44,7 +52,7 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Anac firma acordos para fortalecer integração aérea na América Latina",
+      "name": "Novos acordos fortalecem integração aérea na América Latina",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina",
       "datePublished": "2025-11-10T17:19:00.000Z",
       "description": "Assinatura de dois instrumentos de cooperação pela aviação regional ocorreu durante a 26ª Assembleia da Comissão Latino-Americana de Aviação Civil (CLAC)",
@@ -313,15 +321,6 @@
       "description": "Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! \n\nPorque aprender pode ser tão divertido quanto brincar! 💙\n\nFeliz Dia das Crianças! 🎉\n\nLetra:\nComo o avião voa?\n\nOlha o avião lá no céu a planar,\nMas como será que ele consegue voar?\nAs asas têm formato especial, você vai ver,\nFazendo o ar se mover pra cima crescer.\n\nPor cima o ar corre mais depressa, é tensão,\nPor baixo ele vai lento, isso dá sustentação.\nÉ a física que cria essa força no ar,\nChamamos de sustentação pra ele levantar!\n\nVoa, voa avião, no céu a planar,\nCom motor e asa, pronto pra voar!\nEmpurrando lá na frente, turbinas a girar,\nÉ propulsão que ajuda ele a avançar!\n\nMas não é só isso que faz o avião flutuar,\nO piloto também precisa o voo controlar.\nUsa leme, profundor e aileron pra guiar,\nMudando direção pra rota manter no ar.\n\nCom motor, asas e ciência no coração,\nO avião corta o céu numa perfeita canção.\nÉ física, engenharia e um sonho no ar,\nJuntos fazendo o avião poder voar!\n\nVoa, voa avião, sobe lá no ar,\nLevando gente e sonhos pra viajar.\nDecola bonito, com ciência a soprar,\nAgora você sabe como o avião pode voar!\n\n*Vídeo e música produzida com inteligência artificial.",
       "image": "https://i4.ytimg.com/vi/_-5lBoZoZCU/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Brasil consolida liderança na aviação civil mundial durante a 42ª Assembleia da Oaci",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci",
-      "datePublished": "2025-10-10T11:52:00.000Z",
-      "description": "Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
