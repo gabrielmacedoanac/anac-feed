@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d883746a-3a02-4b74-aed4-5b15c6d74fe6",
+  "identifier": "urn:uuid:anac-feed-0b559043-7bea-4c41-bdd7-752dec302ce5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-10T20:17:04.581Z",
-  "dateModified": "2025-11-10T20:17:04.581Z",
+  "dateCreated": "2025-11-11T01:08:51.940Z",
+  "dateModified": "2025-11-11T01:08:51.940Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-10T15:28:00.000Z"
+    "endDate": "2025-11-10T19:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac trabalha há 18 meses pela segurança dos voos durante a COP30",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-trabalha-ha-18-meses-pela-seguranca-dos-voos-durante-a-cop30",
+      "datePublished": "2025-11-10T19:00:00.000Z",
+      "description": "Equipe de técnicos atua para garantir o bom funcionamento das operações em Belém",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-trabalha-ha-18-meses-pela-seguranca-dos-voos-durante-a-cop30/whatsapp-image-2025-11-09-at-12-10-22.jpeg/@@images/e7b28db3-7552-4fd3-ad5c-3d86cdcd758e.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac firma acordos para fortalecer integração aérea na América Latina",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina",
+      "datePublished": "2025-11-10T17:19:00.000Z",
+      "description": "Assinatura de dois instrumentos de cooperação pela aviação regional ocorreu durante a 26ª Assembleia da Comissão Latino-Americana de Aviação Civil (CLAC)",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina/whatsapp-image-2025-11-08-at-18-28-31.jpeg/@@images/f1d9b9e5-52fe-4beb-9bb6-570ceec611c3.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac participa de debates sobre concessões, investimentos e regulação em São Paulo",
@@ -303,24 +321,6 @@
       "datePublished": "2025-10-10T11:52:00.000Z",
       "description": "Liderada pela Anac, delegação brasileira assinou acordos, participou de debates estratégicos e promoveu a indústria aeronáutica nacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-consolida-lideranca-na-aviacao-civil-mundial-durante-a-42a-assembleia-da-oaci/dsc02435.jpg/@@images/7dcaa5d9-079a-4d3a-a8bd-a20a648f2598.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Agências federais discutem formas de aprimoramento da regulação",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao",
-      "datePublished": "2025-10-08T16:48:00.000Z",
-      "description": "Comitê elegeu Guilherme Theo Sampaio (ANTT) para presidente e Tiago Faierstein (Anac) para vice-presidente da instituição",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/agencias-federais-discutem-formas-de-aprimoramento-da-regulacao/2025-reuniao-coarf-11.png/@@images/5adc2ba7-9058-4d15-b117-be7f2960775d.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Audiência pública sobre edital de venda assistida do Galeão será realizada em 14/10",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10",
-      "datePublished": "2025-10-06T18:01:00.000Z",
-      "description": "Interessados também podem se inscrever para participar remotamente até o dia 9",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/audiencia-publica-sobre-edital-de-venda-assistida-do-galeao-sera-realizada-em-14-10/2__audiencia__publica__portal14_out.png/@@images/0b572a4e-216c-4ca4-9b97-f55f90dee53c.png",
       "type": "notícia"
     },
     {
