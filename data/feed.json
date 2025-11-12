@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-196f7582-3607-4ba7-9fd6-2653b8f88826",
+  "identifier": "urn:uuid:anac-feed-3b9058ae-e580-424a-9145-aad2c734b2d3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-12T16:19:37.574Z",
-  "dateModified": "2025-11-12T16:19:37.574Z",
+  "dateCreated": "2025-11-12T20:16:30.690Z",
+  "dateModified": "2025-11-12T20:16:30.690Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-11T19:53:11.000Z"
+    "endDate": "2025-11-12T16:59:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Workshop da Anac e da Asbrad discute combate e prevenção ao tráfico de pessoas no setor aéreo no dia 18/11, às 14h",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h",
+      "datePublished": "2025-11-12T16:59:00.000Z",
+      "description": "Evento em Brasília (DF) integra o Projeto Liberdade no Ar e busca capacitar profissionais da aviação civil para identificar e prevenir situações de tráfico de pessoas",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h/pecas-workshop-combate-e-prevencao-ao-trafico-humano_linkedin.png/@@images/baa5e2c4-30bc-483b-9e01-1eb040d79049.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Embraer Ipanema: boas práticas de segurança",
@@ -303,15 +312,6 @@
       "datePublished": "2025-10-14T14:00:00.000Z",
       "description": "Evento será transmitido no dia 16/10 no canal da Agência no YouTube",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Exames teóricos para comissários de voo serão retomados",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados",
-      "datePublished": "2025-10-13T17:04:00.000Z",
-      "description": "Inscrições e agendamentos podem ser solicitados no site da FGV a partir desta segunda-feira (13/10)",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/exames-teoricos-para-comissarios-voo-serao-retomados/comunicado_retomada_provas_comissarios_banner-portal-rotativo.png/@@images/2fb5dc59-f18f-4dee-9d93-1631cde63c5e.png",
       "type": "notícia"
     },
     {
