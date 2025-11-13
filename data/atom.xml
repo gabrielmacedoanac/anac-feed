@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-3feead21-6b41-4526-b05a-22bd122108ce</id>
-  <updated>2025-11-13T08:16:59.000Z</updated>
+  <id>urn:uuid:anac-feed-8c26ef45-c6e5-4ca9-9667-f51666ec4858</id>
+  <updated>2025-11-13T16:53:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos</id>
+    <published>2025-11-13T16:53:00.000Z</published>
+    <updated>2025-11-13T16:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</summary>
+    <content type="html"><![CDATA[
+      <p>Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos/ceus-abertos-1.jpg/@@images/0866547c-ca4e-411c-90b1-244fdcc8775c.jpeg" alt="Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -599,25 +618,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     <content type="html"><![CDATA[
       <p>Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo</id>
-    <published>2025-10-15T12:05:00.000Z</published>
-    <updated>2025-10-15T12:05:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac apoia evento Tecnologia e Segurança - O Futuro dos Aeroportos no Brasil, realizado pela ABR</summary>
-    <content type="html"><![CDATA[
-      <p>Anac apoia evento Tecnologia e Segurança - O Futuro dos Aeroportos no Brasil, realizado pela ABR</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-aeroportos-que-impactam-a-vida-do-passageiro-sao-tema-de-evento-em-sao-paulo/tecnologia-e-seguranca-o-futuro-dos-aeroportos-no-brasil.png/@@images/e9af3e44-0b74-4162-9b61-6f31ec2b2505.png" alt="Mudanças nos aeroportos que impactam a vida do passageiro são tema de evento em São Paulo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
