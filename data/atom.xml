@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e1ba89ee-ed5e-4df9-841d-e860227857f7</id>
-  <updated>2025-11-12T18:37:00.000Z</updated>
+  <id>urn:uuid:anac-feed-12feacc9-dcf8-4e2c-be0a-81103a429543</id>
+  <updated>2025-11-13T08:16:59.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Embraer Ipanema: boas práticas de segurança</title>
+    <link href="https://www.youtube.com/watch?v=l9awSyOHY0g" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=l9awSyOHY0g</id>
+    <published>2025-11-13T08:16:59.000Z</published>
+    <updated>2025-11-13T08:16:59.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions</summary>
+    <content type="html"><![CDATA[
+      <p>Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions</p>
+      <img src="https://i1.ytimg.com/vi/l9awSyOHY0g/hqdefault.jpg" alt="Embraer Ipanema: boas práticas de segurança">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -222,25 +241,6 @@ Nessa edição será abordado como tema: melhoria do engajamento do time para tr
   
 Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
       <img src="https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg" alt="TransformANAC 2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Embraer Ipanema: boas práticas de segurança</title>
-    <link href="https://www.youtube.com/watch?v=l9awSyOHY0g" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=l9awSyOHY0g</id>
-    <published>2025-11-06T18:25:30.000Z</published>
-    <updated>2025-11-06T18:25:30.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions</summary>
-    <content type="html"><![CDATA[
-      <p>Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions</p>
-      <img src="https://i1.ytimg.com/vi/l9awSyOHY0g/hqdefault.jpg" alt="Embraer Ipanema: boas práticas de segurança">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

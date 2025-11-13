@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e1ba89ee-ed5e-4df9-841d-e860227857f7",
+  "identifier": "urn:uuid:anac-feed-12feacc9-dcf8-4e2c-be0a-81103a429543",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-13T04:19:47.250Z",
-  "dateModified": "2025-11-13T04:19:47.250Z",
+  "dateCreated": "2025-11-13T08:19:42.660Z",
+  "dateModified": "2025-11-13T08:19:42.660Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-12T18:37:00.000Z"
+    "endDate": "2025-11-13T08:16:59.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Embraer Ipanema: boas práticas de segurança",
+      "url": "https://www.youtube.com/watch?v=l9awSyOHY0g",
+      "datePublished": "2025-11-13T08:16:59.000Z",
+      "description": "Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions",
+      "image": "https://i1.ytimg.com/vi/l9awSyOHY0g/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Senado debate acessibilidade no transporte aéreo em audiência pública",
@@ -128,15 +137,6 @@
       "datePublished": "2025-11-07T03:40:37.000Z",
       "description": "Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. \nNessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.\n  \nLink Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF",
       "image": "https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Embraer Ipanema: boas práticas de segurança",
-      "url": "https://www.youtube.com/watch?v=l9awSyOHY0g",
-      "datePublished": "2025-11-06T18:25:30.000Z",
-      "description": "Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions",
-      "image": "https://i1.ytimg.com/vi/l9awSyOHY0g/hqdefault.jpg",
       "type": "vídeo"
     },
     {
