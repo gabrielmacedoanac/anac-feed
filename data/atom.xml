@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-3b9058ae-e580-424a-9145-aad2c734b2d3</id>
-  <updated>2025-11-12T16:59:00.000Z</updated>
+  <id>urn:uuid:anac-feed-c8ba27a3-0bbf-42e8-9884-8408a2deee83</id>
+  <updated>2025-11-12T18:37:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Senado debate acessibilidade no transporte aéreo em audiência pública</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/senado-debate-acessibilidade-no-transporte-aereo-em-audiencia-publica" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/senado-debate-acessibilidade-no-transporte-aereo-em-audiencia-publica</id>
+    <published>2025-11-12T18:37:00.000Z</published>
+    <updated>2025-11-12T18:37:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Anac apresentou ações e recolheu contribuições para a nova resolução voltada às pessoas com deficiência</summary>
+    <content type="html"><![CDATA[
+      <p>Anac apresentou ações e recolheu contribuições para a nova resolução voltada às pessoas com deficiência</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -631,25 +650,6 @@ Acesse os documentos da Consulta Pública e faça a sua contribuição nos formu
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica</id>
-    <published>2025-10-14T14:00:00.000Z</published>
-    <updated>2025-10-14T14:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento será transmitido no dia 16/10 no canal da Agência no YouTube</summary>
-    <content type="html"><![CDATA[
-      <p>Evento será transmitido no dia 16/10 no canal da Agência no YouTube</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-para-apresentar-novas-revisoes-sobre-exame-pratico-e-concessao-de-habilitacoes-para-mecanicos-de-manutencao-aeronautica/portal_webinarios_anac_mma_exame_e_habilitacao.png/@@images/76424c6c-fe3d-4af9-b631-34f692a49c82.png" alt="Anac realiza webinário para apresentar novas revisões sobre exame prático e concessão de habilitações para Mecânicos de Manutenção Aeronáutica">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
