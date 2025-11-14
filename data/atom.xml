@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8c26ef45-c6e5-4ca9-9667-f51666ec4858</id>
+  <id>urn:uuid:anac-feed-6fe1073c-7ce0-472c-8ec7-0df47acd4a10</id>
   <updated>2025-11-13T16:53:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -25,7 +25,26 @@
     <summary type="html">Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</summary>
     <content type="html"><![CDATA[
       <p>Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos/ceus-abertos-1.jpg/@@images/0866547c-ca4e-411c-90b1-244fdcc8775c.jpeg" alt="Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos">
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos/ceus-abertos-1.jpg/@@images/29c7da8e-371d-4e9a-9759-670ebbf25dd9.jpeg" alt="Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aberta consulta pública sobre projeto, produção e identificação de peças aprovadas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-alteracoes-em-requisitos-de-projeto-producao-e-identificacao-de-pecas-aprovadas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-alteracoes-em-requisitos-de-projeto-producao-e-identificacao-de-pecas-aprovadas</id>
+    <published>2025-11-13T16:31:00.000Z</published>
+    <updated>2025-11-13T16:31:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contribuições para RBACs 21 e 45 serão recebidas até dia 29 de dezembro</summary>
+    <content type="html"><![CDATA[
+      <p>Contribuições para RBACs 21 e 45 serão recebidas até dia 29 de dezembro</p>
+      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -602,25 +621,6 @@ Link do slido: https://app.sli.do/event/e19sudAMXLa4CWaC5qJnVF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Medida cautelar é emitida pela Anac em sete aeroportos regionais</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/medida-cautelar-e-emitida-pela-anac-em-sete-aeroportos-regionais</id>
-    <published>2025-10-15T23:01:00.000Z</published>
-    <updated>2025-10-15T23:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</summary>
-    <content type="html"><![CDATA[
-      <p>Quantidade de voos fica limitada até que melhorias de infraestrutura sejam feitas conforme exigências da Anac</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
