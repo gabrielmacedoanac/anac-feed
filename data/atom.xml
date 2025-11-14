@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-efcab429-e36a-4f6f-842b-d7f18c07d378</id>
-  <updated>2025-11-14T11:13:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f70a9890-145d-47c8-8895-e07d834b1b28</id>
+  <updated>2025-11-14T17:03:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias</id>
+    <published>2025-11-14T17:03:00.000Z</published>
+    <updated>2025-11-14T17:03:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação</summary>
+    <content type="html"><![CDATA[
+      <p>Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias/midia-1.jpeg/@@images/c541028e-0af3-4b51-8f74-bfbbbe0ead5c.jpeg" alt="Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -572,25 +591,6 @@ Relator: Luiz Ricardo Nascimento</p>
     <content type="html"><![CDATA[
       <p>Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta/card-6_set__.png/@@images/e917efca-f72e-4f3c-b1f6-13419ccdb018.png" alt="Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Tecnologia e Segurança: o futuro dos aeroportos brasileiros em debate</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate</id>
-    <published>2025-10-20T14:10:00.000Z</published>
-    <updated>2025-10-20T14:10:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária</summary>
-    <content type="html"><![CDATA[
-      <p>Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg" alt="Tecnologia e Segurança: o futuro dos aeroportos brasileiros em debate">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

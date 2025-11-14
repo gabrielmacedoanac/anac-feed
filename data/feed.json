@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-efcab429-e36a-4f6f-842b-d7f18c07d378",
+  "identifier": "urn:uuid:anac-feed-f70a9890-145d-47c8-8895-e07d834b1b28",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-14T16:18:15.420Z",
-  "dateModified": "2025-11-14T16:18:15.420Z",
+  "dateCreated": "2025-11-14T20:16:16.903Z",
+  "dateModified": "2025-11-14T20:16:16.903Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-14T11:13:00.000Z"
+    "endDate": "2025-11-14T17:03:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias",
+      "datePublished": "2025-11-14T17:03:00.000Z",
+      "description": "Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias/midia-1.jpeg/@@images/c541028e-0af3-4b51-8f74-bfbbbe0ead5c.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais",
@@ -285,15 +294,6 @@
       "datePublished": "2025-10-20T17:13:00.000Z",
       "description": "Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta/card-6_set__.png/@@images/e917efca-f72e-4f3c-b1f6-13419ccdb018.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Tecnologia e Segurança: o futuro dos aeroportos brasileiros em debate",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate",
-      "datePublished": "2025-10-20T14:10:00.000Z",
-      "description": "Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg",
       "type": "notícia"
     },
     {
