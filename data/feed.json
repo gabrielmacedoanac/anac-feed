@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-630ca322-620e-4625-b7a9-ee23bffd1a51",
+  "identifier": "urn:uuid:anac-feed-efcab429-e36a-4f6f-842b-d7f18c07d378",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-14T12:29:39.494Z",
-  "dateModified": "2025-11-14T12:29:39.494Z",
+  "dateCreated": "2025-11-14T16:18:15.420Z",
+  "dateModified": "2025-11-14T16:18:15.420Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-13T16:53:00.000Z"
+    "endDate": "2025-11-14T11:13:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais",
+      "datePublished": "2025-11-14T11:13:00.000Z",
+      "description": "Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais/reuniao-coarf-senado.jpeg/@@images/f9f2b05c-caa6-41fa-94bf-e8494de73dc7.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos",
@@ -285,14 +294,6 @@
       "datePublished": "2025-10-20T14:10:00.000Z",
       "description": "Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Estudo da Anac vai subsidiar PL das bagagens",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-portas-abertas-no-congresso-para-subsidiar-pl-das-bagagens",
-      "datePublished": "2025-10-17T11:25:00.000Z",
-      "description": "Em entrevista coletiva, presidente da Agência destacou que pretende encerrar discussões sobre bagagens entregando estudos técnicos para construção do projeto de lei",
       "type": "notícia"
     },
     {

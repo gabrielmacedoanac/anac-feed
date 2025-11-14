@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-630ca322-620e-4625-b7a9-ee23bffd1a51</id>
-  <updated>2025-11-13T16:53:00.000Z</updated>
+  <id>urn:uuid:anac-feed-efcab429-e36a-4f6f-842b-d7f18c07d378</id>
+  <updated>2025-11-14T11:13:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais</id>
+    <published>2025-11-14T11:13:00.000Z</published>
+    <updated>2025-11-14T11:13:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes</summary>
+    <content type="html"><![CDATA[
+      <p>Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais/reuniao-coarf-senado.jpeg/@@images/f9f2b05c-caa6-41fa-94bf-e8494de73dc7.jpeg" alt="Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -572,25 +591,6 @@ Relator: Luiz Ricardo Nascimento</p>
     <content type="html"><![CDATA[
       <p>Evento reuniu representantes dos setores público e privado para debater melhorias tecnológicas na segurança aeroportuária</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/tecnologia-e-seguranca-o-futuro-dos-aeroportos-brasileiros-em-debate/evento-abr.jpg/@@images/3a2c8196-a6da-4b46-880a-fb56880e2a44.jpeg" alt="Tecnologia e Segurança: o futuro dos aeroportos brasileiros em debate">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Estudo da Anac vai subsidiar PL das bagagens</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-portas-abertas-no-congresso-para-subsidiar-pl-das-bagagens" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-portas-abertas-no-congresso-para-subsidiar-pl-das-bagagens</id>
-    <published>2025-10-17T11:25:00.000Z</published>
-    <updated>2025-10-17T11:25:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Em entrevista coletiva, presidente da Agência destacou que pretende encerrar discussões sobre bagagens entregando estudos técnicos para construção do projeto de lei</summary>
-    <content type="html"><![CDATA[
-      <p>Em entrevista coletiva, presidente da Agência destacou que pretende encerrar discussões sobre bagagens entregando estudos técnicos para construção do projeto de lei</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
