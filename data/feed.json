@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f70a9890-145d-47c8-8895-e07d834b1b28",
+  "identifier": "urn:uuid:anac-feed-f3fac5f6-c9e5-4ae5-88e4-57f529719c8e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-14T20:16:16.903Z",
-  "dateModified": "2025-11-14T20:16:16.903Z",
+  "dateCreated": "2025-11-15T01:06:19.348Z",
+  "dateModified": "2025-11-15T01:06:19.348Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-14T17:03:00.000Z"
+    "endDate": "2025-11-14T18:52:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil",
+      "datePublished": "2025-11-14T18:52:00.000Z",
+      "description": "Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil/portal-2.png/@@images/43b82d14-8053-4227-97f9-85fb4cf12ef0.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac avança em parcerias com 10 países e amplia conectividade aérea",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea",
+      "datePublished": "2025-11-14T18:23:00.000Z",
+      "description": "Acordos firmados no ICAN 2025 geram novas oportunidades de operação para empresas aéreas brasileiras e estrangeiras",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea/ican-1.jpeg/@@images/487a778e-f6c4-444a-8367-4c53ef364be8.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias",
@@ -276,24 +294,6 @@
       "datePublished": "2025-10-22T14:48:00.000Z",
       "description": "Inscrições estão abertas e podem ser feitas por meio de formulário",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11/linkedin-3.png/@@images/e2dcdf57-1cd5-4672-b698-7ec405f1876e.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Operação Fronteira: Anac participa das operações da Receita Federal",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal",
-      "datePublished": "2025-10-22T10:13:00.000Z",
-      "description": "Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal/receita-federal-aeroporto-2.jpg/@@images/b74faeaf-b3b9-486d-bb0c-ecc2058b4792.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta",
-      "datePublished": "2025-10-20T17:13:00.000Z",
-      "description": "Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta/card-6_set__.png/@@images/e917efca-f72e-4f3c-b1f6-13419ccdb018.png",
       "type": "notícia"
     },
     {

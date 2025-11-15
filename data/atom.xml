@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f70a9890-145d-47c8-8895-e07d834b1b28</id>
-  <updated>2025-11-14T17:03:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f3fac5f6-c9e5-4ae5-88e4-57f529719c8e</id>
+  <updated>2025-11-14T18:52:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil</id>
+    <published>2025-11-14T18:52:00.000Z</published>
+    <updated>2025-11-14T18:52:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país</summary>
+    <content type="html"><![CDATA[
+      <p>Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil/portal-2.png/@@images/43b82d14-8053-4227-97f9-85fb4cf12ef0.png" alt="Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac avança em parcerias com 10 países e amplia conectividade aérea</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea</id>
+    <published>2025-11-14T18:23:00.000Z</published>
+    <updated>2025-11-14T18:23:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Acordos firmados no ICAN 2025 geram novas oportunidades de operação para empresas aéreas brasileiras e estrangeiras</summary>
+    <content type="html"><![CDATA[
+      <p>Acordos firmados no ICAN 2025 geram novas oportunidades de operação para empresas aéreas brasileiras e estrangeiras</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea/ican-1.jpeg/@@images/487a778e-f6c4-444a-8367-4c53ef364be8.jpeg" alt="Anac avança em parcerias com 10 países e amplia conectividade aérea">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -553,44 +591,6 @@ Relator: Luiz Ricardo Nascimento</p>
     <content type="html"><![CDATA[
       <p>Inscrições estão abertas e podem ser feitas por meio de formulário</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11/linkedin-3.png/@@images/e2dcdf57-1cd5-4672-b698-7ec405f1876e.png" alt="Anac sedia Workshop IOSA em parceria com a IATA no dia 4/11">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Operação Fronteira: Anac participa das operações da Receita Federal</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal</id>
-    <published>2025-10-22T10:13:00.000Z</published>
-    <updated>2025-10-22T10:13:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país</summary>
-    <content type="html"><![CDATA[
-      <p>Iniciativa é a maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/operacao-fronteira-anac-participa-das-operacoes-da-receita-federal/receita-federal-aeroporto-2.jpg/@@images/b74faeaf-b3b9-486d-bb0c-ecc2058b4792.jpeg" alt="Operação Fronteira: Anac participa das operações da Receita Federal">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta</id>
-    <published>2025-10-20T17:13:00.000Z</published>
-    <updated>2025-10-20T17:13:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados</summary>
-    <content type="html"><![CDATA[
-      <p>Mercado internacional também mantém trajetória de crescimento, com 2,3 milhões de passageiros movimentados</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/com-8-5-milhoes-de-passageiros-transportados-aviacao-domestica-chega-ao-13o-mes-consecutivo-de-alta/card-6_set__.png/@@images/e917efca-f72e-4f3c-b1f6-13419ccdb018.png" alt="Com 8,5 milhões de passageiros transportados, aviação doméstica chega ao 13º mês consecutivo de alta">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
