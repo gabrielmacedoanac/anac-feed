@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-da02cb9a-48c8-42f1-bc75-299d57c3720d",
+  "identifier": "urn:uuid:anac-feed-abbc7e83-c64d-422f-be9b-d0a7790cec67",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-17T16:19:29.595Z",
-  "dateModified": "2025-11-17T16:19:29.595Z",
+  "dateCreated": "2025-11-17T20:16:31.841Z",
+  "dateModified": "2025-11-17T20:16:31.841Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-14T18:52:00.000Z"
+    "endDate": "2025-11-17T15:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias-1",
+      "datePublished": "2025-11-17T15:01:00.000Z",
+      "description": "Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias-1/midia-1.jpeg/@@images/b572438c-301a-4a82-b22e-3315e78e7ca0.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil",
@@ -286,15 +295,6 @@
       "description": "Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.",
       "image": "https://i1.ytimg.com/vi/PGYrnRdnq30/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac sedia Workshop IOSA em parceria com a IATA no dia 4/11",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11",
-      "datePublished": "2025-10-22T14:48:00.000Z",
-      "description": "Inscrições estão abertas e podem ser feitas por meio de formulário",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-workshop-iosa-em-parceria-com-a-iata-no-dia-4-11/linkedin-3.png/@@images/e2dcdf57-1cd5-4672-b698-7ec405f1876e.png",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
