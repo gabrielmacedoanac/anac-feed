@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 18 Nov 2025 12:30:13 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2025 12:30:13 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 16:19:48 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:19:48 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>SEI estará fora do ar das 18h de sexta (21/11) às 10h de sábado (22/11)</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/sei-estara-fora-do-ar-das-18h-de-sexta-21-11-as-10h-de-sabado-22-11</link>
+      <description>Sistema Eletrônico de Informações passará por atualização para correção de problemas e implementação de melhorias</description>
+      <pubDate>Tue, 18 Nov 2025 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/sei-estara-fora-do-ar-das-18h-de-sexta-21-11-as-10h-de-sabado-22-11</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-11-18T13:02:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Sistema Eletrônico de Informações passará por atualização para correção de problemas e implementação de melhorias</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -497,23 +514,6 @@ Relator: Luiz Ricardo Nascimento</p>
       <content:encoded><![CDATA[
         <p>Aprendizado e aprimoramento de todas as operações aéreas foram foco da 10ª edição</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil/agd_8329-2.jpg/@@images/59f80cb8-db1a-4f34-a94a-e666daf4656b.jpeg" alt="SMS Brasil: há 10 anos contribuindo com a segurança operacional da aviação civil">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Diretor-Presidente e superintendente da Anac recebem Medalha da Ordem do Mérito Aeronáutico</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico</link>
-      <description>Comenda existe desde 1943 e destaca aqueles que contribuíram para o fomento da aeronáutica brasileira</description>
-      <pubDate>Thu, 23 Oct 2025 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-10-23T17:10:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico/img-20251023-wa0049.jpg/@@images/857f38c8-22aa-419b-af71-0ed406a2683c.jpeg" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Comenda existe desde 1943 e destaca aqueles que contribuíram para o fomento da aeronáutica brasileira</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2025/diretor-presidente-da-recebe-medalha-da-ordem-do-merito-aeronautico/img-20251023-wa0049.jpg/@@images/857f38c8-22aa-419b-af71-0ed406a2683c.jpeg" alt="Diretor-Presidente e superintendente da Anac recebem Medalha da Ordem do Mérito Aeronáutico">
       ]]></content:encoded>
     </item>
     
