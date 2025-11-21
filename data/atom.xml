@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-cf976c20-df55-4b02-990a-e1ac36bd6fba</id>
-  <updated>2025-11-19T16:44:51.000Z</updated>
+  <id>urn:uuid:anac-feed-833adad4-1591-4b70-8410-05a38a7a2e1c</id>
+  <updated>2025-11-21T11:31:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Base de dados da Anac e Decea passa a compartilhar dados de tráfego aéreo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/base-de-dados-da-anac-e-decea-passa-a-compartilhar-dados-de-trafego-aereo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/base-de-dados-da-anac-e-decea-passa-a-compartilhar-dados-de-trafego-aereo</id>
+    <published>2025-11-21T11:31:00.000Z</published>
+    <updated>2025-11-21T11:31:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -579,25 +598,6 @@ Relator: Luiz Ricardo Nascimento</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">SMS Brasil: há 10 anos contribuindo com a segurança operacional da aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil</id>
-    <published>2025-10-23T17:52:00.000Z</published>
-    <updated>2025-10-23T17:52:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprendizado e aprimoramento de todas as operações aéreas foram foco da 10ª edição</summary>
-    <content type="html"><![CDATA[
-      <p>Aprendizado e aprimoramento de todas as operações aéreas foram foco da 10ª edição</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/sms-brasil-ha-10-anos-contribuindo-com-a-seguranca-operacional-da-aviacao-civil/agd_8329-2.jpg/@@images/59f80cb8-db1a-4f34-a94a-e666daf4656b.jpeg" alt="SMS Brasil: há 10 anos contribuindo com a segurança operacional da aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
