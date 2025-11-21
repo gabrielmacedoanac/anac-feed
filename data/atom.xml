@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-833adad4-1591-4b70-8410-05a38a7a2e1c</id>
-  <updated>2025-11-21T11:31:00.000Z</updated>
+  <id>urn:uuid:anac-feed-d26cb280-ba21-417e-b51c-a99b82e20217</id>
+  <updated>2025-11-21T15:24:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,7 +14,64 @@
   
   
   <entry>
-    <title type="html">Base de dados da Anac e Decea passa a compartilhar dados de tráfego aéreo</title>
+    <title type="html">Anac simplifica o processo de autorização para drones em operações de baixo risco</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco</id>
+    <published>2025-11-21T15:24:00.000Z</published>
+    <updated>2025-11-21T15:24:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A Instrução Suplementar moderniza o processo de autorização de projeto de drones</summary>
+    <content type="html"><![CDATA[
+      <p>A Instrução Suplementar moderniza o processo de autorização de projeto de drones</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Semana Safety chega à 3ª edição de 2025, em São Paulo (SP)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp</id>
+    <published>2025-11-21T15:06:00.000Z</published>
+    <updated>2025-11-21T15:06:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Representantes da Anac e de regulados se reuniram para debater desafios e boas práticas de safety, com foco nas particularidades da Região Sudeste</summary>
+    <content type="html"><![CDATA[
+      <p>Representantes da Anac e de regulados se reuniram para debater desafios e boas práticas de safety, com foco nas particularidades da Região Sudeste</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp/agd_8616.jpg/@@images/0d122590-fc3a-4d88-8a43-0e24d094315d.jpeg" alt="Semana Safety chega à 3ª edição de 2025, em São Paulo (SP)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Consulta pública recebe contribuições para regulamentar o Programa Nacional de Combustível Sustentável de Aviação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-recebe-contribuicoes-para-regulamentar-o-programa-nacional-de-combustivel-sustentavel-de-aviacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-recebe-contribuicoes-para-regulamentar-o-programa-nacional-de-combustivel-sustentavel-de-aviacao</id>
+    <published>2025-11-21T14:48:00.000Z</published>
+    <updated>2025-11-21T14:48:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Manifestações devem ser enviadas até o dia 28/12 pela plataforma Participa + Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>Manifestações devem ser enviadas até o dia 28/12 pela plataforma Participa + Brasil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Decea iniciam compartilhamento de dados de tráfego aéreo</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/base-de-dados-da-anac-e-decea-passa-a-compartilhar-dados-de-trafego-aereo" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/base-de-dados-da-anac-e-decea-passa-a-compartilhar-dados-de-trafego-aereo</id>
     <published>2025-11-21T11:31:00.000Z</published>
@@ -511,63 +568,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <content type="html"><![CDATA[
       <p>Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png" alt="Anac abre tomada de subsídios sobre aprovação de dados técnicos de reparos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Balonismo tem novas regras no Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-no-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/balonismo-tera-novas-regras-no-brasil</id>
-    <published>2025-10-31T11:30:00.000Z</published>
-    <updated>2025-10-31T11:30:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura</summary>
-    <content type="html"><![CDATA[
-      <p>Resolução aprovada pela Anac traz requisitos mínimos e processo de transição para prática de voos comerciais com balão de forma segura</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">3ª Oficina de Melhoria Contínua AVSEC reúne 300 profissionais de aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/3a-oficina-de-melhoria-continua-avsec-reune-300-profissionais-de-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/3a-oficina-de-melhoria-continua-avsec-reune-300-profissionais-de-aviacao-civil</id>
-    <published>2025-10-29T16:39:00.000Z</published>
-    <updated>2025-10-29T16:39:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O evento abordou temas estratégicos como Programas de Segurança Aeroportuária e Segurança Cibernética</summary>
-    <content type="html"><![CDATA[
-      <p>O evento abordou temas estratégicos como Programas de Segurança Aeroportuária e Segurança Cibernética</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aeroporto do Rio Grande do Norte recebeu workshop sobre combate ao tráfico de pessoas na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil</id>
-    <published>2025-10-29T10:49:00.000Z</published>
-    <updated>2025-10-29T10:49:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Ação compõe o projeto Liberdade no Ar</summary>
-    <content type="html"><![CDATA[
-      <p>Ação compõe o projeto Liberdade no Ar</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aeroporto-do-rio-grande-do-norte-recebeu-workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil/workshop-sobre-combate-ao-trafico-de-pessoas-na-aviacao-civil/@@images/adc9c730-7630-4e33-a6d6-645884f20b0d.jpeg" alt="Aeroporto do Rio Grande do Norte recebeu workshop sobre combate ao tráfico de pessoas na aviação civil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
