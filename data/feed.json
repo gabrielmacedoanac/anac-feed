@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d26cb280-ba21-417e-b51c-a99b82e20217",
+  "identifier": "urn:uuid:anac-feed-15ffabe2-6cb6-4511-83fe-d94ca5a3fa56",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-21T20:16:00.792Z",
-  "dateModified": "2025-11-21T20:16:00.792Z",
+  "dateCreated": "2025-11-22T01:04:53.401Z",
+  "dateModified": "2025-11-22T01:04:53.401Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-11-21T15:24:00.000Z"
+    "endDate": "2025-11-21T17:36:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil",
+      "datePublished": "2025-11-21T17:36:00.000Z",
+      "description": "Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil/workshop2.jpg/@@images/3688161f-7e73-4f2b-b785-47423856fde4.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac simplifica o processo de autorização para drones em operações de baixo risco",
@@ -139,7 +148,7 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Aberta consulta pública sobre projeto, produção e identificação de peças aprovadas",
+      "name": "Aberta consulta pública sobre alterações em requisitos de projeto, produção e identificação de peças aprovadas",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-alteracoes-em-requisitos-de-projeto-producao-e-identificacao-de-pecas-aprovadas",
       "datePublished": "2025-11-13T16:31:00.000Z",
       "description": "Contribuições para RBACs 21 e 45 serão recebidas até dia 29 de dezembro",
@@ -274,15 +283,6 @@
       "datePublished": "2025-11-04T11:15:00.000Z",
       "description": "Reunião foi realizada entre 27 e 31 de outubro para a discussão sobre rotas para estimular a adoção de combustíveis sustentáveis na aviação mundial",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-sedia-reuniao-de-grupo-de-trabalho-da-oaci-sobre-combustiveis-sustentaveis/whatsapp-image-2025-10-31-at-11-38-34.jpeg/@@images/e1e84938-bed7-4c10-903a-ef807fdb6649.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac abre tomada de subsídios sobre aprovação de dados técnicos de reparos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos",
-      "datePublished": "2025-11-04T10:01:00.000Z",
-      "description": "Prazo para contribuições vai até 1º de dezembro; objetivo é analisar a possibilidade de estender a aprovação de dados a outras organizações",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-abre-tomada-de-subsidios-sobre-aprovacao-de-dados-tecnicos-de-reparos/banner-portal_1-8.png/@@images/0d319366-08dc-438d-bece-ba4706d9d38e.png",
       "type": "notícia"
     },
     {
