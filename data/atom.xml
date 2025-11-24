@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-10e19790-33be-40a8-a2f2-119356b3f2e4</id>
-  <updated>2025-11-21T17:36:00.000Z</updated>
+  <id>urn:uuid:anac-feed-9c087104-2b91-4664-a94b-80580af1648a</id>
+  <updated>2025-11-24T10:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Outubro bate novos recordes no transporte aéreo de passageiros</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros</id>
+    <published>2025-11-24T10:01:00.000Z</published>
+    <updated>2025-11-24T10:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</summary>
+    <content type="html"><![CDATA[
+      <p>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" alt="Outubro bate novos recordes no transporte aéreo de passageiros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -44,7 +63,7 @@
     <summary type="html">A Instrução Suplementar moderniza o processo de autorização de projeto de drones</summary>
     <content type="html"><![CDATA[
       <p>A Instrução Suplementar moderniza o processo de autorização de projeto de drones</p>
-      
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco/portal.png/@@images/02f01c39-ad78-4844-b0f8-78abc86f4b5e.png" alt="Anac simplifica o processo de autorização para drones em operações de baixo risco">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -529,25 +548,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     <summary type="html">Os profissionais devem ficar atentos às alterações e providenciar mudanças, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</summary>
     <content type="html"><![CDATA[
       <p>Os profissionais devem ficar atentos às alterações e providenciar mudanças, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Guia orienta condução de entrevistas para diretores e gerentes de manutenção</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao</id>
-    <published>2025-11-05T16:44:00.000Z</published>
-    <updated>2025-11-05T16:44:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos</summary>
-    <content type="html"><![CDATA[
-      <p>Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

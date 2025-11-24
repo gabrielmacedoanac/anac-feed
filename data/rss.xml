@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 24 Nov 2025 12:30:21 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 12:30:21 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 16:16:10 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 16:16:10 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Outubro bate novos recordes no transporte aéreo de passageiros</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros</link>
+      <description>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</description>
+      <pubDate>Mon, 24 Nov 2025 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-11-24T10:01:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" alt="Outubro bate novos recordes no transporte aéreo de passageiros">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -36,11 +53,11 @@
       <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2025-11-21T15:24:00.000Z</dc:date>
-      
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco/portal.png/@@images/02f01c39-ad78-4844-b0f8-78abc86f4b5e.png" type="image/jpeg"/>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>A Instrução Suplementar moderniza o processo de autorização de projeto de drones</p>
-        
+        <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco/portal.png/@@images/02f01c39-ad78-4844-b0f8-78abc86f4b5e.png" alt="Anac simplifica o processo de autorização para drones em operações de baixo risco">
       ]]></content:encoded>
     </item>
     
@@ -475,23 +492,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Os profissionais devem ficar atentos às alterações e providenciar mudanças, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Guia orienta condução de entrevistas para diretores e gerentes de manutenção</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao</link>
-      <description>Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos</description>
-      <pubDate>Wed, 05 Nov 2025 16:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-11-05T16:44:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos</p>
         
       ]]></content:encoded>
     </item>

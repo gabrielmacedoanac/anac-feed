@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-10e19790-33be-40a8-a2f2-119356b3f2e4",
+  "identifier": "urn:uuid:anac-feed-9c087104-2b91-4664-a94b-80580af1648a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-24T12:30:21.658Z",
-  "dateModified": "2025-11-24T12:30:21.658Z",
+  "dateCreated": "2025-11-24T16:16:10.216Z",
+  "dateModified": "2025-11-24T16:16:10.216Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-11-21T17:36:00.000Z"
+    "endDate": "2025-11-24T10:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Outubro bate novos recordes no transporte aéreo de passageiros",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros",
+      "datePublished": "2025-11-24T10:01:00.000Z",
+      "description": "Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil",
@@ -48,6 +57,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco",
       "datePublished": "2025-11-21T15:24:00.000Z",
       "description": "A Instrução Suplementar moderniza o processo de autorização de projeto de drones",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco/portal.png/@@images/02f01c39-ad78-4844-b0f8-78abc86f4b5e.png",
       "type": "notícia"
     },
     {
@@ -266,14 +276,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-campos-de-categorias-de-aeronaves-no-rab-digital-irao-acontecer-em-1o-de-janeiro-de-2026",
       "datePublished": "2025-11-06T15:36:00.000Z",
       "description": "Os profissionais devem ficar atentos às alterações e providenciar mudanças, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Guia orienta condução de entrevistas para diretores e gerentes de manutenção",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/guia-orienta-conducao-de-entrevistas-para-diretores-e-gerentes-de-manutencao",
-      "datePublished": "2025-11-05T16:44:00.000Z",
-      "description": "Material elenca temas técnicos e regulatórios a serem tratados em entrevistas com postulantes aos cargos",
       "type": "notícia"
     },
     {
