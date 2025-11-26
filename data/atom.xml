@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-61c375a3-e676-4139-b62f-b506e8484abf</id>
-  <updated>2025-11-25T19:16:00.000Z</updated>
+  <id>urn:uuid:anac-feed-8e478a09-b21a-49b6-bcf2-db8d28c4e86b</id>
+  <updated>2025-11-26T15:47:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac amplia cooperação internacional no Dubai Airshow 2025</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025</id>
+    <published>2025-11-26T15:47:00.000Z</published>
+    <updated>2025-11-26T15:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025/las01220.jpg/@@images/6dc778b7-d162-4a55-8894-e834e1fce711.jpeg" alt="Anac amplia cooperação internacional no Dubai Airshow 2025">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -552,25 +571,6 @@ Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Mudanças nos campos de categorias de aeronaves no RAB Digital irão acontecer em 1º de janeiro de 2026</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-campos-de-categorias-de-aeronaves-no-rab-digital-irao-acontecer-em-1o-de-janeiro-de-2026" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-campos-de-categorias-de-aeronaves-no-rab-digital-irao-acontecer-em-1o-de-janeiro-de-2026</id>
-    <published>2025-11-06T15:36:00.000Z</published>
-    <updated>2025-11-06T15:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Os profissionais devem ficar atentos às alterações e providenciar mudanças, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</summary>
-    <content type="html"><![CDATA[
-      <p>Os profissionais devem ficar atentos às alterações e providenciar mudanças, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
