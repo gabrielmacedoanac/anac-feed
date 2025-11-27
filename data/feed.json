@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f1e1c39b-785a-4b8f-a761-6bba9b6222d5",
+  "identifier": "urn:uuid:anac-feed-8ba25965-a467-40fe-9636-d4a0eb3c78c2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-27T12:30:37.814Z",
-  "dateModified": "2025-11-27T12:30:37.814Z",
+  "dateCreated": "2025-11-27T16:18:06.013Z",
+  "dateModified": "2025-11-27T16:18:06.013Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-11-26T21:38:00.000Z"
+    "endDate": "2025-11-27T11:30:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,41 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Super App da Anac: Uma nova jornada, agora para pilotos comerciais",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais",
+      "datePublished": "2025-11-27T11:30:00.000Z",
+      "description": "Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais/whatsapp-12.png/@@images/02ccbe0e-d9c2-4dd3-aac1-cc83df69d0c9.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realiza webinário sobre nova IS de autorização de drones",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones",
+      "datePublished": "2025-11-27T10:08:00.000Z",
+      "description": "Servidores da Agência apresentarão os principais pontos da IS E94-004 e responderão dúvidas sobre a norma",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones/portal-1.png/@@images/17f6e057-8094-4d79-96ff-4bc4faee012e.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac negocia débitos por meio do programa Resolve Dívidas AGU",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-negocia-debitos-por-meio-do-programa-resolve-dividas-agu",
+      "datePublished": "2025-11-27T09:57:00.000Z",
+      "description": "Interessados em quitar dívidas devem se cadastrar no portal Resolve Dívidas AGU até 30 de abril de 2026",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac atuará na implementação de projeto de fortalecimento da aviação civil de Moçambique",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique",
+      "datePublished": "2025-11-27T09:43:00.000Z",
+      "description": "Iniciativa faz parte dos acordos assinados pelo presidente Lula em cerimônia na capital de Moçambique, Maputo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique/54943856294_3c393ce9c6_c.jpg/@@images/334bff50-9b80-4ff4-9138-af33387d115c.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac apoia decisão do STF que suspende processos judiciais contra aéreas",
@@ -241,41 +276,6 @@
       "datePublished": "2025-11-11T10:07:00.000Z",
       "description": "Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental/1761008173258.jpeg/@@images/26611ced-c140-4267-9cce-0730cf27266a.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac trabalha há 18 meses pela segurança dos voos durante a COP30",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-trabalha-ha-18-meses-pela-seguranca-dos-voos-durante-a-cop30",
-      "datePublished": "2025-11-10T19:00:00.000Z",
-      "description": "Equipe de técnicos atua para garantir o bom funcionamento das operações em Belém",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-trabalha-ha-18-meses-pela-seguranca-dos-voos-durante-a-cop30/whatsapp-image-2025-11-09-at-12-10-22.jpeg/@@images/e7b28db3-7552-4fd3-ad5c-3d86cdcd758e.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novos acordos fortalecem integração aérea na América Latina",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina",
-      "datePublished": "2025-11-10T17:19:00.000Z",
-      "description": "Assinatura de dois instrumentos de cooperação pela aviação regional ocorreu durante a 26ª Assembleia da Comissão Latino-Americana de Aviação Civil (CLAC)",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-firma-acordos-para-fortalecer-integracao-aerea-na-america-latina/whatsapp-image-2025-11-08-at-18-28-31.jpeg/@@images/f1d9b9e5-52fe-4beb-9bb6-570ceec611c3.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac participa de debates sobre concessões, investimentos e regulação em São Paulo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo",
-      "datePublished": "2025-11-10T15:28:00.000Z",
-      "description": "Eventos trataram de perspectivas para modernizar aeroportos e aprimorar a gestão de contratos de concessão",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-de-debates-sobre-concessoes-investimentos-e-regulacao-em-sao-paulo/gri_anac-sp.jpg/@@images/6a61d5f5-cf49-471c-899c-246561fb36c2.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Webinário discute manutenção e operação segura do Embraer Ipanema",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/webinario-da-anac-discute-manutencao-e-operacao-segura-do-embraer-ipanema",
-      "datePublished": "2025-11-10T12:02:00.000Z",
-      "description": "Evento reúne profissionais para tratar de práticas que fortalecem a segurança das operações aeroagrícolas no país",
       "type": "notícia"
     },
     {
