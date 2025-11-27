@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8e478a09-b21a-49b6-bcf2-db8d28c4e86b</id>
-  <updated>2025-11-26T15:47:00.000Z</updated>
+  <id>urn:uuid:anac-feed-7384a30d-2d6e-4877-a4f5-ccd8628ec11c</id>
+  <updated>2025-11-26T21:38:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac apoia decisão do STF que suspende processos judiciais contra aéreas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas</id>
+    <published>2025-11-26T21:38:00.000Z</published>
+    <updated>2025-11-26T21:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria</id>
+    <published>2025-11-26T17:25:00.000Z</published>
+    <updated>2025-11-26T17:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria/whatsapp-image-2025-11-26-at-16-25-27.jpeg/@@images/a2dddb45-ed3c-4f33-af7e-173ade491523.jpeg" alt="Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -505,44 +543,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Evento reúne profissionais para tratar de práticas que fortalecem a segurança das operações aeroagrícolas no país</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">São Paulo (SP) receberá a última etapa da Semana Safety de 2025, nos dias 17 a 19/11</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11</id>
-    <published>2025-11-07T14:16:00.000Z</published>
-    <updated>2025-11-07T14:16:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O evento destacará as particularidades da segurança operacional na região sudeste do país</summary>
-    <content type="html"><![CDATA[
-      <p>O evento destacará as particularidades da segurança operacional na região sudeste do país</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11/s-safety_sp_nov___linkedin___.png/@@images/c7136dc3-b27c-4273-8cbb-6cbb7bfc068e.png" alt="São Paulo (SP) receberá a última etapa da Semana Safety de 2025, nos dias 17 a 19/11">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac convoca a 2ª turma de aprovados no concurso para realização do curso de formação com início em 18/12</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-convoca-a-2a-turma-de-aprovados-no-concurso-para-realizacao-do-curso-de-formacao-com-inicio-em-18-12" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-convoca-a-2a-turma-de-aprovados-no-concurso-para-realizacao-do-curso-de-formacao-com-inicio-em-18-12</id>
-    <published>2025-11-07T09:34:00.000Z</published>
-    <updated>2025-11-07T09:34:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A convocação da 2ª turma atende ao provimento adicional de 35 vagas, à reposição de uma desistência da primeira chamada e a casos de decisão judicial</summary>
-    <content type="html"><![CDATA[
-      <p>A convocação da 2ª turma atende ao provimento adicional de 35 vagas, à reposição de uma desistência da primeira chamada e a casos de decisão judicial</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-convoca-a-2a-turma-de-aprovados-no-concurso-para-realizacao-do-curso-de-formacao-com-inicio-em-18-12/linkedin-25.png/@@images/c9b0dc72-3a8d-49f5-8b86-de7ede0e4289.png" alt="Anac convoca a 2ª turma de aprovados no concurso para realização do curso de formação com início em 18/12">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

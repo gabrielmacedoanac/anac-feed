@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8e478a09-b21a-49b6-bcf2-db8d28c4e86b",
+  "identifier": "urn:uuid:anac-feed-7384a30d-2d6e-4877-a4f5-ccd8628ec11c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-26T20:15:55.783Z",
-  "dateModified": "2025-11-26T20:15:55.783Z",
+  "dateCreated": "2025-11-27T01:07:10.966Z",
+  "dateModified": "2025-11-27T01:07:10.966Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-11-26T15:47:00.000Z"
+    "endDate": "2025-11-26T21:38:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac apoia decisão do STF que suspende processos judiciais contra aéreas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas",
+      "datePublished": "2025-11-26T21:38:00.000Z",
+      "description": "Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria",
+      "datePublished": "2025-11-26T17:25:00.000Z",
+      "description": "Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria/whatsapp-image-2025-11-26-at-16-25-27.jpeg/@@images/a2dddb45-ed3c-4f33-af7e-173ade491523.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac amplia cooperação internacional no Dubai Airshow 2025",
@@ -259,24 +276,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/webinario-da-anac-discute-manutencao-e-operacao-segura-do-embraer-ipanema",
       "datePublished": "2025-11-10T12:02:00.000Z",
       "description": "Evento reúne profissionais para tratar de práticas que fortalecem a segurança das operações aeroagrícolas no país",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "São Paulo (SP) receberá a última etapa da Semana Safety de 2025, nos dias 17 a 19/11",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11",
-      "datePublished": "2025-11-07T14:16:00.000Z",
-      "description": "O evento destacará as particularidades da segurança operacional na região sudeste do país",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/sao-paulo-sp-recebera-a-ultima-etapa-da-semana-safety-de-2025-nos-dias-17-a-19-11/s-safety_sp_nov___linkedin___.png/@@images/c7136dc3-b27c-4273-8cbb-6cbb7bfc068e.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac convoca a 2ª turma de aprovados no concurso para realização do curso de formação com início em 18/12",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-convoca-a-2a-turma-de-aprovados-no-concurso-para-realizacao-do-curso-de-formacao-com-inicio-em-18-12",
-      "datePublished": "2025-11-07T09:34:00.000Z",
-      "description": "A convocação da 2ª turma atende ao provimento adicional de 35 vagas, à reposição de uma desistência da primeira chamada e a casos de decisão judicial",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-convoca-a-2a-turma-de-aprovados-no-concurso-para-realizacao-do-curso-de-formacao-com-inicio-em-18-12/linkedin-25.png/@@images/c9b0dc72-3a8d-49f5-8b86-de7ede0e4289.png",
       "type": "notícia"
     },
     {
