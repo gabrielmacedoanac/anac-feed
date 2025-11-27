@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e9e011f1-87bf-4f1a-b9ee-96fb04fee0fe",
+  "identifier": "urn:uuid:anac-feed-f3695657-bbc5-452f-aa29-72f7cf86540b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-27T20:14:03.889Z",
-  "dateModified": "2025-11-27T20:14:03.889Z",
+  "dateCreated": "2025-11-27T20:52:05.938Z",
+  "dateModified": "2025-11-27T20:52:05.938Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-27T11:30:00.000Z"
+    "endDate": "2025-11-27T17:47:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos",
+      "datePublished": "2025-11-27T17:47:00.000Z",
+      "description": "O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos/54950261555_475a529e2d_c-1.jpg/@@images/dbec8b87-7833-426d-8e06-afd49c3fcbe8.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil e Angola participam de capacitação em Aviação Sustentável",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel",
+      "datePublished": "2025-11-27T17:45:00.000Z",
+      "description": "Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel/abertura_.jpg/@@images/17915ad6-6514-4077-8c68-f32244ee9632.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Super App da Anac: Uma nova jornada, agora para pilotos comerciais",
@@ -252,15 +270,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Workshop da Anac e da Asbrad discute combate e prevenção ao tráfico de pessoas no setor aéreo no dia 18/11, às 14h",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h",
-      "datePublished": "2025-11-12T16:59:00.000Z",
-      "description": "Evento em Brasília (DF) integra o Projeto Liberdade no Ar e busca capacitar profissionais da aviação civil para identificar e prevenir situações de tráfico de pessoas",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h/pecas-workshop-combate-e-prevencao-ao-trafico-humano_linkedin.png/@@images/baa5e2c4-30bc-483b-9e01-1eb040d79049.png",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Embraer Ipanema: boas práticas de segurança",
       "url": "https://www.youtube.com/watch?v=oIgGzr1zey8",
@@ -268,15 +277,6 @@
       "description": "Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv",
       "image": "https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental",
-      "datePublished": "2025-11-11T10:07:00.000Z",
-      "description": "Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental/1761008173258.jpeg/@@images/26611ced-c140-4267-9cce-0730cf27266a.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

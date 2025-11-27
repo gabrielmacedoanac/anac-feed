@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e9e011f1-87bf-4f1a-b9ee-96fb04fee0fe</id>
-  <updated>2025-11-27T11:30:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f3695657-bbc5-452f-aa29-72f7cf86540b</id>
+  <updated>2025-11-27T17:47:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos</id>
+    <published>2025-11-27T17:47:00.000Z</published>
+    <updated>2025-11-27T17:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal</summary>
+    <content type="html"><![CDATA[
+      <p>O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos/54950261555_475a529e2d_c-1.jpg/@@images/dbec8b87-7833-426d-8e06-afd49c3fcbe8.jpeg" alt="AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Brasil e Angola participam de capacitação em Aviação Sustentável</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel</id>
+    <published>2025-11-27T17:45:00.000Z</published>
+    <updated>2025-11-27T17:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel/abertura_.jpg/@@images/17915ad6-6514-4077-8c68-f32244ee9632.jpeg" alt="Brasil e Angola participam de capacitação em Aviação Sustentável">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -493,25 +531,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
   
   
   <entry>
-    <title type="html">Workshop da Anac e da Asbrad discute combate e prevenção ao tráfico de pessoas no setor aéreo no dia 18/11, às 14h</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h</id>
-    <published>2025-11-12T16:59:00.000Z</published>
-    <updated>2025-11-12T16:59:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento em Brasília (DF) integra o Projeto Liberdade no Ar e busca capacitar profissionais da aviação civil para identificar e prevenir situações de tráfico de pessoas</summary>
-    <content type="html"><![CDATA[
-      <p>Evento em Brasília (DF) integra o Projeto Liberdade no Ar e busca capacitar profissionais da aviação civil para identificar e prevenir situações de tráfico de pessoas</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/workshop-da-anac-e-da-asbrad-discute-combate-e-prevencao-ao-trafico-de-pessoas-no-setor-aereo-no-dia-18-11-as-14h/pecas-workshop-combate-e-prevencao-ao-trafico-humano_linkedin.png/@@images/baa5e2c4-30bc-483b-9e01-1eb040d79049.png" alt="Workshop da Anac e da Asbrad discute combate e prevenção ao tráfico de pessoas no setor aéreo no dia 18/11, às 14h">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Embraer Ipanema: boas práticas de segurança</title>
     <link href="https://www.youtube.com/watch?v=oIgGzr1zey8" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=oIgGzr1zey8</id>
@@ -527,25 +546,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental</id>
-    <published>2025-11-11T10:07:00.000Z</published>
-    <updated>2025-11-11T10:07:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral</summary>
-    <content type="html"><![CDATA[
-      <p>Documento simplifica processos de certificação e promove outros ajustes na cooperação bilateral</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-easa-assinam-emenda-ao-acordo-para-certificacao-de-aeronavegabilidade-e-ambiental/1761008173258.jpeg/@@images/26611ced-c140-4267-9cce-0730cf27266a.jpeg" alt="Anac e EASA assinam emenda ao acordo para certificação de aeronavegabilidade e ambiental">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
