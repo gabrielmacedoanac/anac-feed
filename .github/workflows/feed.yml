@@ -23,10 +23,11 @@ jobs:
           deno-version: v1.x
               
       - name: ▶️ Executar script Deno
-        run: deno run --allow-net=www.anac.gov.br,8.8.8.8,8.8.4.4 --allow-read --allow-write --unsafely-ignore-certificate-errors --allow-run src/main.ts    
+        run: deno run --allow-net --allow-read --allow-write --unsafely-ignore-certificate-errors --allow-run src/main.ts    
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automatic Update Anac Feed"
+
 
