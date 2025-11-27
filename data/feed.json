@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8ba25965-a467-40fe-9636-d4a0eb3c78c2",
+  "identifier": "urn:uuid:anac-feed-e9e011f1-87bf-4f1a-b9ee-96fb04fee0fe",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-27T16:18:06.013Z",
-  "dateModified": "2025-11-27T16:18:06.013Z",
+  "dateCreated": "2025-11-27T20:14:03.889Z",
+  "dateModified": "2025-11-27T20:14:03.889Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-08-30T07:56:49.000Z",
+    "startDate": "2025-08-29T07:48:04.000Z",
     "endDate": "2025-11-27T11:30:00.000Z"
   },
   "distribution": [
@@ -352,15 +352,6 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Webinário &quot;Acordos Bilaterais EASA, UK, CAA e FAA para Organizações de Manutenção&quot;",
-      "url": "https://www.youtube.com/watch?v=hlRq2eZOm18",
-      "datePublished": "2025-09-19T14:45:05.000Z",
-      "description": "A ANAC firmou acordos de manutenção aeronáutica com as principais autoridades estrangeiras (EASA, UK, CAA e FAA) para convalidação de certificados, possibilitando que organizações de manutenção brasileiras possam realizar manutenção em aeronaves desses países. Para tanto, é necessário que a OM convalide seu certificado com a outra autoridade. O evento apresenta os requisitos e processo para convalidação de certificados de OM com autoridades estrangeiras.\n\nLink Slido: https://app.sli.do/event/o7T9gqeVfFuQ26efqcNjLr",
-      "image": "https://i1.ytimg.com/vi/hlRq2eZOm18/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
       "name": "12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)",
       "url": "https://www.youtube.com/watch?v=FBySE3Veewg",
       "datePublished": "2025-09-18T00:39:56.000Z",
@@ -384,6 +375,15 @@
       "datePublished": "2025-08-30T07:56:49.000Z",
       "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y\n\nAPRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip",
       "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Webinário Engenharia de Aeroportos 2025",
+      "url": "https://www.youtube.com/watch?v=ijUF7KGaE1Q",
+      "datePublished": "2025-08-29T07:48:04.000Z",
+      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/aQHew5VUdemc28vnaP2W7H",
+      "image": "https://i2.ytimg.com/vi/ijUF7KGaE1Q/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
