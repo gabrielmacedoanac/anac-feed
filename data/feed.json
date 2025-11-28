@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2e5b467e-8128-4236-9c56-449074703ff6",
+  "identifier": "urn:uuid:anac-feed-6e12ad14-a1fa-49b3-a38a-e006ead5a16a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-11-28T16:17:39.625Z",
-  "dateModified": "2025-11-28T16:17:39.625Z",
+  "dateCreated": "2025-11-28T20:15:25.096Z",
+  "dateModified": "2025-11-28T20:15:25.096Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-11-27T17:47:00.000Z"
+    "endDate": "2025-11-28T16:10:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem",
+      "datePublished": "2025-11-28T16:10:00.000Z",
+      "description": "Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem/operacaocop1-1.jpeg/@@images/eaacff5f-5f6a-4a5d-8d49-59a52c391ab2.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos",
@@ -260,14 +269,6 @@
       "description": "Link do slido - https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv/live/questions",
       "image": "https://i1.ytimg.com/vi/l9awSyOHY0g/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Senado debate acessibilidade no transporte aéreo em audiência pública",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/senado-debate-acessibilidade-no-transporte-aereo-em-audiencia-publica",
-      "datePublished": "2025-11-12T18:37:00.000Z",
-      "description": "Anac apresentou ações e recolheu contribuições para a nova resolução voltada às pessoas com deficiência",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

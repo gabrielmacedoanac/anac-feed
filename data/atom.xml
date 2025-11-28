@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2e5b467e-8128-4236-9c56-449074703ff6</id>
-  <updated>2025-11-27T17:47:00.000Z</updated>
+  <id>urn:uuid:anac-feed-6e12ad14-a1fa-49b3-a38a-e006ead5a16a</id>
+  <updated>2025-11-28T16:10:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem</id>
+    <published>2025-11-28T16:10:00.000Z</published>
+    <updated>2025-11-28T16:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense</summary>
+    <content type="html"><![CDATA[
+      <p>Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem/operacaocop1-1.jpeg/@@images/eaacff5f-5f6a-4a5d-8d49-59a52c391ab2.jpeg" alt="COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -508,25 +527,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Senado debate acessibilidade no transporte aéreo em audiência pública</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/senado-debate-acessibilidade-no-transporte-aereo-em-audiencia-publica" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/senado-debate-acessibilidade-no-transporte-aereo-em-audiencia-publica</id>
-    <published>2025-11-12T18:37:00.000Z</published>
-    <updated>2025-11-12T18:37:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac apresentou ações e recolheu contribuições para a nova resolução voltada às pessoas com deficiência</summary>
-    <content type="html"><![CDATA[
-      <p>Anac apresentou ações e recolheu contribuições para a nova resolução voltada às pessoas com deficiência</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
