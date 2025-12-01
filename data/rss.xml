@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 01 Dec 2025 12:31:10 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 12:31:10 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 16:20:50 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 16:20:50 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Falsas ameaças de bomba crescem 68% em menos de um ano</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano</link>
+      <description>A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</description>
+      <pubDate>Mon, 01 Dec 2025 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-12-01T12:31:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -436,23 +453,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
       <content:encoded><![CDATA[
         <p>Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos/ceus-abertos-1.jpg/@@images/29c7da8e-371d-4e9a-9759-670ebbf25dd9.jpeg" alt="Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Aberta consulta pública sobre alterações em requisitos de projeto, produção e identificação de peças aprovadas</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-alteracoes-em-requisitos-de-projeto-producao-e-identificacao-de-pecas-aprovadas</link>
-      <description>Contribuições para RBACs 21 e 45 serão recebidas até dia 29 de dezembro</description>
-      <pubDate>Thu, 13 Nov 2025 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-alteracoes-em-requisitos-de-projeto-producao-e-identificacao-de-pecas-aprovadas</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-11-13T16:31:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Contribuições para RBACs 21 e 45 serão recebidas até dia 29 de dezembro</p>
-        
       ]]></content:encoded>
     </item>
     
