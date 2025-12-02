@@ -4,13 +4,36 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-bc1983e1-2897-40fb-bed0-465d4e08eb38</id>
-  <updated>2025-12-01T12:31:00.000Z</updated>
+  <id>urn:uuid:anac-feed-14097047-b0e3-4a79-9971-230f8155f008</id>
+  <updated>2025-12-02T06:34:33.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004</title>
+    <link href="https://www.youtube.com/watch?v=iEcQMszx6gI" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=iEcQMszx6gI</id>
+    <published>2025-12-02T06:34:33.000Z</published>
+    <updated>2025-12-02T06:34:33.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) 
+ 
+Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</summary>
+    <content type="html"><![CDATA[
+      <p>Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) 
+ 
+Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
+      <img src="https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg" alt="Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -352,29 +375,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004</title>
-    <link href="https://www.youtube.com/watch?v=iEcQMszx6gI" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=iEcQMszx6gI</id>
-    <published>2025-11-19T16:44:51.000Z</published>
-    <updated>2025-11-19T16:44:51.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) 
- 
-Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</summary>
-    <content type="html"><![CDATA[
-      <p>Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) 
- 
-Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
-      <img src="https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg" alt="Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

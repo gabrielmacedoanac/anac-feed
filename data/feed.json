@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bc1983e1-2897-40fb-bed0-465d4e08eb38",
+  "identifier": "urn:uuid:anac-feed-14097047-b0e3-4a79-9971-230f8155f008",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-02T04:25:28.678Z",
-  "dateModified": "2025-12-02T04:25:28.678Z",
+  "dateCreated": "2025-12-02T08:21:58.143Z",
+  "dateModified": "2025-12-02T08:21:58.143Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-01T12:31:00.000Z"
+    "endDate": "2025-12-02T06:34:33.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004",
+      "url": "https://www.youtube.com/watch?v=iEcQMszx6gI",
+      "datePublished": "2025-12-02T06:34:33.000Z",
+      "description": "Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) \n \nLink Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW",
+      "image": "https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Falsas ameaças de bomba crescem 68% em menos de um ano",
@@ -189,15 +198,6 @@
       "datePublished": "2025-11-21T11:31:00.000Z",
       "description": "Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004",
-      "url": "https://www.youtube.com/watch?v=iEcQMszx6gI",
-      "datePublished": "2025-11-19T16:44:51.000Z",
-      "description": "Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) \n \nLink Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW",
-      "image": "https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
