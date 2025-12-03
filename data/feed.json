@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-644ad496-26fb-4dc7-aaa0-1daff5d10a9b",
+  "identifier": "urn:uuid:anac-feed-e39cafbf-93b3-46b4-8d9c-cefec1e030d3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-03T12:31:04.082Z",
-  "dateModified": "2025-12-03T12:31:04.082Z",
+  "dateCreated": "2025-12-03T16:21:09.343Z",
+  "dateModified": "2025-12-03T16:21:09.343Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-02T06:34:33.000Z"
+    "endDate": "2025-12-03T10:36:00.000Z"
   },
   "distribution": [
     {
@@ -34,11 +34,20 @@
   ],
   "items": [
     {
+      "@type": "NewsArticle",
+      "name": "Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas",
+      "datePublished": "2025-12-03T10:36:00.000Z",
+      "description": "Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas/64.jpeg/@@images/fdde96fc-e023-4e69-b330-e41fad5cee23.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004",
       "url": "https://www.youtube.com/watch?v=iEcQMszx6gI",
       "datePublished": "2025-12-02T06:34:33.000Z",
-      "description": "Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) \n \nLink Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW",
+      "description": "Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) \n\nArquivo de apresentação: https://www.gov.br/anac/pt-br/centrais-de-conteudo/arquivos/is-e94-004-dezembro-2025.pdf\n \nLink Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW",
       "image": "https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -250,15 +259,6 @@
       "datePublished": "2025-11-14T11:13:00.000Z",
       "description": "Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais/reuniao-coarf-senado.jpeg/@@images/f9f2b05c-caa6-41fa-94bf-e8494de73dc7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos",
-      "datePublished": "2025-11-13T16:53:00.000Z",
-      "description": "Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos/ceus-abertos-1.jpg/@@images/29c7da8e-371d-4e9a-9759-670ebbf25dd9.jpeg",
       "type": "notícia"
     },
     {

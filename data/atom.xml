@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-644ad496-26fb-4dc7-aaa0-1daff5d10a9b</id>
-  <updated>2025-12-02T06:34:33.000Z</updated>
+  <id>urn:uuid:anac-feed-e39cafbf-93b3-46b4-8d9c-cefec1e030d3</id>
+  <updated>2025-12-03T10:36:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas</id>
+    <published>2025-12-03T10:36:00.000Z</published>
+    <updated>2025-12-03T10:36:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens</summary>
+    <content type="html"><![CDATA[
+      <p>Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas/64.jpeg/@@images/fdde96fc-e023-4e69-b330-e41fad5cee23.jpeg" alt="Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -23,10 +42,14 @@
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) 
+
+Arquivo de apresentação: https://www.gov.br/anac/pt-br/centrais-de-conteudo/arquivos/is-e94-004-dezembro-2025.pdf
  
 Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</summary>
     <content type="html"><![CDATA[
       <p>Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) 
+
+Arquivo de apresentação: https://www.gov.br/anac/pt-br/centrais-de-conteudo/arquivos/is-e94-004-dezembro-2025.pdf
  
 Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
       <img src="https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg" alt="Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004">
@@ -486,25 +509,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais/reuniao-coarf-senado.jpeg/@@images/f9f2b05c-caa6-41fa-94bf-e8494de73dc7.jpeg" alt="Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos</id>
-    <published>2025-11-13T16:53:00.000Z</published>
-    <updated>2025-11-13T16:53:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</summary>
-    <content type="html"><![CDATA[
-      <p>Em cerimônia no Senado Federal brasileiros, representantes dos dois países exaltaram as vantagens</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-el-salvador-celebram-promulgacao-de-acordo-de-ceus-abertos/ceus-abertos-1.jpg/@@images/29c7da8e-371d-4e9a-9759-670ebbf25dd9.jpeg" alt="Brasil e El Salvador celebram promulgação de Acordo de Céus Abertos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
