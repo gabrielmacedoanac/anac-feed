@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e39cafbf-93b3-46b4-8d9c-cefec1e030d3</id>
-  <updated>2025-12-03T10:36:00.000Z</updated>
+  <id>urn:uuid:anac-feed-9f013842-dc80-4849-a56b-dc1d8cc5b12d</id>
+  <updated>2025-12-03T17:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal</id>
+    <published>2025-12-03T17:01:00.000Z</published>
+    <updated>2025-12-03T17:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata</summary>
+    <content type="html"><![CDATA[
+      <p>Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Azul assinam renovação de acordo para treinamento de pilotos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos</id>
+    <published>2025-12-03T16:38:00.000Z</published>
+    <updated>2025-12-03T16:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional</summary>
+    <content type="html"><![CDATA[
+      <p>Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos/whatsapp-image-2025-12-03-at-16-01-41.jpeg/@@images/75297913-f048-41ab-95b8-351246d36ad6.jpeg" alt="Anac e Azul assinam renovação de acordo para treinamento de pilotos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -471,44 +509,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Acordos firmados no ICAN 2025 geram novas oportunidades de operação para empresas aéreas brasileiras e estrangeiras</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea/ican-1.jpeg/@@images/487a778e-f6c4-444a-8367-4c53ef364be8.jpeg" alt="Anac avança em parcerias com 10 países e amplia conectividade aérea">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias</id>
-    <published>2025-11-14T17:03:00.000Z</published>
-    <updated>2025-11-14T17:03:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação</summary>
-    <content type="html"><![CDATA[
-      <p>Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias/midia-1.jpeg/@@images/c541028e-0af3-4b51-8f74-bfbbbe0ead5c.jpeg" alt="Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais</id>
-    <published>2025-11-14T11:13:00.000Z</published>
-    <updated>2025-11-14T11:13:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes</summary>
-    <content type="html"><![CDATA[
-      <p>Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais/reuniao-coarf-senado.jpeg/@@images/f9f2b05c-caa6-41fa-94bf-e8494de73dc7.jpeg" alt="Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

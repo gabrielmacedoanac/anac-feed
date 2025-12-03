@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e39cafbf-93b3-46b4-8d9c-cefec1e030d3",
+  "identifier": "urn:uuid:anac-feed-9f013842-dc80-4849-a56b-dc1d8cc5b12d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-03T16:21:09.343Z",
-  "dateModified": "2025-12-03T16:21:09.343Z",
+  "dateCreated": "2025-12-03T20:17:28.867Z",
+  "dateModified": "2025-12-03T20:17:28.867Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-03T10:36:00.000Z"
+    "endDate": "2025-12-03T17:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal",
+      "datePublished": "2025-12-03T17:01:00.000Z",
+      "description": "Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac e Azul assinam renovação de acordo para treinamento de pilotos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos",
+      "datePublished": "2025-12-03T16:38:00.000Z",
+      "description": "Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos/whatsapp-image-2025-12-03-at-16-01-41.jpeg/@@images/75297913-f048-41ab-95b8-351246d36ad6.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)",
@@ -241,24 +258,6 @@
       "datePublished": "2025-11-14T18:23:00.000Z",
       "description": "Acordos firmados no ICAN 2025 geram novas oportunidades de operação para empresas aéreas brasileiras e estrangeiras",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea/ican-1.jpeg/@@images/487a778e-f6c4-444a-8367-4c53ef364be8.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias",
-      "datePublished": "2025-11-14T17:03:00.000Z",
-      "description": "Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias/midia-1.jpeg/@@images/c541028e-0af3-4b51-8f74-bfbbbe0ead5c.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Coarf e presidente do Senado debatem medidas de fortalecimento das agências reguladoras federais",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais",
-      "datePublished": "2025-11-14T11:13:00.000Z",
-      "description": "Davi Alcolumbre manifestou apoio à pauta apresentada pelos dirigentes",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/coarf-e-presidente-do-senado-debatem-medidas-de-fortalecimento-das-agencias-reguladoras-federais/reuniao-coarf-senado.jpeg/@@images/f9f2b05c-caa6-41fa-94bf-e8494de73dc7.jpeg",
       "type": "notícia"
     },
     {
