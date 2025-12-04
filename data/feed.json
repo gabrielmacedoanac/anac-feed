@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9f013842-dc80-4849-a56b-dc1d8cc5b12d",
+  "identifier": "urn:uuid:anac-feed-68ea6242-f34c-4447-b6b9-e9eb2f28b7ca",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-03T20:17:28.867Z",
-  "dateModified": "2025-12-03T20:17:28.867Z",
+  "dateCreated": "2025-12-04T01:09:52.116Z",
+  "dateModified": "2025-12-04T01:09:52.116Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -39,6 +39,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal",
       "datePublished": "2025-12-03T17:01:00.000Z",
       "description": "Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal/whatsapp-image-2025-12-03-at-18-14-55.jpeg/@@images/393cafab-89bc-49d2-a858-39d87039fc05.jpeg",
       "type": "notícia"
     },
     {
