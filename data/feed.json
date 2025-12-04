@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7fd26622-0fc8-40c1-867e-ceea564afd06",
+  "identifier": "urn:uuid:anac-feed-c7c44826-8399-46ae-a4ea-78a4437ac751",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-04T16:20:45.017Z",
-  "dateModified": "2025-12-04T16:20:45.017Z",
+  "dateCreated": "2025-12-04T20:17:16.521Z",
+  "dateModified": "2025-12-04T20:17:16.521Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-03T17:01:00.000Z"
+    "endDate": "2025-12-04T13:27:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac tem primeira experiência de intercâmbio do Programa SAFA",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa",
+      "datePublished": "2025-12-04T13:27:00.000Z",
+      "description": "Inspetores de Aruba e servidores da Agência discutiram a padronização de inspeções de rampa entre operadores estrangeiros",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa/shared-image-5.jpg/@@images/e642e93a-c2bd-4017-91e4-5dc8029adb6f.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal",
@@ -250,15 +259,6 @@
       "datePublished": "2025-11-14T18:52:00.000Z",
       "description": "Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil/portal-2.png/@@images/43b82d14-8053-4227-97f9-85fb4cf12ef0.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac avança em parcerias com 10 países e amplia conectividade aérea",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea",
-      "datePublished": "2025-11-14T18:23:00.000Z",
-      "description": "Acordos firmados no ICAN 2025 geram novas oportunidades de operação para empresas aéreas brasileiras e estrangeiras",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-avanca-em-parcerias-com-10-paises-e-amplia-conectividade-aerea/ican-1.jpeg/@@images/487a778e-f6c4-444a-8367-4c53ef364be8.jpeg",
       "type": "notícia"
     },
     {
