@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d5087d8a-8c5a-4546-8b4a-0867ac51afb6</id>
-  <updated>2025-12-04T13:27:00.000Z</updated>
+  <id>urn:uuid:anac-feed-91c0b81b-d436-42fd-8b9c-0083dd6fb4f3</id>
+  <updated>2025-12-05T13:27:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac incorpora drones e tecnologia Starlink às operações de fiscalização</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao</id>
+    <published>2025-12-05T13:27:00.000Z</published>
+    <updated>2025-12-05T13:27:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ferramentas ampliam alcance, precisão e conectividade das ações da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Ferramentas ampliam alcance, precisão e conectividade das ações da Agência</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/pecas-novas-tecnologias-para-as-operacoes-de-fiscalizacao_facebook.png/@@images/93ef8a89-fdcf-412f-bc13-f95c8d199d37.png" alt="Anac incorpora drones e tecnologia Starlink às operações de fiscalização">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -490,25 +509,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias-1/midia-1.jpeg/@@images/b572438c-301a-4a82-b22e-3315e78e7ca0.jpeg" alt="Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil</id>
-    <published>2025-11-14T18:52:00.000Z</published>
-    <updated>2025-11-14T18:52:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país</summary>
-    <content type="html"><![CDATA[
-      <p>Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil/portal-2.png/@@images/43b82d14-8053-4227-97f9-85fb4cf12ef0.png" alt="Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

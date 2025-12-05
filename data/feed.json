@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d5087d8a-8c5a-4546-8b4a-0867ac51afb6",
+  "identifier": "urn:uuid:anac-feed-91c0b81b-d436-42fd-8b9c-0083dd6fb4f3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-05T16:18:55.511Z",
-  "dateModified": "2025-12-05T16:18:55.511Z",
+  "dateCreated": "2025-12-05T20:16:44.835Z",
+  "dateModified": "2025-12-05T20:16:44.835Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-04T13:27:00.000Z"
+    "endDate": "2025-12-05T13:27:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac incorpora drones e tecnologia Starlink às operações de fiscalização",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao",
+      "datePublished": "2025-12-05T13:27:00.000Z",
+      "description": "Ferramentas ampliam alcance, precisão e conectividade das ações da Agência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/pecas-novas-tecnologias-para-as-operacoes-de-fiscalizacao_facebook.png/@@images/93ef8a89-fdcf-412f-bc13-f95c8d199d37.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac tem primeira experiência de intercâmbio do Programa SAFA",
@@ -250,15 +259,6 @@
       "datePublished": "2025-11-17T15:01:00.000Z",
       "description": "Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias-1/midia-1.jpeg/@@images/b572438c-301a-4a82-b22e-3315e78e7ca0.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac autoriza Air Transat a operar voos internacionais regulares de e para o Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil",
-      "datePublished": "2025-11-14T18:52:00.000Z",
-      "description": "Companhia canadense passa a integrar o grupo de empresas estrangeiras aptas a oferecer serviços regulares no país",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-autoriza-air-transat-a-operar-voos-internacionais-regulares-de-e-para-o-brasil/portal-2.png/@@images/43b82d14-8053-4227-97f9-85fb4cf12ef0.png",
       "type": "notícia"
     },
     {
