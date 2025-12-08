@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-32205b73-f1b6-4d28-b23b-214ad157d043</id>
-  <updated>2025-12-08T13:02:00.000Z</updated>
+  <id>urn:uuid:anac-feed-37f60677-78f6-4ad8-9bef-de648de4dd41</id>
+  <updated>2025-12-08T14:04:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,7 +14,26 @@
   
   
   <entry>
-    <title type="html">Anac flexibiliza critérios para substituição de materiais de interiores de aeronaves certificadas segundo CAR 3</title>
+    <title type="html">Seminário discute autonomia das reguladoras para atrair investimentos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos</id>
+    <published>2025-12-08T14:04:00.000Z</published>
+    <updated>2025-12-08T14:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória e ampliar a atração de investimentos em infraestrutura</summary>
+    <content type="html"><![CDATA[
+      <p>Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória e ampliar a atração de investimentos em infraestrutura</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/55b4b0ee-cdf7-4a0e-86a5-ca8d757d5152.jpeg" alt="Seminário discute autonomia das reguladoras para atrair investimentos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3</id>
     <published>2025-12-08T13:02:00.000Z</published>
@@ -25,7 +44,7 @@
     <summary type="html">Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos</summary>
     <content type="html"><![CDATA[
       <p>Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg" alt="Anac flexibiliza critérios para substituição de materiais de interiores de aeronaves certificadas segundo CAR 3">
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg" alt="Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -489,25 +508,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <summary type="html">Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo</summary>
     <content type="html"><![CDATA[
       <p>Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">SEI estará fora do ar das 18h de sexta (21/11) às 10h de sábado (22/11)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/sei-estara-fora-do-ar-das-18h-de-sexta-21-11-as-10h-de-sabado-22-11" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/sei-estara-fora-do-ar-das-18h-de-sexta-21-11-as-10h-de-sabado-22-11</id>
-    <published>2025-11-18T13:02:00.000Z</published>
-    <updated>2025-11-18T13:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Sistema Eletrônico de Informações passará por atualização para correção de problemas e implementação de melhorias</summary>
-    <content type="html"><![CDATA[
-      <p>Sistema Eletrônico de Informações passará por atualização para correção de problemas e implementação de melhorias</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

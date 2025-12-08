@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-32205b73-f1b6-4d28-b23b-214ad157d043",
+  "identifier": "urn:uuid:anac-feed-37f60677-78f6-4ad8-9bef-de648de4dd41",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-08T16:20:09.159Z",
-  "dateModified": "2025-12-08T16:20:09.159Z",
+  "dateCreated": "2025-12-08T20:17:24.860Z",
+  "dateModified": "2025-12-08T20:17:24.860Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-08T13:02:00.000Z"
+    "endDate": "2025-12-08T14:04:00.000Z"
   },
   "distribution": [
     {
@@ -35,7 +35,16 @@
   "items": [
     {
       "@type": "NewsArticle",
-      "name": "Anac flexibiliza critérios para substituição de materiais de interiores de aeronaves certificadas segundo CAR 3",
+      "name": "Seminário discute autonomia das reguladoras para atrair investimentos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos",
+      "datePublished": "2025-12-08T14:04:00.000Z",
+      "description": "Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória e ampliar a atração de investimentos em infraestrutura",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/55b4b0ee-cdf7-4a0e-86a5-ca8d757d5152.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3",
       "datePublished": "2025-12-08T13:02:00.000Z",
       "description": "Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos",
@@ -251,14 +260,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/base-de-dados-da-anac-e-decea-passa-a-compartilhar-dados-de-trafego-aereo",
       "datePublished": "2025-11-21T11:31:00.000Z",
       "description": "Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "SEI estará fora do ar das 18h de sexta (21/11) às 10h de sábado (22/11)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/sei-estara-fora-do-ar-das-18h-de-sexta-21-11-as-10h-de-sabado-22-11",
-      "datePublished": "2025-11-18T13:02:00.000Z",
-      "description": "Sistema Eletrônico de Informações passará por atualização para correção de problemas e implementação de melhorias",
       "type": "notícia"
     },
     {
