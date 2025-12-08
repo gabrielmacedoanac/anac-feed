@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d98c25db-a2e9-4adc-913f-42ed36112fd4",
+  "identifier": "urn:uuid:anac-feed-32205b73-f1b6-4d28-b23b-214ad157d043",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-08T12:31:07.017Z",
-  "dateModified": "2025-12-08T12:31:07.017Z",
+  "dateCreated": "2025-12-08T16:20:09.159Z",
+  "dateModified": "2025-12-08T16:20:09.159Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-05T13:27:00.000Z"
+    "endDate": "2025-12-08T13:02:00.000Z"
   },
   "distribution": [
     {
@@ -35,11 +35,20 @@
   "items": [
     {
       "@type": "NewsArticle",
+      "name": "Anac flexibiliza critérios para substituição de materiais de interiores de aeronaves certificadas segundo CAR 3",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3",
+      "datePublished": "2025-12-08T13:02:00.000Z",
+      "description": "Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
       "name": "Anac incorpora drones e tecnologia Starlink às operações de fiscalização",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao",
       "datePublished": "2025-12-05T13:27:00.000Z",
       "description": "Ferramentas ampliam alcance, precisão e conectividade das ações da Agência",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/pecas-novas-tecnologias-para-as-operacoes-de-fiscalizacao_facebook.png/@@images/93ef8a89-fdcf-412f-bc13-f95c8d199d37.png",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/whatsapp-image-2025-12-08-at-11-17-07-1.jpeg/@@images/bf30eb2f-557e-4238-923c-af1d17976da1.jpeg",
       "type": "notícia"
     },
     {
@@ -250,15 +259,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/sei-estara-fora-do-ar-das-18h-de-sexta-21-11-as-10h-de-sabado-22-11",
       "datePublished": "2025-11-18T13:02:00.000Z",
       "description": "Sistema Eletrônico de Informações passará por atualização para correção de problemas e implementação de melhorias",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Escola do Núcleo Bandeirante (DF) recebe ação de contação de histórias",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias-1",
-      "datePublished": "2025-11-17T15:01:00.000Z",
-      "description": "Alunos do Centro Educacional Infantil participaram de atividades lúdicas sobre o mundo da aviação",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/escola-do-nucleo-bandeirante-df-recebe-acao-de-contacao-de-historias-1/midia-1.jpeg/@@images/b572438c-301a-4a82-b22e-3315e78e7ca0.jpeg",
       "type": "notícia"
     },
     {
