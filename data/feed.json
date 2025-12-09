@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5895ee8e-a49d-4cf1-bcf5-745ceeece027",
+  "identifier": "urn:uuid:anac-feed-789823db-46ee-4d84-9547-1ecbf350dd3e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-09T16:20:26.917Z",
-  "dateModified": "2025-12-09T16:20:26.917Z",
+  "dateCreated": "2025-12-09T20:15:19.774Z",
+  "dateModified": "2025-12-09T20:15:19.774Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-08T14:04:00.000Z"
+    "endDate": "2025-12-09T16:28:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Táxi-aéreo ganha ferramenta digital para certificar operadores",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores",
+      "datePublished": "2025-12-09T16:28:00.000Z",
+      "description": "Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Seminário discute autonomia das reguladoras para atrair investimentos",
@@ -252,14 +260,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-recebe-contribuicoes-para-regulamentar-o-programa-nacional-de-combustivel-sustentavel-de-aviacao",
       "datePublished": "2025-11-21T14:48:00.000Z",
       "description": "Manifestações devem ser enviadas até o dia 28/12 pela plataforma Participa + Brasil",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e Decea iniciam compartilhamento de dados de tráfego aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/base-de-dados-da-anac-e-decea-passa-a-compartilhar-dados-de-trafego-aereo",
-      "datePublished": "2025-11-21T11:31:00.000Z",
-      "description": "Integração fortalece cooperação institucional e aprimora setor aéreo por meio da troca de informações sobre aeroportos e tráfego aéreo",
       "type": "notícia"
     },
     {
