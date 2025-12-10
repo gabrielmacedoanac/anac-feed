@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-789823db-46ee-4d84-9547-1ecbf350dd3e</id>
-  <updated>2025-12-09T16:28:00.000Z</updated>
+  <id>urn:uuid:anac-feed-1f67b341-111d-4522-b64e-73afc3b75e08</id>
+  <updated>2025-12-09T17:41:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac</id>
+    <published>2025-12-09T17:41:00.000Z</published>
+    <updated>2025-12-09T17:41:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</summary>
+    <content type="html"><![CDATA[
+      <p>A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg" alt="Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -41,9 +60,9 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória e ampliar a atração de investimentos em infraestrutura</summary>
+    <summary type="html">Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</summary>
     <content type="html"><![CDATA[
-      <p>Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória e ampliar a atração de investimentos em infraestrutura</p>
+      <p>Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg" alt="Seminário discute autonomia das reguladoras para atrair investimentos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -490,25 +509,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Representantes da Anac e de regulados se reuniram para debater desafios e boas práticas de safety, com foco nas particularidades da Região Sudeste</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp/agd_8616.jpg/@@images/0d122590-fc3a-4d88-8a43-0e24d094315d.jpeg" alt="Semana Safety chega à 3ª edição de 2025, em São Paulo (SP)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Consulta pública recebe contribuições para regulamentar o Programa Nacional de Combustível Sustentável de Aviação</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-recebe-contribuicoes-para-regulamentar-o-programa-nacional-de-combustivel-sustentavel-de-aviacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-recebe-contribuicoes-para-regulamentar-o-programa-nacional-de-combustivel-sustentavel-de-aviacao</id>
-    <published>2025-11-21T14:48:00.000Z</published>
-    <updated>2025-11-21T14:48:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Manifestações devem ser enviadas até o dia 28/12 pela plataforma Participa + Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Manifestações devem ser enviadas até o dia 28/12 pela plataforma Participa + Brasil</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

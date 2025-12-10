@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-789823db-46ee-4d84-9547-1ecbf350dd3e",
+  "identifier": "urn:uuid:anac-feed-1f67b341-111d-4522-b64e-73afc3b75e08",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-09T20:15:19.774Z",
-  "dateModified": "2025-12-09T20:15:19.774Z",
+  "dateCreated": "2025-12-10T01:11:41.513Z",
+  "dateModified": "2025-12-10T01:11:41.513Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-09T16:28:00.000Z"
+    "endDate": "2025-12-09T17:41:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac",
+      "datePublished": "2025-12-09T17:41:00.000Z",
+      "description": "A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Táxi-aéreo ganha ferramenta digital para certificar operadores",
@@ -46,7 +55,7 @@
       "name": "Seminário discute autonomia das reguladoras para atrair investimentos",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos",
       "datePublished": "2025-12-08T14:04:00.000Z",
-      "description": "Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória e ampliar a atração de investimentos em infraestrutura",
+      "description": "Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg",
       "type": "notícia"
     },
@@ -252,14 +261,6 @@
       "datePublished": "2025-11-21T15:06:00.000Z",
       "description": "Representantes da Anac e de regulados se reuniram para debater desafios e boas práticas de safety, com foco nas particularidades da Região Sudeste",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp/agd_8616.jpg/@@images/0d122590-fc3a-4d88-8a43-0e24d094315d.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Consulta pública recebe contribuições para regulamentar o Programa Nacional de Combustível Sustentável de Aviação",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/consulta-publica-recebe-contribuicoes-para-regulamentar-o-programa-nacional-de-combustivel-sustentavel-de-aviacao",
-      "datePublished": "2025-11-21T14:48:00.000Z",
-      "description": "Manifestações devem ser enviadas até o dia 28/12 pela plataforma Participa + Brasil",
       "type": "notícia"
     },
     {
