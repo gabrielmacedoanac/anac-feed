@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-20eee85d-3748-4689-8ddb-ff385c687164",
+  "identifier": "urn:uuid:anac-feed-d0c82ee0-a0c7-4cf7-9ad8-ffb6fc8614b6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-11T04:30:42.160Z",
-  "dateModified": "2025-12-11T04:30:42.160Z",
+  "dateCreated": "2025-12-11T08:22:29.941Z",
+  "dateModified": "2025-12-11T08:22:29.941Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-29T07:48:04.000Z",
-    "endDate": "2025-12-09T17:41:00.000Z"
+    "endDate": "2025-12-02T06:34:33.000Z"
   },
   "distribution": [
     {
@@ -34,86 +34,6 @@
   ],
   "items": [
     {
-      "@type": "NewsArticle",
-      "name": "Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac",
-      "datePublished": "2025-12-09T17:41:00.000Z",
-      "description": "A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Táxi-aéreo ganha ferramenta digital para certificar operadores",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores",
-      "datePublished": "2025-12-09T16:28:00.000Z",
-      "description": "Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Seminário discute autonomia das reguladoras para atrair investimentos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos",
-      "datePublished": "2025-12-08T14:04:00.000Z",
-      "description": "Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3",
-      "datePublished": "2025-12-08T13:02:00.000Z",
-      "description": "Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac incorpora drones e tecnologia Starlink às operações de fiscalização",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao",
-      "datePublished": "2025-12-05T13:27:00.000Z",
-      "description": "Ferramentas ampliam alcance, precisão e conectividade das ações da Agência",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/whatsapp-image-2025-12-08-at-11-17-07-1.jpeg/@@images/bf30eb2f-557e-4238-923c-af1d17976da1.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac tem primeira experiência de intercâmbio do Programa SAFA",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa",
-      "datePublished": "2025-12-04T13:27:00.000Z",
-      "description": "Inspetores de Aruba e servidores da Agência discutiram a padronização de inspeções de rampa entre operadores estrangeiros",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa/shared-image-5.jpg/@@images/e642e93a-c2bd-4017-91e4-5dc8029adb6f.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal",
-      "datePublished": "2025-12-03T17:01:00.000Z",
-      "description": "Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal/whatsapp-image-2025-12-03-at-18-14-55.jpeg/@@images/393cafab-89bc-49d2-a858-39d87039fc05.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e Azul assinam renovação de acordo para treinamento de pilotos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos",
-      "datePublished": "2025-12-03T16:38:00.000Z",
-      "description": "Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos/whatsapp-image-2025-12-03-at-16-01-41.jpeg/@@images/75297913-f048-41ab-95b8-351246d36ad6.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas",
-      "datePublished": "2025-12-03T10:36:00.000Z",
-      "description": "Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas/64.jpeg/@@images/fdde96fc-e023-4e69-b330-e41fad5cee23.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004",
       "url": "https://www.youtube.com/watch?v=iEcQMszx6gI",
@@ -121,147 +41,6 @@
       "description": "Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) \n\nArquivo de apresentação: https://www.gov.br/anac/pt-br/centrais-de-conteudo/arquivos/is-e94-004-dezembro-2025.pdf\n \nLink Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW",
       "image": "https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Falsas ameaças de bomba crescem 68% em menos de um ano",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano",
-      "datePublished": "2025-12-01T12:31:00.000Z",
-      "description": "A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem",
-      "datePublished": "2025-11-28T16:10:00.000Z",
-      "description": "Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem/operacaocop1-1.jpeg/@@images/eaacff5f-5f6a-4a5d-8d49-59a52c391ab2.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos",
-      "datePublished": "2025-11-27T17:47:00.000Z",
-      "description": "O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos/54950261555_475a529e2d_c-1.jpg/@@images/dbec8b87-7833-426d-8e06-afd49c3fcbe8.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Brasil e Angola participam de capacitação em Aviação Sustentável",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel",
-      "datePublished": "2025-11-27T17:45:00.000Z",
-      "description": "Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel/abertura_.jpg/@@images/17915ad6-6514-4077-8c68-f32244ee9632.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Super App da Anac: Uma nova jornada, agora para pilotos comerciais",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais",
-      "datePublished": "2025-11-27T11:30:00.000Z",
-      "description": "Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais/whatsapp-12.png/@@images/02ccbe0e-d9c2-4dd3-aac1-cc83df69d0c9.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realiza webinário sobre nova IS de autorização de drones",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones",
-      "datePublished": "2025-11-27T10:08:00.000Z",
-      "description": "Servidores da Agência apresentarão os principais pontos da IS E94-004 e responderão dúvidas sobre a norma",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones/portal-1.png/@@images/17f6e057-8094-4d79-96ff-4bc4faee012e.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac negocia débitos por meio do programa Resolve Dívidas AGU",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-negocia-debitos-por-meio-do-programa-resolve-dividas-agu",
-      "datePublished": "2025-11-27T09:57:00.000Z",
-      "description": "Interessados em quitar dívidas devem se cadastrar no portal Resolve Dívidas AGU até 30 de abril de 2026",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac atuará na implementação de projeto de fortalecimento da aviação civil de Moçambique",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique",
-      "datePublished": "2025-11-27T09:43:00.000Z",
-      "description": "Iniciativa faz parte dos acordos assinados pelo presidente Lula em cerimônia na capital de Moçambique, Maputo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique/54943856294_3c393ce9c6_c.jpg/@@images/334bff50-9b80-4ff4-9138-af33387d115c.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac apoia decisão do STF que suspende processos judiciais contra aéreas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas",
-      "datePublished": "2025-11-26T21:38:00.000Z",
-      "description": "Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria",
-      "datePublished": "2025-11-26T17:25:00.000Z",
-      "description": "Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria/whatsapp-image-2025-11-26-at-16-25-27.jpeg/@@images/a2dddb45-ed3c-4f33-af7e-173ade491523.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac amplia cooperação internacional no Dubai Airshow 2025",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025",
-      "datePublished": "2025-11-26T15:47:00.000Z",
-      "description": "Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025/las01220.jpg/@@images/6dc778b7-d162-4a55-8894-e834e1fce711.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac participa do ANM 2025 com contribuições para o desenvolvimento da aviação brasileira",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira",
-      "datePublished": "2025-11-25T19:16:00.000Z",
-      "description": "Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira/whatsapp-image-2025-11-25-at-16-34-45-2.jpeg/@@images/4e1163d0-63b3-4bca-9494-1579c65c8ba7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Outubro bate novos recordes no transporte aéreo de passageiros",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros",
-      "datePublished": "2025-11-24T10:01:00.000Z",
-      "description": "Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil",
-      "datePublished": "2025-11-21T17:36:00.000Z",
-      "description": "Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil/workshop2.jpg/@@images/3688161f-7e73-4f2b-b785-47423856fde4.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac simplifica o processo de autorização para drones em operações de baixo risco",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco",
-      "datePublished": "2025-11-21T15:24:00.000Z",
-      "description": "A Instrução Suplementar moderniza o processo de autorização de projeto de drones",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-simplifica-o-processo-para-drones-em-operacoes-de-baixo-risco/portal.png/@@images/02f01c39-ad78-4844-b0f8-78abc86f4b5e.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Semana Safety chega à 3ª edição de 2025, em São Paulo (SP)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp",
-      "datePublished": "2025-11-21T15:06:00.000Z",
-      "description": "Representantes da Anac e de regulados se reuniram para debater desafios e boas práticas de safety, com foco nas particularidades da Região Sudeste",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/semana-safety-chega-a-3a-edicao-de-2025-em-sao-paulo-sp/agd_8616.jpg/@@images/0d122590-fc3a-4d88-8a43-0e24d094315d.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
