@@ -4,13 +4,222 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-3cb2a118-e785-4a42-bd43-67a7829fb899</id>
-  <updated>2025-12-02T06:34:33.000Z</updated>
+  <id>urn:uuid:anac-feed-6aa04a07-511b-4294-b14d-e25e24cde5d2</id>
+  <updated>2025-12-11T12:34:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac e MPor acompanham situação dos voos em todo o Brasil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-acompanham-situacao-dos-voos-em-todo-o-brasil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-acompanham-situacao-dos-voos-em-todo-o-brasil</id>
+    <published>2025-12-11T12:34:00.000Z</published>
+    <updated>2025-12-11T12:34:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016</summary>
+    <content type="html"><![CDATA[
+      <p>Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aprovado edital para repactuação da concessão do Aeroporto do Galeão</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao</id>
+    <published>2025-12-11T09:50:00.000Z</published>
+    <updated>2025-12-11T09:50:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento deve ser publicado no Diário Oficial da União na segunda-feira (15/12)</summary>
+    <content type="html"><![CDATA[
+      <p>Documento deve ser publicado no Diário Oficial da União na segunda-feira (15/12)</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao/linkedin_venda_galeao.jpg/@@images/d105c9d1-d5ba-4c27-aabc-3fc7aab6e7d2.jpeg" alt="Aprovado edital para repactuação da concessão do Aeroporto do Galeão">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac</id>
+    <published>2025-12-09T17:41:00.000Z</published>
+    <updated>2025-12-09T17:41:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</summary>
+    <content type="html"><![CDATA[
+      <p>A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg" alt="Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Táxi-aéreo ganha ferramenta digital para certificar operadores</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores</id>
+    <published>2025-12-09T16:28:00.000Z</published>
+    <updated>2025-12-09T16:28:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea</summary>
+    <content type="html"><![CDATA[
+      <p>Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Seminário discute autonomia das reguladoras para atrair investimentos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos</id>
+    <published>2025-12-08T14:04:00.000Z</published>
+    <updated>2025-12-08T14:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</summary>
+    <content type="html"><![CDATA[
+      <p>Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg" alt="Seminário discute autonomia das reguladoras para atrair investimentos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3</id>
+    <published>2025-12-08T13:02:00.000Z</published>
+    <updated>2025-12-08T13:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos</summary>
+    <content type="html"><![CDATA[
+      <p>Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg" alt="Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac incorpora drones e tecnologia Starlink às operações de fiscalização</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao</id>
+    <published>2025-12-05T13:27:00.000Z</published>
+    <updated>2025-12-05T13:27:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ferramentas ampliam alcance, precisão e conectividade das ações da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Ferramentas ampliam alcance, precisão e conectividade das ações da Agência</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/whatsapp-image-2025-12-08-at-11-17-07-1.jpeg/@@images/bf30eb2f-557e-4238-923c-af1d17976da1.jpeg" alt="Anac incorpora drones e tecnologia Starlink às operações de fiscalização">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac tem primeira experiência de intercâmbio do Programa SAFA</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa</id>
+    <published>2025-12-04T13:27:00.000Z</published>
+    <updated>2025-12-04T13:27:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inspetores de Aruba e servidores da Agência discutiram a padronização de inspeções de rampa entre operadores estrangeiros</summary>
+    <content type="html"><![CDATA[
+      <p>Inspetores de Aruba e servidores da Agência discutiram a padronização de inspeções de rampa entre operadores estrangeiros</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa/shared-image-5.jpg/@@images/e642e93a-c2bd-4017-91e4-5dc8029adb6f.jpeg" alt="Anac tem primeira experiência de intercâmbio do Programa SAFA">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal</id>
+    <published>2025-12-03T17:01:00.000Z</published>
+    <updated>2025-12-03T17:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata</summary>
+    <content type="html"><![CDATA[
+      <p>Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal/whatsapp-image-2025-12-03-at-18-14-55.jpeg/@@images/393cafab-89bc-49d2-a858-39d87039fc05.jpeg" alt="Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Azul assinam renovação de acordo para treinamento de pilotos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos</id>
+    <published>2025-12-03T16:38:00.000Z</published>
+    <updated>2025-12-03T16:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional</summary>
+    <content type="html"><![CDATA[
+      <p>Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos/whatsapp-image-2025-12-03-at-16-01-41.jpeg/@@images/75297913-f048-41ab-95b8-351246d36ad6.jpeg" alt="Anac e Azul assinam renovação de acordo para treinamento de pilotos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas</id>
+    <published>2025-12-03T10:36:00.000Z</published>
+    <updated>2025-12-03T10:36:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens</summary>
+    <content type="html"><![CDATA[
+      <p>Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas/64.jpeg/@@images/fdde96fc-e023-4e69-b330-e41fad5cee23.jpeg" alt="Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -37,6 +246,272 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Falsas ameaças de bomba crescem 68% em menos de um ano</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano</id>
+    <published>2025-12-01T12:31:00.000Z</published>
+    <updated>2025-12-01T12:31:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem</id>
+    <published>2025-11-28T16:10:00.000Z</published>
+    <updated>2025-11-28T16:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense</summary>
+    <content type="html"><![CDATA[
+      <p>Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem/operacaocop1-1.jpeg/@@images/eaacff5f-5f6a-4a5d-8d49-59a52c391ab2.jpeg" alt="COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos</id>
+    <published>2025-11-27T17:47:00.000Z</published>
+    <updated>2025-11-27T17:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal</summary>
+    <content type="html"><![CDATA[
+      <p>O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos/54950261555_475a529e2d_c-1.jpg/@@images/dbec8b87-7833-426d-8e06-afd49c3fcbe8.jpeg" alt="AmpliAr: primeiro leilão de aeroportos regionais do país arrecada R$ 731 milhões em investimentos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Brasil e Angola participam de capacitação em Aviação Sustentável</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel</id>
+    <published>2025-11-27T17:45:00.000Z</published>
+    <updated>2025-11-27T17:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel/abertura_.jpg/@@images/17915ad6-6514-4077-8c68-f32244ee9632.jpeg" alt="Brasil e Angola participam de capacitação em Aviação Sustentável">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Super App da Anac: Uma nova jornada, agora para pilotos comerciais</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais</id>
+    <published>2025-11-27T11:30:00.000Z</published>
+    <updated>2025-11-27T11:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais</summary>
+    <content type="html"><![CDATA[
+      <p>Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais/whatsapp-12.png/@@images/02ccbe0e-d9c2-4dd3-aac1-cc83df69d0c9.png" alt="Super App da Anac: Uma nova jornada, agora para pilotos comerciais">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac realiza webinário sobre nova IS de autorização de drones</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones</id>
+    <published>2025-11-27T10:08:00.000Z</published>
+    <updated>2025-11-27T10:08:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Servidores da Agência apresentarão os principais pontos da IS E94-004 e responderão dúvidas sobre a norma</summary>
+    <content type="html"><![CDATA[
+      <p>Servidores da Agência apresentarão os principais pontos da IS E94-004 e responderão dúvidas sobre a norma</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones/portal-1.png/@@images/17f6e057-8094-4d79-96ff-4bc4faee012e.png" alt="Anac realiza webinário sobre nova IS de autorização de drones">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac negocia débitos por meio do programa Resolve Dívidas AGU</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-negocia-debitos-por-meio-do-programa-resolve-dividas-agu" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-negocia-debitos-por-meio-do-programa-resolve-dividas-agu</id>
+    <published>2025-11-27T09:57:00.000Z</published>
+    <updated>2025-11-27T09:57:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Interessados em quitar dívidas devem se cadastrar no portal Resolve Dívidas AGU até 30 de abril de 2026</summary>
+    <content type="html"><![CDATA[
+      <p>Interessados em quitar dívidas devem se cadastrar no portal Resolve Dívidas AGU até 30 de abril de 2026</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac atuará na implementação de projeto de fortalecimento da aviação civil de Moçambique</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique</id>
+    <published>2025-11-27T09:43:00.000Z</published>
+    <updated>2025-11-27T09:43:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa faz parte dos acordos assinados pelo presidente Lula em cerimônia na capital de Moçambique, Maputo</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa faz parte dos acordos assinados pelo presidente Lula em cerimônia na capital de Moçambique, Maputo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique/54943856294_3c393ce9c6_c.jpg/@@images/334bff50-9b80-4ff4-9138-af33387d115c.jpeg" alt="Anac atuará na implementação de projeto de fortalecimento da aviação civil de Moçambique">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac apoia decisão do STF que suspende processos judiciais contra aéreas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas</id>
+    <published>2025-11-26T21:38:00.000Z</published>
+    <updated>2025-11-26T21:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria</id>
+    <published>2025-11-26T17:25:00.000Z</published>
+    <updated>2025-11-26T17:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria/whatsapp-image-2025-11-26-at-16-25-27.jpeg/@@images/a2dddb45-ed3c-4f33-af7e-173ade491523.jpeg" alt="Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac amplia cooperação internacional no Dubai Airshow 2025</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025</id>
+    <published>2025-11-26T15:47:00.000Z</published>
+    <updated>2025-11-26T15:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025/las01220.jpg/@@images/6dc778b7-d162-4a55-8894-e834e1fce711.jpeg" alt="Anac amplia cooperação internacional no Dubai Airshow 2025">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac participa do ANM 2025 com contribuições para o desenvolvimento da aviação brasileira</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira</id>
+    <published>2025-11-25T19:16:00.000Z</published>
+    <updated>2025-11-25T19:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital</summary>
+    <content type="html"><![CDATA[
+      <p>Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira/whatsapp-image-2025-11-25-at-16-34-45-2.jpeg/@@images/4e1163d0-63b3-4bca-9494-1579c65c8ba7.jpeg" alt="Anac participa do ANM 2025 com contribuições para o desenvolvimento da aviação brasileira">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Outubro bate novos recordes no transporte aéreo de passageiros</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros</id>
+    <published>2025-11-24T10:01:00.000Z</published>
+    <updated>2025-11-24T10:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</summary>
+    <content type="html"><![CDATA[
+      <p>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" alt="Outubro bate novos recordes no transporte aéreo de passageiros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil</id>
+    <published>2025-11-21T17:36:00.000Z</published>
+    <updated>2025-11-21T17:36:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil/workshop2.jpg/@@images/3688161f-7e73-4f2b-b785-47423856fde4.jpeg" alt="Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
