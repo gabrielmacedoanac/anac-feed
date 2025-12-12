@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8b439e04-5654-424b-968e-7afc2b1375ba",
+  "identifier": "urn:uuid:anac-feed-e4302228-84d8-4f8b-b89c-d1d42983dead",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-12T16:18:31.092Z",
-  "dateModified": "2025-12-12T16:18:31.092Z",
+  "dateCreated": "2025-12-12T20:16:27.071Z",
+  "dateModified": "2025-12-12T20:16:27.071Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -52,7 +52,7 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Anac e MPor acompanham situação dos voos em todo o Brasil",
+      "name": "Anac e MPor acompanham aeroportos após impactos causados pelo ciclone em SP",
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-acompanham-situacao-dos-voos-em-todo-o-brasil",
       "datePublished": "2025-12-11T12:34:00.000Z",
       "description": "Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016",
