@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e1a8c00f-01ae-4fe1-b69b-5b232b1fa4b2",
+  "identifier": "urn:uuid:anac-feed-8b439e04-5654-424b-968e-7afc2b1375ba",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-12T12:31:16.722Z",
-  "dateModified": "2025-12-12T12:31:16.722Z",
+  "dateCreated": "2025-12-12T16:18:31.092Z",
+  "dateModified": "2025-12-12T16:18:31.092Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-12T02:21:48.000Z"
+    "endDate": "2025-12-12T10:33:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Novos formulários de reporte de risco baloeiro e de raio laser estão disponíveis",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novos-formularios-de-reporte-de-risco-baloeiro-e-de-raio-laser-estao-disponiveis",
+      "datePublished": "2025-12-12T10:33:00.000Z",
+      "description": "Reporte de situações que ameacem a segurança operacional são fundamentais para que a Anac atue de forma proativa",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)",
@@ -260,15 +268,6 @@
       "datePublished": "2025-11-24T10:01:00.000Z",
       "description": "Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil",
-      "datePublished": "2025-11-21T17:36:00.000Z",
-      "description": "Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil/workshop2.jpg/@@images/3688161f-7e73-4f2b-b785-47423856fde4.jpeg",
       "type": "notícia"
     },
     {

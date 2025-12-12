@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e1a8c00f-01ae-4fe1-b69b-5b232b1fa4b2</id>
-  <updated>2025-12-12T02:21:48.000Z</updated>
+  <id>urn:uuid:anac-feed-8b439e04-5654-424b-968e-7afc2b1375ba</id>
+  <updated>2025-12-12T10:33:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Novos formulários de reporte de risco baloeiro e de raio laser estão disponíveis</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novos-formularios-de-reporte-de-risco-baloeiro-e-de-raio-laser-estao-disponiveis" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/novos-formularios-de-reporte-de-risco-baloeiro-e-de-raio-laser-estao-disponiveis</id>
+    <published>2025-12-12T10:33:00.000Z</published>
+    <updated>2025-12-12T10:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reporte de situações que ameacem a segurança operacional são fundamentais para que a Anac atue de forma proativa</summary>
+    <content type="html"><![CDATA[
+      <p>Reporte de situações que ameacem a segurança operacional são fundamentais para que a Anac atue de forma proativa</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -545,25 +564,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" alt="Outubro bate novos recordes no transporte aéreo de passageiros">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil</id>
-    <published>2025-11-21T17:36:00.000Z</published>
-    <updated>2025-11-21T17:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Evento fortalece a atuação conjunta entre instituições públicas, sociedade civil e setor aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/workshop-evidencia-desafios-e-reforca-praticas-de-prevencao-ao-trafico-de-pessoas-na-aviacao-civil/workshop2.jpg/@@images/3688161f-7e73-4f2b-b785-47423856fde4.jpeg" alt="Workshop evidencia desafios e reforça práticas de prevenção ao tráfico de pessoas na aviação civil">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
