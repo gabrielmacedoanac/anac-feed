@@ -4,13 +4,68 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-25e64c4a-2d1d-4c23-9d64-d0fd78978725</id>
-  <updated>2025-12-11T12:34:00.000Z</updated>
+  <id>urn:uuid:anac-feed-ec34852b-b65b-49a8-a46f-3db19a60912c</id>
+  <updated>2025-12-12T02:21:48.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)</title>
+    <link href="https://www.youtube.com/watch?v=ctobZIU7IKE" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=ctobZIU7IKE</id>
+    <published>2025-12-12T02:21:48.000Z</published>
+    <updated>2025-12-12T02:21:48.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">1)Processo: 00058.078972/2025-19
+Interessado: Concessionária Aeroporto Rio de Janeiro S.A.
+Assunto: Propostas de Edital da Venda Assistida e do Termo Aditivo de Repactuação ao Contrato de Concessão nº 001/ANAC/2014, objeto da Consulta Pública nº 11/2025, encerrada em 5 de novembro de 2025
+Relator: Tiago Faierstein
+ 
+ 
+2) Processo: 00066.001958/2022-77
+Assunto: Propostas de revogação das Instruções de Aviação Civil - IACs 3130-121-1296 e 121-1013 e de emenda ao Regulamento Brasileiro da Aviação Civil - RBAC n° 121, objeto da Consulta Pública nº 01/2024, encerrada em 25 de março de 2024
+Relator: Tiago Pereira
+ 
+ 
+3) Processo:  00058.057456/2022-08
+Assunto: Proposta de emenda ao RBAC nº 21, objeto da Consulta Pública nº 08/2025, encerrada em 11 de julho de 2025 - tema 11 da Agenda Regulatória 2025-2026
+Relator: Tiago Pereira
+ 
+ 
+4) Processo:  00058.093872/2024-23
+Assunto: Proposta de alteração da Resolução nº 293, de 19 de novembro de 2013
+Relator: Tiago Pereira</summary>
+    <content type="html"><![CDATA[
+      <p>1)Processo: 00058.078972/2025-19
+Interessado: Concessionária Aeroporto Rio de Janeiro S.A.
+Assunto: Propostas de Edital da Venda Assistida e do Termo Aditivo de Repactuação ao Contrato de Concessão nº 001/ANAC/2014, objeto da Consulta Pública nº 11/2025, encerrada em 5 de novembro de 2025
+Relator: Tiago Faierstein
+ 
+ 
+2) Processo: 00066.001958/2022-77
+Assunto: Propostas de revogação das Instruções de Aviação Civil - IACs 3130-121-1296 e 121-1013 e de emenda ao Regulamento Brasileiro da Aviação Civil - RBAC n° 121, objeto da Consulta Pública nº 01/2024, encerrada em 25 de março de 2024
+Relator: Tiago Pereira
+ 
+ 
+3) Processo:  00058.057456/2022-08
+Assunto: Proposta de emenda ao RBAC nº 21, objeto da Consulta Pública nº 08/2025, encerrada em 11 de julho de 2025 - tema 11 da Agenda Regulatória 2025-2026
+Relator: Tiago Pereira
+ 
+ 
+4) Processo:  00058.093872/2024-23
+Assunto: Proposta de alteração da Resolução nº 293, de 19 de novembro de 2013
+Relator: Tiago Pereira</p>
+      <img src="https://i4.ytimg.com/vi/ctobZIU7IKE/hqdefault.jpg" alt="2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -894,61 +949,6 @@ Dúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y
 
 APRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip</p>
       <img src="https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg" alt="Webinário Engenharia de Aeroportos 2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)</title>
-    <link href="https://www.youtube.com/watch?v=ctobZIU7IKE" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=ctobZIU7IKE</id>
-    <published>2024-12-18T12:56:34.000Z</published>
-    <updated>2024-12-18T12:56:34.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">1)Processo: 00058.078972/2025-19
-Interessado: Concessionária Aeroporto Rio de Janeiro S.A.
-Assunto: Propostas de Edital da Venda Assistida e do Termo Aditivo de Repactuação ao Contrato de Concessão nº 001/ANAC/2014, objeto da Consulta Pública nº 11/2025, encerrada em 5 de novembro de 2025
-Relator: Tiago Faierstein
- 
- 
-2) Processo: 00066.001958/2022-77
-Assunto: Propostas de revogação das Instruções de Aviação Civil - IACs 3130-121-1296 e 121-1013 e de emenda ao Regulamento Brasileiro da Aviação Civil - RBAC n° 121, objeto da Consulta Pública nº 01/2024, encerrada em 25 de março de 2024
-Relator: Tiago Pereira
- 
- 
-3) Processo:  00058.057456/2022-08
-Assunto: Proposta de emenda ao RBAC nº 21, objeto da Consulta Pública nº 08/2025, encerrada em 11 de julho de 2025 - tema 11 da Agenda Regulatória 2025-2026
-Relator: Tiago Pereira
- 
- 
-4) Processo:  00058.093872/2024-23
-Assunto: Proposta de alteração da Resolução nº 293, de 19 de novembro de 2013
-Relator: Tiago Pereira</summary>
-    <content type="html"><![CDATA[
-      <p>1)Processo: 00058.078972/2025-19
-Interessado: Concessionária Aeroporto Rio de Janeiro S.A.
-Assunto: Propostas de Edital da Venda Assistida e do Termo Aditivo de Repactuação ao Contrato de Concessão nº 001/ANAC/2014, objeto da Consulta Pública nº 11/2025, encerrada em 5 de novembro de 2025
-Relator: Tiago Faierstein
- 
- 
-2) Processo: 00066.001958/2022-77
-Assunto: Propostas de revogação das Instruções de Aviação Civil - IACs 3130-121-1296 e 121-1013 e de emenda ao Regulamento Brasileiro da Aviação Civil - RBAC n° 121, objeto da Consulta Pública nº 01/2024, encerrada em 25 de março de 2024
-Relator: Tiago Pereira
- 
- 
-3) Processo:  00058.057456/2022-08
-Assunto: Proposta de emenda ao RBAC nº 21, objeto da Consulta Pública nº 08/2025, encerrada em 11 de julho de 2025 - tema 11 da Agenda Regulatória 2025-2026
-Relator: Tiago Pereira
- 
- 
-4) Processo:  00058.093872/2024-23
-Assunto: Proposta de alteração da Resolução nº 293, de 19 de novembro de 2013
-Relator: Tiago Pereira</p>
-      <img src="https://i4.ytimg.com/vi/ctobZIU7IKE/hqdefault.jpg" alt="2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
