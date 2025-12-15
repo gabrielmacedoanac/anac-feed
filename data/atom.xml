@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d64d34ab-8c41-409c-bf85-ce7cd4faf36e</id>
-  <updated>2025-12-15T09:44:00.000Z</updated>
+  <id>urn:uuid:anac-feed-9a44e41e-6b09-4fda-838f-145df63c66b6</id>
+  <updated>2025-12-15T14:29:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Publicadas regras para o leilão do Aeroporto do Galeão (RJ)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj</id>
+    <published>2025-12-15T14:29:00.000Z</published>
+    <updated>2025-12-15T14:29:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj/linkedin_edital_venda_galeao.jpg/@@images/5e4fd752-e377-4c8f-ba14-09416171478b.jpeg" alt="Publicadas regras para o leilão do Aeroporto do Galeão (RJ)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -545,25 +564,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025/las01220.jpg/@@images/6dc778b7-d162-4a55-8894-e834e1fce711.jpeg" alt="Anac amplia cooperação internacional no Dubai Airshow 2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac participa do ANM 2025 com contribuições para o desenvolvimento da aviação brasileira</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira</id>
-    <published>2025-11-25T19:16:00.000Z</published>
-    <updated>2025-11-25T19:16:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital</summary>
-    <content type="html"><![CDATA[
-      <p>Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira/whatsapp-image-2025-11-25-at-16-34-45-2.jpeg/@@images/4e1163d0-63b3-4bca-9494-1579c65c8ba7.jpeg" alt="Anac participa do ANM 2025 com contribuições para o desenvolvimento da aviação brasileira">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
