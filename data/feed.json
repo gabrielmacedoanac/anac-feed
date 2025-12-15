@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bbfaa4fa-7441-4930-88c9-16e253432066",
+  "identifier": "urn:uuid:anac-feed-d64d34ab-8c41-409c-bf85-ce7cd4faf36e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-15T12:35:12.138Z",
-  "dateModified": "2025-12-15T12:35:12.138Z",
+  "dateCreated": "2025-12-15T16:22:01.851Z",
+  "dateModified": "2025-12-15T16:22:01.851Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-12T10:33:00.000Z"
+    "endDate": "2025-12-15T09:44:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta consulta pública sobre melhorias nas descrições de infração às regras da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac",
+      "datePublished": "2025-12-15T09:44:00.000Z",
+      "description": "Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Novos formulários de reporte de risco baloeiro e de raio laser estão disponíveis",
@@ -259,15 +267,6 @@
       "datePublished": "2025-11-25T19:16:00.000Z",
       "description": "Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira/whatsapp-image-2025-11-25-at-16-34-45-2.jpeg/@@images/4e1163d0-63b3-4bca-9494-1579c65c8ba7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Outubro bate novos recordes no transporte aéreo de passageiros",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros",
-      "datePublished": "2025-11-24T10:01:00.000Z",
-      "description": "Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png",
       "type": "notícia"
     },
     {

@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 15 Dec 2025 12:35:12 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 12:35:12 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 16:22:01 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 16:22:01 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Aberta consulta pública sobre melhorias nas descrições de infração às regras da Anac</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac</link>
+      <description>Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo</description>
+      <pubDate>Mon, 15 Dec 2025 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2025-12-15T09:44:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -493,23 +510,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
       <content:encoded><![CDATA[
         <p>Agência reforçou diálogo regulatório, apresentou iniciativas de formação profissional e lançou projetos voltados à educação e à transformação digital</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-participa-do-anm-2025-com-contribuicoes-para-o-desenvolvimento-da-aviacao-brasileira/whatsapp-image-2025-11-25-at-16-34-45-2.jpeg/@@images/4e1163d0-63b3-4bca-9494-1579c65c8ba7.jpeg" alt="Anac participa do ANM 2025 com contribuições para o desenvolvimento da aviação brasileira">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Outubro bate novos recordes no transporte aéreo de passageiros</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros</link>
-      <description>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</description>
-      <pubDate>Mon, 24 Nov 2025 10:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-11-24T10:01:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Viagens nacionais registraram mais de 9 milhões de passageiros, marca superada em apenas três outros meses desde 2000</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2025/outubro-bate-novos-recordes-no-transporte-aereo-de-passageiros/card-6_out__.png/@@images/056a5655-bfb9-41ec-a7ad-6d06d0b3a7eb.png" alt="Outubro bate novos recordes no transporte aéreo de passageiros">
       ]]></content:encoded>
     </item>
     
