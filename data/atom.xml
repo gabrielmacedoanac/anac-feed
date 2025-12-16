@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-644a33dd-4858-41af-b7d0-8430803d1999</id>
-  <updated>2025-12-15T14:29:00.000Z</updated>
+  <id>urn:uuid:anac-feed-eeb5b648-6f49-44ca-862c-dd3cdab2c3c3</id>
+  <updated>2025-12-16T17:05:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca</id>
+    <published>2025-12-16T17:05:00.000Z</published>
+    <updated>2025-12-16T17:05:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca/card-1-taca-linkedin.png/@@images/79705206-2901-45b1-9e58-d323a00235b6.png" alt="Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Novas regras para Diário de Bordo de aeronaves em consulta setorial</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial</id>
+    <published>2025-12-16T15:32:00.000Z</published>
+    <updated>2025-12-16T15:32:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência recebe contribuições até 2 de janeiro de 2026</summary>
+    <content type="html"><![CDATA[
+      <p>Agência recebe contribuições até 2 de janeiro de 2026</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial/LinkedIn.png/@@images/94890bbc-d0e1-4829-8f19-a3db44eff367.png" alt="Novas regras para Diário de Bordo de aeronaves em consulta setorial">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -526,44 +564,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria</id>
-    <published>2025-11-26T17:25:00.000Z</published>
-    <updated>2025-11-26T17:25:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria/whatsapp-image-2025-11-26-at-16-25-27.jpeg/@@images/a2dddb45-ed3c-4f33-af7e-173ade491523.jpeg" alt="Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac amplia cooperação internacional no Dubai Airshow 2025</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025</id>
-    <published>2025-11-26T15:47:00.000Z</published>
-    <updated>2025-11-26T15:47:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025/las01220.jpg/@@images/6dc778b7-d162-4a55-8894-e834e1fce711.jpeg" alt="Anac amplia cooperação internacional no Dubai Airshow 2025">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

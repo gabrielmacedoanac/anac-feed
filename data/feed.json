@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-644a33dd-4858-41af-b7d0-8430803d1999",
+  "identifier": "urn:uuid:anac-feed-eeb5b648-6f49-44ca-862c-dd3cdab2c3c3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-16T16:20:41.728Z",
-  "dateModified": "2025-12-16T16:20:41.728Z",
+  "dateCreated": "2025-12-16T20:17:43.589Z",
+  "dateModified": "2025-12-16T20:17:43.589Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-15T14:29:00.000Z"
+    "endDate": "2025-12-16T17:05:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca",
+      "datePublished": "2025-12-16T17:05:00.000Z",
+      "description": "Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca/card-1-taca-linkedin.png/@@images/79705206-2901-45b1-9e58-d323a00235b6.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Novas regras para Diário de Bordo de aeronaves em consulta setorial",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial",
+      "datePublished": "2025-12-16T15:32:00.000Z",
+      "description": "Agência recebe contribuições até 2 de janeiro de 2026",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial/LinkedIn.png/@@images/94890bbc-d0e1-4829-8f19-a3db44eff367.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Publicadas regras para o leilão do Aeroporto do Galeão (RJ)",
@@ -249,24 +267,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas",
       "datePublished": "2025-11-26T21:38:00.000Z",
       "description": "Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aviation Infra Summit 2025 reúne especialistas para debater infraestrutura aeroportuária",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria",
-      "datePublished": "2025-11-26T17:25:00.000Z",
-      "description": "Discussões analisam desafios e reforçam boas práticas e prioridades regulatórias para o setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aviation-infra-summit-2025-reune-especialistas-para-debater-infraestrutura-aeroportuaria/whatsapp-image-2025-11-26-at-16-25-27.jpeg/@@images/a2dddb45-ed3c-4f33-af7e-173ade491523.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac amplia cooperação internacional no Dubai Airshow 2025",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025",
-      "datePublished": "2025-11-26T15:47:00.000Z",
-      "description": "Delegação brasileira tratou de parcerias internacionais e de iniciativas inovadoras do país no transporte aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-amplia-cooperacao-internacional-no-dubai-airshow-2025/las01220.jpg/@@images/6dc778b7-d162-4a55-8894-e834e1fce711.jpeg",
       "type": "notícia"
     },
     {
