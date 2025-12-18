@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e8ce7b00-4c10-4eee-97cb-af939660c135",
+  "identifier": "urn:uuid:anac-feed-351b8d7d-05a0-480e-8c91-aa2f409044af",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-18T08:21:38.805Z",
-  "dateModified": "2025-12-18T08:21:38.805Z",
+  "dateCreated": "2025-12-18T16:21:05.976Z",
+  "dateModified": "2025-12-18T16:21:05.976Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-16T17:05:00.000Z"
+    "endDate": "2025-12-18T10:09:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac intensifica ações nos aeroportos para garantir o bom funcionamento no período de festas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-reforcam-fiscalizacao-para-garantir-normalidade-nos-aeroportos-durante-periodo-de-festas",
+      "datePublished": "2025-12-18T10:09:00.000Z",
+      "description": "Atuação conjunta com MPor, Abear e ABR buscar garantir a prestação adequada e segura do serviço de transporte aéreo aos passageiros",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac recebe delegação de Cabo Verde e assina Memorando de Cooperação Técnica entre as Autoridades",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades",
+      "datePublished": "2025-12-18T10:01:00.000Z",
+      "description": "Visita reforça compromisso das entidades com o avanço contínuo da aviação civil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades/img_9675.jpg/@@images/4f0ea41c-f510-41d7-a544-34fbf4af371b.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)",
@@ -81,7 +98,7 @@
       "name": "2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)",
       "url": "https://www.youtube.com/watch?v=ctobZIU7IKE",
       "datePublished": "2025-12-12T02:21:48.000Z",
-      "description": "1)Processo: 00058.078972/2025-19\nInteressado: Concessionária Aeroporto Rio de Janeiro S.A.\nAssunto: Propostas de Edital da Venda Assistida e do Termo Aditivo de Repactuação ao Contrato de Concessão nº 001/ANAC/2014, objeto da Consulta Pública nº 11/2025, encerrada em 5 de novembro de 2025\nRelator: Tiago Faierstein\n \n \n2) Processo: 00066.001958/2022-77\nAssunto: Propostas de revogação das Instruções de Aviação Civil - IACs 3130-121-1296 e 121-1013 e de emenda ao Regulamento Brasileiro da Aviação Civil - RBAC n° 121, objeto da Consulta Pública nº 01/2024, encerrada em 25 de março de 2024\nRelator: Tiago Pereira\n \n \n3) Processo:  00058.057456/2022-08\nAssunto: Proposta de emenda ao RBAC nº 21, objeto da Consulta Pública nº 08/2025, encerrada em 11 de julho de 2025 - tema 11 da Agenda Regulatória 2025-2026\nRelator: Tiago Pereira\n \n \n4) Processo:  00058.093872/2024-23\nAssunto: Proposta de alteração da Resolução nº 293, de 19 de novembro de 2013\nRelator: Tiago Pereira",
+      "description": "Início: 21:52\n\n1)Processo: 00058.078972/2025-19 | 22:59\nInteressado: Concessionária Aeroporto Rio de Janeiro S.A.\nAssunto: Propostas de Edital da Venda Assistida e do Termo Aditivo de Repactuação ao Contrato de Concessão nº 001/ANAC/2014, objeto da Consulta Pública nº 11/2025, encerrada em 5 de novembro de 2025\nRelator: Tiago Faierstein\n \n \n2) Processo: 00066.001958/2022-77 | 48:32\nAssunto: Propostas de revogação das Instruções de Aviação Civil - IACs 3130-121-1296 e 121-1013 e de emenda ao Regulamento Brasileiro da Aviação Civil - RBAC n° 121, objeto da Consulta Pública nº 01/2024, encerrada em 25 de março de 2024\nRelator: Tiago Pereira\n \n \n3) Processo:  00058.057456/2022-08 | 01:25:09\nAssunto: Proposta de emenda ao RBAC nº 21, objeto da Consulta Pública nº 08/2025, encerrada em 11 de julho de 2025 - tema 11 da Agenda Regulatória 2025-2026\nRelator: Tiago Pereira\n \n \n4) Processo:  00058.093872/2024-23 | 01:33:30\nAssunto: Proposta de alteração da Resolução nº 293, de 19 de novembro de 2013\nRelator: Tiago Pereira",
       "image": "https://i4.ytimg.com/vi/ctobZIU7IKE/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -250,23 +267,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-negocia-debitos-por-meio-do-programa-resolve-dividas-agu",
       "datePublished": "2025-11-27T09:57:00.000Z",
       "description": "Interessados em quitar dívidas devem se cadastrar no portal Resolve Dívidas AGU até 30 de abril de 2026",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac atuará na implementação de projeto de fortalecimento da aviação civil de Moçambique",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique",
-      "datePublished": "2025-11-27T09:43:00.000Z",
-      "description": "Iniciativa faz parte dos acordos assinados pelo presidente Lula em cerimônia na capital de Moçambique, Maputo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-atuara-na-implementacao-de-projeto-de-fortalecimento-da-aviacao-civil-de-mocambique/54943856294_3c393ce9c6_c.jpg/@@images/334bff50-9b80-4ff4-9138-af33387d115c.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac apoia decisão do STF que suspende processos judiciais contra aéreas",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-apoia-decisao-do-stf-que-suspende-processos-judiciais-contra-aereas",
-      "datePublished": "2025-11-26T21:38:00.000Z",
-      "description": "Medida do STF busca reduzir decisões divergentes, conter ações repetitivas e aumentar a segurança jurídica no setor aéreo",
       "type": "notícia"
     },
     {
