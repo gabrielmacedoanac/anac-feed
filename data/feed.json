@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-60562bee-db79-47c3-91c5-e2c8cd084ade",
+  "identifier": "urn:uuid:anac-feed-7dd1bd31-3399-4194-a952-0fa1a7379521",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-18T20:15:40.003Z",
-  "dateModified": "2025-12-18T20:15:40.003Z",
+  "dateCreated": "2025-12-19T01:12:43.617Z",
+  "dateModified": "2025-12-19T01:12:43.617Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-18T10:09:00.000Z"
+    "endDate": "2025-12-18T17:45:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Realizada a primeira produção e entrega de SAF 100% brasileiro",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro",
+      "datePublished": "2025-12-18T17:45:00.000Z",
+      "description": "Anac participou de cerimônia da Petrobras para o novo combustível sustentável de aviação, que conta com certificação internacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro/whatsapp-image-2025-12-08-at-15-49-34-1.jpeg/@@images/28231fac-e241-476a-8d1b-4d2e623cbdf7.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "1ª edição da Semana Safety de 2026 será em Manaus (AM)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am",
+      "datePublished": "2025-12-18T17:07:00.000Z",
+      "description": "Especialistas renomados abordarão temas de segurança operacional específicos da região norte",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am/copy_of_S.Safety_Manaus_LINKEDIN___.png/@@images/43d28b39-7df4-4670-9496-ee627a27c512.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac intensifica ações nos aeroportos para garantir o bom funcionamento no período de festas",
@@ -250,23 +268,6 @@
       "datePublished": "2025-11-27T11:30:00.000Z",
       "description": "Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais/whatsapp-12.png/@@images/02ccbe0e-d9c2-4dd3-aac1-cc83df69d0c9.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realiza webinário sobre nova IS de autorização de drones",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones",
-      "datePublished": "2025-11-27T10:08:00.000Z",
-      "description": "Servidores da Agência apresentarão os principais pontos da IS E94-004 e responderão dúvidas sobre a norma",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-realiza-webinario-sobre-nova-is-de-autorizacao-de-drones/portal-1.png/@@images/17f6e057-8094-4d79-96ff-4bc4faee012e.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac negocia débitos por meio do programa Resolve Dívidas AGU",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-negocia-debitos-por-meio-do-programa-resolve-dividas-agu",
-      "datePublished": "2025-11-27T09:57:00.000Z",
-      "description": "Interessados em quitar dívidas devem se cadastrar no portal Resolve Dívidas AGU até 30 de abril de 2026",
       "type": "notícia"
     },
     {
