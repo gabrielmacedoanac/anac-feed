@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-9e169616-d8e9-42be-ad49-bb347494a6a0</id>
-  <updated>2025-12-18T17:45:00.000Z</updated>
+  <id>urn:uuid:anac-feed-06b5fee3-7520-4d65-8226-4a77658c905f</id>
+  <updated>2025-12-19T15:53:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">BGAST disponibiliza cartilhas sobre promoção do bem-estar psicológico e segurança operacional na aviação geral</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/bgast-disponibiliza-cartilhas-sobre-promocao-do-bem-estar-psicologico-e-seguranca-operacional-na-aviacao-geral" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/bgast-disponibiliza-cartilhas-sobre-promocao-do-bem-estar-psicologico-e-seguranca-operacional-na-aviacao-geral</id>
+    <published>2025-12-19T15:53:00.000Z</published>
+    <updated>2025-12-19T15:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documentos podem ser acessados no portal da Anac pela página do BGAST</summary>
+    <content type="html"><![CDATA[
+      <p>Documentos podem ser acessados no portal da Anac pela página do BGAST</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -549,25 +568,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel/abertura_.jpg/@@images/17915ad6-6514-4077-8c68-f32244ee9632.jpeg" alt="Brasil e Angola participam de capacitação em Aviação Sustentável">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Super App da Anac: Uma nova jornada, agora para pilotos comerciais</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais</id>
-    <published>2025-11-27T11:30:00.000Z</published>
-    <updated>2025-11-27T11:30:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais</summary>
-    <content type="html"><![CDATA[
-      <p>Versão 2.6 do aplicativo traz funcionalidades ampliadas e mais integração com sistemas governamentais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/super-app-da-anac-uma-nova-jornada-agora-para-pilotos-comerciais/whatsapp-12.png/@@images/02ccbe0e-d9c2-4dd3-aac1-cc83df69d0c9.png" alt="Super App da Anac: Uma nova jornada, agora para pilotos comerciais">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
