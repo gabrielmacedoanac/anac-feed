@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-06b5fee3-7520-4d65-8226-4a77658c905f",
+  "identifier": "urn:uuid:anac-feed-48e3b457-395c-4bab-bed7-5f97cd4dba3e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-19T20:16:43.044Z",
-  "dateModified": "2025-12-19T20:16:43.044Z",
+  "dateCreated": "2025-12-20T01:07:56.246Z",
+  "dateModified": "2025-12-20T01:07:56.246Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-19T15:53:00.000Z"
+    "endDate": "2025-12-19T17:40:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Serviços digitais da Anac se destacam em avaliação do Governo Federal",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/servicos-digitais-da-anac-se-destacam-em-avaliacao-do-governo-federal",
+      "datePublished": "2025-12-19T17:40:00.000Z",
+      "description": "Premiação reconhece a percepção positiva dos usuários",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/servicos-digitais-da-anac-se-destacam-em-avaliacao-do-governo-federal/linkedin-1.png/@@images/23122bfc-b12c-4592-a602-39954eb5201d.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "BGAST disponibiliza cartilhas sobre promoção do bem-estar psicológico e segurança operacional na aviação geral",
@@ -258,15 +267,6 @@
       "datePublished": "2025-11-27T17:47:00.000Z",
       "description": "O programa tem o objetivo de fortalecer a aviação regional e modernizar a infraestrutura de aeroportos do Nordeste e da Amazônia Legal",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/ampliar-primeiro-leilao-de-aeroportos-regionais-do-pais-arrecada-r-731-milhoes-em-investimentos/54950261555_475a529e2d_c-1.jpg/@@images/dbec8b87-7833-426d-8e06-afd49c3fcbe8.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Brasil e Angola participam de capacitação em Aviação Sustentável",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel",
-      "datePublished": "2025-11-27T17:45:00.000Z",
-      "description": "Capacitação em Brasília destacou o desenvolvimento de novos combustíveis e descarbonização do setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/brasil-e-angola-participam-de-capacitacao-em-aviacao-sustentavel/abertura_.jpg/@@images/17915ad6-6514-4077-8c68-f32244ee9632.jpeg",
       "type": "notícia"
     },
     {
