@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8c9a95f9-1b55-4d88-9ca2-7449ca0e3328",
+  "identifier": "urn:uuid:anac-feed-5de5078c-0943-4fab-a182-eab7fd6aaa1b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-23T16:19:44.230Z",
-  "dateModified": "2025-12-23T16:19:44.230Z",
+  "dateCreated": "2025-12-23T20:16:21.224Z",
+  "dateModified": "2025-12-23T20:16:21.224Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-22T09:53:00.000Z"
+    "endDate": "2025-12-23T17:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Publicados os novos valores para teto de tarifas de 20 aeroportos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos",
+      "datePublished": "2025-12-23T17:04:00.000Z",
+      "description": "Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas",
+      "datePublished": "2025-12-23T15:10:00.000Z",
+      "description": "Sem descrição",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas/copy2_of_WhatsAppImage20251223at15.09.00.jpeg/@@images/79a621b2-80fd-4f81-a1d1-9a58a72bad71.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "BGAST lança o reforço de segurança operacional: “Transição eficaz das tarefas de manutenção”",
@@ -243,15 +260,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas",
-      "datePublished": "2025-12-03T10:36:00.000Z",
-      "description": "Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas/64.jpeg/@@images/fdde96fc-e023-4e69-b330-e41fad5cee23.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004",
       "url": "https://www.youtube.com/watch?v=iEcQMszx6gI",
@@ -259,14 +267,6 @@
       "description": "Webinário para divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004 (Autorização de Projeto de Sistema de Aeronaves Remotamente Pilotadas, destinadas às operações de baixo risco, segundo metodologia SORA) \n\nArquivo de apresentação: https://www.gov.br/anac/pt-br/centrais-de-conteudo/arquivos/is-e94-004-dezembro-2025.pdf\n \nLink Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW",
       "image": "https://i2.ytimg.com/vi/iEcQMszx6gI/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Falsas ameaças de bomba crescem 68% em menos de um ano",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano",
-      "datePublished": "2025-12-01T12:31:00.000Z",
-      "description": "A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

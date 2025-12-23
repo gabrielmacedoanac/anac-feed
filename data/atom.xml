@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8c9a95f9-1b55-4d88-9ca2-7449ca0e3328</id>
-  <updated>2025-12-22T09:53:00.000Z</updated>
+  <id>urn:uuid:anac-feed-5de5078c-0943-4fab-a182-eab7fd6aaa1b</id>
+  <updated>2025-12-23T17:04:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Publicados os novos valores para teto de tarifas de 20 aeroportos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos</id>
+    <published>2025-12-23T17:04:00.000Z</published>
+    <updated>2025-12-23T17:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</summary>
+    <content type="html"><![CDATA[
+      <p>Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas</id>
+    <published>2025-12-23T15:10:00.000Z</published>
+    <updated>2025-12-23T15:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Sem descrição</summary>
+    <content type="html"><![CDATA[
+      <p>Sem descrição</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas/copy2_of_WhatsAppImage20251223at15.09.00.jpeg/@@images/79a621b2-80fd-4f81-a1d1-9a58a72bad71.jpeg" alt="Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -510,25 +548,6 @@ Relator: Tiago Pereira</p>
   
   
   <entry>
-    <title type="html">Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas</id>
-    <published>2025-12-03T10:36:00.000Z</published>
-    <updated>2025-12-03T10:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens</summary>
-    <content type="html"><![CDATA[
-      <p>Em parceria com a Secretaria da Juventude e Aena Brasil, servidores da Anac conduziram visita que mostrou o mundo da aviação a 40 jovens</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/projeto-criando-asas-leva-jovens-ao-coracao-da-aviacao-no-aeroporto-de-congonhas/64.jpeg/@@images/fdde96fc-e023-4e69-b330-e41fad5cee23.jpeg" alt="Projeto Criando Asas leva jovens aos bastidores da aviação no Aeroporto de Congonhas (SP)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Divulgação do processo de aprovação declaratória de projeto de RPAS, segundo IS E94-004</title>
     <link href="https://www.youtube.com/watch?v=iEcQMszx6gI" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=iEcQMszx6gI</id>
@@ -552,25 +571,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Falsas ameaças de bomba crescem 68% em menos de um ano</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano</id>
-    <published>2025-12-01T12:31:00.000Z</published>
-    <updated>2025-12-01T12:31:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
