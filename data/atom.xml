@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-3f02fce9-8bb4-4b2a-8b57-cdb1cf1a2a63</id>
+  <id>urn:uuid:anac-feed-8c9a95f9-1b55-4d88-9ca2-7449ca0e3328</id>
   <updated>2025-12-22T09:53:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -26,6 +26,25 @@
     <content type="html"><![CDATA[
       <p>Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica</p>
       
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aviação internacional bate recorde histórico de passageiros antes do fim do ano</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano</id>
+    <published>2025-12-19T18:15:00.000Z</published>
+    <updated>2025-12-19T18:15:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Setor alcançou, em novembro, a maior movimentação desde 2000, com 25,8 milhões de passageiros</summary>
+    <content type="html"><![CDATA[
+      <p>Setor alcançou, em novembro, a maior movimentação desde 2000, com 25,8 milhões de passageiros</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano/linkedin_nov__.png/@@images/8d975b75-f4d0-4bd0-93ed-640b38718758.png" alt="Aviação internacional bate recorde histórico de passageiros antes do fim do ano">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -549,25 +568,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem</id>
-    <published>2025-11-28T16:10:00.000Z</published>
-    <updated>2025-11-28T16:10:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense</summary>
-    <content type="html"><![CDATA[
-      <p>Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem/operacaocop1-1.jpeg/@@images/eaacff5f-5f6a-4a5d-8d49-59a52c391ab2.jpeg" alt="COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

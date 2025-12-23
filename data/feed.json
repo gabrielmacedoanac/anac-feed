@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3f02fce9-8bb4-4b2a-8b57-cdb1cf1a2a63",
+  "identifier": "urn:uuid:anac-feed-8c9a95f9-1b55-4d88-9ca2-7449ca0e3328",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-23T12:31:49.061Z",
-  "dateModified": "2025-12-23T12:31:49.061Z",
+  "dateCreated": "2025-12-23T16:19:44.230Z",
+  "dateModified": "2025-12-23T16:19:44.230Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -39,6 +39,15 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/bgast-lanca-o-reforco-de-seguranca-operacional-201ctransicao-eficaz-das-tarefas-de-manutencao201d",
       "datePublished": "2025-12-22T09:53:00.000Z",
       "description": "Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aviação internacional bate recorde histórico de passageiros antes do fim do ano",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano",
+      "datePublished": "2025-12-19T18:15:00.000Z",
+      "description": "Setor alcançou, em novembro, a maior movimentação desde 2000, com 25,8 milhões de passageiros",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano/linkedin_nov__.png/@@images/8d975b75-f4d0-4bd0-93ed-640b38718758.png",
       "type": "notícia"
     },
     {
@@ -257,15 +266,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/falsas-ameacas-de-bomba-crescem-68-em-menos-de-um-ano",
       "datePublished": "2025-12-01T12:31:00.000Z",
       "description": "A prática é crime grave, pode levar à prisão e causar prejuízos em cadeia ao sistema aéreo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "COP30: Operação especial garantiu segurança e fluidez das operações aéreas em Belém",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem",
-      "datePublished": "2025-11-28T16:10:00.000Z",
-      "description": "Ação da Anac mobilizou 25 profissionais em oito cidades, com mais de 80 inspeções realizadas no aeroporto da capital paraense",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/cop30-operacao-especial-garantiu-seguranca-e-fluidez-das-operacoes-aereas-em-belem/operacaocop1-1.jpeg/@@images/eaacff5f-5f6a-4a5d-8d49-59a52c391ab2.jpeg",
       "type": "notícia"
     },
     {
