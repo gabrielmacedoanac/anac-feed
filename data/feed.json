@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5de5078c-0943-4fab-a182-eab7fd6aaa1b",
+  "identifier": "urn:uuid:anac-feed-f7f0cba7-d15b-4e85-bb0d-9fd414f5c714",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-23T20:16:21.224Z",
-  "dateModified": "2025-12-23T20:16:21.224Z",
+  "dateCreated": "2025-12-24T01:11:20.257Z",
+  "dateModified": "2025-12-24T01:11:20.257Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-23T17:04:00.000Z"
+    "endDate": "2025-12-23T18:28:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Instrução Suplementar define procedimentos para certificação de Operador Simples de táxi-aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/instrucao-suplementar-define-procedimentos-para-certificacao-de-operador-simples-de-taxi-aereo",
+      "datePublished": "2025-12-23T18:28:00.000Z",
+      "description": "Revisão da IS 119-004 estabelece procedimentos alinhados ao porte dos operadores",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Publicados os novos valores para teto de tarifas de 20 aeroportos",
@@ -248,15 +256,6 @@
       "datePublished": "2025-12-03T17:01:00.000Z",
       "description": "Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal/whatsapp-image-2025-12-03-at-18-14-55.jpeg/@@images/393cafab-89bc-49d2-a858-39d87039fc05.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e Azul assinam renovação de acordo para treinamento de pilotos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos",
-      "datePublished": "2025-12-03T16:38:00.000Z",
-      "description": "Parceria prevê intercâmbio de informações técnicas e reforça a segurança operacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-azul-assinam-renovacao-de-acordo-para-treinamento-de-pilotos/whatsapp-image-2025-12-03-at-16-01-41.jpeg/@@images/75297913-f048-41ab-95b8-351246d36ad6.jpeg",
       "type": "notícia"
     },
     {
