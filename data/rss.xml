@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 26 Dec 2025 16:17:44 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 16:17:44 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 20:16:08 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 20:16:08 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -31,7 +31,7 @@
     <item>
       <title>BASeT elege vice-presidente</title>
       <link>https://www.gov.br/anac/pt-br/noticias/2025/baset-elege-vice-presidente</link>
-      <description>O Brazilian Aviation Security Team (BASeT) elege novo vice-presidente para o Ciclo 2026/2027</description>
+      <description>Marcelo Alexandre Rosa, gerente de Segurança AVSEC da Aena Brasil, assume o cargo para o ciclo 2026/2027</description>
       <pubDate>Fri, 26 Dec 2025 09:52:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/baset-elege-vice-presidente</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
@@ -39,7 +39,7 @@
       
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
-        <p>O Brazilian Aviation Security Team (BASeT) elege novo vice-presidente para o Ciclo 2026/2027</p>
+        <p>Marcelo Alexandre Rosa, gerente de Segurança AVSEC da Aena Brasil, assume o cargo para o ciclo 2026/2027</p>
         
       ]]></content:encoded>
     </item>
