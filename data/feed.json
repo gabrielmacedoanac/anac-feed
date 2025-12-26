@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a04ee21a-d4d9-4d90-927c-8967bd1a7e72",
+  "identifier": "urn:uuid:anac-feed-5b12d9b4-2514-46a6-a1fb-4fa50d07f6ec",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-26T12:30:23.149Z",
-  "dateModified": "2025-12-26T12:30:23.149Z",
+  "dateCreated": "2025-12-26T16:17:44.210Z",
+  "dateModified": "2025-12-26T16:17:44.210Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-23T18:28:00.000Z"
+    "endDate": "2025-12-26T10:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac certifica duas novas aeronaves para aviação geral e táxi-aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-duas-novas-aeronaves-para-aviacao-geral-e-taxi-aereo",
+      "datePublished": "2025-12-26T10:01:00.000Z",
+      "description": "Aeronaves podem ser usadas para transporte de carga e passageiros; uma delas está apta para evacuação médica e pouso automático em caso de emergência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-duas-novas-aeronaves-para-aviacao-geral-e-taxi-aereo/portal.png/@@images/7937bbae-c512-43f6-aba9-89d3f735c9af.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "BASeT elege vice-presidente",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/baset-elege-vice-presidente",
+      "datePublished": "2025-12-26T09:52:00.000Z",
+      "description": "O Brazilian Aviation Security Team (BASeT) elege novo vice-presidente para o Ciclo 2026/2027",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Instrução Suplementar define procedimentos para certificação de Operador Simples de táxi-aéreo",
@@ -238,24 +255,6 @@
       "datePublished": "2025-12-05T13:27:00.000Z",
       "description": "Ferramentas ampliam alcance, precisão e conectividade das ações da Agência",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/whatsapp-image-2025-12-08-at-11-17-07-1.jpeg/@@images/bf30eb2f-557e-4238-923c-af1d17976da1.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac tem primeira experiência de intercâmbio do Programa SAFA",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa",
-      "datePublished": "2025-12-04T13:27:00.000Z",
-      "description": "Inspetores de Aruba e servidores da Agência discutiram a padronização de inspeções de rampa entre operadores estrangeiros",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-tem-primeira-experiencia-de-intercambio-do-programa-safa/shared-image-5.jpg/@@images/e642e93a-c2bd-4017-91e4-5dc8029adb6f.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac e Polícia Federal apreendem aeronave com 51 kg de ouro provenientes do garimpo ilegal",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal",
-      "datePublished": "2025-12-03T17:01:00.000Z",
-      "description": "Ação teve início após a inteligência da Anac identificar incompatibilidades no plano de voo da aeronave e acionar os agentes federais para a verificação imediata",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-policia-federal-apreendem-aeronave-com-51-kg-de-ouro-provenientes-do-garimpo-ilegal/whatsapp-image-2025-12-03-at-18-14-55.jpeg/@@images/393cafab-89bc-49d2-a858-39d87039fc05.jpeg",
       "type": "notícia"
     },
     {
