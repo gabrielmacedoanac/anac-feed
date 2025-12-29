@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2dab7855-a8df-4afa-a7db-8de01e489e63",
+  "identifier": "urn:uuid:anac-feed-828df0d4-3d7b-4a94-8f91-129e57df3448",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-29T16:18:45.109Z",
-  "dateModified": "2025-12-29T16:18:45.109Z",
+  "dateCreated": "2025-12-29T20:17:35.345Z",
+  "dateModified": "2025-12-29T20:17:35.345Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-26T10:01:00.000Z"
+    "endDate": "2025-12-29T16:35:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Nova regra da Anac fortalece segurança na fabricação aeronáutica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica",
+      "datePublished": "2025-12-29T16:35:00.000Z",
+      "description": "Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Certificação de aeronaves com IA ganha marco regulatório da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/certificacao-de-aeronaves-com-ia-ganha-marco-regulatorio-da-anac",
+      "datePublished": "2025-12-29T14:55:00.000Z",
+      "description": "Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac certifica duas novas aeronaves para aviação geral e táxi-aéreo",
@@ -237,24 +253,6 @@
       "datePublished": "2025-12-08T14:04:00.000Z",
       "description": "Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3",
-      "datePublished": "2025-12-08T13:02:00.000Z",
-      "description": "Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac incorpora drones e tecnologia Starlink às operações de fiscalização",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao",
-      "datePublished": "2025-12-05T13:27:00.000Z",
-      "description": "Ferramentas ampliam alcance, precisão e conectividade das ações da Agência",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/whatsapp-image-2025-12-08-at-11-17-07-1.jpeg/@@images/bf30eb2f-557e-4238-923c-af1d17976da1.jpeg",
       "type": "notícia"
     },
     {

@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2dab7855-a8df-4afa-a7db-8de01e489e63</id>
-  <updated>2025-12-26T10:01:00.000Z</updated>
+  <id>urn:uuid:anac-feed-828df0d4-3d7b-4a94-8f91-129e57df3448</id>
+  <updated>2025-12-29T16:35:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Nova regra da Anac fortalece segurança na fabricação aeronáutica</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica</id>
+    <published>2025-12-29T16:35:00.000Z</published>
+    <updated>2025-12-29T16:35:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos</summary>
+    <content type="html"><![CDATA[
+      <p>Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Certificação de aeronaves com IA ganha marco regulatório da Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/certificacao-de-aeronaves-com-ia-ganha-marco-regulatorio-da-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/certificacao-de-aeronaves-com-ia-ganha-marco-regulatorio-da-anac</id>
+    <published>2025-12-29T14:55:00.000Z</published>
+    <updated>2025-12-29T14:55:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA</summary>
+    <content type="html"><![CDATA[
+      <p>Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -503,44 +541,6 @@ Relator: Tiago Pereira</p>
     <content type="html"><![CDATA[
       <p>Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg" alt="Seminário discute autonomia das reguladoras para atrair investimentos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3</id>
-    <published>2025-12-08T13:02:00.000Z</published>
-    <updated>2025-12-08T13:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos</summary>
-    <content type="html"><![CDATA[
-      <p>Agora, quaisquer revestimentos podem ser enquadrados como pequenas alterações; ensaios de inflamabilidade seguem mantidos</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-flexibiliza-criterios-para-substituicao-de-materiais-de-interiores-de-aeronaves-certificadas-segundo-car-3/linkedin_cessna_185.jpg/@@images/f1dacd8b-e6e9-4167-972d-8595293a07b8.jpeg" alt="Anac flexibiliza critérios de troca de materiais de aeronaves certificadas segundo CAR 3">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac incorpora drones e tecnologia Starlink às operações de fiscalização</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao</id>
-    <published>2025-12-05T13:27:00.000Z</published>
-    <updated>2025-12-05T13:27:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Ferramentas ampliam alcance, precisão e conectividade das ações da Agência</summary>
-    <content type="html"><![CDATA[
-      <p>Ferramentas ampliam alcance, precisão e conectividade das ações da Agência</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-incorpora-drones-e-tecnologia-starlink-as-operacoes-de-fiscalizacao/whatsapp-image-2025-12-08-at-11-17-07-1.jpeg/@@images/bf30eb2f-557e-4238-923c-af1d17976da1.jpeg" alt="Anac incorpora drones e tecnologia Starlink às operações de fiscalização">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
