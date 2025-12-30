@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-828df0d4-3d7b-4a94-8f91-129e57df3448</id>
-  <updated>2025-12-29T16:35:00.000Z</updated>
+  <id>urn:uuid:anac-feed-7fb4426c-bdf7-4813-9404-acae4ec647ae</id>
+  <updated>2025-12-29T18:03:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Mudanças nos campos de categorias de aeronaves no RAB Digital entram em vigor em 1º de janeiro de 2026</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-campos-de-categorias-de-aeronaves-no-rab-digital-entram-em-vigor-em-1o-de-janeiro-de-2026" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-campos-de-categorias-de-aeronaves-no-rab-digital-entram-em-vigor-em-1o-de-janeiro-de-2026</id>
+    <published>2025-12-29T18:03:00.000Z</published>
+    <updated>2025-12-29T18:03:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Os profissionais devem ficar atentos às alterações, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</summary>
+    <content type="html"><![CDATA[
+      <p>Os profissionais devem ficar atentos às alterações, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -522,25 +541,6 @@ Relator: Tiago Pereira</p>
     <content type="html"><![CDATA[
       <p>Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Seminário discute autonomia das reguladoras para atrair investimentos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos</id>
-    <published>2025-12-08T14:04:00.000Z</published>
-    <updated>2025-12-08T14:04:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</summary>
-    <content type="html"><![CDATA[
-      <p>Seminário Desafios da Regulação da Infraestrutura debateu caminhos para fortalecer a estabilidade regulatória</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/seminario-discute-autonomia-das-reguladoras-para-atrair-investimentos/seminario-regulacao-e-infraestrutura-agencia-infra.jpg/@@images/30ce1096-cd9c-4e1f-be0c-3d4d3ccb914a.jpeg" alt="Seminário discute autonomia das reguladoras para atrair investimentos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
