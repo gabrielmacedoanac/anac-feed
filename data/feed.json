@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2f361124-f9ed-4409-905a-5a4ace5639f3",
+  "identifier": "urn:uuid:anac-feed-5b3829c5-6451-4ba4-8da1-a6143b4b750a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2025-12-30T20:17:00.122Z",
-  "dateModified": "2025-12-30T20:17:00.122Z",
+  "dateCreated": "2025-12-31T01:14:08.476Z",
+  "dateModified": "2025-12-31T01:14:08.476Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-29T18:03:00.000Z"
+    "endDate": "2025-12-30T18:38:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Novas regras de fiscalização e autuação valem a partir de 1º de janeiro",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro",
+      "datePublished": "2025-12-30T18:38:00.000Z",
+      "description": "Novas regras vão considerar interação entre Anac e regulados, histórico de conduta e porte das operações. Objetivo é aumentar nível de conformidade e aprimorar a segurança no setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro/linkedin_regulacao_responsiva_2026.jpg/@@images/5a5698c3-006f-41a1-b206-405f63529db2.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Mudanças nos campos de categorias de aeronaves no RAB Digital entram em vigor em 1º de janeiro de 2026",
@@ -244,14 +253,6 @@
       "datePublished": "2025-12-09T17:41:00.000Z",
       "description": "A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Táxi-aéreo ganha ferramenta digital para certificar operadores",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores",
-      "datePublished": "2025-12-09T16:28:00.000Z",
-      "description": "Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea",
       "type": "notícia"
     },
     {

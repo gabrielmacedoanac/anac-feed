@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2f361124-f9ed-4409-905a-5a4ace5639f3</id>
-  <updated>2025-12-29T18:03:00.000Z</updated>
+  <id>urn:uuid:anac-feed-5b3829c5-6451-4ba4-8da1-a6143b4b750a</id>
+  <updated>2025-12-30T18:38:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Novas regras de fiscalização e autuação valem a partir de 1º de janeiro</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro</id>
+    <published>2025-12-30T18:38:00.000Z</published>
+    <updated>2025-12-30T18:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Novas regras vão considerar interação entre Anac e regulados, histórico de conduta e porte das operações. Objetivo é aumentar nível de conformidade e aprimorar a segurança no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Novas regras vão considerar interação entre Anac e regulados, histórico de conduta e porte das operações. Objetivo é aumentar nível de conformidade e aprimorar a segurança no setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro/linkedin_regulacao_responsiva_2026.jpg/@@images/5a5698c3-006f-41a1-b206-405f63529db2.jpeg" alt="Novas regras de fiscalização e autuação valem a partir de 1º de janeiro">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -522,25 +541,6 @@ Relator: Tiago Pereira</p>
     <content type="html"><![CDATA[
       <p>A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg" alt="Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Táxi-aéreo ganha ferramenta digital para certificar operadores</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/taxi-aereo-ganha-ferramenta-digital-para-certificar-operadores</id>
-    <published>2025-12-09T16:28:00.000Z</published>
-    <updated>2025-12-09T16:28:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea</summary>
-    <content type="html"><![CDATA[
-      <p>Com interatividade e inteligência artificial, Sistema Voe 135 facilita a certificação de empresas e estimula a conectividade aérea</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
