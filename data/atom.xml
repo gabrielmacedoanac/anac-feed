@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5f952bfc-6626-4437-ab34-8cbb51a17e53</id>
-  <updated>2025-12-30T18:38:00.000Z</updated>
+  <id>urn:uuid:anac-feed-6e5d88ea-a787-4ea5-b76b-5fb1ca6db4c7</id>
+  <updated>2025-12-31T10:28:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Feliz 2026! Que venham novos caminhos e boas conquistas!</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/feliz-2026-que-venham-novos-caminhos-e-boas-conquistas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/feliz-2026-que-venham-novos-caminhos-e-boas-conquistas</id>
+    <published>2025-12-31T10:28:00.000Z</published>
+    <updated>2025-12-31T10:28:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Sem descrição</summary>
+    <content type="html"><![CDATA[
+      <p>Sem descrição</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -522,25 +541,6 @@ Relator: Tiago Pereira</p>
     <content type="html"><![CDATA[
       <p>Documento deve ser publicado no Diário Oficial da União na segunda-feira (15/12)</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao/linkedin_venda_galeao.jpg/@@images/d105c9d1-d5ba-4c27-aabc-3fc7aab6e7d2.jpeg" alt="Aprovado edital para repactuação da concessão do Aeroporto do Galeão">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac</id>
-    <published>2025-12-09T17:41:00.000Z</published>
-    <updated>2025-12-09T17:41:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</summary>
-    <content type="html"><![CDATA[
-      <p>A oficina faz parte das iniciativas contínuas da Anac para disseminar conhecimentos e capacitar o setor aéreo em segurança.</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/cultura-de-seguranca-na-aviacao-civil-e-reforcada-em-oficina-promovida-pela-anac/imagem1.jpg/@@images/d85aeb80-5063-48cb-b368-196277dd85c5.jpeg" alt="Cultura de segurança na aviação civil é reforçada em oficina promovida pela Anac">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
