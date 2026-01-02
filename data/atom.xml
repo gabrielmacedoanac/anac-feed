@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f8eb0757-2a2e-4053-99d9-12973a53a0db</id>
-  <updated>2025-12-31T10:28:00.000Z</updated>
+  <id>urn:uuid:anac-feed-06e2b2b6-cd69-4255-a5c7-3d5004ec8a71</id>
+  <updated>2026-01-02T16:44:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac altera prazo para solicitação de esclarecimentos por interessadas no edital de leilão do Aeroporto do Galeão (RJ)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-altera-prazo-para-solicitacao-de-esclarecimentos-por-interessadas-no-edital-de-leilao-do-aeroporto-do-galeao-rj" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-altera-prazo-para-solicitacao-de-esclarecimentos-por-interessadas-no-edital-de-leilao-do-aeroporto-do-galeao-rj</id>
+    <published>2026-01-02T16:44:00.000Z</published>
+    <updated>2026-01-02T16:44:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Novo prazo para envio de pedidos é até 30 de janeiro</summary>
+    <content type="html"><![CDATA[
+      <p>Novo prazo para envio de pedidos é até 30 de janeiro</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -522,25 +541,6 @@ Relator: Tiago Pereira</p>
     <content type="html"><![CDATA[
       <p>Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aprovado edital para repactuação da concessão do Aeroporto do Galeão</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao</id>
-    <published>2025-12-11T09:50:00.000Z</published>
-    <updated>2025-12-11T09:50:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documento deve ser publicado no Diário Oficial da União na segunda-feira (15/12)</summary>
-    <content type="html"><![CDATA[
-      <p>Documento deve ser publicado no Diário Oficial da União na segunda-feira (15/12)</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao/linkedin_venda_galeao.jpg/@@images/d105c9d1-d5ba-4c27-aabc-3fc7aab6e7d2.jpeg" alt="Aprovado edital para repactuação da concessão do Aeroporto do Galeão">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

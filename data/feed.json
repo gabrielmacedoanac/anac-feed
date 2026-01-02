@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f8eb0757-2a2e-4053-99d9-12973a53a0db",
+  "identifier": "urn:uuid:anac-feed-06e2b2b6-cd69-4255-a5c7-3d5004ec8a71",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-02T16:18:00.063Z",
-  "dateModified": "2026-01-02T16:18:00.063Z",
+  "dateCreated": "2026-01-02T20:16:32.436Z",
+  "dateModified": "2026-01-02T20:16:32.436Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2025-12-31T10:28:00.000Z"
+    "endDate": "2026-01-02T16:44:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac altera prazo para solicitação de esclarecimentos por interessadas no edital de leilão do Aeroporto do Galeão (RJ)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-altera-prazo-para-solicitacao-de-esclarecimentos-por-interessadas-no-edital-de-leilao-do-aeroporto-do-galeao-rj",
+      "datePublished": "2026-01-02T16:44:00.000Z",
+      "description": "Novo prazo para envio de pedidos é até 30 de janeiro",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Feliz 2026! Que venham novos caminhos e boas conquistas!",
@@ -243,15 +251,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-acompanham-situacao-dos-voos-em-todo-o-brasil",
       "datePublished": "2025-12-11T12:34:00.000Z",
       "description": "Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aprovado edital para repactuação da concessão do Aeroporto do Galeão",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao",
-      "datePublished": "2025-12-11T09:50:00.000Z",
-      "description": "Documento deve ser publicado no Diário Oficial da União na segunda-feira (15/12)",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aprovado-edital-para-repactuacao-da-concessao-do-aeroporto-do-galeao/linkedin_venda_galeao.jpg/@@images/d105c9d1-d5ba-4c27-aabc-3fc7aab6e7d2.jpeg",
       "type": "notícia"
     },
     {
