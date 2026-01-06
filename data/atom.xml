@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-dcb33ab6-0f13-416d-a8fc-96153b776e07</id>
-  <updated>2026-01-02T16:44:00.000Z</updated>
+  <id>urn:uuid:anac-feed-c798211a-6c53-4c18-b4ad-25b4bb0174f0</id>
+  <updated>2026-01-06T11:33:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Publicada nova Instrução Suplementar sobre atuação de mecânicos aeronáuticos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos</id>
+    <published>2026-01-06T11:33:00.000Z</published>
+    <updated>2026-01-06T11:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Norma esclarece prerrogativas, limitações e os meios necessários para a atuação desses profissionais</summary>
+    <content type="html"><![CDATA[
+      <p>Norma esclarece prerrogativas, limitações e os meios necessários para a atuação desses profissionais</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos/nova-is-mma-linkedin.jpeg/@@images/cfc5a694-7615-4642-a9c5-81a5424ae007.jpeg" alt="Publicada nova Instrução Suplementar sobre atuação de mecânicos aeronáuticos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -525,25 +544,6 @@ Relator: Tiago Pereira</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac e MPor acompanham aeroportos após impactos causados pelo ciclone em SP</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-acompanham-situacao-dos-voos-em-todo-o-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-acompanham-situacao-dos-voos-em-todo-o-brasil</id>
-    <published>2025-12-11T12:34:00.000Z</published>
-    <updated>2025-12-11T12:34:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016</summary>
-    <content type="html"><![CDATA[
-      <p>Passageiros devem entrar em contato direto com a companhia aérea para solicitar as assistências previstas na Resolução nº 400/2016</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
