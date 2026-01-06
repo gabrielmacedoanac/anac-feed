@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c798211a-6c53-4c18-b4ad-25b4bb0174f0",
+  "identifier": "urn:uuid:anac-feed-38b3f032-27fc-4ed9-8397-5ea14ba2d674",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-06T16:20:46.654Z",
-  "dateModified": "2026-01-06T16:20:46.654Z",
+  "dateCreated": "2026-01-06T20:17:21.665Z",
+  "dateModified": "2026-01-06T20:17:21.665Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2026-01-06T11:33:00.000Z"
+    "endDate": "2026-01-06T16:45:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira",
+      "datePublished": "2026-01-06T16:45:00.000Z",
+      "description": "A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Publicada nova Instrução Suplementar sobre atuação de mecânicos aeronáuticos",
@@ -235,14 +244,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac",
       "datePublished": "2025-12-15T09:44:00.000Z",
       "description": "Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novos formulários de reporte de risco baloeiro e de raio laser estão disponíveis",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novos-formularios-de-reporte-de-risco-baloeiro-e-de-raio-laser-estao-disponiveis",
-      "datePublished": "2025-12-12T10:33:00.000Z",
-      "description": "Reporte de situações que ameacem a segurança operacional são fundamentais para que a Anac atue de forma proativa",
       "type": "notícia"
     },
     {

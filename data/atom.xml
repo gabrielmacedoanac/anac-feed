@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c798211a-6c53-4c18-b4ad-25b4bb0174f0</id>
-  <updated>2026-01-06T11:33:00.000Z</updated>
+  <id>urn:uuid:anac-feed-38b3f032-27fc-4ed9-8397-5ea14ba2d674</id>
+  <updated>2026-01-06T16:45:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira</id>
+    <published>2026-01-06T16:45:00.000Z</published>
+    <updated>2026-01-06T16:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares</summary>
+    <content type="html"><![CDATA[
+      <p>A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg" alt="Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -462,25 +481,6 @@
     <summary type="html">Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo</summary>
     <content type="html"><![CDATA[
       <p>Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Novos formulários de reporte de risco baloeiro e de raio laser estão disponíveis</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novos-formularios-de-reporte-de-risco-baloeiro-e-de-raio-laser-estao-disponiveis" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/novos-formularios-de-reporte-de-risco-baloeiro-e-de-raio-laser-estao-disponiveis</id>
-    <published>2025-12-12T10:33:00.000Z</published>
-    <updated>2025-12-12T10:33:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Reporte de situações que ameacem a segurança operacional são fundamentais para que a Anac atue de forma proativa</summary>
-    <content type="html"><![CDATA[
-      <p>Reporte de situações que ameacem a segurança operacional são fundamentais para que a Anac atue de forma proativa</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
