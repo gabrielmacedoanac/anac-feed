@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e731e7b8-27a2-4928-9838-0bcea35c36ea",
+  "identifier": "urn:uuid:anac-feed-08d1794c-1aac-48ff-a57d-1ce7ba7e05ad",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-08T16:21:36.637Z",
-  "dateModified": "2026-01-08T16:21:36.637Z",
+  "dateCreated": "2026-01-08T20:18:05.791Z",
+  "dateModified": "2026-01-08T20:18:05.791Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -43,10 +43,10 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Anac revisa norma sobre navegação aérea para Aeronaves Leves Esportivas (ALE)",
+      "name": "Anac revisa norma para Aeronaves Leves Esportivas (ALE)",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale",
       "datePublished": "2026-01-08T11:21:00.000Z",
-      "description": "A atualização permite que as aeronaves realizem voos com instrumentos de auxílio meteorológico à navegação aérea",
+      "description": "A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/326d0ecb-1d00-4480-ab84-c0960729874e.png",
       "type": "notícia"
     },
