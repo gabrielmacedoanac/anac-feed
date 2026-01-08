@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-38c186a2-de86-4830-9db3-d47807ba60f6</id>
-  <updated>2026-01-07T18:04:00.000Z</updated>
+  <id>urn:uuid:anac-feed-e731e7b8-27a2-4928-9838-0bcea35c36ea</id>
+  <updated>2026-01-08T11:53:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Participe da Consulta Setorial para simplificação do Diário de Bordo de aeronaves</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/participe-da-consulta-setorial-para-simplificacao-do-diario-de-bordo-de-aeronaves" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/participe-da-consulta-setorial-para-simplificacao-do-diario-de-bordo-de-aeronaves</id>
+    <published>2026-01-08T11:53:00.000Z</published>
+    <updated>2026-01-08T11:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Contribuições até 21 de janeiro de 2026</summary>
+    <content type="html"><![CDATA[
+      <p>Contribuições até 21 de janeiro de 2026</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac revisa norma sobre navegação aérea para Aeronaves Leves Esportivas (ALE)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale</id>
+    <published>2026-01-08T11:21:00.000Z</published>
+    <updated>2026-01-08T11:21:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A atualização permite que as aeronaves realizem voos com instrumentos de auxílio meteorológico à navegação aérea</summary>
+    <content type="html"><![CDATA[
+      <p>A atualização permite que as aeronaves realizem voos com instrumentos de auxílio meteorológico à navegação aérea</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/326d0ecb-1d00-4480-ab84-c0960729874e.png" alt="Anac revisa norma sobre navegação aérea para Aeronaves Leves Esportivas (ALE)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -444,44 +482,6 @@
     <content type="html"><![CDATA[
       <p>Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca/card-1-taca-linkedin.png/@@images/79705206-2901-45b1-9e58-d323a00235b6.png" alt="Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Novas regras para Diário de Bordo de aeronaves em consulta setorial</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial</id>
-    <published>2025-12-16T15:32:00.000Z</published>
-    <updated>2025-12-16T15:32:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência recebe contribuições até 2 de janeiro de 2026</summary>
-    <content type="html"><![CDATA[
-      <p>Agência recebe contribuições até 2 de janeiro de 2026</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial/LinkedIn.png/@@images/94890bbc-d0e1-4829-8f19-a3db44eff367.png" alt="Novas regras para Diário de Bordo de aeronaves em consulta setorial">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Publicadas regras para o leilão do Aeroporto do Galeão (RJ)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj</id>
-    <published>2025-12-15T14:29:00.000Z</published>
-    <updated>2025-12-15T14:29:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão</summary>
-    <content type="html"><![CDATA[
-      <p>Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj/linkedin_edital_venda_galeao.jpg/@@images/5e4fd752-e377-4c8f-ba14-09416171478b.jpeg" alt="Publicadas regras para o leilão do Aeroporto do Galeão (RJ)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

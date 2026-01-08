@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-38c186a2-de86-4830-9db3-d47807ba60f6",
+  "identifier": "urn:uuid:anac-feed-e731e7b8-27a2-4928-9838-0bcea35c36ea",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-08T12:33:33.144Z",
-  "dateModified": "2026-01-08T12:33:33.144Z",
+  "dateCreated": "2026-01-08T16:21:36.637Z",
+  "dateModified": "2026-01-08T16:21:36.637Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2026-01-07T18:04:00.000Z"
+    "endDate": "2026-01-08T11:53:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Participe da Consulta Setorial para simplificação do Diário de Bordo de aeronaves",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/participe-da-consulta-setorial-para-simplificacao-do-diario-de-bordo-de-aeronaves",
+      "datePublished": "2026-01-08T11:53:00.000Z",
+      "description": "Contribuições até 21 de janeiro de 2026",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac revisa norma sobre navegação aérea para Aeronaves Leves Esportivas (ALE)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale",
+      "datePublished": "2026-01-08T11:21:00.000Z",
+      "description": "A atualização permite que as aeronaves realizem voos com instrumentos de auxílio meteorológico à navegação aérea",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/326d0ecb-1d00-4480-ab84-c0960729874e.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Semana Safety: confira o calendário dos eventos de segurança de 2026",
@@ -227,24 +244,6 @@
       "datePublished": "2025-12-16T17:05:00.000Z",
       "description": "Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca/card-1-taca-linkedin.png/@@images/79705206-2901-45b1-9e58-d323a00235b6.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novas regras para Diário de Bordo de aeronaves em consulta setorial",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial",
-      "datePublished": "2025-12-16T15:32:00.000Z",
-      "description": "Agência recebe contribuições até 2 de janeiro de 2026",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-para-diario-de-bordo-de-aeronaves-em-consulta-setorial/LinkedIn.png/@@images/94890bbc-d0e1-4829-8f19-a3db44eff367.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Publicadas regras para o leilão do Aeroporto do Galeão (RJ)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj",
-      "datePublished": "2025-12-15T14:29:00.000Z",
-      "description": "Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj/linkedin_edital_venda_galeao.jpg/@@images/5e4fd752-e377-4c8f-ba14-09416171478b.jpeg",
       "type": "notícia"
     },
     {
