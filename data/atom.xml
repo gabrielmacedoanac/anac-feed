@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c5e17ec1-4618-4978-a467-c03ace1f8809</id>
-  <updated>2026-01-06T16:45:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a43a2c43-26e3-4074-825b-947a406b2852</id>
+  <updated>2026-01-07T18:04:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana Safety: confira o calendário dos eventos de segurança de 2026</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026</id>
+    <published>2026-01-07T18:04:00.000Z</published>
+    <updated>2026-01-07T18:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</summary>
+    <content type="html"><![CDATA[
+      <p>Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg" alt="Semana Safety: confira o calendário dos eventos de segurança de 2026">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -463,25 +482,6 @@
     <content type="html"><![CDATA[
       <p>Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj/linkedin_edital_venda_galeao.jpg/@@images/5e4fd752-e377-4c8f-ba14-09416171478b.jpeg" alt="Publicadas regras para o leilão do Aeroporto do Galeão (RJ)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Aberta consulta pública sobre melhorias nas descrições de infração às regras da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac</id>
-    <published>2025-12-15T09:44:00.000Z</published>
-    <updated>2025-12-15T09:44:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c5e17ec1-4618-4978-a467-c03ace1f8809",
+  "identifier": "urn:uuid:anac-feed-a43a2c43-26e3-4074-825b-947a406b2852",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-07T20:18:03.597Z",
-  "dateModified": "2026-01-07T20:18:03.597Z",
+  "dateCreated": "2026-01-08T01:14:33.921Z",
+  "dateModified": "2026-01-08T01:14:33.921Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2026-01-06T16:45:00.000Z"
+    "endDate": "2026-01-07T18:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Semana Safety: confira o calendário dos eventos de segurança de 2026",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026",
+      "datePublished": "2026-01-07T18:04:00.000Z",
+      "description": "Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira",
@@ -236,14 +245,6 @@
       "datePublished": "2025-12-15T14:29:00.000Z",
       "description": "Procedimento competitivo será realizado em março de 2026, com lance mínimo de R$ 932 milhões, e busca readequar o contrato de concessão",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/publicadas-regras-para-o-leilao-do-aeroporto-do-galeao-rj/linkedin_edital_venda_galeao.jpg/@@images/5e4fd752-e377-4c8f-ba14-09416171478b.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aberta consulta pública sobre melhorias nas descrições de infração às regras da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aberta-consulta-publica-sobre-melhorias-nas-descricoes-de-infracao-as-regras-da-anac",
-      "datePublished": "2025-12-15T09:44:00.000Z",
-      "description": "Contribuições devem ser enviadas até o dia 22/1 pela plataforma Brasil Participativo",
       "type": "notícia"
     },
     {
