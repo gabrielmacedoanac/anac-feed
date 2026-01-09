@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e3d97907-e3fe-4c88-b1ad-5fc2c4d5c3fb</id>
-  <updated>2026-01-09T12:53:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f58d22e1-35e4-4d6d-bd55-332d2e683433</id>
+  <updated>2026-01-09T17:59:35.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Audiência Pública - Exploração de serviços aéreos com balão</title>
+    <link href="https://www.youtube.com/watch?v=-8_H8qqHFN4" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=-8_H8qqHFN4</id>
+    <published>2026-01-09T17:59:35.000Z</published>
+    <updated>2026-01-09T17:59:35.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg" alt="Audiência Pública - Exploração de serviços aéreos com balão">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -918,41 +937,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <content type="html"><![CDATA[
       <p></p>
       <img src="https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg" alt="Cerimônia de posse da nova diretoria da Anac">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Webinário Engenharia de Aeroportos 2025</title>
-    <link href="https://www.youtube.com/watch?v=qwyqefU-Za8" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=qwyqefU-Za8</id>
-    <published>2025-08-30T07:56:49.000Z</published>
-    <updated>2025-08-30T07:56:49.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. 
-
-A meta é difundir o conhecimento, aumentando a conscientização dos regulados.
-
-Programação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025
-
-Dúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y
-
-APRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip</summary>
-    <content type="html"><![CDATA[
-      <p>O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. 
-
-A meta é difundir o conhecimento, aumentando a conscientização dos regulados.
-
-Programação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025
-
-Dúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y
-
-APRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip</p>
-      <img src="https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg" alt="Webinário Engenharia de Aeroportos 2025">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

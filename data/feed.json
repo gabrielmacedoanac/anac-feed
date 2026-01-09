@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e3d97907-e3fe-4c88-b1ad-5fc2c4d5c3fb",
+  "identifier": "urn:uuid:anac-feed-f58d22e1-35e4-4d6d-bd55-332d2e683433",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-09T16:19:43.565Z",
-  "dateModified": "2026-01-09T16:19:43.565Z",
+  "dateCreated": "2026-01-09T20:17:53.050Z",
+  "dateModified": "2026-01-09T20:17:53.050Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-08-30T07:56:49.000Z",
-    "endDate": "2026-01-09T12:53:00.000Z"
+    "startDate": "2025-09-17T14:51:48.000Z",
+    "endDate": "2026-01-09T17:59:35.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Audiência Pública - Exploração de serviços aéreos com balão",
+      "url": "https://www.youtube.com/watch?v=-8_H8qqHFN4",
+      "datePublished": "2026-01-09T17:59:35.000Z",
+      "description": "",
+      "image": "https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac revisa norma para Aeronaves Leves Esportivas (ALE)",
@@ -370,15 +379,6 @@
       "datePublished": "2025-09-17T14:51:48.000Z",
       "description": "",
       "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário Engenharia de Aeroportos 2025",
-      "url": "https://www.youtube.com/watch?v=qwyqefU-Za8",
-      "datePublished": "2025-08-30T07:56:49.000Z",
-      "description": "O evento objetiva o compartilhamento de temas relevantes no contexto da Engenharia de Aeroportos, levando a todos os participantes conhecimento a respeito das mudanças regulatórias que estarão em breve em vigor, seus impactos e como se adequar à nova realidade. Busca-se, também, que cada palestrante seja capaz de trazer assuntos relevantes, proporcionando melhoria na cultura de segurança operacional a partir da divulgação das melhores técnicas de Engenharia de Aeroportos existentes. \n\nA meta é difundir o conhecimento, aumentando a conscientização dos regulados.\n\nProgramação e mais informações no site do evento https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/webinario-de-engenharia-de-aeroportos-2025\n\nDúvidas e perguntas (Slido) - https://app.sli.do/event/gALPhZRPaRjKAD2H9cmW3Y\n\nAPRESENTAÇÕES: Todas as apresentações: https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos/eventos-da-anac/eventos/arquivos/engenheira-de-aeroportos-apr-1.zip",
-      "image": "https://i2.ytimg.com/vi/qwyqefU-Za8/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
