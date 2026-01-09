@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6d0d2759-7fbe-49a1-bd96-c6883f1bd115</id>
-  <updated>2026-01-08T11:53:00.000Z</updated>
+  <id>urn:uuid:anac-feed-e3d97907-e3fe-4c88-b1ad-5fc2c4d5c3fb</id>
+  <updated>2026-01-09T12:53:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac revisa norma para Aeronaves Leves Esportivas (ALE)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-para-aeronaves-leves-esportivas-ale" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-para-aeronaves-leves-esportivas-ale</id>
+    <published>2026-01-09T12:53:00.000Z</published>
+    <updated>2026-01-09T12:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil</summary>
+    <content type="html"><![CDATA[
+      <p>A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/b62095a2-1bc7-4a66-bb9a-3757c9d32b9b.png" alt="Anac revisa norma para Aeronaves Leves Esportivas (ALE)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -26,25 +45,6 @@
     <content type="html"><![CDATA[
       <p>Contribuições até 21 de janeiro de 2026</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac revisa norma para Aeronaves Leves Esportivas (ALE)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale</id>
-    <published>2026-01-08T11:21:00.000Z</published>
-    <updated>2026-01-08T11:21:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-sobre-navegacao-aerea-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/326d0ecb-1d00-4480-ab84-c0960729874e.png" alt="Anac revisa norma para Aeronaves Leves Esportivas (ALE)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
