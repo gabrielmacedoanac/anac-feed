@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a49c2f9a-b5a2-4617-9766-e9ad92edd1e3</id>
-  <updated>2026-01-09T17:59:35.000Z</updated>
+  <id>urn:uuid:anac-feed-a6033df1-3136-48af-90ad-fdd7bfa447e0</id>
+  <updated>2026-01-12T16:20:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor</id>
+    <published>2026-01-12T16:20:00.000Z</published>
+    <updated>2026-01-12T16:20:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres</summary>
+    <content type="html"><![CDATA[
+      <p>Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor/whatsapp-image-2026-01-12-at-16-20-03.jpeg/@@images/2540d85c-1bc8-49c4-8e6c-30d2a39a761e.jpeg" alt="Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -482,25 +501,6 @@
     <content type="html"><![CDATA[
       <p>Visita reforça compromisso das entidades com o avanço contínuo da aviação civil</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades/img_9675.jpg/@@images/4f0ea41c-f510-41d7-a544-34fbf4af371b.jpeg" alt="Anac recebe delegação de Cabo Verde e assina Memorando de Cooperação Técnica entre as Autoridades">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca</id>
-    <published>2025-12-16T17:05:00.000Z</published>
-    <updated>2025-12-16T17:05:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca/card-1-taca-linkedin.png/@@images/79705206-2901-45b1-9e58-d323a00235b6.png" alt="Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a49c2f9a-b5a2-4617-9766-e9ad92edd1e3",
+  "identifier": "urn:uuid:anac-feed-a6033df1-3136-48af-90ad-fdd7bfa447e0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-12T16:20:50.265Z",
-  "dateModified": "2026-01-12T16:20:50.265Z",
+  "dateCreated": "2026-01-12T20:18:16.021Z",
+  "dateModified": "2026-01-12T20:18:16.021Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-17T14:51:48.000Z",
-    "endDate": "2026-01-09T17:59:35.000Z"
+    "endDate": "2026-01-12T16:20:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor",
+      "datePublished": "2026-01-12T16:20:00.000Z",
+      "description": "Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor/whatsapp-image-2026-01-12-at-16-20-03.jpeg/@@images/2540d85c-1bc8-49c4-8e6c-30d2a39a761e.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Audiência Pública - Exploração de serviços aéreos com balão",
@@ -244,15 +253,6 @@
       "datePublished": "2025-12-18T10:01:00.000Z",
       "description": "Visita reforça compromisso das entidades com o avanço contínuo da aviação civil",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades/img_9675.jpg/@@images/4f0ea41c-f510-41d7-a544-34fbf4af371b.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac lança campanha nacional contra o transporte aéreo clandestino (Taca)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca",
-      "datePublished": "2025-12-16T17:05:00.000Z",
-      "description": "Operação de fiscalização em nove aeroportos do país reforça o uso da plataforma Voe Seguro para contratar táxi-aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-lanca-campanha-nacional-contra-o-transporte-aereo-clandestino-taca/card-1-taca-linkedin.png/@@images/79705206-2901-45b1-9e58-d323a00235b6.png",
       "type": "notícia"
     },
     {
