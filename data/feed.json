@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1044f118-e7e4-412e-b6c1-215117d85d74",
+  "identifier": "urn:uuid:anac-feed-58bfb68d-51f4-42ed-b2a5-135a6daee1d9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-15T16:27:55.863Z",
-  "dateModified": "2026-01-15T16:27:55.863Z",
+  "dateCreated": "2026-01-15T20:18:31.356Z",
+  "dateModified": "2026-01-15T20:18:31.356Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-09-17T14:51:48.000Z",
-    "endDate": "2026-01-12T16:20:00.000Z"
+    "startDate": "2025-09-18T00:39:56.000Z",
+    "endDate": "2026-01-15T18:23:10.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Coletiva - Balanço 2025 e Agenda 2026",
+      "url": "https://www.youtube.com/watch?v=lLJ7SqQXyFE",
+      "datePublished": "2026-01-15T18:23:10.000Z",
+      "description": "",
+      "image": "https://i1.ytimg.com/vi/lLJ7SqQXyFE/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor",
@@ -370,15 +379,6 @@
       "datePublished": "2025-09-18T00:39:56.000Z",
       "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
       "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Cerimônia de posse da nova diretoria da Anac",
-      "url": "https://www.youtube.com/watch?v=jTD_JdU6otI",
-      "datePublished": "2025-09-17T14:51:48.000Z",
-      "description": "",
-      "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
