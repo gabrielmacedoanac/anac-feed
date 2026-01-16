@@ -5,14 +5,14 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 15 Jan 2026 20:18:31 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 20:18:31 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 01:15:19 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 01:15:19 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
     
     <item>
-      <title>Coletiva - Balanço 2025 e Agenda 2026</title>
+      <title>Encontro com o Ministro Silvio Costa Filho e com o Presidente da Anac, Tiago Faierstein</title>
       <link>https://www.youtube.com/watch?v=lLJ7SqQXyFE</link>
       <description></description>
       <pubDate>Thu, 15 Jan 2026 18:23:10 GMT</pubDate>
@@ -23,7 +23,24 @@
       <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p></p>
-        <img src="https://i1.ytimg.com/vi/lLJ7SqQXyFE/hqdefault.jpg" alt="Coletiva - Balanço 2025 e Agenda 2026">
+        <img src="https://i1.ytimg.com/vi/lLJ7SqQXyFE/hqdefault.jpg" alt="Encontro com o Ministro Silvio Costa Filho e com o Presidente da Anac, Tiago Faierstein">
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>Consulta pública sobre infrações e multas da aviação civil termina em 22/1</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-infracoes-e-multas-da-aviacao-civil-termina-em-22-1</link>
+      <description>Consulta trata da Resolução nº 762, que descreve infrações e penalidades aplicadas pela Anac.</description>
+      <pubDate>Thu, 15 Jan 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-infracoes-e-multas-da-aviacao-civil-termina-em-22-1</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-01-15T17:14:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-infracoes-e-multas-da-aviacao-civil-termina-em-22-1/whatsapp_regulacao_responsiva_contribuicoes.jpg/@@images/be93cbce-666c-49c0-87a1-310b5e4bbfaf.jpeg" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Consulta trata da Resolução nº 762, que descreve infrações e penalidades aplicadas pela Anac.</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-infracoes-e-multas-da-aviacao-civil-termina-em-22-1/whatsapp_regulacao_responsiva_contribuicoes.jpg/@@images/be93cbce-666c-49c0-87a1-310b5e4bbfaf.jpeg" alt="Consulta pública sobre infrações e multas da aviação civil termina em 22/1">
       ]]></content:encoded>
     </item>
     
@@ -432,23 +449,6 @@
       <content:encoded><![CDATA[
         <p>Especialistas renomados abordarão temas de segurança operacional específicos da região norte</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am/copy_of_S.Safety_Manaus_LINKEDIN___.png/@@images/43d28b39-7df4-4670-9496-ee627a27c512.png" alt="1ª edição da Semana Safety de 2026 será em Manaus (AM)">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Anac intensifica ações nos aeroportos para garantir o bom funcionamento no período de festas</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-reforcam-fiscalizacao-para-garantir-normalidade-nos-aeroportos-durante-periodo-de-festas</link>
-      <description>Atuação buscar garantir a prestação adequada e segura do serviço de transporte aéreo aos passageiros</description>
-      <pubDate>Thu, 18 Dec 2025 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/anac-e-mpor-reforcam-fiscalizacao-para-garantir-normalidade-nos-aeroportos-durante-periodo-de-festas</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-12-18T10:09:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Atuação buscar garantir a prestação adequada e segura do serviço de transporte aéreo aos passageiros</p>
-        
       ]]></content:encoded>
     </item>
     
