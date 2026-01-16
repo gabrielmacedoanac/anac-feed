@@ -4,32 +4,13 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0b14f46d-8d8c-4056-9391-9be4d59a1c2f</id>
-  <updated>2026-01-15T18:23:10.000Z</updated>
+  <id>urn:uuid:anac-feed-cade9535-dfb5-4ce4-8d69-232683a745e5</id>
+  <updated>2026-01-15T17:14:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
-  
-  
-  <entry>
-    <title type="html">Encontro com o Ministro Silvio Costa Filho e com o Presidente da Anac, Tiago Faierstein</title>
-    <link href="https://www.youtube.com/watch?v=lLJ7SqQXyFE" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=lLJ7SqQXyFE</id>
-    <published>2026-01-15T18:23:10.000Z</published>
-    <updated>2026-01-15T18:23:10.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html"></summary>
-    <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i1.ytimg.com/vi/lLJ7SqQXyFE/hqdefault.jpg" alt="Encontro com o Ministro Silvio Costa Filho e com o Presidente da Anac, Tiago Faierstein">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
   
   
   <entry>
@@ -937,6 +918,25 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
 1) Processo 00058.078972/2025-19 - 25:09
 2) Processo 00058.070806/2024-85 - 38:09</p>
       <img src="https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg" alt="12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Cerimônia de posse da nova diretoria da Anac</title>
+    <link href="https://www.youtube.com/watch?v=jTD_JdU6otI" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=jTD_JdU6otI</id>
+    <published>2025-09-17T14:51:48.000Z</published>
+    <updated>2025-09-17T14:51:48.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg" alt="Cerimônia de posse da nova diretoria da Anac">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

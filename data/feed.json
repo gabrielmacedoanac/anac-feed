@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0b14f46d-8d8c-4056-9391-9be4d59a1c2f",
+  "identifier": "urn:uuid:anac-feed-cade9535-dfb5-4ce4-8d69-232683a745e5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-16T08:21:50.586Z",
-  "dateModified": "2026-01-16T08:21:50.586Z",
+  "dateCreated": "2026-01-16T12:31:59.307Z",
+  "dateModified": "2026-01-16T12:31:59.307Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-15T18:23:10.000Z"
+    "startDate": "2025-09-17T14:51:48.000Z",
+    "endDate": "2026-01-15T17:14:00.000Z"
   },
   "distribution": [
     {
@@ -33,15 +33,6 @@
     }
   ],
   "items": [
-    {
-      "@type": "VideoObject",
-      "name": "Encontro com o Ministro Silvio Costa Filho e com o Presidente da Anac, Tiago Faierstein",
-      "url": "https://www.youtube.com/watch?v=lLJ7SqQXyFE",
-      "datePublished": "2026-01-15T18:23:10.000Z",
-      "description": "",
-      "image": "https://i1.ytimg.com/vi/lLJ7SqQXyFE/hqdefault.jpg",
-      "type": "vídeo"
-    },
     {
       "@type": "NewsArticle",
       "name": "Consulta pública sobre infrações e multas da aviação civil termina em 22/1",
@@ -380,6 +371,15 @@
       "datePublished": "2025-09-18T00:39:56.000Z",
       "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
       "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Cerimônia de posse da nova diretoria da Anac",
+      "url": "https://www.youtube.com/watch?v=jTD_JdU6otI",
+      "datePublished": "2025-09-17T14:51:48.000Z",
+      "description": "",
+      "image": "https://i3.ytimg.com/vi/jTD_JdU6otI/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
