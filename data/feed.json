@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-b4aecd1e-8208-4199-9db0-65cacea88746",
+  "identifier": "urn:uuid:anac-feed-0070bef1-14a0-432a-91ba-2d0fed201eeb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-19T16:21:12.958Z",
-  "dateModified": "2026-01-19T16:21:12.958Z",
+  "dateCreated": "2026-01-19T20:17:31.195Z",
+  "dateModified": "2026-01-19T20:17:31.195Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-17T14:51:48.000Z",
-    "endDate": "2026-01-15T17:14:00.000Z"
+    "endDate": "2026-01-19T16:45:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia",
+      "datePublished": "2026-01-19T16:45:00.000Z",
+      "description": "Somente no segmento doméstico, foram movimentados mais de 100 milhões de passageiros no ano",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia/d-do-setor-aereo_2025_card-6.png/@@images/0231420e-37ab-4c4c-b8f9-b7bcbf9b2116.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Consulta pública sobre infrações e multas da aviação civil termina em 22/1",
@@ -245,15 +254,6 @@
       "datePublished": "2025-12-18T17:07:00.000Z",
       "description": "Especialistas renomados abordarão temas de segurança operacional específicos da região norte",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am/copy_of_S.Safety_Manaus_LINKEDIN___.png/@@images/43d28b39-7df4-4670-9496-ee627a27c512.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac recebe delegação de Cabo Verde e assina Memorando de Cooperação Técnica entre as Autoridades",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades",
-      "datePublished": "2025-12-18T10:01:00.000Z",
-      "description": "Visita reforça compromisso das entidades com o avanço contínuo da aviação civil",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades/img_9675.jpg/@@images/4f0ea41c-f510-41d7-a544-34fbf4af371b.jpeg",
       "type": "notícia"
     },
     {

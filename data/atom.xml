@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-b4aecd1e-8208-4199-9db0-65cacea88746</id>
-  <updated>2026-01-15T17:14:00.000Z</updated>
+  <id>urn:uuid:anac-feed-0070bef1-14a0-432a-91ba-2d0fed201eeb</id>
+  <updated>2026-01-19T16:45:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia</id>
+    <published>2026-01-19T16:45:00.000Z</published>
+    <updated>2026-01-19T16:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Somente no segmento doméstico, foram movimentados mais de 100 milhões de passageiros no ano</summary>
+    <content type="html"><![CDATA[
+      <p>Somente no segmento doméstico, foram movimentados mais de 100 milhões de passageiros no ano</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia/d-do-setor-aereo_2025_card-6.png/@@images/0231420e-37ab-4c4c-b8f9-b7bcbf9b2116.png" alt="Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -482,25 +501,6 @@
     <content type="html"><![CDATA[
       <p>Especialistas renomados abordarão temas de segurança operacional específicos da região norte</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am/copy_of_S.Safety_Manaus_LINKEDIN___.png/@@images/43d28b39-7df4-4670-9496-ee627a27c512.png" alt="1ª edição da Semana Safety de 2026 será em Manaus (AM)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac recebe delegação de Cabo Verde e assina Memorando de Cooperação Técnica entre as Autoridades</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades</id>
-    <published>2025-12-18T10:01:00.000Z</published>
-    <updated>2025-12-18T10:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Visita reforça compromisso das entidades com o avanço contínuo da aviação civil</summary>
-    <content type="html"><![CDATA[
-      <p>Visita reforça compromisso das entidades com o avanço contínuo da aviação civil</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-recebe-delegacao-de-cabo-verde-e-assina-memorando-de-cooperacao-tecnica-entre-as-autoridades/img_9675.jpg/@@images/4f0ea41c-f510-41d7-a544-34fbf4af371b.jpeg" alt="Anac recebe delegação de Cabo Verde e assina Memorando de Cooperação Técnica entre as Autoridades">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
