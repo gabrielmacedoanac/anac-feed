@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-91540a6e-6b9c-4422-8c81-36662aa3486e</id>
-  <updated>2026-01-19T16:45:00.000Z</updated>
+  <id>urn:uuid:anac-feed-bf2c8641-fdb4-403d-a795-c1b7b85ad1aa</id>
+  <updated>2026-01-20T15:52:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Recordes, capacitação e segurança: Anac anuncia novidades para a aviação em 2026</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026</id>
+    <published>2026-01-20T15:52:00.000Z</published>
+    <updated>2026-01-20T15:52:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Com reforço de R$ 40 milhões no orçamento, Anac incrementará ações de fiscalização e ampliação do corpo técnico</summary>
+    <content type="html"><![CDATA[
+      <p>Com reforço de R$ 40 milhões no orçamento, Anac incrementará ações de fiscalização e ampliação do corpo técnico</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026/banner_portal_coletiva_janeiro_2026.jpg/@@images/10758960-01eb-4f34-b1a3-f2b194ad88c0.png" alt="Recordes, capacitação e segurança: Anac anuncia novidades para a aviação em 2026">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -513,25 +532,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Anac participou de cerimônia da Petrobras para o novo combustível sustentável de aviação, que conta com certificação internacional</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro/whatsapp-image-2025-12-08-at-15-49-34-1.jpeg/@@images/28231fac-e241-476a-8d1b-4d2e623cbdf7.jpeg" alt="Realizada a primeira produção e entrega de SAF 100% brasileiro">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">1ª edição da Semana Safety de 2026 será em Manaus (AM)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am</id>
-    <published>2025-12-18T17:07:00.000Z</published>
-    <updated>2025-12-18T17:07:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Especialistas renomados abordarão temas de segurança operacional específicos da região norte</summary>
-    <content type="html"><![CDATA[
-      <p>Especialistas renomados abordarão temas de segurança operacional específicos da região norte</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am/copy_of_S.Safety_Manaus_LINKEDIN___.png/@@images/43d28b39-7df4-4670-9496-ee627a27c512.png" alt="1ª edição da Semana Safety de 2026 será em Manaus (AM)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

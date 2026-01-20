@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-91540a6e-6b9c-4422-8c81-36662aa3486e",
+  "identifier": "urn:uuid:anac-feed-bf2c8641-fdb4-403d-a795-c1b7b85ad1aa",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-20T16:27:28.873Z",
-  "dateModified": "2026-01-20T16:27:28.873Z",
+  "dateCreated": "2026-01-20T20:39:36.675Z",
+  "dateModified": "2026-01-20T20:39:36.675Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-19T16:45:00.000Z"
+    "endDate": "2026-01-20T15:52:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Recordes, capacitação e segurança: Anac anuncia novidades para a aviação em 2026",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026",
+      "datePublished": "2026-01-20T15:52:00.000Z",
+      "description": "Com reforço de R$ 40 milhões no orçamento, Anac incrementará ações de fiscalização e ampliação do corpo técnico",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026/banner_portal_coletiva_janeiro_2026.jpg/@@images/10758960-01eb-4f34-b1a3-f2b194ad88c0.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história",
@@ -254,15 +263,6 @@
       "datePublished": "2025-12-18T17:45:00.000Z",
       "description": "Anac participou de cerimônia da Petrobras para o novo combustível sustentável de aviação, que conta com certificação internacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro/whatsapp-image-2025-12-08-at-15-49-34-1.jpeg/@@images/28231fac-e241-476a-8d1b-4d2e623cbdf7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "1ª edição da Semana Safety de 2026 será em Manaus (AM)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am",
-      "datePublished": "2025-12-18T17:07:00.000Z",
-      "description": "Especialistas renomados abordarão temas de segurança operacional específicos da região norte",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/1a-edicao-da-semana-safety-de-2026-sera-em-manaus-am/copy_of_S.Safety_Manaus_LINKEDIN___.png/@@images/43d28b39-7df4-4670-9496-ee627a27c512.png",
       "type": "notícia"
     },
     {
