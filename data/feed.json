@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-20932e7b-e32a-4e47-9f95-295b9b3d509a",
+  "identifier": "urn:uuid:anac-feed-c6edcd36-dda0-4ce2-b4a7-15d126324aa1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-21T04:38:43.682Z",
-  "dateModified": "2026-01-21T04:38:43.682Z",
+  "dateCreated": "2026-01-21T08:24:27.283Z",
+  "dateModified": "2026-01-21T08:24:27.283Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-20T18:16:00.000Z"
+    "endDate": "2026-01-21T07:45:38.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
+      "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
+      "datePublished": "2026-01-21T07:45:38.000Z",
+      "description": "1) Processo: 00058.014794/2023-28\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
+      "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac abrirá consulta pública para atualizar regras sobre direitos e deveres dos passageiros",
@@ -120,15 +129,6 @@
       "description": "A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
-      "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
-      "datePublished": "2026-01-06T12:08:21.000Z",
-      "description": "1) Processo: 00058.014794/2023-28\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
-      "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
