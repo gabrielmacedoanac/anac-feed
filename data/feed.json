@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-68b2657f-0229-4a83-9aff-5ced7bb30d61",
+  "identifier": "urn:uuid:anac-feed-cc8fc45d-ea49-4479-bf1c-0fe0c55e7791",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-21T16:34:20.435Z",
-  "dateModified": "2026-01-21T16:34:20.435Z",
+  "dateCreated": "2026-01-21T20:24:12.591Z",
+  "dateModified": "2026-01-21T20:24:12.591Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-21T07:45:38.000Z"
+    "endDate": "2026-01-21T16:05:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Ministério de Portos e Aeroportos abre consulta pública para aprimorar sistema de embarque biométrico",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-abre-consulta-publica-para-aprimorar-sistema-de-embarque-biometrico",
+      "datePublished": "2026-01-21T16:05:00.000Z",
+      "description": "Iniciativa deve tornar operações mais ágeis e seguras em aeroportos e terminais portuários e hidroviários",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
@@ -255,14 +263,6 @@
       "datePublished": "2025-12-19T17:40:00.000Z",
       "description": "Premiação reconhece a percepção positiva dos usuários",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/servicos-digitais-da-anac-se-destacam-em-avaliacao-do-governo-federal/linkedin-1.png/@@images/23122bfc-b12c-4592-a602-39954eb5201d.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "BGAST disponibiliza cartilhas sobre promoção do bem-estar psicológico e segurança operacional na aviação geral",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/bgast-disponibiliza-cartilhas-sobre-promocao-do-bem-estar-psicologico-e-seguranca-operacional-na-aviacao-geral",
-      "datePublished": "2025-12-19T15:53:00.000Z",
-      "description": "Documentos podem ser acessados no portal da Anac pela página do BGAST",
       "type": "notícia"
     },
     {

@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-68b2657f-0229-4a83-9aff-5ced7bb30d61</id>
-  <updated>2026-01-21T07:45:38.000Z</updated>
+  <id>urn:uuid:anac-feed-cc8fc45d-ea49-4479-bf1c-0fe0c55e7791</id>
+  <updated>2026-01-21T16:05:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Ministério de Portos e Aeroportos abre consulta pública para aprimorar sistema de embarque biométrico</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-abre-consulta-publica-para-aprimorar-sistema-de-embarque-biometrico" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-abre-consulta-publica-para-aprimorar-sistema-de-embarque-biometrico</id>
+    <published>2026-01-21T16:05:00.000Z</published>
+    <updated>2026-01-21T16:05:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa deve tornar operações mais ágeis e seguras em aeroportos e terminais portuários e hidroviários</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa deve tornar operações mais ágeis e seguras em aeroportos e terminais portuários e hidroviários</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -515,25 +534,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Premiação reconhece a percepção positiva dos usuários</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/servicos-digitais-da-anac-se-destacam-em-avaliacao-do-governo-federal/linkedin-1.png/@@images/23122bfc-b12c-4592-a602-39954eb5201d.png" alt="Serviços digitais da Anac se destacam em avaliação do Governo Federal">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">BGAST disponibiliza cartilhas sobre promoção do bem-estar psicológico e segurança operacional na aviação geral</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/bgast-disponibiliza-cartilhas-sobre-promocao-do-bem-estar-psicologico-e-seguranca-operacional-na-aviacao-geral" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/bgast-disponibiliza-cartilhas-sobre-promocao-do-bem-estar-psicologico-e-seguranca-operacional-na-aviacao-geral</id>
-    <published>2025-12-19T15:53:00.000Z</published>
-    <updated>2025-12-19T15:53:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Documentos podem ser acessados no portal da Anac pela página do BGAST</summary>
-    <content type="html"><![CDATA[
-      <p>Documentos podem ser acessados no portal da Anac pela página do BGAST</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
