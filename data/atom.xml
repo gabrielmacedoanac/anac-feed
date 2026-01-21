@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-bf2c8641-fdb4-403d-a795-c1b7b85ad1aa</id>
-  <updated>2026-01-20T15:52:00.000Z</updated>
+  <id>urn:uuid:anac-feed-ba1c1ada-c2ae-42ba-b4b9-adacb050b6ad</id>
+  <updated>2026-01-20T18:16:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac abrirá consulta pública para atualizar regras sobre direitos e deveres dos passageiros</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros</id>
+    <published>2026-01-20T18:16:00.000Z</published>
+    <updated>2026-01-20T18:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Proposta traz maior clareza sobre as informações prestadas ao passageiro e reorganiza a assistência em caso de atrasos de voos</summary>
+    <content type="html"><![CDATA[
+      <p>Proposta traz maior clareza sobre as informações prestadas ao passageiro e reorganiza a assistência em caso de atrasos de voos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -513,25 +532,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Documentos podem ser acessados no portal da Anac pela página do BGAST</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Realizada a primeira produção e entrega de SAF 100% brasileiro</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro</id>
-    <published>2025-12-18T17:45:00.000Z</published>
-    <updated>2025-12-18T17:45:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac participou de cerimônia da Petrobras para o novo combustível sustentável de aviação, que conta com certificação internacional</summary>
-    <content type="html"><![CDATA[
-      <p>Anac participou de cerimônia da Petrobras para o novo combustível sustentável de aviação, que conta com certificação internacional</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro/whatsapp-image-2025-12-08-at-15-49-34-1.jpeg/@@images/28231fac-e241-476a-8d1b-4d2e623cbdf7.jpeg" alt="Realizada a primeira produção e entrega de SAF 100% brasileiro">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-bf2c8641-fdb4-403d-a795-c1b7b85ad1aa",
+  "identifier": "urn:uuid:anac-feed-ba1c1ada-c2ae-42ba-b4b9-adacb050b6ad",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-20T20:39:36.675Z",
-  "dateModified": "2026-01-20T20:39:36.675Z",
+  "dateCreated": "2026-01-21T01:16:46.351Z",
+  "dateModified": "2026-01-21T01:16:46.351Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-20T15:52:00.000Z"
+    "endDate": "2026-01-20T18:16:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abrirá consulta pública para atualizar regras sobre direitos e deveres dos passageiros",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros",
+      "datePublished": "2026-01-20T18:16:00.000Z",
+      "description": "Proposta traz maior clareza sobre as informações prestadas ao passageiro e reorganiza a assistência em caso de atrasos de voos",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Recordes, capacitação e segurança: Anac anuncia novidades para a aviação em 2026",
@@ -254,15 +262,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/bgast-disponibiliza-cartilhas-sobre-promocao-do-bem-estar-psicologico-e-seguranca-operacional-na-aviacao-geral",
       "datePublished": "2025-12-19T15:53:00.000Z",
       "description": "Documentos podem ser acessados no portal da Anac pela página do BGAST",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Realizada a primeira produção e entrega de SAF 100% brasileiro",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro",
-      "datePublished": "2025-12-18T17:45:00.000Z",
-      "description": "Anac participou de cerimônia da Petrobras para o novo combustível sustentável de aviação, que conta com certificação internacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/realizada-a-primeira-producao-e-entrega-de-saf-100-brasileiro/whatsapp-image-2025-12-08-at-15-49-34-1.jpeg/@@images/28231fac-e241-476a-8d1b-4d2e623cbdf7.jpeg",
       "type": "notícia"
     },
     {
