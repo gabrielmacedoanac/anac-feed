@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a07ed1f1-83dd-4040-9c40-a78ec69d46e9",
+  "identifier": "urn:uuid:anac-feed-fc1b1e05-1b07-4188-8071-3dfac7214293",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-22T16:26:47.472Z",
-  "dateModified": "2026-01-22T16:26:47.472Z",
+  "dateCreated": "2026-01-22T20:19:17.914Z",
+  "dateModified": "2026-01-22T20:19:17.914Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-22T13:08:00.000Z"
+    "endDate": "2026-01-22T14:13:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros",
+      "datePublished": "2026-01-22T14:13:00.000Z",
+      "description": "Consulta pública estará aberta para receber sugestões até 9 de março",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac estabelecerá nova tipologia para atos normativos a partir de 2/2",
@@ -254,15 +263,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/bgast-lanca-o-reforco-de-seguranca-operacional-201ctransicao-eficaz-das-tarefas-de-manutencao201d",
       "datePublished": "2025-12-22T09:53:00.000Z",
       "description": "Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Aviação internacional bate recorde histórico de passageiros antes do fim do ano",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano",
-      "datePublished": "2025-12-19T18:15:00.000Z",
-      "description": "Setor alcançou, em novembro, a maior movimentação desde 2000, com 25,8 milhões de passageiros",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano/linkedin_nov__.png/@@images/8d975b75-f4d0-4bd0-93ed-640b38718758.png",
       "type": "notícia"
     },
     {

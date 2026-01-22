@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 22 Jan 2026 16:26:47 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 16:26:47 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 20:19:17 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 20:19:17 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros</link>
+      <description>Consulta pública estará aberta para receber sugestões até 9 de março</description>
+      <pubDate>Thu, 22 Jan 2026 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-01-22T14:13:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Consulta pública estará aberta para receber sugestões até 9 de março</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png" alt="Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -463,23 +480,6 @@ Relator: Rui Mesquita</p>
       <content:encoded><![CDATA[
         <p>Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica</p>
         
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Aviação internacional bate recorde histórico de passageiros antes do fim do ano</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano</link>
-      <description>Setor alcançou, em novembro, a maior movimentação desde 2000, com 25,8 milhões de passageiros</description>
-      <pubDate>Fri, 19 Dec 2025 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-12-19T18:15:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano/linkedin_nov__.png/@@images/8d975b75-f4d0-4bd0-93ed-640b38718758.png" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Setor alcançou, em novembro, a maior movimentação desde 2000, com 25,8 milhões de passageiros</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2025/aviacao-internacional-bate-recorde-historico-de-passageiros-antes-do-fim-do-ano/linkedin_nov__.png/@@images/8d975b75-f4d0-4bd0-93ed-640b38718758.png" alt="Aviação internacional bate recorde histórico de passageiros antes do fim do ano">
       ]]></content:encoded>
     </item>
     
