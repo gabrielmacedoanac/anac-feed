@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-662fe530-fc21-4f32-a6ac-a81f74940d5e",
+  "identifier": "urn:uuid:anac-feed-9b9bbadc-53e8-4596-87bd-085e9dcb8bda",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-23T16:22:22.297Z",
-  "dateModified": "2026-01-23T16:22:22.297Z",
+  "dateCreated": "2026-01-23T20:18:53.541Z",
+  "dateModified": "2026-01-23T20:18:53.541Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-22T14:13:00.000Z"
+    "endDate": "2026-01-23T14:48:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Plataforma da Anac InfoVoo consolida informações da aviação civil e fortalece análises do judiciário",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario",
+      "datePublished": "2026-01-23T14:48:00.000Z",
+      "description": "Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros",
@@ -255,14 +263,6 @@
       "datePublished": "2025-12-23T15:10:00.000Z",
       "description": "Sem descrição",
       "image": "https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas/copy2_of_WhatsAppImage20251223at15.09.00.jpeg/@@images/79a621b2-80fd-4f81-a1d1-9a58a72bad71.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "BGAST lança o reforço de segurança operacional: “Transição eficaz das tarefas de manutenção”",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/bgast-lanca-o-reforco-de-seguranca-operacional-201ctransicao-eficaz-das-tarefas-de-manutencao201d",
-      "datePublished": "2025-12-22T09:53:00.000Z",
-      "description": "Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica",
       "type": "notícia"
     },
     {

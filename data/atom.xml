@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-662fe530-fc21-4f32-a6ac-a81f74940d5e</id>
-  <updated>2026-01-22T14:13:00.000Z</updated>
+  <id>urn:uuid:anac-feed-9b9bbadc-53e8-4596-87bd-085e9dcb8bda</id>
+  <updated>2026-01-23T14:48:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Plataforma da Anac InfoVoo consolida informações da aviação civil e fortalece análises do judiciário</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario</id>
+    <published>2026-01-23T14:48:00.000Z</published>
+    <updated>2026-01-23T14:48:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.</summary>
+    <content type="html"><![CDATA[
+      <p>Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -515,25 +534,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Sem descrição</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas/copy2_of_WhatsAppImage20251223at15.09.00.jpeg/@@images/79a621b2-80fd-4f81-a1d1-9a58a72bad71.jpeg" alt="Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">BGAST lança o reforço de segurança operacional: “Transição eficaz das tarefas de manutenção”</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/bgast-lanca-o-reforco-de-seguranca-operacional-201ctransicao-eficaz-das-tarefas-de-manutencao201d" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/bgast-lanca-o-reforco-de-seguranca-operacional-201ctransicao-eficaz-das-tarefas-de-manutencao201d</id>
-    <published>2025-12-22T09:53:00.000Z</published>
-    <updated>2025-12-22T09:53:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica</summary>
-    <content type="html"><![CDATA[
-      <p>Publicação apresenta boas práticas para a segurança e a eficiência da manutenção aeronáutica</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
