@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6ff8d1fd-785c-411e-8dfa-153db215fc5b",
+  "identifier": "urn:uuid:anac-feed-454f41c1-dd78-475a-9b74-3e7a304876bd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-24T12:29:19.983Z",
-  "dateModified": "2026-01-24T12:29:19.983Z",
+  "dateCreated": "2026-01-24T16:17:45.974Z",
+  "dateModified": "2026-01-24T16:17:45.974Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-23T14:48:00.000Z"
+    "endDate": "2026-01-24T12:36:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas",
+      "datePublished": "2026-01-24T12:36:00.000Z",
+      "description": "Empresário faleceu na manhã de 24 de janeiro",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas/linkedin_nota_de_pesar.png/@@images/f94fb78d-6f4f-4317-8300-ef1ba66f68a7.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Plataforma da Anac InfoVoo consolida informações da aviação civil e fortalece análises do judiciário",
@@ -254,15 +263,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos",
       "datePublished": "2025-12-23T17:04:00.000Z",
       "description": "Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas",
-      "datePublished": "2025-12-23T15:10:00.000Z",
-      "description": "Sem descrição",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas/copy2_of_WhatsAppImage20251223at15.09.00.jpeg/@@images/79a621b2-80fd-4f81-a1d1-9a58a72bad71.jpeg",
       "type": "notícia"
     },
     {

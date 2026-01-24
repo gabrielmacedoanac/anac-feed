@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6ff8d1fd-785c-411e-8dfa-153db215fc5b</id>
-  <updated>2026-01-23T14:48:00.000Z</updated>
+  <id>urn:uuid:anac-feed-454f41c1-dd78-475a-9b74-3e7a304876bd</id>
+  <updated>2026-01-24T12:36:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas</id>
+    <published>2026-01-24T12:36:00.000Z</published>
+    <updated>2026-01-24T12:36:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Empresário faleceu na manhã de 24 de janeiro</summary>
+    <content type="html"><![CDATA[
+      <p>Empresário faleceu na manhã de 24 de janeiro</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas/linkedin_nota_de_pesar.png/@@images/f94fb78d-6f4f-4317-8300-ef1ba66f68a7.png" alt="Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -515,25 +534,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas</id>
-    <published>2025-12-23T15:10:00.000Z</published>
-    <updated>2025-12-23T15:10:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Sem descrição</summary>
-    <content type="html"><![CDATA[
-      <p>Sem descrição</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/que-o-natal-seja-leve-e-cheio-de-significado-boas-festas/copy2_of_WhatsAppImage20251223at15.09.00.jpeg/@@images/79a621b2-80fd-4f81-a1d1-9a58a72bad71.jpeg" alt="Desejamos um Natal repleto de encontros verdadeiros, esperança renovada e momentos que aquecem o coração. Boas festas!">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
