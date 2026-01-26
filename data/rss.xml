@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 26 Jan 2026 08:24:46 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 08:24:46 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 12:35:21 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 12:35:21 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia</link>
+      <description>Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março</description>
+      <pubDate>Mon, 26 Jan 2026 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-01-26T09:34:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia/portal-curso-de-formacaowhatsapp-image-2026-01-23-at-16-47-54-1.jpeg/@@images/a559c684-f5b5-4518-a1a6-802aae64f353.jpeg" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia/portal-curso-de-formacaowhatsapp-image-2026-01-23-at-16-47-54-1.jpeg/@@images/a559c684-f5b5-4518-a1a6-802aae64f353.jpeg" alt="Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -462,23 +479,6 @@ Relator: Rui Mesquita</p>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Revisão da IS 119-004 estabelece procedimentos alinhados ao porte dos operadores</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Publicados os novos valores para teto de tarifas de 20 aeroportos</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos</link>
-      <description>Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</description>
-      <pubDate>Tue, 23 Dec 2025 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2025-12-23T17:04:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</p>
         
       ]]></content:encoded>
     </item>

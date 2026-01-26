@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c0933953-7d7f-4212-ab43-248c2626184f",
+  "identifier": "urn:uuid:anac-feed-95c387ae-aeb5-4a9b-8aa3-5cecc648ba9e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-01-26T08:24:46.631Z",
-  "dateModified": "2026-01-26T08:24:46.631Z",
+  "dateCreated": "2026-01-26T12:35:21.538Z",
+  "dateModified": "2026-01-26T12:35:21.538Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-24T12:36:00.000Z"
+    "endDate": "2026-01-26T09:34:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia",
+      "datePublished": "2026-01-26T09:34:00.000Z",
+      "description": "Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia/portal-curso-de-formacaowhatsapp-image-2026-01-23-at-16-47-54-1.jpeg/@@images/a559c684-f5b5-4518-a1a6-802aae64f353.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas",
@@ -255,14 +264,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/instrucao-suplementar-define-procedimentos-para-certificacao-de-operador-simples-de-taxi-aereo",
       "datePublished": "2025-12-23T18:28:00.000Z",
       "description": "Revisão da IS 119-004 estabelece procedimentos alinhados ao porte dos operadores",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Publicados os novos valores para teto de tarifas de 20 aeroportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos",
-      "datePublished": "2025-12-23T17:04:00.000Z",
-      "description": "Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026",
       "type": "notícia"
     },
     {

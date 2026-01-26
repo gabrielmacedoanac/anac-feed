@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c0933953-7d7f-4212-ab43-248c2626184f</id>
-  <updated>2026-01-24T12:36:00.000Z</updated>
+  <id>urn:uuid:anac-feed-95c387ae-aeb5-4a9b-8aa3-5cecc648ba9e</id>
+  <updated>2026-01-26T09:34:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia</id>
+    <published>2026-01-26T09:34:00.000Z</published>
+    <updated>2026-01-26T09:34:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março</summary>
+    <content type="html"><![CDATA[
+      <p>Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia/portal-curso-de-formacaowhatsapp-image-2026-01-23-at-16-47-54-1.jpeg/@@images/a559c684-f5b5-4518-a1a6-802aae64f353.jpeg" alt="Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -514,25 +533,6 @@ Relator: Rui Mesquita</p>
     <summary type="html">Revisão da IS 119-004 estabelece procedimentos alinhados ao porte dos operadores</summary>
     <content type="html"><![CDATA[
       <p>Revisão da IS 119-004 estabelece procedimentos alinhados ao porte dos operadores</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Publicados os novos valores para teto de tarifas de 20 aeroportos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/publicados-os-novos-valores-para-teto-de-tarifas-de-20-aeroportos</id>
-    <published>2025-12-23T17:04:00.000Z</published>
-    <updated>2025-12-23T17:04:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</summary>
-    <content type="html"><![CDATA[
-      <p>Portarias da Anac limitam as receitas tarifárias dos aeroportos para o ano de 2026</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
