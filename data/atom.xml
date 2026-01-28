@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-162ed614-553a-404c-a5cc-1fc774d5cc54</id>
-  <updated>2026-01-27T14:43:00.000Z</updated>
+  <id>urn:uuid:anac-feed-ae20f201-6148-4afb-9f56-e69dc30d41dd</id>
+  <updated>2026-01-28T15:19:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Roadshow apresenta Galeão para investidores</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/roadshow-apresenta-galeao-para-investidores" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/roadshow-apresenta-galeao-para-investidores</id>
+    <published>2026-01-28T15:19:00.000Z</published>
+    <updated>2026-01-28T15:19:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Representantes da Agência, do MPor e do Programa de Parcerias de Investimentos farão apresentações sobre a venda assistida do aeroporto</summary>
+    <content type="html"><![CDATA[
+      <p>Representantes da Agência, do MPor e do Programa de Parcerias de Investimentos farão apresentações sobre a venda assistida do aeroporto</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -515,25 +534,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Aeronaves podem ser usadas para transporte de carga e passageiros; uma delas está apta para evacuação médica e pouso automático em caso de emergência</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-duas-novas-aeronaves-para-aviacao-geral-e-taxi-aereo/portal.png/@@images/7937bbae-c512-43f6-aba9-89d3f735c9af.png" alt="Anac certifica duas novas aeronaves para aviação geral e táxi-aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">BASeT elege vice-presidente</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/baset-elege-vice-presidente" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/baset-elege-vice-presidente</id>
-    <published>2025-12-26T09:52:00.000Z</published>
-    <updated>2025-12-26T09:52:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Marcelo Alexandre Rosa, gerente de Segurança AVSEC da Aena Brasil, assume o cargo para o ciclo 2026/2027</summary>
-    <content type="html"><![CDATA[
-      <p>Marcelo Alexandre Rosa, gerente de Segurança AVSEC da Aena Brasil, assume o cargo para o ciclo 2026/2027</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
