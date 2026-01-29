@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-4da36bd4-c2ce-4738-bec0-0b68406daaa1</id>
-  <updated>2026-01-28T15:19:00.000Z</updated>
+  <id>urn:uuid:anac-feed-8f78b43b-3710-4f52-a8ff-ec4648836793</id>
+  <updated>2026-01-29T15:23:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Balonismo será tema de audiência pública no dia 10/2</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2</id>
+    <published>2026-01-29T15:23:00.000Z</published>
+    <updated>2026-01-29T15:23:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</summary>
+    <content type="html"><![CDATA[
+      <p>Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -515,25 +534,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac certifica duas novas aeronaves para aviação geral e táxi-aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-duas-novas-aeronaves-para-aviacao-geral-e-taxi-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-duas-novas-aeronaves-para-aviacao-geral-e-taxi-aereo</id>
-    <published>2025-12-26T10:01:00.000Z</published>
-    <updated>2025-12-26T10:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aeronaves podem ser usadas para transporte de carga e passageiros; uma delas está apta para evacuação médica e pouso automático em caso de emergência</summary>
-    <content type="html"><![CDATA[
-      <p>Aeronaves podem ser usadas para transporte de carga e passageiros; uma delas está apta para evacuação médica e pouso automático em caso de emergência</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2025/anac-certifica-duas-novas-aeronaves-para-aviacao-geral-e-taxi-aereo/portal.png/@@images/7937bbae-c512-43f6-aba9-89d3f735c9af.png" alt="Anac certifica duas novas aeronaves para aviação geral e táxi-aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
