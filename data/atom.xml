@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8731c77c-e2bd-4a74-b096-8400fd5d3bf0</id>
-  <updated>2026-01-29T15:23:00.000Z</updated>
+  <id>urn:uuid:anac-feed-c65e8389-24dd-4b78-af38-91bb059dc75b</id>
+  <updated>2026-02-02T12:03:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Nova tipologia de atos normativos da Anac entra em vigor</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1</id>
+    <published>2026-02-02T12:03:00.000Z</published>
+    <updated>2026-02-02T12:03:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</summary>
+    <content type="html"><![CDATA[
+      <p>Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -514,25 +533,6 @@ Relator: Rui Mesquita</p>
     <summary type="html">Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos</summary>
     <content type="html"><![CDATA[
       <p>Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Certificação de aeronaves com IA ganha marco regulatório da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/certificacao-de-aeronaves-com-ia-ganha-marco-regulatorio-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/certificacao-de-aeronaves-com-ia-ganha-marco-regulatorio-da-anac</id>
-    <published>2025-12-29T14:55:00.000Z</published>
-    <updated>2025-12-29T14:55:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA</summary>
-    <content type="html"><![CDATA[
-      <p>Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

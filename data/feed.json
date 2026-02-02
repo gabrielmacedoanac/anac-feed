@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8731c77c-e2bd-4a74-b096-8400fd5d3bf0",
+  "identifier": "urn:uuid:anac-feed-c65e8389-24dd-4b78-af38-91bb059dc75b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-02T12:43:17.767Z",
-  "dateModified": "2026-02-02T12:43:17.767Z",
+  "dateCreated": "2026-02-02T16:31:10.888Z",
+  "dateModified": "2026-02-02T16:31:10.888Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-01-29T15:23:00.000Z"
+    "endDate": "2026-02-02T12:03:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Nova tipologia de atos normativos da Anac entra em vigor",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1",
+      "datePublished": "2026-02-02T12:03:00.000Z",
+      "description": "Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Balonismo será tema de audiência pública no dia 10/2",
@@ -256,14 +264,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica",
       "datePublished": "2025-12-29T16:35:00.000Z",
       "description": "Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Certificação de aeronaves com IA ganha marco regulatório da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/certificacao-de-aeronaves-com-ia-ganha-marco-regulatorio-da-anac",
-      "datePublished": "2025-12-29T14:55:00.000Z",
-      "description": "Agência estabelece marco regulatório para certificação de aeronaves com sistema desenvolvido com base em IA",
       "type": "notícia"
     },
     {
