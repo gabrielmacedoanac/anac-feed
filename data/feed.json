@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c65e8389-24dd-4b78-af38-91bb059dc75b",
+  "identifier": "urn:uuid:anac-feed-726fa7d3-80bd-4e30-b5f9-f64ab877f396",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-02T16:31:10.888Z",
-  "dateModified": "2026-02-02T16:31:10.888Z",
+  "dateCreated": "2026-02-03T01:42:11.366Z",
+  "dateModified": "2026-02-03T01:42:11.366Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-02-02T12:03:00.000Z"
+    "endDate": "2026-02-02T14:13:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Inscrições abertas para o Prêmio Acessibilidade e Inovação 2026",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1",
+      "datePublished": "2026-02-02T14:13:00.000Z",
+      "description": "Em parceria com o MPor e o MDHC, iniciativa reconhece práticas inovadoras de acessibilidade implementadas ao longo de 2025",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1/premio-acessibilidade-2026_inscricoes_linkedin.png/@@images/66d6ca63-1d77-4fb6-b571-9725663e4be3.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Nova tipologia de atos normativos da Anac entra em vigor",
@@ -256,14 +265,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2025/mudancas-nos-campos-de-categorias-de-aeronaves-no-rab-digital-entram-em-vigor-em-1o-de-janeiro-de-2026",
       "datePublished": "2025-12-29T18:03:00.000Z",
       "description": "Os profissionais devem ficar atentos às alterações, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Nova regra da Anac fortalece segurança na fabricação aeronáutica",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica",
-      "datePublished": "2025-12-29T16:35:00.000Z",
-      "description": "Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos",
       "type": "notícia"
     },
     {

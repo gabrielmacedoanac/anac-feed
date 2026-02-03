@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c65e8389-24dd-4b78-af38-91bb059dc75b</id>
-  <updated>2026-02-02T12:03:00.000Z</updated>
+  <id>urn:uuid:anac-feed-726fa7d3-80bd-4e30-b5f9-f64ab877f396</id>
+  <updated>2026-02-02T14:13:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Inscrições abertas para o Prêmio Acessibilidade e Inovação 2026</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1</id>
+    <published>2026-02-02T14:13:00.000Z</published>
+    <updated>2026-02-02T14:13:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Em parceria com o MPor e o MDHC, iniciativa reconhece práticas inovadoras de acessibilidade implementadas ao longo de 2025</summary>
+    <content type="html"><![CDATA[
+      <p>Em parceria com o MPor e o MDHC, iniciativa reconhece práticas inovadoras de acessibilidade implementadas ao longo de 2025</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1/premio-acessibilidade-2026_inscricoes_linkedin.png/@@images/66d6ca63-1d77-4fb6-b571-9725663e4be3.png" alt="Inscrições abertas para o Prêmio Acessibilidade e Inovação 2026">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -514,25 +533,6 @@ Relator: Rui Mesquita</p>
     <summary type="html">Os profissionais devem ficar atentos às alterações, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</summary>
     <content type="html"><![CDATA[
       <p>Os profissionais devem ficar atentos às alterações, que buscam simplificar o registro de aeronaves, diminuir burocracia e reduzir custos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Nova regra da Anac fortalece segurança na fabricação aeronáutica</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2025/nova-regra-da-anac-fortalece-seguranca-na-fabricacao-aeronautica</id>
-    <published>2025-12-29T16:35:00.000Z</published>
-    <updated>2025-12-29T16:35:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos</summary>
-    <content type="html"><![CDATA[
-      <p>Redação alinha processos brasileiros às melhores práticas internacionais e fortalece a gestão de riscos</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
