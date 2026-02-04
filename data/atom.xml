@@ -4,32 +4,13 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ebd29a33-e33e-4e3a-8f84-7fab7b1ee974</id>
-  <updated>2026-02-03T16:00:00.000Z</updated>
+  <id>urn:uuid:anac-feed-568a07ce-1442-451c-b14a-834709d44076</id>
+  <updated>2026-02-03T12:03:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
-  
-  
-  <entry>
-    <title type="html">Anac acumula Selo Ouro pelo 2° ano consecutivo por excelência regulatória</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo-2deg-ano-consecutivo-por-excelencia-regulatoria" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo-2deg-ano-consecutivo-por-excelencia-regulatoria</id>
-    <published>2026-02-03T16:00:00.000Z</published>
-    <updated>2026-02-03T16:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prêmio reconhece o compromisso da Agência com a melhoria regulatória, a inovação normativa e a adoção das melhores práticas internacionais</summary>
-    <content type="html"><![CDATA[
-      <p>Prêmio reconhece o compromisso da Agência com a melhoria regulatória, a inovação normativa e a adoção das melhores práticas internacionais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo-2deg-ano-consecutivo-por-excelencia-regulatoria/selo-intra.png/@@images/d68bdc39-a825-4f08-b772-bd11cf7477d3.png" alt="Anac acumula Selo Ouro pelo 2° ano consecutivo por excelência regulatória">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
   
   
   <entry>
@@ -534,6 +515,25 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Sem descrição</p>
       
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Novas regras de fiscalização e autuação valem a partir de 1º de janeiro</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro</id>
+    <published>2025-12-30T18:38:00.000Z</published>
+    <updated>2025-12-30T18:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Novas regras vão considerar interação entre Anac e regulados, histórico de conduta e porte das operações. Objetivo é aumentar nível de conformidade e aprimorar a segurança no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Novas regras vão considerar interação entre Anac e regulados, histórico de conduta e porte das operações. Objetivo é aumentar nível de conformidade e aprimorar a segurança no setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2025/novas-regras-de-fiscalizacao-e-autuacao-valem-a-partir-de-1o-de-janeiro/linkedin_regulacao_responsiva_2026.jpg/@@images/5a5698c3-006f-41a1-b206-405f63529db2.jpeg" alt="Novas regras de fiscalização e autuação valem a partir de 1º de janeiro">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
