@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0738d244-1570-4b44-8f0a-0189ea1957ab",
+  "identifier": "urn:uuid:anac-feed-d9bdf545-db29-4692-af27-cb391f618f05",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-05T16:39:08.724Z",
-  "dateModified": "2026-02-05T16:39:08.724Z",
+  "dateCreated": "2026-02-05T20:26:32.543Z",
+  "dateModified": "2026-02-05T20:26:32.543Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-09-18T00:39:56.000Z",
-    "endDate": "2026-02-04T14:26:00.000Z"
+    "startDate": "2025-09-30T03:23:38.000Z",
+    "endDate": "2026-02-05T17:41:51.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Audiência Pública nº 01/2026",
+      "url": "https://www.youtube.com/watch?v=BzWHYGSDuYU",
+      "datePublished": "2026-02-05T17:41:51.000Z",
+      "description": "Proposta de resolução que dispões sobre a Alteração das Condições de Transporte Aéreo",
+      "image": "https://i3.ytimg.com/vi/BzWHYGSDuYU/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac acumula Selo Ouro pelo 4° ano consecutivo por excelência regulatória",
@@ -374,15 +383,6 @@
       "datePublished": "2025-09-30T03:23:38.000Z",
       "description": "Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2",
       "image": "https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)",
-      "url": "https://www.youtube.com/watch?v=FBySE3Veewg",
-      "datePublished": "2025-09-18T00:39:56.000Z",
-      "description": "Início - 10:43\n1) Processo 00058.078972/2025-19 - 25:09\n2) Processo 00058.070806/2024-85 - 38:09",
-      "image": "https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg",
       "type": "vídeo"
     }
   ]

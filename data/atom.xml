@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0738d244-1570-4b44-8f0a-0189ea1957ab</id>
-  <updated>2026-02-04T14:26:00.000Z</updated>
+  <id>urn:uuid:anac-feed-d9bdf545-db29-4692-af27-cb391f618f05</id>
+  <updated>2026-02-05T17:41:51.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Audiência Pública nº 01/2026</title>
+    <link href="https://www.youtube.com/watch?v=BzWHYGSDuYU" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=BzWHYGSDuYU</id>
+    <published>2026-02-05T17:41:51.000Z</published>
+    <updated>2026-02-05T17:41:51.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Proposta de resolução que dispões sobre a Alteração das Condições de Transporte Aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Proposta de resolução que dispões sobre a Alteração das Condições de Transporte Aéreo</p>
+      <img src="https://i3.ytimg.com/vi/BzWHYGSDuYU/hqdefault.jpg" alt="Audiência Pública nº 01/2026">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -928,29 +947,6 @@ Conheça mais sobre o programa que inspira e abre oportunidades para as carreira
     <content type="html"><![CDATA[
       <p>Dúvidas e perguntas: https://app.sli.do/event/6fTo3z3SUUhpjU3jS71RX2</p>
       <img src="https://i2.ytimg.com/vi/59Nj2ERVgWE/hqdefault.jpg" alt="Semana de Cibersegurança da ANAC 2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)</title>
-    <link href="https://www.youtube.com/watch?v=FBySE3Veewg" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=FBySE3Veewg</id>
-    <published>2025-09-18T00:39:56.000Z</published>
-    <updated>2025-09-18T00:39:56.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Início - 10:43
-1) Processo 00058.078972/2025-19 - 25:09
-2) Processo 00058.070806/2024-85 - 38:09</summary>
-    <content type="html"><![CDATA[
-      <p>Início - 10:43
-1) Processo 00058.078972/2025-19 - 25:09
-2) Processo 00058.070806/2024-85 - 38:09</p>
-      <img src="https://i3.ytimg.com/vi/FBySE3Veewg/hqdefault.jpg" alt="12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
