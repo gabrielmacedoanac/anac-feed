@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ee4c7cd4-8497-459c-8ecc-5313263cf02a",
+  "identifier": "urn:uuid:anac-feed-1fe3bd20-0f80-41fc-b393-354ac3907943",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-06T16:36:44.425Z",
-  "dateModified": "2026-02-06T16:36:44.425Z",
+  "dateCreated": "2026-02-06T20:26:23.368Z",
+  "dateModified": "2026-02-06T20:26:23.368Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-30T03:23:38.000Z",
-    "endDate": "2026-02-06T12:56:00.000Z"
+    "endDate": "2026-02-06T15:59:00.000Z"
   },
   "distribution": [
     {
@@ -35,10 +35,19 @@
   "items": [
     {
       "@type": "NewsArticle",
-      "name": "Inscreva-se até 23/2 para a 1ª etapa da Semana Safety, Manaus (AM)",
+      "name": "Anac publica perguntas e respostas sobre a atualização da Resolução nº 400",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400",
+      "datePublished": "2026-02-06T15:59:00.000Z",
+      "description": "Documento esclarece dúvidas sobre a proposta e apoia a sociedade a contribuir com a audiência pública no dia 11/2",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400/portal-5.png/@@images/7c978c56-247d-4f79-b1e9-52e1aface515.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Confira a programação da 1ª etapa da Semana Safety em Manaus (AM), nos dias 24 a 26/2",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am",
       "datePublished": "2026-02-06T12:56:00.000Z",
-      "description": "O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país. Confira",
+      "description": "O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg",
       "type": "notícia"
     },
@@ -268,14 +277,6 @@
       "datePublished": "2026-01-06T11:33:00.000Z",
       "description": "Norma esclarece prerrogativas, limitações e os meios necessários para a atuação desses profissionais",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos/nova-is-mma-linkedin.jpeg/@@images/cfc5a694-7615-4642-a9c5-81a5424ae007.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac altera prazo para solicitação de esclarecimentos por interessadas no edital de leilão do Aeroporto do Galeão (RJ)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-altera-prazo-para-solicitacao-de-esclarecimentos-por-interessadas-no-edital-de-leilao-do-aeroporto-do-galeao-rj",
-      "datePublished": "2026-01-02T16:44:00.000Z",
-      "description": "Novo prazo para envio de pedidos é até 30 de janeiro",
       "type": "notícia"
     },
     {

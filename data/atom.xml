@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ee4c7cd4-8497-459c-8ecc-5313263cf02a</id>
-  <updated>2026-02-06T12:56:00.000Z</updated>
+  <id>urn:uuid:anac-feed-1fe3bd20-0f80-41fc-b393-354ac3907943</id>
+  <updated>2026-02-06T15:59:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -14,7 +14,26 @@
   
   
   <entry>
-    <title type="html">Inscreva-se até 23/2 para a 1ª etapa da Semana Safety, Manaus (AM)</title>
+    <title type="html">Anac publica perguntas e respostas sobre a atualização da Resolução nº 400</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400</id>
+    <published>2026-02-06T15:59:00.000Z</published>
+    <updated>2026-02-06T15:59:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Documento esclarece dúvidas sobre a proposta e apoia a sociedade a contribuir com a audiência pública no dia 11/2</summary>
+    <content type="html"><![CDATA[
+      <p>Documento esclarece dúvidas sobre a proposta e apoia a sociedade a contribuir com a audiência pública no dia 11/2</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400/portal-5.png/@@images/7c978c56-247d-4f79-b1e9-52e1aface515.png" alt="Anac publica perguntas e respostas sobre a atualização da Resolução nº 400">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Confira a programação da 1ª etapa da Semana Safety em Manaus (AM), nos dias 24 a 26/2</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am</id>
     <published>2026-02-06T12:56:00.000Z</published>
@@ -22,10 +41,10 @@
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
-    <summary type="html">O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país. Confira</summary>
+    <summary type="html">O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2</summary>
     <content type="html"><![CDATA[
-      <p>O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país. Confira</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg" alt="Inscreva-se até 23/2 para a 1ª etapa da Semana Safety, Manaus (AM)">
+      <p>O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg" alt="Confira a programação da 1ª etapa da Semana Safety em Manaus (AM), nos dias 24 a 26/2">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -534,25 +553,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Norma esclarece prerrogativas, limitações e os meios necessários para a atuação desses profissionais</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos/nova-is-mma-linkedin.jpeg/@@images/cfc5a694-7615-4642-a9c5-81a5424ae007.jpeg" alt="Publicada nova Instrução Suplementar sobre atuação de mecânicos aeronáuticos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac altera prazo para solicitação de esclarecimentos por interessadas no edital de leilão do Aeroporto do Galeão (RJ)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-altera-prazo-para-solicitacao-de-esclarecimentos-por-interessadas-no-edital-de-leilao-do-aeroporto-do-galeao-rj" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-altera-prazo-para-solicitacao-de-esclarecimentos-por-interessadas-no-edital-de-leilao-do-aeroporto-do-galeao-rj</id>
-    <published>2026-01-02T16:44:00.000Z</published>
-    <updated>2026-01-02T16:44:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Novo prazo para envio de pedidos é até 30 de janeiro</summary>
-    <content type="html"><![CDATA[
-      <p>Novo prazo para envio de pedidos é até 30 de janeiro</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
