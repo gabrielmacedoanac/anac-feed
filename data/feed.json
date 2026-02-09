@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-83a2e802-268b-4081-9a90-1be27588cde4",
+  "identifier": "urn:uuid:anac-feed-66e4152f-7298-4a33-a223-790f5ddf87d9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-09T12:55:56.130Z",
-  "dateModified": "2026-02-09T12:55:56.130Z",
+  "dateCreated": "2026-02-09T20:32:48.920Z",
+  "dateModified": "2026-02-09T20:32:48.920Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-30T03:23:38.000Z",
-    "endDate": "2026-02-06T15:59:00.000Z"
+    "endDate": "2026-02-09T15:17:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre chamamento para pesquisa sobre nova interface do Portal Santos Dumont",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont",
+      "datePublished": "2026-02-09T15:17:00.000Z",
+      "description": "Sem descrição",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac publica perguntas e respostas sobre a atualização da Resolução nº 400",
@@ -268,15 +276,6 @@
       "datePublished": "2026-01-06T16:45:00.000Z",
       "description": "A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Publicada nova Instrução Suplementar sobre atuação de mecânicos aeronáuticos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos",
-      "datePublished": "2026-01-06T11:33:00.000Z",
-      "description": "Norma esclarece prerrogativas, limitações e os meios necessários para a atuação desses profissionais",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/publicada-nova-instrucao-suplementar-sobre-atuacao-de-mecanicos-aeronauticos/nova-is-mma-linkedin.jpeg/@@images/cfc5a694-7615-4642-a9c5-81a5424ae007.jpeg",
       "type": "notícia"
     },
     {
