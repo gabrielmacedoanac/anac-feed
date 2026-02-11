@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-21a530b8-c998-4da8-b47d-2b5b3111cb06",
+  "identifier": "urn:uuid:anac-feed-f70fda96-4e1f-433e-9550-521962701696",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-11T08:40:09.234Z",
-  "dateModified": "2026-02-11T08:40:09.234Z",
+  "dateCreated": "2026-02-11T12:55:30.947Z",
+  "dateModified": "2026-02-11T12:55:30.947Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-30T03:23:38.000Z",
-    "endDate": "2026-02-09T15:17:00.000Z"
+    "endDate": "2026-02-11T10:16:02.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Audiência Pública - Exploração de serviços aéreos com balão",
+      "url": "https://www.youtube.com/watch?v=-8_H8qqHFN4",
+      "datePublished": "2026-02-11T10:16:02.000Z",
+      "description": "",
+      "image": "https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac abre chamamento para pesquisa sobre nova interface do Portal Santos Dumont",
@@ -233,15 +242,6 @@
       "description": "Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor/whatsapp-image-2026-01-12-at-16-20-03.jpeg/@@images/2540d85c-1bc8-49c4-8e6c-30d2a39a761e.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Audiência Pública - Exploração de serviços aéreos com balão",
-      "url": "https://www.youtube.com/watch?v=-8_H8qqHFN4",
-      "datePublished": "2026-01-09T17:59:35.000Z",
-      "description": "",
-      "image": "https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
