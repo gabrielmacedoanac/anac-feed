@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f70fda96-4e1f-433e-9550-521962701696",
+  "identifier": "urn:uuid:anac-feed-3fcd9a4e-bc41-460f-92ef-681a01ad1a24",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-11T12:55:30.947Z",
-  "dateModified": "2026-02-11T12:55:30.947Z",
+  "dateCreated": "2026-02-11T16:58:59.240Z",
+  "dateModified": "2026-02-11T16:58:59.240Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-30T03:23:38.000Z",
-    "endDate": "2026-02-11T10:16:02.000Z"
+    "endDate": "2026-02-11T10:46:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta consulta pública sobre requisitos para pilotos de aeronaves de decolagem e pouso vertical",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/aberta-consulta-publica-sobre-requisitos-para-pilotos-de-aeronaves-de-decolagem-e-pouso-vertical",
+      "datePublished": "2026-02-11T10:46:00.000Z",
+      "description": "Proposta da Anac é criar nova categoria de pilotos, com a possibilidade de profissionais já licenciados em helicóptero ou avião realizarem treinamento de transição",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Audiência Pública - Exploração de serviços aéreos com balão",
@@ -48,6 +56,7 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont",
       "datePublished": "2026-02-09T15:17:00.000Z",
       "description": "Sem descrição",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont/SantosDumontPORTAL4.png/@@images/fdffda8e-8631-4772-a516-816cdee46239.png",
       "type": "notícia"
     },
     {
@@ -267,15 +276,6 @@
       "datePublished": "2026-01-07T18:04:00.000Z",
       "description": "Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira",
-      "datePublished": "2026-01-06T16:45:00.000Z",
-      "description": "A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg",
       "type": "notícia"
     },
     {

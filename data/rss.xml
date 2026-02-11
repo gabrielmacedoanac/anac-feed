@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 11 Feb 2026 12:55:30 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 12:55:30 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 16:58:59 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 16:58:59 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Aberta consulta pública sobre requisitos para pilotos de aeronaves de decolagem e pouso vertical</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/aberta-consulta-publica-sobre-requisitos-para-pilotos-de-aeronaves-de-decolagem-e-pouso-vertical</link>
+      <description>Proposta da Anac é criar nova categoria de pilotos, com a possibilidade de profissionais já licenciados em helicóptero ou avião realizarem treinamento de transição</description>
+      <pubDate>Wed, 11 Feb 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/aberta-consulta-publica-sobre-requisitos-para-pilotos-de-aeronaves-de-decolagem-e-pouso-vertical</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-02-11T10:46:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Proposta da Anac é criar nova categoria de pilotos, com a possibilidade de profissionais já licenciados em helicóptero ou avião realizarem treinamento de transição</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -36,11 +53,11 @@
       <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
       <dc:date>2026-02-09T15:17:00.000Z</dc:date>
-      
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont/SantosDumontPORTAL4.png/@@images/fdffda8e-8631-4772-a516-816cdee46239.png" type="image/jpeg"/>
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Sem descrição</p>
-        
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont/SantosDumontPORTAL4.png/@@images/fdffda8e-8631-4772-a516-816cdee46239.png" alt="Anac abre chamamento para pesquisa sobre nova interface do Portal Santos Dumont">
       ]]></content:encoded>
     </item>
     
@@ -480,23 +497,6 @@ Relator: Rui Mesquita</p>
       <content:encoded><![CDATA[
         <p>Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg" alt="Semana Safety: confira o calendário dos eventos de segurança de 2026">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira</link>
-      <description>A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares</description>
-      <pubDate>Tue, 06 Jan 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-01-06T16:45:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>A aeronave é a segunda ALE especial do mundo com capacidade para quatro lugares</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-fabricacao-de-aeronave-leve-esportiva-sling-tsi-para-empresa-brasileira/sling-tsi-002.jpg/@@images/bcdd0452-acdb-4c23-a2f7-a4a23d010d20.jpeg" alt="Anac autoriza fabricação de aeronave leve esportiva SLING TSI para empresa brasileira">
       ]]></content:encoded>
     </item>
     
