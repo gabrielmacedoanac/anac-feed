@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-439da614-f0d0-4a17-ba73-12d90c2c992d",
+  "identifier": "urn:uuid:anac-feed-3ddf1221-f669-4132-9016-e80725f09301",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-12T05:21:51.179Z",
-  "dateModified": "2026-02-12T05:21:51.179Z",
+  "dateCreated": "2026-02-12T08:38:29.404Z",
+  "dateModified": "2026-02-12T08:38:29.404Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-30T03:23:38.000Z",
-    "endDate": "2026-02-11T10:46:00.000Z"
+    "endDate": "2026-02-12T08:15:08.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Audiência Pública nº 01/2026",
+      "url": "https://www.youtube.com/watch?v=BzWHYGSDuYU",
+      "datePublished": "2026-02-12T08:15:08.000Z",
+      "description": "Proposta de resolução que dispões sobre a Alteração das Condições de Transporte Aéreo",
+      "image": "https://i3.ytimg.com/vi/BzWHYGSDuYU/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Aberta consulta pública sobre requisitos para pilotos de aeronaves de decolagem e pouso vertical",
@@ -76,15 +85,6 @@
       "description": "O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg",
       "type": "notícia"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Audiência Pública nº 01/2026",
-      "url": "https://www.youtube.com/watch?v=BzWHYGSDuYU",
-      "datePublished": "2026-02-05T17:41:51.000Z",
-      "description": "Proposta de resolução que dispões sobre a Alteração das Condições de Transporte Aéreo",
-      "image": "https://i3.ytimg.com/vi/BzWHYGSDuYU/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "NewsArticle",
