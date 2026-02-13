@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1c037f98-eef7-496d-8f88-7c214716b6ad</id>
-  <updated>2026-02-12T18:17:00.000Z</updated>
+  <id>urn:uuid:anac-feed-358273ad-b649-47f4-ad28-c02d673011bb</id>
+  <updated>2026-02-13T10:12:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac discute com sociedade proposta de atualização da Resolução nº 400</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400</id>
+    <published>2026-02-13T10:12:00.000Z</published>
+    <updated>2026-02-13T10:12:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400/whatsapp-image-2026-02-12-at-09-56-43-3-1.jpeg/@@images/db1669c0-e856-44f9-abc9-6daf68edfcd7.jpeg" alt="Anac discute com sociedade proposta de atualização da Resolução nº 400">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -534,25 +553,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/b62095a2-1bc7-4a66-bb9a-3757c9d32b9b.png" alt="Anac revisa norma para Aeronaves Leves Esportivas (ALE)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Participe da Consulta Setorial para simplificação do Diário de Bordo de aeronaves</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/participe-da-consulta-setorial-para-simplificacao-do-diario-de-bordo-de-aeronaves" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/participe-da-consulta-setorial-para-simplificacao-do-diario-de-bordo-de-aeronaves</id>
-    <published>2026-01-08T11:53:00.000Z</published>
-    <updated>2026-01-08T11:53:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições até 21 de janeiro de 2026</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições até 21 de janeiro de 2026</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
