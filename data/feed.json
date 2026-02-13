@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-842bb675-485e-41de-b936-5faf667cc6c6",
+  "identifier": "urn:uuid:anac-feed-007d0b07-82e0-436c-b9f9-09a05d7a05c3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-12T20:27:22.728Z",
-  "dateModified": "2026-02-12T20:27:22.728Z",
+  "dateCreated": "2026-02-13T01:46:54.688Z",
+  "dateModified": "2026-02-13T01:46:54.688Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-09-30T03:23:38.000Z",
-    "endDate": "2026-02-12T08:15:08.000Z"
+    "endDate": "2026-02-12T18:17:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Homem é preso em flagrante durante exame teórico da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac",
+      "datePublished": "2026-02-12T18:17:00.000Z",
+      "description": "Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Audiência Pública nº 01/2026",
@@ -267,15 +275,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/participe-da-consulta-setorial-para-simplificacao-do-diario-de-bordo-de-aeronaves",
       "datePublished": "2026-01-08T11:53:00.000Z",
       "description": "Contribuições até 21 de janeiro de 2026",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Semana Safety: confira o calendário dos eventos de segurança de 2026",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026",
-      "datePublished": "2026-01-07T18:04:00.000Z",
-      "description": "Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg",
       "type": "notícia"
     },
     {

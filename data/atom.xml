@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-842bb675-485e-41de-b936-5faf667cc6c6</id>
-  <updated>2026-02-12T08:15:08.000Z</updated>
+  <id>urn:uuid:anac-feed-007d0b07-82e0-436c-b9f9-09a05d7a05c3</id>
+  <updated>2026-02-12T18:17:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Homem é preso em flagrante durante exame teórico da Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac</id>
+    <published>2026-02-12T18:17:00.000Z</published>
+    <updated>2026-02-12T18:17:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal</summary>
+    <content type="html"><![CDATA[
+      <p>Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -534,25 +553,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Contribuições até 21 de janeiro de 2026</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana Safety: confira o calendário dos eventos de segurança de 2026</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026</id>
-    <published>2026-01-07T18:04:00.000Z</published>
-    <updated>2026-01-07T18:04:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</summary>
-    <content type="html"><![CDATA[
-      <p>Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg" alt="Semana Safety: confira o calendário dos eventos de segurança de 2026">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

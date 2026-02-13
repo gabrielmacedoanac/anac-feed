@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 12 Feb 2026 20:27:22 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 20:27:22 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 01:46:54 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:46:54 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Homem é preso em flagrante durante exame teórico da Anac</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac</link>
+      <description>Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal</description>
+      <pubDate>Thu, 12 Feb 2026 18:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-02-12T18:17:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -480,23 +497,6 @@ Relator: Rui Mesquita</p>
       <content:encoded><![CDATA[
         <p>Contribuições até 21 de janeiro de 2026</p>
         
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Semana Safety: confira o calendário dos eventos de segurança de 2026</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026</link>
-      <description>Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</description>
-      <pubDate>Wed, 07 Jan 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-01-07T18:04:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Especialistas renomados abordarão temas de segurança operacional específicos de cinco regiões brasileiras</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-confira-o-calendario-dos-eventos-de-seguranca-de-2026/whatsapp-image-2026-01-07-at-18-04-20.jpeg/@@images/ceca14e8-6720-47fa-828d-4970e305f1de.jpeg" alt="Semana Safety: confira o calendário dos eventos de segurança de 2026">
       ]]></content:encoded>
     </item>
     
