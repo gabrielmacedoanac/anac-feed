@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7ba5514b-eec6-49a6-8ea4-0d6f9af82d6e",
+  "identifier": "urn:uuid:anac-feed-b3de0cb0-26ce-4745-9015-1ad0ecf42147",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-20T16:30:49.438Z",
-  "dateModified": "2026-02-20T16:30:49.438Z",
+  "dateCreated": "2026-02-20T20:23:33.172Z",
+  "dateModified": "2026-02-20T20:23:33.172Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-01T12:13:39.000Z",
-    "endDate": "2026-02-20T12:11:53.000Z"
+    "endDate": "2026-02-20T16:33:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac presta homenagem no Dia Internacional em Memória das Vítimas de Acidentes Aéreos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-reforca-solidariedade-e-compromisso-com-a-seguranca-no-dia-internacional-em-memoria-das-vitimas-de-acidentes-aereos",
+      "datePublished": "2026-02-20T16:33:00.000Z",
+      "description": "Data foi instituída para reforçar a importância da melhoria contínua do setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-reforca-solidariedade-e-compromisso-com-a-seguranca-no-dia-internacional-em-memoria-das-vitimas-de-acidentes-aereos/dia-de-homenagem-as-vitimas-de-acidentes-aereos.jpeg/@@images/a2321848-6759-4a29-98ea-f81ce821bf8d.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Confiança não tem atalho",
@@ -276,15 +285,6 @@
       "datePublished": "2026-01-12T16:20:00.000Z",
       "description": "Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor/whatsapp-image-2026-01-12-at-16-20-03.jpeg/@@images/2540d85c-1bc8-49c4-8e6c-30d2a39a761e.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac revisa norma para Aeronaves Leves Esportivas (ALE)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-para-aeronaves-leves-esportivas-ale",
-      "datePublished": "2026-01-09T12:53:00.000Z",
-      "description": "A atualização permite que as aeronaves realizem voos por instrumentos (IFR) no Brasil",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-revisa-norma-para-aeronaves-leves-esportivas-ale/aleportal.png/@@images/b62095a2-1bc7-4a66-bb9a-3757c9d32b9b.png",
       "type": "notícia"
     },
     {
