@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-12e19216-0e57-4740-b233-66afbf3c1e66</id>
-  <updated>2026-02-20T16:33:00.000Z</updated>
+  <id>urn:uuid:anac-feed-2017434f-26d4-41d9-abdb-78213d783242</id>
+  <updated>2026-02-23T16:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Operação da Anac no Rio de Janeiro fiscaliza voos privados e serviços aéreos especializados</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados</id>
+    <published>2026-02-23T16:02:00.000Z</published>
+    <updated>2026-02-23T16:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Foco da campanha Voe Seguro é combater o transporte aéreo clandestino e sensibilizar operadores aéreos e passageiros</summary>
+    <content type="html"><![CDATA[
+      <p>Foco da campanha Voe Seguro é combater o transporte aéreo clandestino e sensibilizar operadores aéreos e passageiros</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados/whatsapp-image-2026-02-20-at-16-30-56.jpeg/@@images/8f72c2a5-d736-44a6-aee5-e0dc860cafda.jpeg" alt="Operação da Anac no Rio de Janeiro fiscaliza voos privados e serviços aéreos especializados">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -581,25 +600,6 @@ Relator: Rui Mesquita</p>
     <content type="html"><![CDATA[
       <p>Consulta trata da Resolução nº 762, que descreve infrações e penalidades aplicadas pela Anac.</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-infracoes-e-multas-da-aviacao-civil-termina-em-22-1/whatsapp_regulacao_responsiva_contribuicoes.jpg/@@images/be93cbce-666c-49c0-87a1-310b5e4bbfaf.jpeg" alt="Consulta pública sobre infrações e multas da aviação civil termina em 22/1">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor</id>
-    <published>2026-01-12T16:20:00.000Z</published>
-    <updated>2026-01-12T16:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres</summary>
-    <content type="html"><![CDATA[
-      <p>Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor/whatsapp-image-2026-01-12-at-16-20-03.jpeg/@@images/2540d85c-1bc8-49c4-8e6c-30d2a39a761e.jpeg" alt="Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-12e19216-0e57-4740-b233-66afbf3c1e66",
+  "identifier": "urn:uuid:anac-feed-2017434f-26d4-41d9-abdb-78213d783242",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-23T16:48:42.238Z",
-  "dateModified": "2026-02-23T16:48:42.238Z",
+  "dateCreated": "2026-02-23T20:37:39.471Z",
+  "dateModified": "2026-02-23T20:37:39.471Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-01T12:13:39.000Z",
-    "endDate": "2026-02-20T16:33:00.000Z"
+    "endDate": "2026-02-23T16:02:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Operação da Anac no Rio de Janeiro fiscaliza voos privados e serviços aéreos especializados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados",
+      "datePublished": "2026-02-23T16:02:00.000Z",
+      "description": "Foco da campanha Voe Seguro é combater o transporte aéreo clandestino e sensibilizar operadores aéreos e passageiros",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados/whatsapp-image-2026-02-20-at-16-30-56.jpeg/@@images/8f72c2a5-d736-44a6-aee5-e0dc860cafda.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac presta homenagem no Dia Internacional em Memória das Vítimas de Acidentes Aéreos",
@@ -276,15 +285,6 @@
       "datePublished": "2026-01-15T17:14:00.000Z",
       "description": "Consulta trata da Resolução nº 762, que descreve infrações e penalidades aplicadas pela Anac.",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-infracoes-e-multas-da-aviacao-civil-termina-em-22-1/whatsapp_regulacao_responsiva_contribuicoes.jpg/@@images/be93cbce-666c-49c0-87a1-310b5e4bbfaf.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Inscrições abertas para Curso Técnico em Manutenção Aeronáutica em Grupo Motopropulsor",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor",
-      "datePublished": "2026-01-12T16:20:00.000Z",
-      "description": "Parceria entre Anac e IFSP; o curso é voltado à formação de Mecânicos de Manutenção Aeronáutica e prioriza pessoas de baixa renda, preferencialmente mulheres",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-curso-tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor/whatsapp-image-2026-01-12-at-16-20-03.jpeg/@@images/2540d85c-1bc8-49c4-8e6c-30d2a39a761e.jpeg",
       "type": "notícia"
     },
     {
