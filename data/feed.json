@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-191658cb-76d2-42a7-8bee-90a4c79588c6",
+  "identifier": "urn:uuid:anac-feed-e2756071-be63-4779-b544-032b955ef6bc",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-24T16:59:14.286Z",
-  "dateModified": "2026-02-24T16:59:14.286Z",
+  "dateCreated": "2026-02-24T20:27:52.999Z",
+  "dateModified": "2026-02-24T20:27:52.999Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-01T12:13:39.000Z",
-    "endDate": "2026-02-23T17:41:00.000Z"
+    "endDate": "2026-02-24T17:20:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Curitiba será a casa da segunda etapa da Semana Safety",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1",
+      "datePublished": "2026-02-24T17:20:00.000Z",
+      "description": "Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac abre consulta pública para modernizar equipamentos de inspeção em aeroportos",
@@ -276,15 +284,6 @@
       "datePublished": "2026-01-20T15:52:00.000Z",
       "description": "Com reforço de R$ 40 milhões no orçamento, Anac incrementará ações de fiscalização e ampliação do corpo técnico",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026/banner_portal_coletiva_janeiro_2026.jpg/@@images/10758960-01eb-4f34-b1a3-f2b194ad88c0.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia",
-      "datePublished": "2026-01-19T16:45:00.000Z",
-      "description": "Somente no segmento doméstico, foram movimentados mais de 100 milhões de passageiros no ano",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia/d-do-setor-aereo_2025_card-6.png/@@images/0231420e-37ab-4c4c-b8f9-b7bcbf9b2116.png",
       "type": "notícia"
     },
     {

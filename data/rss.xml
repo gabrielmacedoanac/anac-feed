@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 24 Feb 2026 16:59:14 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 16:59:14 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 20:27:53 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 20:27:53 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Curitiba será a casa da segunda etapa da Semana Safety</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1</link>
+      <description>Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3</description>
+      <pubDate>Tue, 24 Feb 2026 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-02-24T17:20:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -525,23 +542,6 @@ Relator: Rui Mesquita</p>
       <content:encoded><![CDATA[
         <p>Com reforço de R$ 40 milhões no orçamento, Anac incrementará ações de fiscalização e ampliação do corpo técnico</p>
         <img src="https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026/banner_portal_coletiva_janeiro_2026.jpg/@@images/10758960-01eb-4f34-b1a3-f2b194ad88c0.png" alt="Recordes, capacitação e segurança: Anac anuncia novidades para a aviação em 2026">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia</link>
-      <description>Somente no segmento doméstico, foram movimentados mais de 100 milhões de passageiros no ano</description>
-      <pubDate>Mon, 19 Jan 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-01-19T16:45:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia/d-do-setor-aereo_2025_card-6.png/@@images/0231420e-37ab-4c4c-b8f9-b7bcbf9b2116.png" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Somente no segmento doméstico, foram movimentados mais de 100 milhões de passageiros no ano</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2026/com-quase-130-milhoes-de-viajantes-aviacao-alcanca-melhores-indices-de-movimentacao-de-passageiros-da-historia/d-do-setor-aereo_2025_card-6.png/@@images/0231420e-37ab-4c4c-b8f9-b7bcbf9b2116.png" alt="Com quase 130 milhões de viajantes, aviação alcança melhores índices de movimentação de passageiros da história">
       ]]></content:encoded>
     </item>
     
