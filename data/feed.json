@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-df10d70f-feb4-456e-974b-e948e544d31e",
+  "identifier": "urn:uuid:anac-feed-b70923be-fad6-4bc2-94ad-f4d386a4c0b2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-25T12:51:21.787Z",
-  "dateModified": "2026-02-25T12:51:21.787Z",
+  "dateCreated": "2026-02-25T17:01:54.915Z",
+  "dateModified": "2026-02-25T17:01:54.915Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-01T12:13:39.000Z",
-    "endDate": "2026-02-24T17:20:00.000Z"
+    "endDate": "2026-02-25T10:05:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre pesquisa para ouvir passageiros e regulados sobre transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-pesquisa-para-ouvir-passageiros-e-regulados-sobre-transporte-aereo",
+      "datePublished": "2026-02-25T10:05:00.000Z",
+      "description": "Questionário eletrônico é anônimo e fica aberto até 31 de março",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-pesquisa-para-ouvir-passageiros-e-regulados-sobre-transporte-aereo/card_portal.jpeg/@@images/cf3700a3-2de9-429f-9a71-404448559f7c.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Curitiba será a casa da segunda etapa da Semana Safety",
@@ -275,15 +284,6 @@
       "datePublished": "2026-01-20T18:16:00.000Z",
       "description": "Proposta traz maior clareza sobre as informações prestadas ao passageiro e reorganiza a assistência em caso de atrasos de voos",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros/portal-3.png/@@images/d712fbd9-0428-4a57-aeeb-9f4c54532143.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Recordes, capacitação e segurança: Anac anuncia novidades para a aviação em 2026",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026",
-      "datePublished": "2026-01-20T15:52:00.000Z",
-      "description": "Com reforço de R$ 40 milhões no orçamento, Anac incrementará ações de fiscalização e ampliação do corpo técnico",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/recordes-capacitacao-e-seguranca-anac-anuncia-novidades-para-a-aviacao-em-2026/banner_portal_coletiva_janeiro_2026.jpg/@@images/10758960-01eb-4f34-b1a3-f2b194ad88c0.png",
       "type": "notícia"
     },
     {
