@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ace8da09-4f5a-42fb-9a28-91c9d56079f4",
+  "identifier": "urn:uuid:anac-feed-0a3a9d28-459d-45b8-9bd6-33869f47fb85",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-26T16:51:19.308Z",
-  "dateModified": "2026-02-26T16:51:19.308Z",
+  "dateCreated": "2026-02-26T20:30:07.073Z",
+  "dateModified": "2026-02-26T20:30:07.073Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -43,6 +43,50 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Anac abre pesquisa para ouvir passageiros e regulados sobre transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-pesquisa-para-ouvir-passageiros-e-regulados-sobre-transporte-aereo",
+      "datePublished": "2026-02-25T10:05:00.000Z",
+      "description": "Questionário eletrônico é anônimo e fica aberto até 31 de março",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-pesquisa-para-ouvir-passageiros-e-regulados-sobre-transporte-aereo/card_portal.jpeg/@@images/cf3700a3-2de9-429f-9a71-404448559f7c.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Curitiba será a casa da segunda etapa da Semana Safety",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1",
+      "datePublished": "2026-02-24T17:20:00.000Z",
+      "description": "Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abre consulta pública para modernizar equipamentos de inspeção em aeroportos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-consulta-publica-para-modernizar-equipamentos-de-inspecao-em-aeroportos",
+      "datePublished": "2026-02-23T17:41:00.000Z",
+      "description": "Contribuições podem ser enviadas até 16/3",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-consulta-publica-para-modernizar-equipamentos-de-inspecao-em-aeroportos/facebook-1.png/@@images/36375114-5f44-4876-9d07-de1976d152bf.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Operação da Anac no Rio de Janeiro fiscaliza voos privados e serviços aéreos especializados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados",
+      "datePublished": "2026-02-23T16:02:00.000Z",
+      "description": "Foco da campanha Voe Seguro é combater o transporte aéreo clandestino e sensibilizar operadores aéreos e passageiros",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados/whatsapp-image-2026-02-20-at-16-30-56.jpeg/@@images/8f72c2a5-d736-44a6-aee5-e0dc860cafda.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac presta homenagem no Dia Internacional em Memória das Vítimas de Acidentes Aéreos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-reforca-solidariedade-e-compromisso-com-a-seguranca-no-dia-internacional-em-memoria-das-vitimas-de-acidentes-aereos",
+      "datePublished": "2026-02-20T16:33:00.000Z",
+      "description": "Data foi instituída para reforçar a importância da melhoria contínua do setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-reforca-solidariedade-e-compromisso-com-a-seguranca-no-dia-internacional-em-memoria-das-vitimas-de-acidentes-aereos/dia-de-homenagem-as-vitimas-de-acidentes-aereos.jpeg/@@images/a2321848-6759-4a29-98ea-f81ce821bf8d.jpeg",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Confiança não tem atalho",
       "url": "https://www.youtube.com/watch?v=LRBd-yfAkts",
@@ -50,6 +94,23 @@
       "description": "Antes de voar, verifique se a empresa é autorizada pela Anac.\nO transporte aéreo clandestino é um risco real para você e sua família!\n\nConfira a regularidade da empresa em\nhttps://voeseguro.anac.gov.br\n\nOu consulte pelo Super App da Anac.\n\nBaixe o Super App na App Store:\nhttps://apps.apple.com/br/app/anac/id6479522513\n\nBaixe o Super App no Google Play:\nhttps://play.google.com/store/apps/details?id=br.gov.anac.superapp\n\n#voeseguro",
       "image": "https://i1.ytimg.com/vi/LRBd-yfAkts/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac discute com sociedade proposta de atualização da Resolução nº 400",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400",
+      "datePublished": "2026-02-13T10:12:00.000Z",
+      "description": "Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400/whatsapp-image-2026-02-12-at-09-56-43-3-1.jpeg/@@images/db1669c0-e856-44f9-abc9-6daf68edfcd7.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Homem é preso em flagrante durante exame teórico da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac",
+      "datePublished": "2026-02-12T18:17:00.000Z",
+      "description": "Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -61,6 +122,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Aberta consulta pública sobre requisitos para pilotos de aeronaves de decolagem e pouso vertical",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/aberta-consulta-publica-sobre-requisitos-para-pilotos-de-aeronaves-de-decolagem-e-pouso-vertical",
+      "datePublished": "2026-02-11T10:46:00.000Z",
+      "description": "Proposta da Anac é criar nova categoria de pilotos, com a possibilidade de profissionais já licenciados em helicóptero ou avião realizarem treinamento de transição",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Audiência Pública - Exploração de serviços aéreos com balão",
       "url": "https://www.youtube.com/watch?v=-8_H8qqHFN4",
@@ -70,6 +139,145 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Anac abre chamamento para pesquisa sobre nova interface do Portal Santos Dumont",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont",
+      "datePublished": "2026-02-09T15:17:00.000Z",
+      "description": "Sem descrição",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont/SantosDumontPORTAL4.png/@@images/fdffda8e-8631-4772-a516-816cdee46239.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac publica perguntas e respostas sobre a atualização da Resolução nº 400",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400",
+      "datePublished": "2026-02-06T15:59:00.000Z",
+      "description": "Documento esclarece dúvidas sobre a proposta e apoia a sociedade a contribuir com a audiência pública no dia 11/2",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400/portal-5.png/@@images/7c978c56-247d-4f79-b1e9-52e1aface515.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Confira a programação da 1ª etapa da Semana Safety em Manaus (AM), nos dias 24 a 26/2",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am",
+      "datePublished": "2026-02-06T12:56:00.000Z",
+      "description": "O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac acumula Selo Ouro pelo 4° ano consecutivo por excelência regulatória",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1",
+      "datePublished": "2026-02-04T14:26:00.000Z",
+      "description": "Prêmio reconhece o compromisso da Agência com a melhoria regulatória, a inovação normativa e a adoção das melhores práticas internacionais",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1/intra-3.png/@@images/b61f4a86-d7f8-4c94-9a33-cbbbba1b00a9.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil e Japão assinam carta de intenções sobre mobilidade aérea avançada",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-japao-assinam-carta-de-intencoes-sobre-mobilidade-aerea-avancada",
+      "datePublished": "2026-02-03T12:03:00.000Z",
+      "description": "Parceria entre os países vai desenvolver a regulação e a indústria voltada para eVTOLs, vertiportos e demais segmentos relacionados",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-japao-assinam-carta-de-intencoes-sobre-mobilidade-aerea-avancada/whatsapp-image-2026-02-02-at-18-28-10.jpeg/@@images/a9cb02eb-b6a5-4d40-affc-6fe5ede0b083.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Inscrições abertas para o Prêmio Acessibilidade e Inovação 2026",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1",
+      "datePublished": "2026-02-02T14:13:00.000Z",
+      "description": "Em parceria com o MPor e o MDHC, iniciativa reconhece práticas inovadoras de acessibilidade implementadas ao longo de 2025",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1/premio-acessibilidade-2026_inscricoes_linkedin.png/@@images/66d6ca63-1d77-4fb6-b571-9725663e4be3.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Nova tipologia de atos normativos da Anac entra em vigor",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1",
+      "datePublished": "2026-02-02T12:03:00.000Z",
+      "description": "Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Balonismo será tema de audiência pública no dia 10/2",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2",
+      "datePublished": "2026-01-29T15:23:00.000Z",
+      "description": "Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Roadshow apresenta Galeão para investidores",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/roadshow-apresenta-galeao-para-investidores",
+      "datePublished": "2026-01-28T15:19:00.000Z",
+      "description": "Representantes da Agência, do MPor e do Programa de Parcerias de Investimentos farão apresentações sobre a venda assistida do aeroporto",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Ministério de Portos e Aeroportos lança edital com bolsas de formação para mecânicos aeronáuticos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos",
+      "datePublished": "2026-01-27T14:43:00.000Z",
+      "description": "Programa abre caminho para quem quer construir uma carreira no setor aéreo com qualificação técnica e gratuita",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos/curso-para-mecanico-mporf.jpeg/@@images/9f83826b-2eee-40da-97c1-b13ec6ad3795.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia",
+      "datePublished": "2026-01-26T09:34:00.000Z",
+      "description": "Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia/portal-curso-de-formacaowhatsapp-image-2026-01-23-at-16-47-54-1.jpeg/@@images/a559c684-f5b5-4518-a1a6-802aae64f353.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas",
+      "datePublished": "2026-01-24T12:36:00.000Z",
+      "description": "Empresário faleceu na manhã de 24 de janeiro",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas/linkedin_nota_de_pesar.png/@@images/f94fb78d-6f4f-4317-8300-ef1ba66f68a7.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Plataforma da Anac InfoVoo consolida informações da aviação civil e fortalece análises do judiciário",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario",
+      "datePublished": "2026-01-23T14:48:00.000Z",
+      "description": "Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros",
+      "datePublished": "2026-01-22T14:13:00.000Z",
+      "description": "Consulta pública estará aberta para receber sugestões até 9 de março",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac estabelecerá nova tipologia para atos normativos a partir de 2/2",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-estabelecera-nova-tipologia-para-atos-normativos-a-partir-de-2-2",
+      "datePublished": "2026-01-22T13:08:00.000Z",
+      "description": "Resolução Interna nº 1 implementará as diretrizes do Decreto nº 12.002/24 no âmbito da Agência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-estabelecera-nova-tipologia-para-atos-normativos-a-partir-de-2-2/whatsapp-image-2026-01-22-at-13-07-05.jpeg/@@images/65390270-bcc0-4f6e-8eb4-9ef006652dfe.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Ministério de Portos e Aeroportos abre consulta pública para aprimorar sistema de embarque biométrico",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-abre-consulta-publica-para-aprimorar-sistema-de-embarque-biometrico",
+      "datePublished": "2026-01-21T16:05:00.000Z",
+      "description": "Iniciativa deve tornar operações mais ágeis e seguras em aeroportos e terminais portuários e hidroviários",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
       "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
@@ -77,6 +285,15 @@
       "description": "Início - 6:49\n1) Processo: 00058.014794/2023-28 - 8:36\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21 - 24:41\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
       "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac abrirá consulta pública para atualizar regras sobre direitos e deveres dos passageiros",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros",
+      "datePublished": "2026-01-20T18:16:00.000Z",
+      "description": "Proposta traz maior clareza sobre as informações prestadas ao passageiro e reorganiza a assistência em caso de atrasos de voos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros/portal-3.png/@@images/d712fbd9-0428-4a57-aeeb-9f4c54532143.png",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
