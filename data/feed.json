@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-175eeb08-0574-42bf-aadb-c1061daf27a6",
+  "identifier": "urn:uuid:anac-feed-e7c23da8-47bf-48e9-a763-0a0ac47e121a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-02-27T16:33:49.217Z",
-  "dateModified": "2026-02-27T16:33:49.217Z",
+  "dateCreated": "2026-02-27T20:21:20.746Z",
+  "dateModified": "2026-02-27T20:21:20.746Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-13T13:46:41.000Z",
-    "endDate": "2026-02-27T02:06:40.000Z"
+    "endDate": "2026-02-27T16:48:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Memorando entre Brasil e Peru amplia voos e fortalece transporte aéreo entre os países",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/memorando-entre-brasil-e-peru-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises",
+      "datePublished": "2026-02-27T16:48:00.000Z",
+      "description": "Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/memorando-entre-brasil-e-peru-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises/whatsapp-image-2026-02-27-at-12-08-21-3.jpeg/@@images/36c66a4f-072f-4e70-8a90-b71065bbb1a5.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Janeiro tem a maior movimentação mensal na série histórica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/janeiro-tem-a-maior-movimentacao-mensal-na-serie-historica",
+      "datePublished": "2026-02-27T15:10:00.000Z",
+      "description": "Movimento de passageiros no mês supera pela primeira vez a marca de 12 milhões",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/janeiro-tem-a-maior-movimentacao-mensal-na-serie-historica/d-do-setor-aereo_janeiro_2026_card-6.png/@@images/6fdd6318-00dc-42ce-af57-6e8842fd5d37.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "ROADSHOW | ANAC - AEROPORTO DO GALEÃO - SESSÃO DE ESCLARECIMENTOS",
@@ -270,14 +288,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Ministério de Portos e Aeroportos abre consulta pública para aprimorar sistema de embarque biométrico",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-abre-consulta-publica-para-aprimorar-sistema-de-embarque-biometrico",
-      "datePublished": "2026-01-21T16:05:00.000Z",
-      "description": "Iniciativa deve tornar operações mais ágeis e seguras em aeroportos e terminais portuários e hidroviários",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
       "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
@@ -285,15 +295,6 @@
       "description": "Início - 6:49\n1) Processo: 00058.014794/2023-28 - 8:36\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21 - 24:41\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
       "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac abrirá consulta pública para atualizar regras sobre direitos e deveres dos passageiros",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros",
-      "datePublished": "2026-01-20T18:16:00.000Z",
-      "description": "Proposta traz maior clareza sobre as informações prestadas ao passageiro e reorganiza a assistência em caso de atrasos de voos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abrira-consulta-publica-para-atualizar-regras-sobre-direitos-e-deveres-dos-passageiros/portal-3.png/@@images/d712fbd9-0428-4a57-aeeb-9f4c54532143.png",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
