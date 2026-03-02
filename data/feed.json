@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2e888e25-6f0e-4496-989f-19708981be1e",
+  "identifier": "urn:uuid:anac-feed-1ba5f966-f78f-417d-a0b1-8333bd7f42fb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-02T16:37:05.826Z",
-  "dateModified": "2026-03-02T16:37:05.826Z",
+  "dateCreated": "2026-03-02T20:29:21.638Z",
+  "dateModified": "2026-03-02T20:29:21.638Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-13T13:46:41.000Z",
-    "endDate": "2026-03-02T13:15:00.000Z"
+    "endDate": "2026-03-02T15:29:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac autoriza operações da aeronave L410 NG no Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil",
+      "datePublished": "2026-03-02T15:29:00.000Z",
+      "description": "Modelo foi certificado em 10 de fevereiro",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil/l-410-ng.jpg/@@images/d1acd1cf-734c-4e93-9d8e-1f67b6fa5e2a.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Licenças de piloto comercial e de helicóptero deverão ser solicitadas exclusivamente pelo Super App da Anac",
@@ -275,15 +284,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario",
       "datePublished": "2026-01-23T14:48:00.000Z",
       "description": "Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros",
-      "datePublished": "2026-01-22T14:13:00.000Z",
-      "description": "Consulta pública estará aberta para receber sugestões até 9 de março",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png",
       "type": "notícia"
     },
     {

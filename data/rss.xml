@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 02 Mar 2026 16:37:05 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 16:37:05 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 20:29:21 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 20:29:21 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Anac autoriza operações da aeronave L410 NG no Brasil</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil</link>
+      <description>Modelo foi certificado em 10 de fevereiro</description>
+      <pubDate>Mon, 02 Mar 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-03-02T15:29:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil/l-410-ng.jpg/@@images/d1acd1cf-734c-4e93-9d8e-1f67b6fa5e2a.jpeg" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Modelo foi certificado em 10 de fevereiro</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil/l-410-ng.jpg/@@images/d1acd1cf-734c-4e93-9d8e-1f67b6fa5e2a.jpeg" alt="Anac autoriza operações da aeronave L410 NG no Brasil">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -511,23 +528,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
       <content:encoded><![CDATA[
         <p>Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.</p>
         
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros</link>
-      <description>Consulta pública estará aberta para receber sugestões até 9 de março</description>
-      <pubDate>Thu, 22 Jan 2026 14:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-01-22T14:13:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Consulta pública estará aberta para receber sugestões até 9 de março</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2026/sociedade-pode-contribuir-com-revisao-da-norma-sobre-direitos-dos-passageiros/portal-4.png/@@images/98f23ca1-db18-4f2d-8d05-23b5139a5117.png" alt="Sociedade pode contribuir com revisão da norma sobre direitos dos passageiros">
       ]]></content:encoded>
     </item>
     
