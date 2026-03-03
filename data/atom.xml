@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ec9be044-c238-4241-b4bb-215cdf85072d</id>
-  <updated>2026-03-02T18:22:00.000Z</updated>
+  <id>urn:uuid:anac-feed-4c078ac6-5208-4617-8af6-de5cbf4c2421</id>
+  <updated>2026-03-03T13:07:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac participa do IX Encontro Mulheres na Aviação, nos dias 7 e 8/3, em São José dos Campos (SP)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-ix-encontro-mulheres-na-aviacao-nos-dias-7-e-8-3-em-sao-jose-dos-campos-sp" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-ix-encontro-mulheres-na-aviacao-nos-dias-7-e-8-3-em-sao-jose-dos-campos-sp</id>
+    <published>2026-03-03T13:07:00.000Z</published>
+    <updated>2026-03-03T13:07:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento promovido pela Aviadoras terá programação voltada para equidade de gênero, formação profissional e à ampliação do acesso às carreiras do setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Evento promovido pela Aviadoras terá programação voltada para equidade de gênero, formação profissional e à ampliação do acesso às carreiras do setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-ix-encontro-mulheres-na-aviacao-nos-dias-7-e-8-3-em-sao-jose-dos-campos-sp/IXEncontroMulheresnaAviacao20261013x1024.jpg/@@images/f42b4df7-d7db-41b5-9ba4-510708e64229.jpeg" alt="Anac participa do IX Encontro Mulheres na Aviação, nos dias 7 e 8/3, em São José dos Campos (SP)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac lança Plano de Dados Abertos (2026/2027) e anuncia novos conjuntos de dados prioritários</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-lanca-plano-de-dados-abertos-2026-2027-e-anuncia-novos-conjuntos-de-dados-prioritarios" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-lanca-plano-de-dados-abertos-2026-2027-e-anuncia-novos-conjuntos-de-dados-prioritarios</id>
+    <published>2026-03-03T11:33:00.000Z</published>
+    <updated>2026-03-03T11:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Plano reforça governança da informação e estabelece diretrizes para ampliar transparência no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Plano reforça governança da informação e estabelece diretrizes para ampliar transparência no setor aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -548,44 +586,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     <content type="html"><![CDATA[
       <p>Programa abre caminho para quem quer construir uma carreira no setor aéreo com qualificação técnica e gratuita</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos/curso-para-mecanico-mporf.jpeg/@@images/9f83826b-2eee-40da-97c1-b13ec6ad3795.jpeg" alt="Ministério de Portos e Aeroportos lança edital com bolsas de formação para mecânicos aeronáuticos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia</id>
-    <published>2026-01-26T09:34:00.000Z</published>
-    <updated>2026-01-26T09:34:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março</summary>
-    <content type="html"><![CDATA[
-      <p>Após a divulgação do resultado, que tem previsão para o dia 13/2, novas etapas como a nomeação e a posse ocorrerão até final de março</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/formacao-de-especialistas-do-concurso-da-anac-reforcara-quadro-tecnico-da-agencia/portal-curso-de-formacaowhatsapp-image-2026-01-23-at-16-47-54-1.jpeg/@@images/a559c684-f5b5-4518-a1a6-802aae64f353.jpeg" alt="Formação de especialistas do concurso da Anac reforçará quadro técnico da Agência">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas</id>
-    <published>2026-01-24T12:36:00.000Z</published>
-    <updated>2026-01-24T12:36:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Empresário faleceu na manhã de 24 de janeiro</summary>
-    <content type="html"><![CDATA[
-      <p>Empresário faleceu na manhã de 24 de janeiro</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas/linkedin_nota_de_pesar.png/@@images/f94fb78d-6f4f-4317-8300-ef1ba66f68a7.png" alt="Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
