@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1ba5f966-f78f-417d-a0b1-8333bd7f42fb</id>
-  <updated>2026-03-02T15:29:00.000Z</updated>
+  <id>urn:uuid:anac-feed-be90fb12-a1f2-47b2-a6d7-e62d49e1dfdf</id>
+  <updated>2026-03-02T18:22:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Câmara debate regras para passageiros indisciplinados nesta terça (3/3)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/camara-debate-regras-para-passageiros-indisciplinados-nesta-terca-3-3" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/camara-debate-regras-para-passageiros-indisciplinados-nesta-terca-3-3</id>
+    <published>2026-03-02T18:22:00.000Z</published>
+    <updated>2026-03-02T18:22:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Diretor-presidente da Anac apresentará as propostas da Agência durante audiência pública</summary>
+    <content type="html"><![CDATA[
+      <p>Diretor-presidente da Anac apresentará as propostas da Agência durante audiência pública</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -567,25 +586,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     <content type="html"><![CDATA[
       <p>Empresário faleceu na manhã de 24 de janeiro</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas/linkedin_nota_de_pesar.png/@@images/f94fb78d-6f4f-4317-8300-ef1ba66f68a7.png" alt="Anac lamenta a morte de Constantino Jr., fundador da Gol Linhas Aéreas">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Plataforma da Anac InfoVoo consolida informações da aviação civil e fortalece análises do judiciário</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario</id>
-    <published>2026-01-23T14:48:00.000Z</published>
-    <updated>2026-01-23T14:48:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.</summary>
-    <content type="html"><![CDATA[
-      <p>Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

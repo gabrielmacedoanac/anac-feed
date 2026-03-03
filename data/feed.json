@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1ba5f966-f78f-417d-a0b1-8333bd7f42fb",
+  "identifier": "urn:uuid:anac-feed-be90fb12-a1f2-47b2-a6d7-e62d49e1dfdf",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-02T20:29:21.638Z",
-  "dateModified": "2026-03-02T20:29:21.638Z",
+  "dateCreated": "2026-03-03T01:42:59.130Z",
+  "dateModified": "2026-03-03T01:42:59.130Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-13T13:46:41.000Z",
-    "endDate": "2026-03-02T15:29:00.000Z"
+    "endDate": "2026-03-02T18:22:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Câmara debate regras para passageiros indisciplinados nesta terça (3/3)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/camara-debate-regras-para-passageiros-indisciplinados-nesta-terca-3-3",
+      "datePublished": "2026-03-02T18:22:00.000Z",
+      "description": "Diretor-presidente da Anac apresentará as propostas da Agência durante audiência pública",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac autoriza operações da aeronave L410 NG no Brasil",
@@ -276,14 +284,6 @@
       "datePublished": "2026-01-24T12:36:00.000Z",
       "description": "Empresário faleceu na manhã de 24 de janeiro",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-lamenta-a-morte-de-constantino-jr-fundador-da-gol-linhas-aereas/linkedin_nota_de_pesar.png/@@images/f94fb78d-6f4f-4317-8300-ef1ba66f68a7.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Plataforma da Anac InfoVoo consolida informações da aviação civil e fortalece análises do judiciário",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/plataforma-da-anac-infovoo-consolida-informacoes-da-aviacao-civil-e-fortalece-analises-do-judiciario",
-      "datePublished": "2026-01-23T14:48:00.000Z",
-      "description": "Mais clareza, menos litígios e maior conectividade para o Brasil. Ferramenta amplia transparência e agiliza decisões judiciais no setor aéreo.",
       "type": "notícia"
     },
     {
