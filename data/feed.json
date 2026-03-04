@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-321aa166-600d-4e65-9462-70846d5168c8",
+  "identifier": "urn:uuid:anac-feed-87e170c6-61db-447a-8310-b29de2fffd4a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-04T16:35:19.591Z",
-  "dateModified": "2026-03-04T16:35:19.591Z",
+  "dateCreated": "2026-03-04T20:26:00.723Z",
+  "dateModified": "2026-03-04T20:26:00.723Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-10-13T13:46:41.000Z",
-    "endDate": "2026-03-03T13:07:00.000Z"
+    "startDate": "2025-10-15T07:00:50.000Z",
+    "endDate": "2026-03-04T16:44:35.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Sessão pública do leilão da Venda Assistida do Galeão",
+      "url": "https://www.youtube.com/watch?v=7XZ5YTYlrdE",
+      "datePublished": "2026-03-04T16:44:35.000Z",
+      "description": "",
+      "image": "https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Regra para passageiro indisciplinado é debatida em audiência pública na Câmara",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/regra-para-passageiro-indisciplinado-e-debatida-em-audiencia-publica-na-camara",
+      "datePublished": "2026-03-04T15:00:00.000Z",
+      "description": "Proposta da Anac foi apresentada em comissão antes de votação na Diretoria Colegiada, agendada para esta sexta (6/3)",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/regra-para-passageiro-indisciplinado-e-debatida-em-audiencia-publica-na-camara/20260303_162835.jpg/@@images/36e8ea85-c0e5-44de-b946-428c49abe7ab.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac participa do IX Encontro Mulheres na Aviação, nos dias 7 e 8/3, em São José dos Campos (SP)",
@@ -277,15 +295,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Ministério de Portos e Aeroportos lança edital com bolsas de formação para mecânicos aeronáuticos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos",
-      "datePublished": "2026-01-27T14:43:00.000Z",
-      "description": "Programa abre caminho para quem quer construir uma carreira no setor aéreo com qualificação técnica e gratuita",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos/curso-para-mecanico-mporf.jpeg/@@images/9f83826b-2eee-40da-97c1-b13ec6ad3795.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
       "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
@@ -373,15 +382,6 @@
       "datePublished": "2025-10-15T07:00:50.000Z",
       "description": "Audiência Pública da Consulta Pública nº 11/2025 - Proposta de Edital de Venda Assistida - Contrato de Concessão nº 001/ANAC/2014 - Aeroporto Internacional do Rio de Janeiro (Galeão)\n \nDescrição:\nA Consulta Pública nº 11/2025 propõe o processo de Venda Assistida do Contrato de Concessão nº 001/ANAC/2014-SBGL, relativas à concessão para ampliação, manutenção e exploração do Aeroporto Internacional do Rio de Janeiro - Galeão. \n\nAcesse os documentos da Consulta Pública e faça a sua contribuição nos formulários eletrônicos disponíveis no endereço: https://www.gov.br/participamaisbrasil/cp-11-2025",
       "image": "https://i3.ytimg.com/vi/6X1GXm4fgaM/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Já se perguntou como o avião consegue voar?",
-      "url": "https://www.youtube.com/watch?v=_-5lBoZoZCU",
-      "datePublished": "2025-10-13T13:46:41.000Z",
-      "description": "Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! \n\nPorque aprender pode ser tão divertido quanto brincar! 💙\n\nFeliz Dia das Crianças! 🎉\n\nLetra:\nComo o avião voa?\n\nOlha o avião lá no céu a planar,\nMas como será que ele consegue voar?\nAs asas têm formato especial, você vai ver,\nFazendo o ar se mover pra cima crescer.\n\nPor cima o ar corre mais depressa, é tensão,\nPor baixo ele vai lento, isso dá sustentação.\nÉ a física que cria essa força no ar,\nChamamos de sustentação pra ele levantar!\n\nVoa, voa avião, no céu a planar,\nCom motor e asa, pronto pra voar!\nEmpurrando lá na frente, turbinas a girar,\nÉ propulsão que ajuda ele a avançar!\n\nMas não é só isso que faz o avião flutuar,\nO piloto também precisa o voo controlar.\nUsa leme, profundor e aileron pra guiar,\nMudando direção pra rota manter no ar.\n\nCom motor, asas e ciência no coração,\nO avião corta o céu numa perfeita canção.\nÉ física, engenharia e um sonho no ar,\nJuntos fazendo o avião poder voar!\n\nVoa, voa avião, sobe lá no ar,\nLevando gente e sonhos pra viajar.\nDecola bonito, com ciência a soprar,\nAgora você sabe como o avião pode voar!\n\n*Vídeo e música produzida com inteligência artificial.",
-      "image": "https://i4.ytimg.com/vi/_-5lBoZoZCU/hqdefault.jpg",
       "type": "vídeo"
     }
   ]

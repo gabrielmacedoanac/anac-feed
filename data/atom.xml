@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-321aa166-600d-4e65-9462-70846d5168c8</id>
-  <updated>2026-03-03T13:07:00.000Z</updated>
+  <id>urn:uuid:anac-feed-87e170c6-61db-447a-8310-b29de2fffd4a</id>
+  <updated>2026-03-04T16:44:35.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Sessão pública do leilão da Venda Assistida do Galeão</title>
+    <link href="https://www.youtube.com/watch?v=7XZ5YTYlrdE" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=7XZ5YTYlrdE</id>
+    <published>2026-03-04T16:44:35.000Z</published>
+    <updated>2026-03-04T16:44:35.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg" alt="Sessão pública do leilão da Venda Assistida do Galeão">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Regra para passageiro indisciplinado é debatida em audiência pública na Câmara</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/regra-para-passageiro-indisciplinado-e-debatida-em-audiencia-publica-na-camara" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/regra-para-passageiro-indisciplinado-e-debatida-em-audiencia-publica-na-camara</id>
+    <published>2026-03-04T15:00:00.000Z</published>
+    <updated>2026-03-04T15:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Proposta da Anac foi apresentada em comissão antes de votação na Diretoria Colegiada, agendada para esta sexta (6/3)</summary>
+    <content type="html"><![CDATA[
+      <p>Proposta da Anac foi apresentada em comissão antes de votação na Diretoria Colegiada, agendada para esta sexta (6/3)</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/regra-para-passageiro-indisciplinado-e-debatida-em-audiencia-publica-na-camara/20260303_162835.jpg/@@images/36e8ea85-c0e5-44de-b946-428c49abe7ab.jpeg" alt="Regra para passageiro indisciplinado é debatida em audiência pública na Câmara">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -574,25 +612,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
   
   
   <entry>
-    <title type="html">Ministério de Portos e Aeroportos lança edital com bolsas de formação para mecânicos aeronáuticos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos</id>
-    <published>2026-01-27T14:43:00.000Z</published>
-    <updated>2026-01-27T14:43:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Programa abre caminho para quem quer construir uma carreira no setor aéreo com qualificação técnica e gratuita</summary>
-    <content type="html"><![CDATA[
-      <p>Programa abre caminho para quem quer construir uma carreira no setor aéreo com qualificação técnica e gratuita</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/ministerio-de-portos-e-aeroportos-lanca-edital-com-bolsas-de-formacao-para-mecanicos-aeronauticos/curso-para-mecanico-mporf.jpeg/@@images/9f83826b-2eee-40da-97c1-b13ec6ad3795.jpeg" alt="Ministério de Portos e Aeroportos lança edital com bolsas de formação para mecânicos aeronáuticos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)</title>
     <link href="https://www.youtube.com/watch?v=ZuHcl1ahxSk" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=ZuHcl1ahxSk</id>
@@ -866,103 +885,6 @@ A Consulta Pública nº 11/2025 propõe o processo de Venda Assistida do Contrat
 
 Acesse os documentos da Consulta Pública e faça a sua contribuição nos formulários eletrônicos disponíveis no endereço: https://www.gov.br/participamaisbrasil/cp-11-2025</p>
       <img src="https://i3.ytimg.com/vi/6X1GXm4fgaM/hqdefault.jpg" alt="Audiência Pública Virtual da Consulta Pública nº 11/2025">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Já se perguntou como o avião consegue voar?</title>
-    <link href="https://www.youtube.com/watch?v=_-5lBoZoZCU" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=_-5lBoZoZCU</id>
-    <published>2025-10-13T13:46:41.000Z</published>
-    <updated>2025-10-13T13:46:41.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! 
-
-Porque aprender pode ser tão divertido quanto brincar! 💙
-
-Feliz Dia das Crianças! 🎉
-
-Letra:
-Como o avião voa?
-
-Olha o avião lá no céu a planar,
-Mas como será que ele consegue voar?
-As asas têm formato especial, você vai ver,
-Fazendo o ar se mover pra cima crescer.
-
-Por cima o ar corre mais depressa, é tensão,
-Por baixo ele vai lento, isso dá sustentação.
-É a física que cria essa força no ar,
-Chamamos de sustentação pra ele levantar!
-
-Voa, voa avião, no céu a planar,
-Com motor e asa, pronto pra voar!
-Empurrando lá na frente, turbinas a girar,
-É propulsão que ajuda ele a avançar!
-
-Mas não é só isso que faz o avião flutuar,
-O piloto também precisa o voo controlar.
-Usa leme, profundor e aileron pra guiar,
-Mudando direção pra rota manter no ar.
-
-Com motor, asas e ciência no coração,
-O avião corta o céu numa perfeita canção.
-É física, engenharia e um sonho no ar,
-Juntos fazendo o avião poder voar!
-
-Voa, voa avião, sobe lá no ar,
-Levando gente e sonhos pra viajar.
-Decola bonito, com ciência a soprar,
-Agora você sabe como o avião pode voar!
-
-*Vídeo e música produzida com inteligência artificial.</summary>
-    <content type="html"><![CDATA[
-      <p>Neste Dia das Crianças, embarque com a gente nessa aventura divertida sobre as forças que fazem a magia acontecer nos céus! 
-
-Porque aprender pode ser tão divertido quanto brincar! 💙
-
-Feliz Dia das Crianças! 🎉
-
-Letra:
-Como o avião voa?
-
-Olha o avião lá no céu a planar,
-Mas como será que ele consegue voar?
-As asas têm formato especial, você vai ver,
-Fazendo o ar se mover pra cima crescer.
-
-Por cima o ar corre mais depressa, é tensão,
-Por baixo ele vai lento, isso dá sustentação.
-É a física que cria essa força no ar,
-Chamamos de sustentação pra ele levantar!
-
-Voa, voa avião, no céu a planar,
-Com motor e asa, pronto pra voar!
-Empurrando lá na frente, turbinas a girar,
-É propulsão que ajuda ele a avançar!
-
-Mas não é só isso que faz o avião flutuar,
-O piloto também precisa o voo controlar.
-Usa leme, profundor e aileron pra guiar,
-Mudando direção pra rota manter no ar.
-
-Com motor, asas e ciência no coração,
-O avião corta o céu numa perfeita canção.
-É física, engenharia e um sonho no ar,
-Juntos fazendo o avião poder voar!
-
-Voa, voa avião, sobe lá no ar,
-Levando gente e sonhos pra viajar.
-Decola bonito, com ciência a soprar,
-Agora você sabe como o avião pode voar!
-
-*Vídeo e música produzida com inteligência artificial.</p>
-      <img src="https://i4.ytimg.com/vi/_-5lBoZoZCU/hqdefault.jpg" alt="Já se perguntou como o avião consegue voar?">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
