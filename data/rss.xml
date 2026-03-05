@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 04 Mar 2026 20:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 20:26:00 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 01:28:11 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 01:28:11 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Anac nomeia novos especialistas em Regulação de Aviação Civil</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/anac-nomeia-novos-especialistas-em-regulacao-de-aviacao-civil</link>
+      <description>Medida amplia a força de trabalho da Agência nas áreas técnicas de regulação</description>
+      <pubDate>Wed, 04 Mar 2026 18:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/anac-nomeia-novos-especialistas-em-regulacao-de-aviacao-civil</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-03-04T18:05:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/anac-nomeia-novos-especialistas-em-regulacao-de-aviacao-civil/linkedin-1.png/@@images/7876133f-83b3-41fc-b58f-945d6b78df6d.png" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Medida amplia a força de trabalho da Agência nas áreas técnicas de regulação</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-nomeia-novos-especialistas-em-regulacao-de-aviacao-civil/linkedin-1.png/@@images/7876133f-83b3-41fc-b58f-945d6b78df6d.png" alt="Anac nomeia novos especialistas em Regulação de Aviação Civil">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -527,23 +544,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Roadshow apresenta Galeão para investidores</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/roadshow-apresenta-galeao-para-investidores</link>
-      <description>Representantes da Agência, do MPor e do Programa de Parcerias de Investimentos farão apresentações sobre a venda assistida do aeroporto</description>
-      <pubDate>Wed, 28 Jan 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/roadshow-apresenta-galeao-para-investidores</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-01-28T15:19:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Representantes da Agência, do MPor e do Programa de Parcerias de Investimentos farão apresentações sobre a venda assistida do aeroporto</p>
         
       ]]></content:encoded>
     </item>

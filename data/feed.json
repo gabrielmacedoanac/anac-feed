@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-87e170c6-61db-447a-8310-b29de2fffd4a",
+  "identifier": "urn:uuid:anac-feed-baacc8b5-7e52-4f8d-a115-8f1f921e1290",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-04T20:26:00.723Z",
-  "dateModified": "2026-03-04T20:26:00.723Z",
+  "dateCreated": "2026-03-05T01:28:11.618Z",
+  "dateModified": "2026-03-05T01:28:11.618Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-15T07:00:50.000Z",
-    "endDate": "2026-03-04T16:44:35.000Z"
+    "endDate": "2026-03-04T18:05:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac nomeia novos especialistas em Regulação de Aviação Civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-nomeia-novos-especialistas-em-regulacao-de-aviacao-civil",
+      "datePublished": "2026-03-04T18:05:00.000Z",
+      "description": "Medida amplia a força de trabalho da Agência nas áreas técnicas de regulação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-nomeia-novos-especialistas-em-regulacao-de-aviacao-civil/linkedin-1.png/@@images/7876133f-83b3-41fc-b58f-945d6b78df6d.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Sessão pública do leilão da Venda Assistida do Galeão",
@@ -284,14 +293,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2",
       "datePublished": "2026-01-29T15:23:00.000Z",
       "description": "Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Roadshow apresenta Galeão para investidores",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/roadshow-apresenta-galeao-para-investidores",
-      "datePublished": "2026-01-28T15:19:00.000Z",
-      "description": "Representantes da Agência, do MPor e do Programa de Parcerias de Investimentos farão apresentações sobre a venda assistida do aeroporto",
       "type": "notícia"
     },
     {
