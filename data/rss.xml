@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 05 Mar 2026 08:33:24 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2026 08:33:24 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 12:44:12 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 12:44:12 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci</link>
+      <description>Transição marca o fortalecimento da atuação da Agência em âmbito internacional</description>
+      <pubDate>Thu, 05 Mar 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-03-05T09:17:00.000Z</dc:date>
+      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg" type="image/jpeg"/>
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Transição marca o fortalecimento da atuação da Agência em âmbito internacional</p>
+        <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg" alt="Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -527,23 +544,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
       <category>notícia</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Balonismo será tema de audiência pública no dia 10/2</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2</link>
-      <description>Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</description>
-      <pubDate>Thu, 29 Jan 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-01-29T15:23:00.000Z</dc:date>
-      
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</p>
         
       ]]></content:encoded>
     </item>

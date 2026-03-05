@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-fae88dac-95d1-4c56-be46-289148f53700",
+  "identifier": "urn:uuid:anac-feed-3d7d07eb-c44c-4ea9-b13b-dcbcf97bddb8",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-05T08:33:24.684Z",
-  "dateModified": "2026-03-05T08:33:24.684Z",
+  "dateCreated": "2026-03-05T12:44:12.432Z",
+  "dateModified": "2026-03-05T12:44:12.432Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-15T07:00:50.000Z",
-    "endDate": "2026-03-04T18:05:00.000Z"
+    "endDate": "2026-03-05T09:17:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci",
+      "datePublished": "2026-03-05T09:17:00.000Z",
+      "description": "Transição marca o fortalecimento da atuação da Agência em âmbito internacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac nomeia novos especialistas em Regulação de Aviação Civil",
@@ -285,14 +294,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1",
       "datePublished": "2026-02-02T12:03:00.000Z",
       "description": "Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Balonismo será tema de audiência pública no dia 10/2",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2",
-      "datePublished": "2026-01-29T15:23:00.000Z",
-      "description": "Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo",
       "type": "notícia"
     },
     {

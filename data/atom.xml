@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-fae88dac-95d1-4c56-be46-289148f53700</id>
-  <updated>2026-03-04T18:05:00.000Z</updated>
+  <id>urn:uuid:anac-feed-3d7d07eb-c44c-4ea9-b13b-dcbcf97bddb8</id>
+  <updated>2026-03-05T09:17:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci</id>
+    <published>2026-03-05T09:17:00.000Z</published>
+    <updated>2026-03-05T09:17:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Transição marca o fortalecimento da atuação da Agência em âmbito internacional</summary>
+    <content type="html"><![CDATA[
+      <p>Transição marca o fortalecimento da atuação da Agência em âmbito internacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg" alt="Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -585,25 +604,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     <summary type="html">Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</summary>
     <content type="html"><![CDATA[
       <p>Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Balonismo será tema de audiência pública no dia 10/2</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/balonismo-sera-tema-de-audiencia-publica-no-dia-10-2</id>
-    <published>2026-01-29T15:23:00.000Z</published>
-    <updated>2026-01-29T15:23:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</summary>
-    <content type="html"><![CDATA[
-      <p>Interessados em fazer manifestações devem se inscrever até o dia 6 de fevereiro na plataforma Brasil Participativo</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
