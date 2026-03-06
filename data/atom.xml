@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-add69c07-68e7-432c-9714-c1cc1b3d1e87</id>
-  <updated>2026-03-05T09:17:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a0e0de18-15a2-4ad8-8f5c-5cdf1a308209</id>
+  <updated>2026-03-06T10:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Série de webinários da Anac traz inovações e segurança para as organizações de manutenção</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao</id>
+    <published>2026-03-06T10:01:00.000Z</published>
+    <updated>2026-03-06T10:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube</summary>
+    <content type="html"><![CDATA[
+      <p>Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -586,25 +605,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     <content type="html"><![CDATA[
       <p>Em parceria com o MPor e o MDHC, iniciativa reconhece práticas inovadoras de acessibilidade implementadas ao longo de 2025</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1/premio-acessibilidade-2026_inscricoes_linkedin.png/@@images/66d6ca63-1d77-4fb6-b571-9725663e4be3.png" alt="Inscrições abertas para o Prêmio Acessibilidade e Inovação 2026">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Nova tipologia de atos normativos da Anac entra em vigor</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1</id>
-    <published>2026-02-02T12:03:00.000Z</published>
-    <updated>2026-02-02T12:03:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</summary>
-    <content type="html"><![CDATA[
-      <p>Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

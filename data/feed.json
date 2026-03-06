@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-add69c07-68e7-432c-9714-c1cc1b3d1e87",
+  "identifier": "urn:uuid:anac-feed-a0e0de18-15a2-4ad8-8f5c-5cdf1a308209",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-06T12:39:56.408Z",
-  "dateModified": "2026-03-06T12:39:56.408Z",
+  "dateCreated": "2026-03-06T16:32:26.155Z",
+  "dateModified": "2026-03-06T16:32:26.155Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-15T07:00:50.000Z",
-    "endDate": "2026-03-05T09:17:00.000Z"
+    "endDate": "2026-03-06T10:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Série de webinários da Anac traz inovações e segurança para as organizações de manutenção",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao",
+      "datePublished": "2026-03-06T10:01:00.000Z",
+      "description": "Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci",
@@ -286,14 +294,6 @@
       "datePublished": "2026-02-02T14:13:00.000Z",
       "description": "Em parceria com o MPor e o MDHC, iniciativa reconhece práticas inovadoras de acessibilidade implementadas ao longo de 2025",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-o-premio-acessibilidade-e-inovacao-2026-1/premio-acessibilidade-2026_inscricoes_linkedin.png/@@images/66d6ca63-1d77-4fb6-b571-9725663e4be3.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Nova tipologia de atos normativos da Anac entra em vigor",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/nova-tipologia-de-atos-normativos-da-anac-entra-em-vigor-1",
-      "datePublished": "2026-02-02T12:03:00.000Z",
-      "description": "Resolução Interna nº 1, que contém nova classificação, entrou em vigor hoje; Instrução normativa com tipificação anterior foi revogada",
       "type": "notícia"
     },
     {
