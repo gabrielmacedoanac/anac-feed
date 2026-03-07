@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-42b75153-76b1-472f-90b5-5cecc9b310ae</id>
-  <updated>2026-03-06T10:01:00.000Z</updated>
+  <id>urn:uuid:anac-feed-dcfec37d-65cd-4d48-98db-99df2d72b7f5</id>
+  <updated>2026-03-07T07:19:16.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)</title>
+    <link href="https://www.youtube.com/watch?v=jffGukQJVIk" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=jffGukQJVIk</id>
+    <published>2026-03-07T07:19:16.000Z</published>
+    <updated>2026-03-07T07:19:16.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" alt="2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -638,25 +657,6 @@ Relator: Rui Mesquita
 Assunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo
 Relator: Rui Mesquita</p>
       <img src="https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg" alt="1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)</title>
-    <link href="https://www.youtube.com/watch?v=jffGukQJVIk" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=jffGukQJVIk</id>
-    <published>2026-01-06T12:17:06.000Z</published>
-    <updated>2026-01-06T12:17:06.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html"></summary>
-    <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" alt="2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

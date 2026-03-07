@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-42b75153-76b1-472f-90b5-5cecc9b310ae",
+  "identifier": "urn:uuid:anac-feed-dcfec37d-65cd-4d48-98db-99df2d72b7f5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-07T04:57:05.279Z",
-  "dateModified": "2026-03-07T04:57:05.279Z",
+  "dateCreated": "2026-03-07T08:22:59.771Z",
+  "dateModified": "2026-03-07T08:22:59.771Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-06T10:01:00.000Z"
+    "endDate": "2026-03-07T07:19:16.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)",
+      "url": "https://www.youtube.com/watch?v=jffGukQJVIk",
+      "datePublished": "2026-03-07T07:19:16.000Z",
+      "description": "",
+      "image": "https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Série de webinários da Anac traz inovações e segurança para as organizações de manutenção",
@@ -303,15 +312,6 @@
       "datePublished": "2026-01-21T07:45:38.000Z",
       "description": "Início - 6:49\n1) Processo: 00058.014794/2023-28 - 8:36\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21 - 24:41\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
       "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)",
-      "url": "https://www.youtube.com/watch?v=jffGukQJVIk",
-      "datePublished": "2026-01-06T12:17:06.000Z",
-      "description": "",
-      "image": "https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg",
       "type": "vídeo"
     },
     {
