@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-898c73e0-8a4c-4f17-b4bc-36fb89e95ce8</id>
-  <updated>2026-03-10T18:27:00.000Z</updated>
+  <id>urn:uuid:anac-feed-1b61b4cb-c382-4cee-92b2-989f834bdc9b</id>
+  <updated>2026-03-12T15:02:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Diretoria colegiada aprova norma para punir passageiros indisciplinados</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados</id>
+    <published>2026-03-12T15:02:00.000Z</published>
+    <updated>2026-03-12T15:02:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Resolução aprovada por unanimidade passa a valer seis meses após publicação no Diário Oficial da União</summary>
+    <content type="html"><![CDATA[
+      <p>Resolução aprovada por unanimidade passa a valer seis meses após publicação no Diário Oficial da União</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -605,25 +624,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     <content type="html"><![CDATA[
       <p>O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg" alt="Confira a programação da 1ª etapa da Semana Safety em Manaus (AM), nos dias 24 a 26/2">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac acumula Selo Ouro pelo 4° ano consecutivo por excelência regulatória</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1</id>
-    <published>2026-02-04T14:26:00.000Z</published>
-    <updated>2026-02-04T14:26:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Prêmio reconhece o compromisso da Agência com a melhoria regulatória, a inovação normativa e a adoção das melhores práticas internacionais</summary>
-    <content type="html"><![CDATA[
-      <p>Prêmio reconhece o compromisso da Agência com a melhoria regulatória, a inovação normativa e a adoção das melhores práticas internacionais</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1/intra-3.png/@@images/b61f4a86-d7f8-4c94-9a33-cbbbba1b00a9.png" alt="Anac acumula Selo Ouro pelo 4° ano consecutivo por excelência regulatória">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

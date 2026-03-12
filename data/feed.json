@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-898c73e0-8a4c-4f17-b4bc-36fb89e95ce8",
+  "identifier": "urn:uuid:anac-feed-1b61b4cb-c382-4cee-92b2-989f834bdc9b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-12T16:53:52.423Z",
-  "dateModified": "2026-03-12T16:53:52.423Z",
+  "dateCreated": "2026-03-12T20:27:43.074Z",
+  "dateModified": "2026-03-12T20:27:43.074Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-10T18:27:00.000Z"
+    "endDate": "2026-03-12T15:02:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Diretoria colegiada aprova norma para punir passageiros indisciplinados",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados",
+      "datePublished": "2026-03-12T15:02:00.000Z",
+      "description": "Resolução aprovada por unanimidade passa a valer seis meses após publicação no Diário Oficial da União",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Consulta pública sobre licença de pilotos de “carros voadores” está aberta até 16/3",
@@ -294,15 +302,6 @@
       "datePublished": "2026-02-06T12:56:00.000Z",
       "description": "O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac acumula Selo Ouro pelo 4° ano consecutivo por excelência regulatória",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1",
-      "datePublished": "2026-02-04T14:26:00.000Z",
-      "description": "Prêmio reconhece o compromisso da Agência com a melhoria regulatória, a inovação normativa e a adoção das melhores práticas internacionais",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-acumula-selo-ouro-pelo4deg-ano-consecutivo-por-excelencia-regulatoria-1/intra-3.png/@@images/b61f4a86-d7f8-4c94-9a33-cbbbba1b00a9.png",
       "type": "notícia"
     },
     {
