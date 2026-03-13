@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1b61b4cb-c382-4cee-92b2-989f834bdc9b",
+  "identifier": "urn:uuid:anac-feed-d591b071-ff07-4bc1-b0fa-ac85c634a392",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-12T20:27:43.074Z",
-  "dateModified": "2026-03-12T20:27:43.074Z",
+  "dateCreated": "2026-03-13T01:27:48.456Z",
+  "dateModified": "2026-03-13T01:27:48.456Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -35,10 +35,10 @@
   "items": [
     {
       "@type": "NewsArticle",
-      "name": "Diretoria colegiada aprova norma para punir passageiros indisciplinados",
+      "name": "Anac aprova norma para punir passageiros indisciplinados",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados",
       "datePublished": "2026-03-12T15:02:00.000Z",
-      "description": "Resolução aprovada por unanimidade passa a valer seis meses após publicação no Diário Oficial da União",
+      "description": "Resolução aprovada por unanimidade pela Diretoria Colegiada passa a valer em voos nacionais a partir de 14/9/26",
       "type": "notícia"
     },
     {
