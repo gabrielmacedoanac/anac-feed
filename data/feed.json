@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9ea975be-d3b6-4120-bc8f-f4c5f7e755a9",
+  "identifier": "urn:uuid:anac-feed-ca754c27-fcc0-44a6-a7bc-7a3f714875c6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-13T16:32:38.017Z",
-  "dateModified": "2026-03-13T16:32:38.017Z",
+  "dateCreated": "2026-03-13T20:27:08.119Z",
+  "dateModified": "2026-03-13T20:27:08.119Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-12T15:02:00.000Z"
+    "endDate": "2026-03-13T16:10:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,41 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac autoriza empresa mexicana TM Aerolíneas a operar transporte internacional de cargas no Brasil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-empresa-mexicana-tm-aerolineas-a-operar-transporte-internacional-de-cargas-no-brasil",
+      "datePublished": "2026-03-13T16:10:00.000Z",
+      "description": "A decisão permitirá ampliar a conectividade logística internacional e fortalecer a integração com as cadeias globais de suprimento",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-empresa-mexicana-tm-aerolineas-a-operar-transporte-internacional-de-cargas-no-brasil/portal-7.png/@@images/be7c7411-a31d-4d2a-8105-ac3012512684.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Últimos dias da consulta de modernização de equipamentos de inspeção em aeroportos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ultimos-dias-para-participar-da-consulta-publica-para-modernizar-equipamentos-de-inspecao-em-aeroportos",
+      "datePublished": "2026-03-13T15:36:00.000Z",
+      "description": "Contribuições podem ser enviadas até 16/3",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Servidor da Anac assume posição de liderança em grupo da Região Pan-Americana de segurança operacional",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional",
+      "datePublished": "2026-03-13T15:16:00.000Z",
+      "description": "Eleição fortalece a presença estratégica da Agência nas discussões regionais sobre segurança operacional da aviação civil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional/whatsapp-image-2026-03-09-at-11-41-04-3.jpeg/@@images/494414a8-97d3-446b-83c2-317e56727a0a.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Senado Federal realiza sessão especial em homenagem aos 20 anos da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac",
+      "datePublished": "2026-03-13T14:43:00.000Z",
+      "description": "Criada em 2006, a Agência é referência mundial em regulação do transporte aéreo e segurança operacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac/20_anos_sessao-s-_linkedin___.png/@@images/86d68e90-188e-4d17-9b1b-b65c094b7da9.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac aprova norma para punir passageiros indisciplinados",
@@ -261,14 +296,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Aberta consulta pública sobre requisitos para pilotos de aeronaves de decolagem e pouso vertical",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/aberta-consulta-publica-sobre-requisitos-para-pilotos-de-aeronaves-de-decolagem-e-pouso-vertical",
-      "datePublished": "2026-02-11T10:46:00.000Z",
-      "description": "Proposta da Anac é criar nova categoria de pilotos, com a possibilidade de profissionais já licenciados em helicóptero ou avião realizarem treinamento de transição",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "Audiência Pública - Exploração de serviços aéreos com balão",
       "url": "https://www.youtube.com/watch?v=-8_H8qqHFN4",
@@ -276,33 +303,6 @@
       "description": "",
       "image": "https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac abre chamamento para pesquisa sobre nova interface do Portal Santos Dumont",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont",
-      "datePublished": "2026-02-09T15:17:00.000Z",
-      "description": "Sem descrição",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-chamamento-para-pesquisa-sobre-nova-interface-do-portal-santos-dumont/SantosDumontPORTAL4.png/@@images/fdffda8e-8631-4772-a516-816cdee46239.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac publica perguntas e respostas sobre a atualização da Resolução nº 400",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400",
-      "datePublished": "2026-02-06T15:59:00.000Z",
-      "description": "Documento esclarece dúvidas sobre a proposta e apoia a sociedade a contribuir com a audiência pública no dia 11/2",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-publica-perguntas-e-respostas-sobre-a-atualizacao-da-resolucao-no-400/portal-5.png/@@images/7c978c56-247d-4f79-b1e9-52e1aface515.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Confira a programação da 1ª etapa da Semana Safety em Manaus (AM), nos dias 24 a 26/2",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am",
-      "datePublished": "2026-02-06T12:56:00.000Z",
-      "description": "O evento traz uma programação voltada à segurança das operações aéreas na Região Norte do país.  Inscreva-se até 23/2",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscreva-se-ate-23-2-para-a-1a-etapa-da-semana-safety-manaus-am/ss-linkedin-manaus.jpeg/@@images/03646884-1e88-46fe-ba3b-0ffe8db3ca6c.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
