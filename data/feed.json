@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ca754c27-fcc0-44a6-a7bc-7a3f714875c6",
+  "identifier": "urn:uuid:anac-feed-8f5de97c-5543-41d2-bd8b-0c6a1a11dbd6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-13T20:27:08.119Z",
-  "dateModified": "2026-03-13T20:27:08.119Z",
+  "dateCreated": "2026-03-14T01:25:31.965Z",
+  "dateModified": "2026-03-14T01:25:31.965Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-13T16:10:00.000Z"
+    "endDate": "2026-03-13T18:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac",
+      "datePublished": "2026-03-13T18:04:00.000Z",
+      "description": "Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac/anac_20_anos_rj-68_55143237802_l.jpg/@@images/e5e98462-b1b0-4d89-a0ff-b8c470eaa460.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac autoriza empresa mexicana TM Aerolíneas a operar transporte internacional de cargas no Brasil",
@@ -276,14 +285,6 @@
       "datePublished": "2026-02-13T10:12:00.000Z",
       "description": "Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400/whatsapp-image-2026-02-12-at-09-56-43-3-1.jpeg/@@images/db1669c0-e856-44f9-abc9-6daf68edfcd7.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Homem é preso em flagrante durante exame teórico da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac",
-      "datePublished": "2026-02-12T18:17:00.000Z",
-      "description": "Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal",
       "type": "notícia"
     },
     {

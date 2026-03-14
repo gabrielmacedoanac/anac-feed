@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ca754c27-fcc0-44a6-a7bc-7a3f714875c6</id>
-  <updated>2026-03-13T16:10:00.000Z</updated>
+  <id>urn:uuid:anac-feed-8f5de97c-5543-41d2-bd8b-0c6a1a11dbd6</id>
+  <updated>2026-03-13T18:04:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac</id>
+    <published>2026-03-13T18:04:00.000Z</published>
+    <updated>2026-03-13T18:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional</summary>
+    <content type="html"><![CDATA[
+      <p>Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac/anac_20_anos_rj-68_55143237802_l.jpg/@@images/e5e98462-b1b0-4d89-a0ff-b8c470eaa460.jpeg" alt="Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -567,25 +586,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     <content type="html"><![CDATA[
       <p>Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400/whatsapp-image-2026-02-12-at-09-56-43-3-1.jpeg/@@images/db1669c0-e856-44f9-abc9-6daf68edfcd7.jpeg" alt="Anac discute com sociedade proposta de atualização da Resolução nº 400">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Homem é preso em flagrante durante exame teórico da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/homem-e-preso-em-flagrante-durante-exame-teorico-da-anac</id>
-    <published>2026-02-12T18:17:00.000Z</published>
-    <updated>2026-02-12T18:17:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal</summary>
-    <content type="html"><![CDATA[
-      <p>Candidato com identidade falsa foi identificado em ação conjunta entre Agência e Polícia Federal</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
