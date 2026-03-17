@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-346e11bb-62c9-4d3b-afd2-be5a19975dbf",
+  "identifier": "urn:uuid:anac-feed-19b5a07c-851b-44b8-b738-18b3f98b3170",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-17T12:58:01.439Z",
-  "dateModified": "2026-03-17T12:58:01.439Z",
+  "dateCreated": "2026-03-17T16:58:52.234Z",
+  "dateModified": "2026-03-17T16:58:52.234Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-13T18:04:00.000Z"
+    "endDate": "2026-03-17T13:37:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm",
+      "datePublished": "2026-03-17T13:37:00.000Z",
+      "description": "Certificação reconhece a solidez das práticas para a execução das atividades de auditoria interna na Agência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm/image.jpg/@@images/c8a8862f-69bf-48ea-8fbd-05694c96a6b3.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac",
@@ -277,15 +286,6 @@
       "description": "Antes de voar, verifique se a empresa é autorizada pela Anac.\nO transporte aéreo clandestino é um risco real para você e sua família!\n\nConfira a regularidade da empresa em\nhttps://voeseguro.anac.gov.br\n\nOu consulte pelo Super App da Anac.\n\nBaixe o Super App na App Store:\nhttps://apps.apple.com/br/app/anac/id6479522513\n\nBaixe o Super App no Google Play:\nhttps://play.google.com/store/apps/details?id=br.gov.anac.superapp\n\n#voeseguro",
       "image": "https://i1.ytimg.com/vi/LRBd-yfAkts/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac discute com sociedade proposta de atualização da Resolução nº 400",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400",
-      "datePublished": "2026-02-13T10:12:00.000Z",
-      "description": "Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400/whatsapp-image-2026-02-12-at-09-56-43-3-1.jpeg/@@images/db1669c0-e856-44f9-abc9-6daf68edfcd7.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",

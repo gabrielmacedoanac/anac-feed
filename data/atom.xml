@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-346e11bb-62c9-4d3b-afd2-be5a19975dbf</id>
-  <updated>2026-03-13T18:04:00.000Z</updated>
+  <id>urn:uuid:anac-feed-19b5a07c-851b-44b8-b738-18b3f98b3170</id>
+  <updated>2026-03-17T13:37:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm</id>
+    <published>2026-03-17T13:37:00.000Z</published>
+    <updated>2026-03-17T13:37:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Certificação reconhece a solidez das práticas para a execução das atividades de auditoria interna na Agência</summary>
+    <content type="html"><![CDATA[
+      <p>Certificação reconhece a solidez das práticas para a execução das atividades de auditoria interna na Agência</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm/image.jpg/@@images/c8a8862f-69bf-48ea-8fbd-05694c96a6b3.jpeg" alt="Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -570,25 +589,6 @@ https://play.google.com/store/apps/details?id=br.gov.anac.superapp
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac discute com sociedade proposta de atualização da Resolução nº 400</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400</id>
-    <published>2026-02-13T10:12:00.000Z</published>
-    <updated>2026-02-13T10:12:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência</summary>
-    <content type="html"><![CDATA[
-      <p>Audiência pública foi realizada na tarde de 11 de fevereiro na sede da Agência</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-discute-com-sociedade-proposta-de-atualizacao-da-resolucao-no-400/whatsapp-image-2026-02-12-at-09-56-43-3-1.jpeg/@@images/db1669c0-e856-44f9-abc9-6daf68edfcd7.jpeg" alt="Anac discute com sociedade proposta de atualização da Resolução nº 400">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
