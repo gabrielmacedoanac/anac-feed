@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-19b5a07c-851b-44b8-b738-18b3f98b3170",
+  "identifier": "urn:uuid:anac-feed-2a661445-ef98-45f3-8baa-14dd8b770ad9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-17T16:58:52.234Z",
-  "dateModified": "2026-03-17T16:58:52.234Z",
+  "dateCreated": "2026-03-17T20:32:22.089Z",
+  "dateModified": "2026-03-17T20:32:22.089Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-17T13:37:00.000Z"
+    "endDate": "2026-03-17T17:24:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,32 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Semana Safety define programação para a etapa de Curitiba (PR)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr",
+      "datePublished": "2026-03-17T17:24:00.000Z",
+      "description": "Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr/semana-safety_cwb.jpeg/@@images/3ec3f6cc-1c36-4b91-a5f9-56c8c89c82ef.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Novidade: envio de notificações em lote agora está disponível no Portal Único da Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/novidade-envio-de-notificacoes-em-lote-agora-esta-disponivel-no-portal-unico-da-anac",
+      "datePublished": "2026-03-17T15:09:00.000Z",
+      "description": "O reporte de situações de ameaça à segurança operacional são fundamentais para a atuação proativa da Agência",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Autoridades destacam papel da Anac no desenvolvimento da aviação brasileira, em sessão especial no Senado Federal",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal",
+      "datePublished": "2026-03-17T14:48:00.000Z",
+      "description": "Autoridades do Congresso Nacional, do Governo Federal e da indústria destacaram a importância da atuação da Agência para a segurança, a modernização regulatória e o crescimento do setor aéreo no Brasil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal/0a-img_0005.png/@@images/0a29d989-6528-4ced-9c91-49d33b2448c9.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM",
@@ -249,33 +275,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1",
       "datePublished": "2026-02-24T17:20:00.000Z",
       "description": "Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac abre consulta pública para modernizar equipamentos de inspeção em aeroportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-consulta-publica-para-modernizar-equipamentos-de-inspecao-em-aeroportos",
-      "datePublished": "2026-02-23T17:41:00.000Z",
-      "description": "Contribuições podem ser enviadas até 16/3",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-consulta-publica-para-modernizar-equipamentos-de-inspecao-em-aeroportos/facebook-1.png/@@images/36375114-5f44-4876-9d07-de1976d152bf.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Operação da Anac no Rio de Janeiro fiscaliza voos privados e serviços aéreos especializados",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados",
-      "datePublished": "2026-02-23T16:02:00.000Z",
-      "description": "Foco da campanha Voe Seguro é combater o transporte aéreo clandestino e sensibilizar operadores aéreos e passageiros",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/operacao-da-anac-no-rio-de-janeiro-fiscaliza-voos-privados-e-servicos-aereos-especializados/whatsapp-image-2026-02-20-at-16-30-56.jpeg/@@images/8f72c2a5-d736-44a6-aee5-e0dc860cafda.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac presta homenagem no Dia Internacional em Memória das Vítimas de Acidentes Aéreos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-reforca-solidariedade-e-compromisso-com-a-seguranca-no-dia-internacional-em-memoria-das-vitimas-de-acidentes-aereos",
-      "datePublished": "2026-02-20T16:33:00.000Z",
-      "description": "Data foi instituída para reforçar a importância da melhoria contínua do setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-reforca-solidariedade-e-compromisso-com-a-seguranca-no-dia-internacional-em-memoria-das-vitimas-de-acidentes-aereos/dia-de-homenagem-as-vitimas-de-acidentes-aereos.jpeg/@@images/a2321848-6759-4a29-98ea-f81ce821bf8d.jpeg",
       "type": "notícia"
     },
     {
