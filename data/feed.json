@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-925f5549-51a4-4c4d-b9dc-cd77f16936db",
+  "identifier": "urn:uuid:anac-feed-8eac49e5-2d6e-4960-b0e5-d098d483685d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-19T16:51:26.893Z",
-  "dateModified": "2026-03-19T16:51:26.893Z",
+  "dateCreated": "2026-03-19T20:29:45.856Z",
+  "dateModified": "2026-03-19T20:29:45.856Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-17T08:34:42.000Z",
-    "endDate": "2026-03-17T17:24:00.000Z"
+    "endDate": "2026-03-19T16:10:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realiza aula inaugural do Projeto Pilotos do Semiárido em Pernambuco",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco",
+      "datePublished": "2026-03-19T16:10:00.000Z",
+      "description": "Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco/dsc05094.jpg/@@images/e7812fb0-e666-4d1d-a8f0-767b836b732f.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Semana Safety define programação para a etapa de Curitiba (PR)",
@@ -267,14 +276,6 @@
       "datePublished": "2026-02-25T10:05:00.000Z",
       "description": "Questionário eletrônico é anônimo e fica aberto até 31 de março",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-pesquisa-para-ouvir-passageiros-e-regulados-sobre-transporte-aereo/card_portal.jpeg/@@images/cf3700a3-2de9-429f-9a71-404448559f7c.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Curitiba será a casa da segunda etapa da Semana Safety",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1",
-      "datePublished": "2026-02-24T17:20:00.000Z",
-      "description": "Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3",
       "type": "notícia"
     },
     {

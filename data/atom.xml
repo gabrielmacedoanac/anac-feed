@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-925f5549-51a4-4c4d-b9dc-cd77f16936db</id>
-  <updated>2026-03-17T17:24:00.000Z</updated>
+  <id>urn:uuid:anac-feed-8eac49e5-2d6e-4960-b0e5-d098d483685d</id>
+  <updated>2026-03-19T16:10:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac realiza aula inaugural do Projeto Pilotos do Semiárido em Pernambuco</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco</id>
+    <published>2026-03-19T16:10:00.000Z</published>
+    <updated>2026-03-19T16:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco/dsc05094.jpg/@@images/e7812fb0-e666-4d1d-a8f0-767b836b732f.jpeg" alt="Anac realiza aula inaugural do Projeto Pilotos do Semiárido em Pernambuco">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -520,25 +539,6 @@
     <content type="html"><![CDATA[
       <p>Questionário eletrônico é anônimo e fica aberto até 31 de março</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-abre-pesquisa-para-ouvir-passageiros-e-regulados-sobre-transporte-aereo/card_portal.jpeg/@@images/cf3700a3-2de9-429f-9a71-404448559f7c.jpeg" alt="Anac abre pesquisa para ouvir passageiros e regulados sobre transporte aéreo">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Curitiba será a casa da segunda etapa da Semana Safety</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/curitiba-sera-a-casa-da-segunda-etapa-da-semanasafety-1</id>
-    <published>2026-02-24T17:20:00.000Z</published>
-    <updated>2026-02-24T17:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3</summary>
-    <content type="html"><![CDATA[
-      <p>Anac reúne comunidade aeronáutica e especialistas entre os dias 24 e 26/3</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
