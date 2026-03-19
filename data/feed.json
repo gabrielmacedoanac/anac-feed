@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9fdf32b6-7350-4e73-9c03-f29bbe2f1e01",
+  "identifier": "urn:uuid:anac-feed-925f5549-51a4-4c4d-b9dc-cd77f16936db",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-19T12:51:12.828Z",
-  "dateModified": "2026-03-19T12:51:12.828Z",
+  "dateCreated": "2026-03-19T16:51:26.893Z",
+  "dateModified": "2026-03-19T16:51:26.893Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -44,7 +44,7 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Novidade: envio de notificações em lote agora está disponível no Portal Único da Anac",
+      "name": "Novidade: envio de notificações em lote agora está disponível no Portal Único",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/novidade-envio-de-notificacoes-em-lote-agora-esta-disponivel-no-portal-unico-da-anac",
       "datePublished": "2026-03-17T15:09:00.000Z",
       "description": "O reporte de situações de ameaça à segurança operacional são fundamentais para a atuação proativa da Agência",
