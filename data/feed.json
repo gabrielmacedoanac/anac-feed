@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-03c15bb0-e6ba-4c3d-9268-c8f21fe6295d",
+  "identifier": "urn:uuid:anac-feed-297e3fc5-7c59-4c10-bd21-537371ded94a",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-24T16:54:29.452Z",
-  "dateModified": "2026-03-24T16:54:29.452Z",
+  "dateCreated": "2026-03-24T20:34:55.149Z",
+  "dateModified": "2026-03-24T20:34:55.149Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-10-23T15:56:07.000Z",
-    "endDate": "2026-03-23T15:14:07.000Z"
+    "startDate": "2025-10-28T20:12:36.000Z",
+    "endDate": "2026-03-24T19:30:48.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,41 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Anac 20 anos: Mensagem das autoridades de aviação civil estrangeiras",
+      "url": "https://www.youtube.com/watch?v=jatAS4IHXBo",
+      "datePublished": "2026-03-24T19:30:48.000Z",
+      "description": "",
+      "image": "https://i3.ytimg.com/vi/jatAS4IHXBo/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "BGAST lança o guia “4 passos para a conformidade”",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d",
+      "datePublished": "2026-03-24T15:33:00.000Z",
+      "description": "Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d/linkedin_bgast_apresenta_4_passos.png/@@images/97c26a39-4445-41e3-b829-f4023bbc947a.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac",
+      "datePublished": "2026-03-24T14:59:00.000Z",
+      "description": "Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac/img_2102-1.jpeg/@@images/4289dd04-90f5-4e49-bfbd-6d3eefaa640e.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Salvador receberá, no dia 26/3, programa Asas para Todos com a participação de crianças e jovens de Santo Estêvão (BA)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba",
+      "datePublished": "2026-03-24T14:16:00.000Z",
+      "description": "Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Anac 20 anos",
@@ -255,31 +290,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac lança Plano de Dados Abertos (2026/2027) e anuncia novos conjuntos de dados prioritários",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-lanca-plano-de-dados-abertos-2026-2027-e-anuncia-novos-conjuntos-de-dados-prioritarios",
-      "datePublished": "2026-03-03T11:33:00.000Z",
-      "description": "Plano reforça governança da informação e estabelece diretrizes para ampliar transparência no setor aéreo",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Câmara debate regras para passageiros indisciplinados nesta terça (3/3)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/camara-debate-regras-para-passageiros-indisciplinados-nesta-terca-3-3",
-      "datePublished": "2026-03-02T18:22:00.000Z",
-      "description": "Diretor-presidente da Anac apresentará as propostas da Agência durante audiência pública",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac autoriza operações da aeronave L410 NG no Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil",
-      "datePublished": "2026-03-02T15:29:00.000Z",
-      "description": "Modelo foi certificado em 10 de fevereiro",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil/l-410-ng.jpg/@@images/d1acd1cf-734c-4e93-9d8e-1f67b6fa5e2a.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "ROADSHOW | ANAC - AEROPORTO DO GALEÃO - SESSÃO DE ESCLARECIMENTOS",
       "url": "https://www.youtube.com/watch?v=NlRj-vswCnk",
@@ -376,15 +386,6 @@
       "datePublished": "2025-10-28T20:12:36.000Z",
       "description": "1) Processo: 00058.009139/2024-39\n  \nAssunto: Proposta de resolução para regulamentar disposição transitória para a exploração de serviços aéreos com balão e de emenda ao RBAC nº 103 - Fase 1 do Tema 17 da Agenda Regulatória 2025-2026\n  \nRelator: Luiz Ricardo Nascimento",
       "image": "https://i1.ytimg.com/vi/pvYoq4oXEEI/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "SMS Brazil: Há 10 anos contribuindo com a segurança operacional da aviação civil.",
-      "url": "https://www.youtube.com/watch?v=PGYrnRdnq30",
-      "datePublished": "2025-10-23T15:56:07.000Z",
-      "description": "Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.",
-      "image": "https://i1.ytimg.com/vi/PGYrnRdnq30/hqdefault.jpg",
       "type": "vídeo"
     }
   ]

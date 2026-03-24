@@ -4,13 +4,89 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-03c15bb0-e6ba-4c3d-9268-c8f21fe6295d</id>
-  <updated>2026-03-23T15:14:07.000Z</updated>
+  <id>urn:uuid:anac-feed-297e3fc5-7c59-4c10-bd21-537371ded94a</id>
+  <updated>2026-03-24T19:30:48.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac 20 anos: Mensagem das autoridades de aviação civil estrangeiras</title>
+    <link href="https://www.youtube.com/watch?v=jatAS4IHXBo" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=jatAS4IHXBo</id>
+    <published>2026-03-24T19:30:48.000Z</published>
+    <updated>2026-03-24T19:30:48.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i3.ytimg.com/vi/jatAS4IHXBo/hqdefault.jpg" alt="Anac 20 anos: Mensagem das autoridades de aviação civil estrangeiras">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">BGAST lança o guia “4 passos para a conformidade”</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d</id>
+    <published>2026-03-24T15:33:00.000Z</published>
+    <updated>2026-03-24T15:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados</summary>
+    <content type="html"><![CDATA[
+      <p>Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d/linkedin_bgast_apresenta_4_passos.png/@@images/97c26a39-4445-41e3-b829-f4023bbc947a.png" alt="BGAST lança o guia “4 passos para a conformidade”">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac</id>
+    <published>2026-03-24T14:59:00.000Z</published>
+    <updated>2026-03-24T14:59:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac/img_2102-1.jpeg/@@images/4289dd04-90f5-4e49-bfbd-6d3eefaa640e.jpeg" alt="Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Salvador receberá, no dia 26/3, programa Asas para Todos com a participação de crianças e jovens de Santo Estêvão (BA)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba</id>
+    <published>2026-03-24T14:16:00.000Z</published>
+    <updated>2026-03-24T14:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários</summary>
+    <content type="html"><![CDATA[
+      <p>Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -489,63 +565,6 @@
   
   
   <entry>
-    <title type="html">Anac lança Plano de Dados Abertos (2026/2027) e anuncia novos conjuntos de dados prioritários</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-lanca-plano-de-dados-abertos-2026-2027-e-anuncia-novos-conjuntos-de-dados-prioritarios" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-lanca-plano-de-dados-abertos-2026-2027-e-anuncia-novos-conjuntos-de-dados-prioritarios</id>
-    <published>2026-03-03T11:33:00.000Z</published>
-    <updated>2026-03-03T11:33:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Plano reforça governança da informação e estabelece diretrizes para ampliar transparência no setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Plano reforça governança da informação e estabelece diretrizes para ampliar transparência no setor aéreo</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Câmara debate regras para passageiros indisciplinados nesta terça (3/3)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/camara-debate-regras-para-passageiros-indisciplinados-nesta-terca-3-3" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/camara-debate-regras-para-passageiros-indisciplinados-nesta-terca-3-3</id>
-    <published>2026-03-02T18:22:00.000Z</published>
-    <updated>2026-03-02T18:22:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Diretor-presidente da Anac apresentará as propostas da Agência durante audiência pública</summary>
-    <content type="html"><![CDATA[
-      <p>Diretor-presidente da Anac apresentará as propostas da Agência durante audiência pública</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac autoriza operações da aeronave L410 NG no Brasil</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil</id>
-    <published>2026-03-02T15:29:00.000Z</published>
-    <updated>2026-03-02T15:29:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Modelo foi certificado em 10 de fevereiro</summary>
-    <content type="html"><![CDATA[
-      <p>Modelo foi certificado em 10 de fevereiro</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-operacoes-da-aeronave-l410-ng-no-brasil/l-410-ng.jpg/@@images/d1acd1cf-734c-4e93-9d8e-1f67b6fa5e2a.jpeg" alt="Anac autoriza operações da aeronave L410 NG no Brasil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">ROADSHOW | ANAC - AEROPORTO DO GALEÃO - SESSÃO DE ESCLARECIMENTOS</title>
     <link href="https://www.youtube.com/watch?v=NlRj-vswCnk" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=NlRj-vswCnk</id>
@@ -852,25 +871,6 @@ Assunto: Proposta de resolução para regulamentar disposição transitória par
   
 Relator: Luiz Ricardo Nascimento</p>
       <img src="https://i1.ytimg.com/vi/pvYoq4oXEEI/hqdefault.jpg" alt="13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">SMS Brazil: Há 10 anos contribuindo com a segurança operacional da aviação civil.</title>
-    <link href="https://www.youtube.com/watch?v=PGYrnRdnq30" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=PGYrnRdnq30</id>
-    <published>2025-10-23T15:56:07.000Z</published>
-    <updated>2025-10-23T15:56:07.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.</summary>
-    <content type="html"><![CDATA[
-      <p>Realizado pela Agência Nacional de Aviação Civil (Anac), a 10ª edição do Safety Management Summit Brazil (SMS Brasil) consolida-se como o principal fórum nacional dedicado à segurança operacional da aviação civil brasileira.</p>
-      <img src="https://i1.ytimg.com/vi/PGYrnRdnq30/hqdefault.jpg" alt="SMS Brazil: Há 10 anos contribuindo com a segurança operacional da aviação civil.">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
