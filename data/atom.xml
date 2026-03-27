@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-c3dc7fe9-4a60-4ce4-8457-a4b5ed5e9395</id>
-  <updated>2026-03-26T17:41:00.000Z</updated>
+  <id>urn:uuid:anac-feed-817ce246-0f46-4a4b-b50a-7bc31632f16d</id>
+  <updated>2026-03-27T17:30:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac forma os dois primeiros inspetores sêniores no Programa SAFA</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa</id>
+    <published>2026-03-27T17:30:00.000Z</published>
+    <updated>2026-03-27T17:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Essa formação representa um marco estratégico para a Agência na avaliação de segurança de aeronaves estrangeiras</summary>
+    <content type="html"><![CDATA[
+      <p>Essa formação representa um marco estratégico para a Agência na avaliação de segurança de aeronaves estrangeiras</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa/instrutores-safa.png/@@images/3f852e75-78a6-45cf-962e-5f52374139fa.png" alt="Anac forma os dois primeiros inspetores sêniores no Programa SAFA">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador</id>
+    <published>2026-03-27T17:25:00.000Z</published>
+    <updated>2026-03-27T17:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação</summary>
+    <content type="html"><![CDATA[
+      <p>Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador/portal_criando_asas_ssa.jpg/@@images/d3f65a6a-510e-43e1-b3a8-968b58e95d58.jpeg" alt="Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -489,25 +527,6 @@
   
   
   <entry>
-    <title type="html">Anac recebe inscrições para a Semana Safety Curitiba</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-recebe-inscricoes-para-a-semana-safety-curitiba" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-recebe-inscricoes-para-a-semana-safety-curitiba</id>
-    <published>2026-03-09T15:19:00.000Z</published>
-    <updated>2026-03-09T15:19:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Atividades ocorrerão entre os dias 24 e 26/3 e vão abordar temas ligados à segurança operacional da região</summary>
-    <content type="html"><![CDATA[
-      <p>Atividades ocorrerão entre os dias 24 e 26/3 e vão abordar temas ligados à segurança operacional da região</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-recebe-inscricoes-para-a-semana-safety-curitiba/whatsapp-image-2026-03-09-at-15-19-22.jpeg/@@images/b249614e-de61-4f5d-a763-8adb0b2afc7d.jpeg" alt="Anac recebe inscrições para a Semana Safety Curitiba">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)</title>
     <link href="https://www.youtube.com/watch?v=jffGukQJVIk" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=jffGukQJVIk</id>
@@ -523,25 +542,6 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Série de webinários da Anac traz inovações e segurança para as organizações de manutenção</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao</id>
-    <published>2026-03-06T10:01:00.000Z</published>
-    <updated>2026-03-06T10:01:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube</summary>
-    <content type="html"><![CDATA[
-      <p>Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   

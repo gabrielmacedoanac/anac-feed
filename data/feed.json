@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-c3dc7fe9-4a60-4ce4-8457-a4b5ed5e9395",
+  "identifier": "urn:uuid:anac-feed-817ce246-0f46-4a4b-b50a-7bc31632f16d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-27T16:46:09.224Z",
-  "dateModified": "2026-03-27T16:46:09.224Z",
+  "dateCreated": "2026-03-27T20:31:22.517Z",
+  "dateModified": "2026-03-27T20:31:22.517Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-28T20:12:36.000Z",
-    "endDate": "2026-03-26T17:41:00.000Z"
+    "endDate": "2026-03-27T17:30:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,24 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac forma os dois primeiros inspetores sêniores no Programa SAFA",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa",
+      "datePublished": "2026-03-27T17:30:00.000Z",
+      "description": "Essa formação representa um marco estratégico para a Agência na avaliação de segurança de aeronaves estrangeiras",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa/instrutores-safa.png/@@images/3f852e75-78a6-45cf-962e-5f52374139fa.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador",
+      "datePublished": "2026-03-27T17:25:00.000Z",
+      "description": "Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador/portal_criando_asas_ssa.jpg/@@images/d3f65a6a-510e-43e1-b3a8-968b58e95d58.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h",
@@ -254,15 +272,6 @@
       "type": "notícia"
     },
     {
-      "@type": "NewsArticle",
-      "name": "Anac recebe inscrições para a Semana Safety Curitiba",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-recebe-inscricoes-para-a-semana-safety-curitiba",
-      "datePublished": "2026-03-09T15:19:00.000Z",
-      "description": "Atividades ocorrerão entre os dias 24 e 26/3 e vão abordar temas ligados à segurança operacional da região",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-recebe-inscricoes-para-a-semana-safety-curitiba/whatsapp-image-2026-03-09-at-15-19-22.jpeg/@@images/b249614e-de61-4f5d-a763-8adb0b2afc7d.jpeg",
-      "type": "notícia"
-    },
-    {
       "@type": "VideoObject",
       "name": "2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)",
       "url": "https://www.youtube.com/watch?v=jffGukQJVIk",
@@ -270,14 +279,6 @@
       "description": "",
       "image": "https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Série de webinários da Anac traz inovações e segurança para as organizações de manutenção",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao",
-      "datePublished": "2026-03-06T10:01:00.000Z",
-      "description": "Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
