@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 26 Mar 2026 20:30:02 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 20:30:02 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 01:51:13 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 01:51:13 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h</title>
+      <link>https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h</link>
+      <description>Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</description>
+      <pubDate>Thu, 26 Mar 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-03-26T17:41:00.000Z</dc:date>
+      
+      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -466,23 +483,6 @@
       <content:encoded><![CDATA[
         <p>Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube</p>
         
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci</title>
-      <link>https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci</link>
-      <description>Transição marca o fortalecimento da atuação da Agência em âmbito internacional</description>
-      <pubDate>Thu, 05 Mar 2026 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-03-05T09:17:00.000Z</dc:date>
-      <enclosure url="https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg" type="image/jpeg"/>
-      <category>notícia</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Transição marca o fortalecimento da atuação da Agência em âmbito internacional</p>
-        <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg" alt="Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci">
       ]]></content:encoded>
     </item>
     

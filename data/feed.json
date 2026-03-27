@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-36818ee9-9345-4a4c-8197-07002e99cca9",
+  "identifier": "urn:uuid:anac-feed-dd5c0519-e9d8-4389-9c1b-7a445a93ccb2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-26T20:30:02.754Z",
-  "dateModified": "2026-03-26T20:30:02.754Z",
+  "dateCreated": "2026-03-27T01:51:13.020Z",
+  "dateModified": "2026-03-27T01:51:13.020Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-28T20:12:36.000Z",
-    "endDate": "2026-03-25T15:08:00.000Z"
+    "endDate": "2026-03-26T17:41:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h",
+      "datePublished": "2026-03-26T17:41:00.000Z",
+      "description": "Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Agenda Conectar impulsiona a expansão da conectividade aérea nos próximos anos",
@@ -269,15 +277,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/serie-de-webinarios-da-anac-traz-inovacoes-e-seguranca-para-as-organizacoes-de-manutencao",
       "datePublished": "2026-03-06T10:01:00.000Z",
       "description": "Semana + OM ocorre entre os dias 9 e 13/3, com transmissão pelo canal oficial da Agência no YouTube",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac passa a ocupar o posto de Comissário de Navegação Aérea do Brasil na Oaci",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci",
-      "datePublished": "2026-03-05T09:17:00.000Z",
-      "description": "Transição marca o fortalecimento da atuação da Agência em âmbito internacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-passa-a-ocupar-o-posto-de-comissario-de-navegacao-aerea-do-brasil-na-oaci/whatsapp-image-2026-02-24-at-16-14-13.jpeg/@@images/0964fae8-c333-4dcc-b603-d014bba3a8d3.jpeg",
       "type": "notícia"
     },
     {
