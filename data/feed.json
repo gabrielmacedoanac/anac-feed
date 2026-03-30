@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-12112abb-34d7-49bd-90f0-95fbd5ae8e6e",
+  "identifier": "urn:uuid:anac-feed-2ba0bef2-1f41-497e-966a-42f347da9960",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-30T16:50:08.680Z",
-  "dateModified": "2026-03-30T16:50:08.680Z",
+  "dateCreated": "2026-03-30T20:38:20.250Z",
+  "dateModified": "2026-03-30T20:38:20.250Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-28T20:12:36.000Z",
-    "endDate": "2026-03-27T17:30:00.000Z"
+    "endDate": "2026-03-30T16:30:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises",
+      "datePublished": "2026-03-30T16:30:00.000Z",
+      "description": "Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises/whatsapp-image-2026-03-30-at-16-21-44.jpeg/@@images/33f9cb92-49f3-489e-ba49-f2f4a04d5a72.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac forma os dois primeiros inspetores sêniores no Programa SAFA",
@@ -260,15 +269,6 @@
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados",
       "datePublished": "2026-03-12T15:02:00.000Z",
       "description": "Resolução aprovada por unanimidade pela Diretoria Colegiada passa a valer em voos nacionais a partir de 14/9/26",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Consulta pública sobre licença de pilotos de “carros voadores” está aberta até 16/3",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-licenca-de-pilotos-de-201ccarros-voadores201d-esta-aberta-ate-16-3",
-      "datePublished": "2026-03-10T18:27:00.000Z",
-      "description": "Contribuições devem ser enviadas pela plataforma Brasil Participativo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-licenca-de-pilotos-de-201ccarros-voadores201d-esta-aberta-ate-16-3/whatsapp-image-2026-03-10-at-18-27-00-1.jpeg/@@images/99a238d4-b30d-4e8b-b396-e18cc0b2a1ab.jpeg",
       "type": "notícia"
     },
     {

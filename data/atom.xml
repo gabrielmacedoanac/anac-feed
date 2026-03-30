@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-12112abb-34d7-49bd-90f0-95fbd5ae8e6e</id>
-  <updated>2026-03-27T17:30:00.000Z</updated>
+  <id>urn:uuid:anac-feed-2ba0bef2-1f41-497e-966a-42f347da9960</id>
+  <updated>2026-03-30T16:30:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises</id>
+    <published>2026-03-30T16:30:00.000Z</published>
+    <updated>2026-03-30T16:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado</summary>
+    <content type="html"><![CDATA[
+      <p>Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises/whatsapp-image-2026-03-30-at-16-21-44.jpeg/@@images/33f9cb92-49f3-489e-ba49-f2f4a04d5a72.jpeg" alt="Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -501,25 +520,6 @@
     <content type="html"><![CDATA[
       <p>Resolução aprovada por unanimidade pela Diretoria Colegiada passa a valer em voos nacionais a partir de 14/9/26</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Consulta pública sobre licença de pilotos de “carros voadores” está aberta até 16/3</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-licenca-de-pilotos-de-201ccarros-voadores201d-esta-aberta-ate-16-3" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-licenca-de-pilotos-de-201ccarros-voadores201d-esta-aberta-ate-16-3</id>
-    <published>2026-03-10T18:27:00.000Z</published>
-    <updated>2026-03-10T18:27:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Contribuições devem ser enviadas pela plataforma Brasil Participativo</summary>
-    <content type="html"><![CDATA[
-      <p>Contribuições devem ser enviadas pela plataforma Brasil Participativo</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/consulta-publica-sobre-licenca-de-pilotos-de-201ccarros-voadores201d-esta-aberta-ate-16-3/whatsapp-image-2026-03-10-at-18-27-00-1.jpeg/@@images/99a238d4-b30d-4e8b-b396-e18cc0b2a1ab.jpeg" alt="Consulta pública sobre licença de pilotos de “carros voadores” está aberta até 16/3">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
