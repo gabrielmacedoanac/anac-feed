@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-82e106c4-4467-40d0-8344-26847b9a76c4",
+  "identifier": "urn:uuid:anac-feed-3c7a6923-a751-455e-8049-6996807fde8e",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-31T13:02:46.838Z",
-  "dateModified": "2026-03-31T13:02:46.838Z",
+  "dateCreated": "2026-03-31T16:51:35.847Z",
+  "dateModified": "2026-03-31T16:51:35.847Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-28T20:12:36.000Z",
-    "endDate": "2026-03-30T20:56:51.000Z"
+    "endDate": "2026-03-31T13:25:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac",
+      "datePublished": "2026-03-31T13:25:00.000Z",
+      "description": "Interessados podem se inscrever até 3 de maio",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac/portal-3.png/@@images/57483fe8-fc7f-4851-9dd9-0e6c22e0d179.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Sessão pública do leilão da Venda Assistida do Galeão",
@@ -270,14 +279,6 @@
       "datePublished": "2026-03-13T14:43:00.000Z",
       "description": "Criada em 2006, a Agência é referência mundial em regulação do transporte aéreo e segurança operacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac/20_anos_sessao-s-_linkedin___.png/@@images/86d68e90-188e-4d17-9b1b-b65c094b7da9.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac aprova norma para punir passageiros indisciplinados",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados",
-      "datePublished": "2026-03-12T15:02:00.000Z",
-      "description": "Resolução aprovada por unanimidade pela Diretoria Colegiada passa a valer em voos nacionais a partir de 14/9/26",
       "type": "notícia"
     },
     {

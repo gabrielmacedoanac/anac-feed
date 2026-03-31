@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-82e106c4-4467-40d0-8344-26847b9a76c4</id>
-  <updated>2026-03-30T20:56:51.000Z</updated>
+  <id>urn:uuid:anac-feed-3c7a6923-a751-455e-8049-6996807fde8e</id>
+  <updated>2026-03-31T13:25:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac</id>
+    <published>2026-03-31T13:25:00.000Z</published>
+    <updated>2026-03-31T13:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Interessados podem se inscrever até 3 de maio</summary>
+    <content type="html"><![CDATA[
+      <p>Interessados podem se inscrever até 3 de maio</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac/portal-3.png/@@images/57483fe8-fc7f-4851-9dd9-0e6c22e0d179.png" alt="Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -520,25 +539,6 @@
     <content type="html"><![CDATA[
       <p>Criada em 2006, a Agência é referência mundial em regulação do transporte aéreo e segurança operacional</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac/20_anos_sessao-s-_linkedin___.png/@@images/86d68e90-188e-4d17-9b1b-b65c094b7da9.png" alt="Senado Federal realiza sessão especial em homenagem aos 20 anos da Anac">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac aprova norma para punir passageiros indisciplinados</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/diretoria-colegiada-aprova-norma-para-punir-passageiros-indisciplinados</id>
-    <published>2026-03-12T15:02:00.000Z</published>
-    <updated>2026-03-12T15:02:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Resolução aprovada por unanimidade pela Diretoria Colegiada passa a valer em voos nacionais a partir de 14/9/26</summary>
-    <content type="html"><![CDATA[
-      <p>Resolução aprovada por unanimidade pela Diretoria Colegiada passa a valer em voos nacionais a partir de 14/9/26</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
