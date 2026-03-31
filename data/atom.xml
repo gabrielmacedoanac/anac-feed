@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2ba0bef2-1f41-497e-966a-42f347da9960</id>
-  <updated>2026-03-30T16:30:00.000Z</updated>
+  <id>urn:uuid:anac-feed-6f7394d3-1de0-403b-8c2d-febf09e15570</id>
+  <updated>2026-03-30T20:56:51.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Sessão pública do leilão da Venda Assistida do Galeão</title>
+    <link href="https://www.youtube.com/watch?v=7XZ5YTYlrdE" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=7XZ5YTYlrdE</id>
+    <published>2026-03-30T20:56:51.000Z</published>
+    <updated>2026-03-30T20:56:51.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html"></summary>
+    <content type="html"><![CDATA[
+      <p></p>
+      <img src="https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg" alt="Sessão pública do leilão da Venda Assistida do Galeão">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -539,25 +558,6 @@
     <content type="html"><![CDATA[
       <p></p>
       <img src="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" alt="2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Sessão pública do leilão da Venda Assistida do Galeão</title>
-    <link href="https://www.youtube.com/watch?v=7XZ5YTYlrdE" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=7XZ5YTYlrdE</id>
-    <published>2026-03-04T16:44:35.000Z</published>
-    <updated>2026-03-04T16:44:35.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html"></summary>
-    <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg" alt="Sessão pública do leilão da Venda Assistida do Galeão">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

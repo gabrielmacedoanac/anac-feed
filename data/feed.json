@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2ba0bef2-1f41-497e-966a-42f347da9960",
+  "identifier": "urn:uuid:anac-feed-6f7394d3-1de0-403b-8c2d-febf09e15570",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-03-30T20:38:20.250Z",
-  "dateModified": "2026-03-30T20:38:20.250Z",
+  "dateCreated": "2026-03-31T01:52:15.545Z",
+  "dateModified": "2026-03-31T01:52:15.545Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-28T20:12:36.000Z",
-    "endDate": "2026-03-30T16:30:00.000Z"
+    "endDate": "2026-03-30T20:56:51.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Sessão pública do leilão da Venda Assistida do Galeão",
+      "url": "https://www.youtube.com/watch?v=7XZ5YTYlrdE",
+      "datePublished": "2026-03-30T20:56:51.000Z",
+      "description": "",
+      "image": "https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "NewsArticle",
       "name": "Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países",
@@ -278,15 +287,6 @@
       "datePublished": "2026-03-07T07:19:16.000Z",
       "description": "",
       "image": "https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Sessão pública do leilão da Venda Assistida do Galeão",
-      "url": "https://www.youtube.com/watch?v=7XZ5YTYlrdE",
-      "datePublished": "2026-03-04T16:44:35.000Z",
-      "description": "",
-      "image": "https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg",
       "type": "vídeo"
     },
     {
