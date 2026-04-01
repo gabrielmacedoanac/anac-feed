@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d75047ad-7753-4103-bbde-e10cf80de36e",
+  "identifier": "urn:uuid:anac-feed-6579a5a7-120d-4c0f-a0aa-b1c1892f8288",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-01T13:05:38.591Z",
-  "dateModified": "2026-04-01T13:05:38.591Z",
+  "dateCreated": "2026-04-01T16:46:33.906Z",
+  "dateModified": "2026-04-01T16:46:33.906Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-10-28T20:12:36.000Z",
-    "endDate": "2026-03-31T13:25:00.000Z"
+    "endDate": "2026-04-01T12:15:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "SustentAr: Participe da 4ª edição do programa da Anac. Inscrições abertas até 24/4",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4",
+      "datePublished": "2026-04-01T12:15:00.000Z",
+      "description": "Empresas de transporte aéreo e táxi-aéreo poderão se inscrever no programa, que reconhece boas práticas em sustentabilidade na aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4/sustentar_2023___linkedin_.png/@@images/73173f80-5c4d-483e-8eb5-8454ba7ed540.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac",
@@ -270,15 +279,6 @@
       "datePublished": "2026-03-13T15:16:00.000Z",
       "description": "Eleição fortalece a presença estratégica da Agência nas discussões regionais sobre segurança operacional da aviação civil",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional/whatsapp-image-2026-03-09-at-11-41-04-3.jpeg/@@images/494414a8-97d3-446b-83c2-317e56727a0a.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Senado Federal realiza sessão especial em homenagem aos 20 anos da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac",
-      "datePublished": "2026-03-13T14:43:00.000Z",
-      "description": "Criada em 2006, a Agência é referência mundial em regulação do transporte aéreo e segurança operacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac/20_anos_sessao-s-_linkedin___.png/@@images/86d68e90-188e-4d17-9b1b-b65c094b7da9.png",
       "type": "notícia"
     },
     {

@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d75047ad-7753-4103-bbde-e10cf80de36e</id>
-  <updated>2026-03-31T13:25:00.000Z</updated>
+  <id>urn:uuid:anac-feed-6579a5a7-120d-4c0f-a0aa-b1c1892f8288</id>
+  <updated>2026-04-01T12:15:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">SustentAr: Participe da 4ª edição do programa da Anac. Inscrições abertas até 24/4</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4</id>
+    <published>2026-04-01T12:15:00.000Z</published>
+    <updated>2026-04-01T12:15:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Empresas de transporte aéreo e táxi-aéreo poderão se inscrever no programa, que reconhece boas práticas em sustentabilidade na aviação</summary>
+    <content type="html"><![CDATA[
+      <p>Empresas de transporte aéreo e táxi-aéreo poderão se inscrever no programa, que reconhece boas práticas em sustentabilidade na aviação</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4/sustentar_2023___linkedin_.png/@@images/73173f80-5c4d-483e-8eb5-8454ba7ed540.png" alt="SustentAr: Participe da 4ª edição do programa da Anac. Inscrições abertas até 24/4">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -520,25 +539,6 @@
     <content type="html"><![CDATA[
       <p>Eleição fortalece a presença estratégica da Agência nas discussões regionais sobre segurança operacional da aviação civil</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional/whatsapp-image-2026-03-09-at-11-41-04-3.jpeg/@@images/494414a8-97d3-446b-83c2-317e56727a0a.jpeg" alt="Servidor da Anac assume posição de liderança em grupo da Região Pan-Americana de segurança operacional">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Senado Federal realiza sessão especial em homenagem aos 20 anos da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac</id>
-    <published>2026-03-13T14:43:00.000Z</published>
-    <updated>2026-03-13T14:43:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Criada em 2006, a Agência é referência mundial em regulação do transporte aéreo e segurança operacional</summary>
-    <content type="html"><![CDATA[
-      <p>Criada em 2006, a Agência é referência mundial em regulação do transporte aéreo e segurança operacional</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/senado-federal-realiza-sessao-solene-em-homenagem-aos-20-anos-da-anac/20_anos_sessao-s-_linkedin___.png/@@images/86d68e90-188e-4d17-9b1b-b65c094b7da9.png" alt="Senado Federal realiza sessão especial em homenagem aos 20 anos da Anac">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
