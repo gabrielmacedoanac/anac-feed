@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-7b3744c1-8f80-414b-8966-aa55e27a2e99",
+  "identifier": "urn:uuid:anac-feed-c14d9cdd-5575-42c4-a39f-a713a8b86dee",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-02T16:51:08.489Z",
-  "dateModified": "2026-04-02T16:51:08.489Z",
+  "dateCreated": "2026-04-02T20:28:55.595Z",
+  "dateModified": "2026-04-02T20:28:55.595Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-07T03:40:37.000Z",
-    "endDate": "2026-04-01T17:42:00.000Z"
+    "endDate": "2026-04-02T15:25:00.000Z"
   },
   "distribution": [
     {
@@ -35,10 +35,28 @@
   "items": [
     {
       "@type": "NewsArticle",
+      "name": "Anac atua na COP 15 para garantir segurança operacional na aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao",
+      "datePublished": "2026-04-02T15:25:00.000Z",
+      "description": "O evento ocorreu em Campo Grande (MS) e debate a conservação ambiental aeroportuária em escala internacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao/whatsapp-image-2026-03-30-at-13-48-53.jpeg/@@images/5f0a14a6-e33f-4f21-ae2b-399b63b39897.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Servidor da Anac assume posição de liderança em painel da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci",
+      "datePublished": "2026-04-02T15:06:00.000Z",
+      "description": "Eleição de Marcus Ramos fortalece a presença estratégica da Agência nas discussões regulatórias mundiais sobre segurança operacional da aviação civil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci/1000013471.jpg/@@images/a3e2f264-c472-4653-84b0-274c2757f3e0.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
       "name": "Aeroporto do Galeão é arrematado pela Aena em leilão de venda assistida",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida",
       "datePublished": "2026-04-01T17:42:00.000Z",
-      "description": "Lance vencedor teve ágio de 210,8% e sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro",
+      "description": "Lance vencedor de R$ 2,9 bi sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida/leilao-aeroporto-galeao-b3-cauediniz-9239.jpg/@@images/06d43a50-857c-413b-a221-b536a222c0d1.jpeg",
       "type": "notícia"
     },
@@ -262,23 +280,6 @@
       "datePublished": "2026-03-13T18:04:00.000Z",
       "description": "Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac/anac_20_anos_rj-68_55143237802_l.jpg/@@images/e5e98462-b1b0-4d89-a0ff-b8c470eaa460.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac autoriza empresa mexicana TM Aerolíneas a operar transporte internacional de cargas no Brasil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-empresa-mexicana-tm-aerolineas-a-operar-transporte-internacional-de-cargas-no-brasil",
-      "datePublished": "2026-03-13T16:10:00.000Z",
-      "description": "A decisão permitirá ampliar a conectividade logística internacional e fortalecer a integração com as cadeias globais de suprimento",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-autoriza-empresa-mexicana-tm-aerolineas-a-operar-transporte-internacional-de-cargas-no-brasil/portal-7.png/@@images/be7c7411-a31d-4d2a-8105-ac3012512684.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Últimos dias da consulta de modernização de equipamentos de inspeção em aeroportos",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/ultimos-dias-para-participar-da-consulta-publica-para-modernizar-equipamentos-de-inspecao-em-aeroportos",
-      "datePublished": "2026-03-13T15:36:00.000Z",
-      "description": "Contribuições podem ser enviadas até 16/3",
       "type": "notícia"
     },
     {
