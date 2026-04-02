@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d727b80b-4594-44d3-9631-b3b85ea58142",
+  "identifier": "urn:uuid:anac-feed-7b3744c1-8f80-414b-8966-aa55e27a2e99",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-02T12:58:27.025Z",
-  "dateModified": "2026-04-02T12:58:27.025Z",
+  "dateCreated": "2026-04-02T16:51:08.489Z",
+  "dateModified": "2026-04-02T16:51:08.489Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-10-28T20:12:36.000Z",
+    "startDate": "2025-11-07T03:40:37.000Z",
     "endDate": "2026-04-01T17:42:00.000Z"
   },
   "distribution": [
@@ -337,6 +337,15 @@
     },
     {
       "@type": "VideoObject",
+      "name": "3ª Reunião Deliberativa da Diretoria Colegiada (02/04/2026)",
+      "url": "https://www.youtube.com/watch?v=u_fBr0YuZDA",
+      "datePublished": "2026-01-06T12:20:56.000Z",
+      "description": "",
+      "image": "https://i2.ytimg.com/vi/u_fBr0YuZDA/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
       "name": "2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (11/12/2025)",
       "url": "https://www.youtube.com/watch?v=ctobZIU7IKE",
       "datePublished": "2025-12-12T02:21:48.000Z",
@@ -378,15 +387,6 @@
       "datePublished": "2025-11-07T03:40:37.000Z",
       "description": "Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. \nNessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.\n  \nLink Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF",
       "image": "https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025)",
-      "url": "https://www.youtube.com/watch?v=pvYoq4oXEEI",
-      "datePublished": "2025-10-28T20:12:36.000Z",
-      "description": "1) Processo: 00058.009139/2024-39\n  \nAssunto: Proposta de resolução para regulamentar disposição transitória para a exploração de serviços aéreos com balão e de emenda ao RBAC nº 103 - Fase 1 do Tema 17 da Agenda Regulatória 2025-2026\n  \nRelator: Luiz Ricardo Nascimento",
-      "image": "https://i1.ytimg.com/vi/pvYoq4oXEEI/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
