@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-e8b18694-5404-4088-ac0c-28af8c40aa6e</id>
-  <updated>2026-04-01T12:15:00.000Z</updated>
+  <id>urn:uuid:anac-feed-829c5000-77d0-47ee-8492-3174fdea1cd0</id>
+  <updated>2026-04-01T17:42:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Aeroporto do Galeão é arrematado pela Aena em leilão de venda assistida</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida</id>
+    <published>2026-04-01T17:42:00.000Z</published>
+    <updated>2026-04-01T17:42:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Lance vencedor teve ágio de 210,8% e sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro</summary>
+    <content type="html"><![CDATA[
+      <p>Lance vencedor teve ágio de 210,8% e sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida/leilao-aeroporto-galeao-b3-cauediniz-9239.jpg/@@images/06d43a50-857c-413b-a221-b536a222c0d1.jpeg" alt="Aeroporto do Galeão é arrematado pela Aena em leilão de venda assistida">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -520,25 +539,6 @@
     <content type="html"><![CDATA[
       <p>Contribuições podem ser enviadas até 16/3</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Servidor da Anac assume posição de liderança em grupo da Região Pan-Americana de segurança operacional</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional</id>
-    <published>2026-03-13T15:16:00.000Z</published>
-    <updated>2026-03-13T15:16:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Eleição fortalece a presença estratégica da Agência nas discussões regionais sobre segurança operacional da aviação civil</summary>
-    <content type="html"><![CDATA[
-      <p>Eleição fortalece a presença estratégica da Agência nas discussões regionais sobre segurança operacional da aviação civil</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-grupo-da-regiao-pan-americana-de-seguranca-operacional/whatsapp-image-2026-03-09-at-11-41-04-3.jpeg/@@images/494414a8-97d3-446b-83c2-317e56727a0a.jpeg" alt="Servidor da Anac assume posição de liderança em grupo da Região Pan-Americana de segurança operacional">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
