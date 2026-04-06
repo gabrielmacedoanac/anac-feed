@@ -4,13 +4,70 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-8ae7519e-39ea-4b91-a81b-011fc88aa4de</id>
-  <updated>2026-04-03T07:04:52.000Z</updated>
+  <id>urn:uuid:anac-feed-89b4e929-8469-4501-8e2c-a55ef938fee2</id>
+  <updated>2026-04-06T16:44:49.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros</title>
+    <link href="https://www.youtube.com/watch?v=khhjOz1Grwg" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=khhjOz1Grwg</id>
+    <published>2026-04-06T16:44:49.000Z</published>
+    <updated>2026-04-06T16:44:49.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/rao4YZUceYybrNZXrR3rqg</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/rao4YZUceYybrNZXrR3rqg</p>
+      <img src="https://i4.ytimg.com/vi/khhjOz1Grwg/hqdefault.jpg" alt="Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PagTesouro substitui GRU Simples e Judicial e moderniza arrecadação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/pagtesouro-substitui-gru-simples-e-judicial-e-moderniza-arrecadacao-1" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/pagtesouro-substitui-gru-simples-e-judicial-e-moderniza-arrecadacao-1</id>
+    <published>2026-04-06T15:06:00.000Z</published>
+    <updated>2026-04-06T15:06:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A plataforma moderniza a arrecadação ao substituir os boletos tradicionais, permitindo emissão da GRU Simples com pagamento instantâneo via Pix ou cartão de crédito</summary>
+    <content type="html"><![CDATA[
+      <p>A plataforma moderniza a arrecadação ao substituir os boletos tradicionais, permitindo emissão da GRU Simples com pagamento instantâneo via Pix ou cartão de crédito</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Reino Unido assinam revisão de acordo para certificação ambiental e de aeronavegabilidade entre os países</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-e-reino-unido-assinam-revisao-de-acordo-para-certificacao-ambiental-e-de-aeronavegabilidade-entre-os-paises" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-e-reino-unido-assinam-revisao-de-acordo-para-certificacao-ambiental-e-de-aeronavegabilidade-entre-os-paises</id>
+    <published>2026-04-06T14:22:00.000Z</published>
+    <updated>2026-04-06T14:22:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revisão aprimora procedimentos baseados em risco para aceitação e validação de artigos aeronáuticos estrangeiros</summary>
+    <content type="html"><![CDATA[
+      <p>Revisão aprimora procedimentos baseados em risco para aceitação e validação de artigos aeronáuticos estrangeiros</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -514,25 +571,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
   
   
   <entry>
-    <title type="html">Autoridades destacam papel da Anac no desenvolvimento da aviação brasileira, em sessão especial no Senado Federal</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal</id>
-    <published>2026-03-17T14:48:00.000Z</published>
-    <updated>2026-03-17T14:48:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Autoridades do Congresso Nacional, do Governo Federal e da indústria destacaram a importância da atuação da Agência para a segurança, a modernização regulatória e o crescimento do setor aéreo no Brasil</summary>
-    <content type="html"><![CDATA[
-      <p>Autoridades do Congresso Nacional, do Governo Federal e da indústria destacaram a importância da atuação da Agência para a segurança, a modernização regulatória e o crescimento do setor aéreo no Brasil</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal/0a-img_0005.png/@@images/0a29d989-6528-4ced-9c91-49d33b2448c9.png" alt="Autoridades destacam papel da Anac no desenvolvimento da aviação brasileira, em sessão especial no Senado Federal">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM</title>
     <link href="https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm" rel="alternate"/>
     <id>https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm</id>
@@ -545,25 +583,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Certificação reconhece a solidez das práticas para a execução das atividades de auditoria interna na Agência</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm/image.jpg/@@images/c8a8862f-69bf-48ea-8fbd-05694c96a6b3.jpeg" alt="Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac</id>
-    <published>2026-03-13T18:04:00.000Z</published>
-    <updated>2026-03-13T18:04:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional</summary>
-    <content type="html"><![CDATA[
-      <p>Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac/anac_20_anos_rj-68_55143237802_l.jpg/@@images/e5e98462-b1b0-4d89-a0ff-b8c470eaa460.jpeg" alt="Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
@@ -846,31 +865,6 @@ Link Slido: https://app.sli.do/event/kvL7LynY1TFZBYuCXFuiRW</p>
     <content type="html"><![CDATA[
       <p>Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv</p>
       <img src="https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg" alt="Embraer Ipanema: boas práticas de segurança">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">TransformANAC 2025</title>
-    <link href="https://www.youtube.com/watch?v=CO9w47Hc1f0" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=CO9w47Hc1f0</id>
-    <published>2025-11-07T03:40:37.000Z</published>
-    <updated>2025-11-07T03:40:37.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. 
-Nessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.
-  
-Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</summary>
-    <content type="html"><![CDATA[
-      <p>Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. 
-Nessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.
-  
-Link Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF</p>
-      <img src="https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg" alt="TransformANAC 2025">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

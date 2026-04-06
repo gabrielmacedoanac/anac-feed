@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8ae7519e-39ea-4b91-a81b-011fc88aa4de",
+  "identifier": "urn:uuid:anac-feed-89b4e929-8469-4501-8e2c-a55ef938fee2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-06T16:38:52.478Z",
-  "dateModified": "2026-04-06T16:38:52.478Z",
+  "dateCreated": "2026-04-06T20:31:46.434Z",
+  "dateModified": "2026-04-06T20:31:46.434Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2025-11-07T03:40:37.000Z",
-    "endDate": "2026-04-03T07:04:52.000Z"
+    "startDate": "2025-11-11T19:53:11.000Z",
+    "endDate": "2026-04-06T16:44:49.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,31 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros",
+      "url": "https://www.youtube.com/watch?v=khhjOz1Grwg",
+      "datePublished": "2026-04-06T16:44:49.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/rao4YZUceYybrNZXrR3rqg",
+      "image": "https://i4.ytimg.com/vi/khhjOz1Grwg/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "PagTesouro substitui GRU Simples e Judicial e moderniza arrecadação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/pagtesouro-substitui-gru-simples-e-judicial-e-moderniza-arrecadacao-1",
+      "datePublished": "2026-04-06T15:06:00.000Z",
+      "description": "A plataforma moderniza a arrecadação ao substituir os boletos tradicionais, permitindo emissão da GRU Simples com pagamento instantâneo via Pix ou cartão de crédito",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac e Reino Unido assinam revisão de acordo para certificação ambiental e de aeronavegabilidade entre os países",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-e-reino-unido-assinam-revisao-de-acordo-para-certificacao-ambiental-e-de-aeronavegabilidade-entre-os-paises",
+      "datePublished": "2026-04-06T14:22:00.000Z",
+      "description": "Revisão aprimora procedimentos baseados em risco para aceitação e validação de artigos aeronáuticos estrangeiros",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "3ª Reunião Deliberativa da Diretoria Colegiada (02/04/2026)",
@@ -266,29 +291,11 @@
     },
     {
       "@type": "NewsArticle",
-      "name": "Autoridades destacam papel da Anac no desenvolvimento da aviação brasileira, em sessão especial no Senado Federal",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal",
-      "datePublished": "2026-03-17T14:48:00.000Z",
-      "description": "Autoridades do Congresso Nacional, do Governo Federal e da indústria destacaram a importância da atuação da Agência para a segurança, a modernização regulatória e o crescimento do setor aéreo no Brasil",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/autoridades-destacam-papel-da-anac-no-desenvolvimento-da-aviacao-brasileira-em-sessao-especial-no-senado-federal/0a-img_0005.png/@@images/0a29d989-6528-4ced-9c91-49d33b2448c9.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
       "name": "Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm",
       "datePublished": "2026-03-17T13:37:00.000Z",
       "description": "Certificação reconhece a solidez das práticas para a execução das atividades de auditoria interna na Agência",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm/image.jpg/@@images/c8a8862f-69bf-48ea-8fbd-05694c96a6b3.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Evento no Rio de Janeiro abre as comemorações de 20 anos da Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac",
-      "datePublished": "2026-03-13T18:04:00.000Z",
-      "description": "Diretoria recebeu autoridades e representantes da indústria para celebrar a trajetória e o caminho de excelência da Anac na aviação brasileira e internacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/evento-no-rio-de-janeiro-abre-as-comemoracoes-de-20-anos-da-anac/anac_20_anos_rj-68_55143237802_l.jpg/@@images/e5e98462-b1b0-4d89-a0ff-b8c470eaa460.jpeg",
       "type": "notícia"
     },
     {
@@ -379,15 +386,6 @@
       "datePublished": "2025-11-11T19:53:11.000Z",
       "description": "Link Slido: https://app.sli.do/event/uJdihManRuctcUxhaZV3Wv",
       "image": "https://i4.ytimg.com/vi/oIgGzr1zey8/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "TransformANAC 2025",
-      "url": "https://www.youtube.com/watch?v=CO9w47Hc1f0",
-      "datePublished": "2025-11-07T03:40:37.000Z",
-      "description": "Para implementar as ações necessárias à gestão e implementação da estratégia é necessário ter boas práticas que são praticadas no dia a dia da instituição. Assim esse evento visa promover a cultura de gerenciamento de gestão, inovação e governança na ANAC por meio da participação de renomados palestrantes e profissionais que inspirem boas práticas para melhoria e transformação organizacional. \nNessa edição será abordado como tema: melhoria do engajamento do time para trabalhar com projetos e processos. Teremos palestrantes abordando essa temática trazendo sua experiência em outras organizações com o intuito de trazer ideias novas para melhoria desses aspectos.\n  \nLink Slido: https://app.sli.do/event/pkzkZ3XZ8tNaZGR5ASXMrF",
-      "image": "https://i4.ytimg.com/vi/CO9w47Hc1f0/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
