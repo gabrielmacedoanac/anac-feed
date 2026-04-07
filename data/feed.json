@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-a4bc97ac-bc33-4e6e-8b8e-b73937be643a",
+  "identifier": "urn:uuid:anac-feed-a247e3d3-08a6-4124-955b-74f63d0eb483",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-07T16:50:09.682Z",
-  "dateModified": "2026-04-07T16:50:09.682Z",
+  "dateCreated": "2026-04-07T20:40:06.049Z",
+  "dateModified": "2026-04-07T20:40:06.049Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-11T19:53:11.000Z",
-    "endDate": "2026-04-07T12:04:00.000Z"
+    "endDate": "2026-04-07T14:56:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "BASeT convida interessados para compor subgrupos temáticos para o Ciclo 2026/2027",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2026-2027",
+      "datePublished": "2026-04-07T14:56:00.000Z",
+      "description": "Próximo ciclo terá três subgrupos sobre segurança da aviação civil",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "BASeT estabelece projetos e institui novos subgrupos",
@@ -287,14 +295,6 @@
       "datePublished": "2026-03-17T17:24:00.000Z",
       "description": "Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr/semana-safety_cwb.jpeg/@@images/3ec3f6cc-1c36-4b91-a5f9-56c8c89c82ef.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Novidade: envio de notificações em lote agora está disponível no Portal Único",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/novidade-envio-de-notificacoes-em-lote-agora-esta-disponivel-no-portal-unico-da-anac",
-      "datePublished": "2026-03-17T15:09:00.000Z",
-      "description": "O reporte de situações de ameaça à segurança operacional são fundamentais para a atuação proativa da Agência",
       "type": "notícia"
     },
     {

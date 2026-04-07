@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a4bc97ac-bc33-4e6e-8b8e-b73937be643a</id>
-  <updated>2026-04-07T12:04:00.000Z</updated>
+  <id>urn:uuid:anac-feed-a247e3d3-08a6-4124-955b-74f63d0eb483</id>
+  <updated>2026-04-07T14:56:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">BASeT convida interessados para compor subgrupos temáticos para o Ciclo 2026/2027</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2026-2027" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2026-2027</id>
+    <published>2026-04-07T14:56:00.000Z</published>
+    <updated>2026-04-07T14:56:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Próximo ciclo terá três subgrupos sobre segurança da aviação civil</summary>
+    <content type="html"><![CDATA[
+      <p>Próximo ciclo terá três subgrupos sobre segurança da aviação civil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -564,25 +583,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr/semana-safety_cwb.jpeg/@@images/3ec3f6cc-1c36-4b91-a5f9-56c8c89c82ef.jpeg" alt="Semana Safety define programação para a etapa de Curitiba (PR)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Novidade: envio de notificações em lote agora está disponível no Portal Único</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/novidade-envio-de-notificacoes-em-lote-agora-esta-disponivel-no-portal-unico-da-anac" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/novidade-envio-de-notificacoes-em-lote-agora-esta-disponivel-no-portal-unico-da-anac</id>
-    <published>2026-03-17T15:09:00.000Z</published>
-    <updated>2026-03-17T15:09:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">O reporte de situações de ameaça à segurança operacional são fundamentais para a atuação proativa da Agência</summary>
-    <content type="html"><![CDATA[
-      <p>O reporte de situações de ameaça à segurança operacional são fundamentais para a atuação proativa da Agência</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
