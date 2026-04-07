@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f931568a-629e-4792-99bc-14699cb900df",
+  "identifier": "urn:uuid:anac-feed-d376e792-0ee0-4761-b28a-8d95ecd6bcef",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-07T08:55:12.900Z",
-  "dateModified": "2026-04-07T08:55:12.900Z",
+  "dateCreated": "2026-04-07T13:06:12.911Z",
+  "dateModified": "2026-04-07T13:06:12.911Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -43,6 +43,22 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "PagTesouro substitui GRU Simples e Judicial e moderniza arrecadação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/pagtesouro-substitui-gru-simples-e-judicial-e-moderniza-arrecadacao-1",
+      "datePublished": "2026-04-06T15:06:00.000Z",
+      "description": "A plataforma moderniza a arrecadação ao substituir os boletos tradicionais, permitindo emissão da GRU Simples com pagamento instantâneo via Pix ou cartão de crédito",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac e Reino Unido assinam revisão de acordo para certificação ambiental e de aeronavegabilidade entre os países",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-e-reino-unido-assinam-revisao-de-acordo-para-certificacao-ambiental-e-de-aeronavegabilidade-entre-os-paises",
+      "datePublished": "2026-04-06T14:22:00.000Z",
+      "description": "Revisão aprimora procedimentos baseados em risco para aceitação e validação de artigos aeronáuticos estrangeiros",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "3ª Reunião Deliberativa da Diretoria Colegiada (02/04/2026)",
       "url": "https://www.youtube.com/watch?v=u_fBr0YuZDA",
@@ -50,6 +66,51 @@
       "description": "Início - 9:48\nProcesso: 00058.000910/2025-93 - 10:34\nProcesso: 00058.011873/2023-87 - 20:58\nProcesso: 00066.021549/2019-91 - 35:00",
       "image": "https://i2.ytimg.com/vi/u_fBr0YuZDA/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac atua na COP 15 para garantir segurança operacional na aviação",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao",
+      "datePublished": "2026-04-02T15:25:00.000Z",
+      "description": "O evento ocorreu em Campo Grande (MS) e debate a conservação ambiental aeroportuária em escala internacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao/whatsapp-image-2026-03-30-at-13-48-53.jpeg/@@images/5f0a14a6-e33f-4f21-ae2b-399b63b39897.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Servidor da Anac assume posição de liderança em painel da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci",
+      "datePublished": "2026-04-02T15:06:00.000Z",
+      "description": "Eleição de Marcus Ramos fortalece a presença estratégica da Agência nas discussões regulatórias mundiais sobre segurança operacional da aviação civil",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci/1000013471.jpg/@@images/a3e2f264-c472-4653-84b0-274c2757f3e0.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Aeroporto do Galeão é arrematado pela Aena em leilão de venda assistida",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida",
+      "datePublished": "2026-04-01T17:42:00.000Z",
+      "description": "Lance vencedor de R$ 2,9 bi sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida/leilao-aeroporto-galeao-b3-cauediniz-9239.jpg/@@images/06d43a50-857c-413b-a221-b536a222c0d1.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "SustentAr: Participe da 4ª edição do programa da Anac. Inscrições abertas até 24/4",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4",
+      "datePublished": "2026-04-01T12:15:00.000Z",
+      "description": "Empresas de transporte aéreo e táxi-aéreo poderão se inscrever no programa, que reconhece boas práticas em sustentabilidade na aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4/sustentar_2023___linkedin_.png/@@images/73173f80-5c4d-483e-8eb5-8454ba7ed540.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac",
+      "datePublished": "2026-03-31T13:25:00.000Z",
+      "description": "Interessados podem se inscrever até 3 de maio",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac/portal-3.png/@@images/57483fe8-fc7f-4851-9dd9-0e6c22e0d179.png",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
@@ -61,6 +122,68 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises",
+      "datePublished": "2026-03-30T16:30:00.000Z",
+      "description": "Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises/whatsapp-image-2026-03-30-at-16-21-44.jpeg/@@images/33f9cb92-49f3-489e-ba49-f2f4a04d5a72.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac forma os dois primeiros inspetores sêniores no Programa SAFA",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa",
+      "datePublished": "2026-03-27T17:30:00.000Z",
+      "description": "Essa formação representa um marco estratégico para a Agência na avaliação de segurança de aeronaves estrangeiras",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa/instrutores-safa.png/@@images/3f852e75-78a6-45cf-962e-5f52374139fa.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador",
+      "datePublished": "2026-03-27T17:25:00.000Z",
+      "description": "Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador/portal_criando_asas_ssa.jpg/@@images/c1fb3592-df86-47cc-839e-80a8378a6756.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h",
+      "datePublished": "2026-03-26T17:41:00.000Z",
+      "description": "Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Agenda Conectar impulsiona a expansão da conectividade aérea nos próximos anos",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos",
+      "datePublished": "2026-03-25T15:08:00.000Z",
+      "description": "A inciativa é uma política de Estado que visa amplificar as conexões aéreas no país e tornar esse modal de transporte ainda mais acessível",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos/55167168445_5aaf498d04_c.jpg/@@images/a71dbfd1-1bd1-46eb-93b9-a4e5c030dec9.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Latam e Floripa Airport recebem Prêmio Acessibilidade e Inovação 2026",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/latam-e-floripa-airport-recebem-premio-acessibilidade-e-inovacao-2026",
+      "datePublished": "2026-03-25T12:54:00.000Z",
+      "description": "Premiação reforça compromisso com práticas inovadoras de acessibilidade no setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/latam-e-floripa-airport-recebem-premio-acessibilidade-e-inovacao-2026/foto-1-premio-acessibilidade.jpg/@@images/789207cd-e086-4709-bea0-7713daa3a731.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Consulta setorial aberta: Anac propõe mudanças nas regras para laboratórios de ensaios de inflamabilidade",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/consulta-setorial-aberta-anac-propoe-mudancas-nas-regras-para-laboratorios-de-ensaios-de-inflamabilidade",
+      "datePublished": "2026-03-25T10:54:00.000Z",
+      "description": "Interessados podem enviar contribuições até 4 de maio na plataforma Brasil Participativo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/consulta-setorial-aberta-anac-propoe-mudancas-nas-regras-para-laboratorios-de-ensaios-de-inflamabilidade/linkedin-33.png/@@images/72f77eab-4c0e-4ef4-ac8d-cc32bee0833f.png",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Anac 20 anos: Mensagem das autoridades de aviação civil estrangeiras",
       "url": "https://www.youtube.com/watch?v=jatAS4IHXBo",
@@ -70,6 +193,32 @@
       "type": "vídeo"
     },
     {
+      "@type": "NewsArticle",
+      "name": "BGAST lança o guia “4 passos para a conformidade”",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d",
+      "datePublished": "2026-03-24T15:33:00.000Z",
+      "description": "Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d/linkedin_bgast_apresenta_4_passos.png/@@images/97c26a39-4445-41e3-b829-f4023bbc947a.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac",
+      "datePublished": "2026-03-24T14:59:00.000Z",
+      "description": "Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac/img_2102-1.jpeg/@@images/4289dd04-90f5-4e49-bfbd-6d3eefaa640e.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Salvador receberá, no dia 26/3, programa Asas para Todos com a participação de crianças e jovens de Santo Estêvão (BA)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba",
+      "datePublished": "2026-03-24T14:16:00.000Z",
+      "description": "Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários",
+      "type": "notícia"
+    },
+    {
       "@type": "VideoObject",
       "name": "Anac 20 anos",
       "url": "https://www.youtube.com/watch?v=1PI2kziB8j8",
@@ -77,6 +226,77 @@
       "description": "Anac 20 anos: Uma trajetória de dedicação e excelência técnica para o setor aéreo",
       "image": "https://i2.ytimg.com/vi/1PI2kziB8j8/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac participa do III Congresso da ABRAPAVAA sobre assistência a vítimas na aviação civil",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil",
+      "datePublished": "2026-03-23T12:59:00.000Z",
+      "description": "Encontro promoveu troca de experiências e discussão de práticas voltadas ao atendimento de vítimas e familiares no setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil/whatsapp-image-2026-03-18-at-10-54-47-1.jpeg/@@images/d82e769c-7610-4ab7-832a-6e5110cb0c55.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Fevereiro bate recorde e supera 10 milhões de viajantes no transporte aéreo",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo",
+      "datePublished": "2026-03-20T17:38:00.000Z",
+      "description": "Segmentos doméstico e internacional registram melhor resultado para o mês na série histórica",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo/d-do-setor-aereo_fev_2026_card-6.png/@@images/1607d4c4-7016-4b1e-9687-18204238e13c.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac celebra 20 anos como referência internacional e reforça papel estratégico para a aviação brasileira",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira",
+      "datePublished": "2026-03-20T16:22:00.000Z",
+      "description": "Evento em Brasília (DF) reúne autoridades nacionais e internacionais, que destacam a trajetória da Agência, homenageiam servidores e trazem os desafios para o futuro do setor aéreo",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira/55156799208_c249a53eaf_c.jpg/@@images/8a59ed4a-7194-483e-8093-2811ed489c40.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac 20 Anos: compromisso para desenvolver o transporte aéreo com segurança",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca",
+      "datePublished": "2026-03-20T14:28:00.000Z",
+      "description": "Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca/banner-portal___.png/@@images/251cd189-c690-48ff-8638-4e739e958641.png",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Anac realiza aula inaugural do Projeto Pilotos do Semiárido em Pernambuco",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco",
+      "datePublished": "2026-03-19T16:10:00.000Z",
+      "description": "Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco/dsc05094.jpg/@@images/e7812fb0-e666-4d1d-a8f0-767b836b732f.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Semana Safety define programação para a etapa de Curitiba (PR)",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr",
+      "datePublished": "2026-03-17T17:24:00.000Z",
+      "description": "Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr/semana-safety_cwb.jpeg/@@images/3ec3f6cc-1c36-4b91-a5f9-56c8c89c82ef.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Novidade: envio de notificações em lote agora está disponível no Portal Único",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/novidade-envio-de-notificacoes-em-lote-agora-esta-disponivel-no-portal-unico-da-anac",
+      "datePublished": "2026-03-17T15:09:00.000Z",
+      "description": "O reporte de situações de ameaça à segurança operacional são fundamentais para a atuação proativa da Agência",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Auditoria Interna da Anac recebe reconhecimento por certificação no Nível 2 do IA-CM",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm",
+      "datePublished": "2026-03-17T13:37:00.000Z",
+      "description": "Certificação reconhece a solidez das práticas para a execução das atividades de auditoria interna na Agência",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/auditoria-interna-da-anac-recebe-reconhecimento-por-certificacao-no-nivel-2-do-ia-cm/image.jpg/@@images/c8a8862f-69bf-48ea-8fbd-05694c96a6b3.jpeg",
+      "type": "notícia"
     },
     {
       "@type": "VideoObject",
