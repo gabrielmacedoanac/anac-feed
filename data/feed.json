@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-45bb24db-93c6-4cfe-9223-3ae1326870b5",
+  "identifier": "urn:uuid:anac-feed-829d13ab-e7ab-4ab6-ac4c-9a531d5fcbc1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-09T17:00:14.118Z",
-  "dateModified": "2026-04-09T17:00:14.118Z",
+  "dateCreated": "2026-04-09T20:42:23.955Z",
+  "dateModified": "2026-04-09T20:42:23.955Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-11T19:53:11.000Z",
-    "endDate": "2026-04-07T14:56:00.000Z"
+    "endDate": "2026-04-09T15:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Super App: A jornada de pilotos agora está completa!",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa",
+      "datePublished": "2026-04-09T15:04:00.000Z",
+      "description": "Nova versão do app inclui pilotos de linha aérea de avião e de helicóptero",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa/super_app_2-8_portal.png/@@images/e7de955a-becf-4b6f-be94-35b01557f591.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "BASeT convida interessados para compor subgrupos temáticos para o Ciclo 2026/2027",
@@ -286,15 +295,6 @@
       "datePublished": "2026-03-19T16:10:00.000Z",
       "description": "Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco/dsc05094.jpg/@@images/e7812fb0-e666-4d1d-a8f0-767b836b732f.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Semana Safety define programação para a etapa de Curitiba (PR)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr",
-      "datePublished": "2026-03-17T17:24:00.000Z",
-      "description": "Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr/semana-safety_cwb.jpeg/@@images/3ec3f6cc-1c36-4b91-a5f9-56c8c89c82ef.jpeg",
       "type": "notícia"
     },
     {

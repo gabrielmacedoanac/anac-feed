@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-45bb24db-93c6-4cfe-9223-3ae1326870b5</id>
-  <updated>2026-04-07T14:56:00.000Z</updated>
+  <id>urn:uuid:anac-feed-829d13ab-e7ab-4ab6-ac4c-9a531d5fcbc1</id>
+  <updated>2026-04-09T15:04:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Super App: A jornada de pilotos agora está completa!</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa</id>
+    <published>2026-04-09T15:04:00.000Z</published>
+    <updated>2026-04-09T15:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Nova versão do app inclui pilotos de linha aérea de avião e de helicóptero</summary>
+    <content type="html"><![CDATA[
+      <p>Nova versão do app inclui pilotos de linha aérea de avião e de helicóptero</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa/super_app_2-8_portal.png/@@images/e7de955a-becf-4b6f-be94-35b01557f591.png" alt="Super App: A jornada de pilotos agora está completa!">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -564,25 +583,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco/dsc05094.jpg/@@images/e7812fb0-e666-4d1d-a8f0-767b836b732f.jpeg" alt="Anac realiza aula inaugural do Projeto Pilotos do Semiárido em Pernambuco">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana Safety define programação para a etapa de Curitiba (PR)</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr</id>
-    <published>2026-03-17T17:24:00.000Z</published>
-    <updated>2026-03-17T17:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional</summary>
-    <content type="html"><![CDATA[
-      <p>Anac realizará 20 atividades entre paineis, palestras e mesas redondas sobre segurança operacional</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-define-programacao-para-a-etapa-de-curitiba-pr/semana-safety_cwb.jpeg/@@images/3ec3f6cc-1c36-4b91-a5f9-56c8c89c82ef.jpeg" alt="Semana Safety define programação para a etapa de Curitiba (PR)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
