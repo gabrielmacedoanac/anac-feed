@@ -4,13 +4,89 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-48b3d45d-50ef-4d48-af71-4c5de424f37c</id>
-  <updated>2026-04-06T16:44:49.000Z</updated>
+  <id>urn:uuid:anac-feed-2edf77ed-7c97-47c8-b444-a2a1aee500d1</id>
+  <updated>2026-04-09T17:45:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana Safety Curitiba destaca a importância da aproximação entre Anac e comunidade aeronáutica</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-curitiba-destaca-a-importancia-da-aproximacao-entre-anac-e-comunidade-aeronautica" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-curitiba-destaca-a-importancia-da-aproximacao-entre-anac-e-comunidade-aeronautica</id>
+    <published>2026-04-09T17:45:00.000Z</published>
+    <updated>2026-04-09T17:45:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Interação entre os participantes e especialistas destacou a importância da colaboração e da cultura de segurança para a aviação da Região Sul</summary>
+    <content type="html"><![CDATA[
+      <p>Interação entre os participantes e especialistas destacou a importância da colaboração e da cultura de segurança para a aviação da Região Sul</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-curitiba-destaca-a-importancia-da-aproximacao-entre-anac-e-comunidade-aeronautica/imagem-9.jfif/@@images/b298c4b0-f249-4b12-8f0e-9dc95ebf5d3a.jpeg" alt="Semana Safety Curitiba destaca a importância da aproximação entre Anac e comunidade aeronáutica">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Super App: A jornada de pilotos agora está completa!</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa</id>
+    <published>2026-04-09T15:04:00.000Z</published>
+    <updated>2026-04-09T15:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Nova versão do app inclui pilotos de linha aérea de avião e de helicóptero</summary>
+    <content type="html"><![CDATA[
+      <p>Nova versão do app inclui pilotos de linha aérea de avião e de helicóptero</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/super-app-a-jornada-de-pilotos-agora-esta-completa/super_app_2-8_portal.png/@@images/e7de955a-becf-4b6f-be94-35b01557f591.png" alt="Super App: A jornada de pilotos agora está completa!">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">BASeT convida interessados para compor subgrupos temáticos para o Ciclo 2026/2027</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2026-2027" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/baset-convida-interessados-para-compor-subgrupos-tematicos-para-o-ciclo-2026-2027</id>
+    <published>2026-04-07T14:56:00.000Z</published>
+    <updated>2026-04-07T14:56:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Próximo ciclo terá três subgrupos sobre segurança da aviação civil</summary>
+    <content type="html"><![CDATA[
+      <p>Próximo ciclo terá três subgrupos sobre segurança da aviação civil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">BASeT estabelece projetos e institui novos subgrupos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/baset-estabelece-novos-projetos-e-institui-novos-subgrupos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/baset-estabelece-novos-projetos-e-institui-novos-subgrupos</id>
+    <published>2026-04-07T12:04:00.000Z</published>
+    <updated>2026-04-07T12:04:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O Brazilian Aviation Security Team (BASeT) institui três novos subgrupos temáticos para o ciclo 2026/2027</summary>
+    <content type="html"><![CDATA[
+      <p>O Brazilian Aviation Security Team (BASeT) institui três novos subgrupos temáticos para o ciclo 2026/2027</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -29,6 +105,44 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">PagTesouro substitui GRU Simples e Judicial e moderniza arrecadação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/pagtesouro-substitui-gru-simples-e-judicial-e-moderniza-arrecadacao-1" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/pagtesouro-substitui-gru-simples-e-judicial-e-moderniza-arrecadacao-1</id>
+    <published>2026-04-06T15:06:00.000Z</published>
+    <updated>2026-04-06T15:06:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A plataforma moderniza a arrecadação ao substituir os boletos tradicionais, permitindo emissão da GRU Simples com pagamento instantâneo via Pix ou cartão de crédito</summary>
+    <content type="html"><![CDATA[
+      <p>A plataforma moderniza a arrecadação ao substituir os boletos tradicionais, permitindo emissão da GRU Simples com pagamento instantâneo via Pix ou cartão de crédito</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac e Reino Unido assinam revisão de acordo para certificação ambiental e de aeronavegabilidade entre os países</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-e-reino-unido-assinam-revisao-de-acordo-para-certificacao-ambiental-e-de-aeronavegabilidade-entre-os-paises" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-e-reino-unido-assinam-revisao-de-acordo-para-certificacao-ambiental-e-de-aeronavegabilidade-entre-os-paises</id>
+    <published>2026-04-06T14:22:00.000Z</published>
+    <updated>2026-04-06T14:22:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Revisão aprimora procedimentos baseados em risco para aceitação e validação de artigos aeronáuticos estrangeiros</summary>
+    <content type="html"><![CDATA[
+      <p>Revisão aprimora procedimentos baseados em risco para aceitação e validação de artigos aeronáuticos estrangeiros</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -58,6 +172,101 @@ Processo: 00066.021549/2019-91 - 35:00</p>
   
   
   <entry>
+    <title type="html">Anac atua na COP 15 para garantir segurança operacional na aviação</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao</id>
+    <published>2026-04-02T15:25:00.000Z</published>
+    <updated>2026-04-02T15:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">O evento ocorreu em Campo Grande (MS) e debate a conservação ambiental aeroportuária em escala internacional</summary>
+    <content type="html"><![CDATA[
+      <p>O evento ocorreu em Campo Grande (MS) e debate a conservação ambiental aeroportuária em escala internacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-atua-na-cop-15-para-garantir-seguranca-operacional-na-aviacao/whatsapp-image-2026-03-30-at-13-48-53.jpeg/@@images/5f0a14a6-e33f-4f21-ae2b-399b63b39897.jpeg" alt="Anac atua na COP 15 para garantir segurança operacional na aviação">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Servidor da Anac assume posição de liderança em painel da Oaci</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci</id>
+    <published>2026-04-02T15:06:00.000Z</published>
+    <updated>2026-04-02T15:06:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Eleição de Marcus Ramos fortalece a presença estratégica da Agência nas discussões regulatórias mundiais sobre segurança operacional da aviação civil</summary>
+    <content type="html"><![CDATA[
+      <p>Eleição de Marcus Ramos fortalece a presença estratégica da Agência nas discussões regulatórias mundiais sobre segurança operacional da aviação civil</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/servidor-da-anac-assume-posicao-de-lideranca-em-painel-da-oaci/1000013471.jpg/@@images/a3e2f264-c472-4653-84b0-274c2757f3e0.jpeg" alt="Servidor da Anac assume posição de liderança em painel da Oaci">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Aeroporto do Galeão é arrematado pela Aena em leilão de venda assistida</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida</id>
+    <published>2026-04-01T17:42:00.000Z</published>
+    <updated>2026-04-01T17:42:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Lance vencedor de R$ 2,9 bi sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro</summary>
+    <content type="html"><![CDATA[
+      <p>Lance vencedor de R$ 2,9 bi sinaliza o potencial do aeroporto carioca para o transporte aéreo brasileiro</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/aeroporto-do-galeao-e-arrematado-pelaaenaem-leilao-de-venda-assistida/leilao-aeroporto-galeao-b3-cauediniz-9239.jpg/@@images/06d43a50-857c-413b-a221-b536a222c0d1.jpeg" alt="Aeroporto do Galeão é arrematado pela Aena em leilão de venda assistida">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">SustentAr: Participe da 4ª edição do programa da Anac. Inscrições abertas até 24/4</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4</id>
+    <published>2026-04-01T12:15:00.000Z</published>
+    <updated>2026-04-01T12:15:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Empresas de transporte aéreo e táxi-aéreo poderão se inscrever no programa, que reconhece boas práticas em sustentabilidade na aviação</summary>
+    <content type="html"><![CDATA[
+      <p>Empresas de transporte aéreo e táxi-aéreo poderão se inscrever no programa, que reconhece boas práticas em sustentabilidade na aviação</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/sustentar-participe-da-4a-edicao-do-programa-da-anac-inscricoes-abertas-ate-24-4/sustentar_2023___linkedin_.png/@@images/73173f80-5c4d-483e-8eb5-8454ba7ed540.png" alt="SustentAr: Participe da 4ª edição do programa da Anac. Inscrições abertas até 24/4">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac</id>
+    <published>2026-03-31T13:25:00.000Z</published>
+    <updated>2026-03-31T13:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Interessados podem se inscrever até 3 de maio</summary>
+    <content type="html"><![CDATA[
+      <p>Interessados podem se inscrever até 3 de maio</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/inscricoes-abertas-para-treinamento-inicial-de-pcps-e-pcfs-junto-a-anac/portal-3.png/@@images/57483fe8-fc7f-4851-9dd9-0e6c22e0d179.png" alt="Inscrições abertas para treinamento inicial de PCPs e PCFs  junto à Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Sessão pública do leilão da Venda Assistida do Galeão</title>
     <link href="https://www.youtube.com/watch?v=7XZ5YTYlrdE" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=7XZ5YTYlrdE</id>
@@ -73,6 +282,139 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises</id>
+    <published>2026-03-30T16:30:00.000Z</published>
+    <updated>2026-03-30T16:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado</summary>
+    <content type="html"><![CDATA[
+      <p>Empresas aéreas poderão definir livremente a quantidade de voos conforme a demanda do mercado</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/brasil-e-bolivia-assinam-memorando-que-amplia-voos-e-fortalece-transporte-aereo-entre-os-paises/whatsapp-image-2026-03-30-at-16-21-44.jpeg/@@images/33f9cb92-49f3-489e-ba49-f2f4a04d5a72.jpeg" alt="Brasil e Bolívia assinam memorando que amplia voos e fortalece transporte aéreo entre os países">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac forma os dois primeiros inspetores sêniores no Programa SAFA</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa</id>
+    <published>2026-03-27T17:30:00.000Z</published>
+    <updated>2026-03-27T17:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Essa formação representa um marco estratégico para a Agência na avaliação de segurança de aeronaves estrangeiras</summary>
+    <content type="html"><![CDATA[
+      <p>Essa formação representa um marco estratégico para a Agência na avaliação de segurança de aeronaves estrangeiras</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-forma-os-dois-primeiros-inspetores-seniores-no-programa-safa/instrutores-safa.png/@@images/3f852e75-78a6-45cf-962e-5f52374139fa.png" alt="Anac forma os dois primeiros inspetores sêniores no Programa SAFA">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador</id>
+    <published>2026-03-27T17:25:00.000Z</published>
+    <updated>2026-03-27T17:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação</summary>
+    <content type="html"><![CDATA[
+      <p>Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador/portal_criando_asas_ssa.jpg/@@images/c1fb3592-df86-47cc-839e-80a8378a6756.jpeg" alt="Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h</id>
+    <published>2026-03-26T17:41:00.000Z</published>
+    <updated>2026-03-26T17:41:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</summary>
+    <content type="html"><![CDATA[
+      <p>Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Agenda Conectar impulsiona a expansão da conectividade aérea nos próximos anos</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos</id>
+    <published>2026-03-25T15:08:00.000Z</published>
+    <updated>2026-03-25T15:08:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">A inciativa é uma política de Estado que visa amplificar as conexões aéreas no país e tornar esse modal de transporte ainda mais acessível</summary>
+    <content type="html"><![CDATA[
+      <p>A inciativa é uma política de Estado que visa amplificar as conexões aéreas no país e tornar esse modal de transporte ainda mais acessível</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos/55167168445_5aaf498d04_c.jpg/@@images/a71dbfd1-1bd1-46eb-93b9-a4e5c030dec9.jpeg" alt="Agenda Conectar impulsiona a expansão da conectividade aérea nos próximos anos">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Latam e Floripa Airport recebem Prêmio Acessibilidade e Inovação 2026</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/latam-e-floripa-airport-recebem-premio-acessibilidade-e-inovacao-2026" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/latam-e-floripa-airport-recebem-premio-acessibilidade-e-inovacao-2026</id>
+    <published>2026-03-25T12:54:00.000Z</published>
+    <updated>2026-03-25T12:54:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Premiação reforça compromisso com práticas inovadoras de acessibilidade no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Premiação reforça compromisso com práticas inovadoras de acessibilidade no setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/latam-e-floripa-airport-recebem-premio-acessibilidade-e-inovacao-2026/foto-1-premio-acessibilidade.jpg/@@images/789207cd-e086-4709-bea0-7713daa3a731.jpeg" alt="Latam e Floripa Airport recebem Prêmio Acessibilidade e Inovação 2026">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Consulta setorial aberta: Anac propõe mudanças nas regras para laboratórios de ensaios de inflamabilidade</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/consulta-setorial-aberta-anac-propoe-mudancas-nas-regras-para-laboratorios-de-ensaios-de-inflamabilidade" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/consulta-setorial-aberta-anac-propoe-mudancas-nas-regras-para-laboratorios-de-ensaios-de-inflamabilidade</id>
+    <published>2026-03-25T10:54:00.000Z</published>
+    <updated>2026-03-25T10:54:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Interessados podem enviar contribuições até 4 de maio na plataforma Brasil Participativo</summary>
+    <content type="html"><![CDATA[
+      <p>Interessados podem enviar contribuições até 4 de maio na plataforma Brasil Participativo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/consulta-setorial-aberta-anac-propoe-mudancas-nas-regras-para-laboratorios-de-ensaios-de-inflamabilidade/linkedin-33.png/@@images/72f77eab-4c0e-4ef4-ac8d-cc32bee0833f.png" alt="Consulta setorial aberta: Anac propõe mudanças nas regras para laboratórios de ensaios de inflamabilidade">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -96,6 +438,63 @@ Processo: 00066.021549/2019-91 - 35:00</p>
   
   
   <entry>
+    <title type="html">BGAST lança o guia “4 passos para a conformidade”</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d</id>
+    <published>2026-03-24T15:33:00.000Z</published>
+    <updated>2026-03-24T15:33:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados</summary>
+    <content type="html"><![CDATA[
+      <p>Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d/linkedin_bgast_apresenta_4_passos.png/@@images/97c26a39-4445-41e3-b829-f4023bbc947a.png" alt="BGAST lança o guia “4 passos para a conformidade”">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac</id>
+    <published>2026-03-24T14:59:00.000Z</published>
+    <updated>2026-03-24T14:59:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos</summary>
+    <content type="html"><![CDATA[
+      <p>Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac/img_2102-1.jpeg/@@images/4289dd04-90f5-4e49-bfbd-6d3eefaa640e.jpeg" alt="Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Salvador receberá, no dia 26/3, programa Asas para Todos com a participação de crianças e jovens de Santo Estêvão (BA)</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba</id>
+    <published>2026-03-24T14:16:00.000Z</published>
+    <updated>2026-03-24T14:16:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários</summary>
+    <content type="html"><![CDATA[
+      <p>Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac 20 anos</title>
     <link href="https://www.youtube.com/watch?v=1PI2kziB8j8" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=1PI2kziB8j8</id>
@@ -111,6 +510,82 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac participa do III Congresso da ABRAPAVAA sobre assistência a vítimas na aviação civil</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil</id>
+    <published>2026-03-23T12:59:00.000Z</published>
+    <updated>2026-03-23T12:59:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Encontro promoveu troca de experiências e discussão de práticas voltadas ao atendimento de vítimas e familiares no setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Encontro promoveu troca de experiências e discussão de práticas voltadas ao atendimento de vítimas e familiares no setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil/whatsapp-image-2026-03-18-at-10-54-47-1.jpeg/@@images/d82e769c-7610-4ab7-832a-6e5110cb0c55.jpeg" alt="Anac participa do III Congresso da ABRAPAVAA sobre assistência a vítimas na aviação civil">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Fevereiro bate recorde e supera 10 milhões de viajantes no transporte aéreo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo</id>
+    <published>2026-03-20T17:38:00.000Z</published>
+    <updated>2026-03-20T17:38:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Segmentos doméstico e internacional registram melhor resultado para o mês na série histórica</summary>
+    <content type="html"><![CDATA[
+      <p>Segmentos doméstico e internacional registram melhor resultado para o mês na série histórica</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo/d-do-setor-aereo_fev_2026_card-6.png/@@images/1607d4c4-7016-4b1e-9687-18204238e13c.png" alt="Fevereiro bate recorde e supera 10 milhões de viajantes no transporte aéreo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac celebra 20 anos como referência internacional e reforça papel estratégico para a aviação brasileira</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira</id>
+    <published>2026-03-20T16:22:00.000Z</published>
+    <updated>2026-03-20T16:22:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Evento em Brasília (DF) reúne autoridades nacionais e internacionais, que destacam a trajetória da Agência, homenageiam servidores e trazem os desafios para o futuro do setor aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Evento em Brasília (DF) reúne autoridades nacionais e internacionais, que destacam a trajetória da Agência, homenageiam servidores e trazem os desafios para o futuro do setor aéreo</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira/55156799208_c249a53eaf_c.jpg/@@images/8a59ed4a-7194-483e-8093-2811ed489c40.jpeg" alt="Anac celebra 20 anos como referência internacional e reforça papel estratégico para a aviação brasileira">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Anac 20 Anos: compromisso para desenvolver o transporte aéreo com segurança</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca</id>
+    <published>2026-03-20T14:28:00.000Z</published>
+    <updated>2026-03-20T14:28:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional</summary>
+    <content type="html"><![CDATA[
+      <p>Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca/banner-portal___.png/@@images/251cd189-c690-48ff-8638-4e739e958641.png" alt="Anac 20 Anos: compromisso para desenvolver o transporte aéreo com segurança">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
