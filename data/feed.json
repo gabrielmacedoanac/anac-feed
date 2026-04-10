@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-829d13ab-e7ab-4ab6-ac4c-9a531d5fcbc1",
+  "identifier": "urn:uuid:anac-feed-31bb35d8-8782-4ee9-b3b6-90cbe1824d8b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-09T20:42:23.955Z",
-  "dateModified": "2026-04-09T20:42:23.955Z",
+  "dateCreated": "2026-04-10T01:58:05.720Z",
+  "dateModified": "2026-04-10T01:58:05.720Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-11T19:53:11.000Z",
-    "endDate": "2026-04-09T15:04:00.000Z"
+    "endDate": "2026-04-09T17:45:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Semana Safety Curitiba destaca a importância da aproximação entre Anac e comunidade aeronáutica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-curitiba-destaca-a-importancia-da-aproximacao-entre-anac-e-comunidade-aeronautica",
+      "datePublished": "2026-04-09T17:45:00.000Z",
+      "description": "Interação entre os participantes e especialistas destacou a importância da colaboração e da cultura de segurança para a aviação da Região Sul",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/semana-safety-curitiba-destaca-a-importancia-da-aproximacao-entre-anac-e-comunidade-aeronautica/imagem-9.jfif/@@images/b298c4b0-f249-4b12-8f0e-9dc95ebf5d3a.jpeg",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Super App: A jornada de pilotos agora está completa!",
@@ -286,15 +295,6 @@
       "datePublished": "2026-03-20T14:28:00.000Z",
       "description": "Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca/banner-portal___.png/@@images/251cd189-c690-48ff-8638-4e739e958641.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac realiza aula inaugural do Projeto Pilotos do Semiárido em Pernambuco",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco",
-      "datePublished": "2026-03-19T16:10:00.000Z",
-      "description": "Iniciativa do programa Asas para Todos vai capacitar 20 alunos para atuação como pilotos, com formação completa e foco em inclusão e diversidade no setor",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-realiza-aula-inaugural-do-projeto-pilotos-do-semiarido-em-pernambuco/dsc05094.jpg/@@images/e7812fb0-e666-4d1d-a8f0-767b836b732f.jpeg",
       "type": "notícia"
     },
     {
