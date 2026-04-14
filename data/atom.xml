@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-078820cd-924a-4665-a951-a3f138fead93</id>
-  <updated>2026-04-13T11:48:41.000Z</updated>
+  <id>urn:uuid:anac-feed-80ba465c-d159-4657-a57b-d96fd83f34a9</id>
+  <updated>2026-04-13T17:47:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Nova plataforma da Anac facilita a solução de problemas entre passageiros e empresas aéreas</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/nova-plataforma-da-anac-facilita-a-solucao-de-problemas-entre-passageiros-e-empresas-aereas" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/nova-plataforma-da-anac-facilita-a-solucao-de-problemas-entre-passageiros-e-empresas-aereas</id>
+    <published>2026-04-13T17:47:00.000Z</published>
+    <updated>2026-04-13T17:47:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Agência cria canal para informações e registro de reclamações. Plataforma também amplia fiscalização dos serviços prestados aos viajantes.</summary>
+    <content type="html"><![CDATA[
+      <p>Agência cria canal para informações e registro de reclamações. Plataforma também amplia fiscalização dos serviços prestados aos viajantes.</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/nova-plataforma-da-anac-facilita-a-solucao-de-problemas-entre-passageiros-e-empresas-aereas/ANACBANNERPORTAL_1150X520.png/@@images/00b0c0fc-b9ca-4d53-9005-6ac360826651.png" alt="Nova plataforma da Anac facilita a solução de problemas entre passageiros e empresas aéreas">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -583,25 +602,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Evento em Brasília (DF) reúne autoridades nacionais e internacionais, que destacam a trajetória da Agência, homenageiam servidores e trazem os desafios para o futuro do setor aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira/55156799208_c249a53eaf_c.jpg/@@images/8a59ed4a-7194-483e-8093-2811ed489c40.jpeg" alt="Anac celebra 20 anos como referência internacional e reforça papel estratégico para a aviação brasileira">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac 20 Anos: compromisso para desenvolver o transporte aéreo com segurança</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca</id>
-    <published>2026-03-20T14:28:00.000Z</published>
-    <updated>2026-03-20T14:28:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional</summary>
-    <content type="html"><![CDATA[
-      <p>Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca/banner-portal___.png/@@images/251cd189-c690-48ff-8638-4e739e958641.png" alt="Anac 20 Anos: compromisso para desenvolver o transporte aéreo com segurança">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->

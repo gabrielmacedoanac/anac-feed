@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-078820cd-924a-4665-a951-a3f138fead93",
+  "identifier": "urn:uuid:anac-feed-80ba465c-d159-4657-a57b-d96fd83f34a9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-13T20:47:05.270Z",
-  "dateModified": "2026-04-13T20:47:05.270Z",
+  "dateCreated": "2026-04-14T01:59:27.351Z",
+  "dateModified": "2026-04-14T01:59:27.351Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-13T08:16:59.000Z",
-    "endDate": "2026-04-13T11:48:41.000Z"
+    "endDate": "2026-04-13T17:47:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Nova plataforma da Anac facilita a solução de problemas entre passageiros e empresas aéreas",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/nova-plataforma-da-anac-facilita-a-solucao-de-problemas-entre-passageiros-e-empresas-aereas",
+      "datePublished": "2026-04-13T17:47:00.000Z",
+      "description": "Agência cria canal para informações e registro de reclamações. Plataforma também amplia fiscalização dos serviços prestados aos viajantes.",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/nova-plataforma-da-anac-facilita-a-solucao-de-problemas-entre-passageiros-e-empresas-aereas/ANACBANNERPORTAL_1150X520.png/@@images/00b0c0fc-b9ca-4d53-9005-6ac360826651.png",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Evento de Lançamento da Plataforma Anac Passageiro",
@@ -295,15 +304,6 @@
       "datePublished": "2026-03-20T16:22:00.000Z",
       "description": "Evento em Brasília (DF) reúne autoridades nacionais e internacionais, que destacam a trajetória da Agência, homenageiam servidores e trazem os desafios para o futuro do setor aéreo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-celebra-20-anos-como-referencia-internacional-e-reforca-papel-estrategico-para-a-aviacao-brasileira/55156799208_c249a53eaf_c.jpg/@@images/8a59ed4a-7194-483e-8093-2811ed489c40.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac 20 Anos: compromisso para desenvolver o transporte aéreo com segurança",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca",
-      "datePublished": "2026-03-20T14:28:00.000Z",
-      "description": "Trajetória da Agência, construída com excelência técnica, levou o Brasil a se tornar liderança no setor aéreo internacional",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-20-anos-compromisso-para-desenvolver-o-transporte-aereo-com-seguranca/banner-portal___.png/@@images/251cd189-c690-48ff-8638-4e739e958641.png",
       "type": "notícia"
     },
     {
