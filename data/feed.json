@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1033c9e7-01f5-42da-8e75-6a2ce558ba42",
+  "identifier": "urn:uuid:anac-feed-0f449d60-8445-4994-bd86-8eb53f2fc4b3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-15T13:11:07.495Z",
-  "dateModified": "2026-04-15T13:11:07.495Z",
+  "dateCreated": "2026-04-15T16:55:53.202Z",
+  "dateModified": "2026-04-15T16:55:53.202Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-13T08:16:59.000Z",
-    "endDate": "2026-04-15T02:23:34.000Z"
+    "endDate": "2026-04-15T13:17:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Anac assume vice-presidência do Painel de Segurança da Aviação Civil da Oaci",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-assume-vice-presidencia-do-painel-de-seguranca-da-aviacao-civil-da-oaci",
+      "datePublished": "2026-04-15T13:17:00.000Z",
+      "description": "Eleição pontua o protagonismo do país na agenda de AVSEC em âmbito internacional",
+      "type": "notícia"
+    },
     {
       "@type": "VideoObject",
       "name": "Evento de Lançamento da Plataforma Anac Passageiro",
@@ -295,15 +303,6 @@
       "datePublished": "2026-03-23T12:59:00.000Z",
       "description": "Encontro promoveu troca de experiências e discussão de práticas voltadas ao atendimento de vítimas e familiares no setor aéreo",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil/whatsapp-image-2026-03-18-at-10-54-47-1.jpeg/@@images/d82e769c-7610-4ab7-832a-6e5110cb0c55.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Fevereiro bate recorde e supera 10 milhões de viajantes no transporte aéreo",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo",
-      "datePublished": "2026-03-20T17:38:00.000Z",
-      "description": "Segmentos doméstico e internacional registram melhor resultado para o mês na série histórica",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo/d-do-setor-aereo_fev_2026_card-6.png/@@images/1607d4c4-7016-4b1e-9687-18204238e13c.png",
       "type": "notícia"
     },
     {

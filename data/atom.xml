@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-1033c9e7-01f5-42da-8e75-6a2ce558ba42</id>
-  <updated>2026-04-15T02:23:34.000Z</updated>
+  <id>urn:uuid:anac-feed-0f449d60-8445-4994-bd86-8eb53f2fc4b3</id>
+  <updated>2026-04-15T13:17:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Anac assume vice-presidência do Painel de Segurança da Aviação Civil da Oaci</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/anac-assume-vice-presidencia-do-painel-de-seguranca-da-aviacao-civil-da-oaci" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/anac-assume-vice-presidencia-do-painel-de-seguranca-da-aviacao-civil-da-oaci</id>
+    <published>2026-04-15T13:17:00.000Z</published>
+    <updated>2026-04-15T13:17:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Eleição pontua o protagonismo do país na agenda de AVSEC em âmbito internacional</summary>
+    <content type="html"><![CDATA[
+      <p>Eleição pontua o protagonismo do país na agenda de AVSEC em âmbito internacional</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -583,25 +602,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Encontro promoveu troca de experiências e discussão de práticas voltadas ao atendimento de vítimas e familiares no setor aéreo</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil/whatsapp-image-2026-03-18-at-10-54-47-1.jpeg/@@images/d82e769c-7610-4ab7-832a-6e5110cb0c55.jpeg" alt="Anac participa do III Congresso da ABRAPAVAA sobre assistência a vítimas na aviação civil">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Fevereiro bate recorde e supera 10 milhões de viajantes no transporte aéreo</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo</id>
-    <published>2026-03-20T17:38:00.000Z</published>
-    <updated>2026-03-20T17:38:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Segmentos doméstico e internacional registram melhor resultado para o mês na série histórica</summary>
-    <content type="html"><![CDATA[
-      <p>Segmentos doméstico e internacional registram melhor resultado para o mês na série histórica</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/fevereiro-bate-recorde-e-supera-10-milhoes-de-viajantes-no-transporte-aereo/d-do-setor-aereo_fev_2026_card-6.png/@@images/1607d4c4-7016-4b1e-9687-18204238e13c.png" alt="Fevereiro bate recorde e supera 10 milhões de viajantes no transporte aéreo">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
