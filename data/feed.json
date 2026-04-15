@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-0f449d60-8445-4994-bd86-8eb53f2fc4b3",
+  "identifier": "urn:uuid:anac-feed-b331d669-0e0b-46a1-b4c3-17f344bfe2dd",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-15T16:55:53.202Z",
-  "dateModified": "2026-04-15T16:55:53.202Z",
+  "dateCreated": "2026-04-15T20:41:01.097Z",
+  "dateModified": "2026-04-15T20:41:01.097Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-13T08:16:59.000Z",
-    "endDate": "2026-04-15T13:17:00.000Z"
+    "endDate": "2026-04-15T16:40:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Webinário do BHEST abordará os fatores humanos na aviação de helicópteros",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/webinario-do-bhest-abordara-os-fatores-humanos-na-aviacao-de-helicopteros",
+      "datePublished": "2026-04-15T16:40:00.000Z",
+      "description": "Seminário é gratuito, aberto ao público e terá certificado para quem se inscrever no portal de capacitação da Anac",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/webinario-do-bhest-abordara-os-fatores-humanos-na-aviacao-de-helicopteros/banner_portal_webinarios_anac_bhest_fatores_humanos.png/@@images/7ebfe6dc-d662-4ce1-bb52-25a95fad4d34.png",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Anac assume vice-presidência do Painel de Segurança da Aviação Civil da Oaci",
@@ -55,7 +64,7 @@
       "name": "Agência lança plataforma digital para solucionar problemas entre passageiros e empresas aéreas",
       "url": "https://www.gov.br/anac/pt-br/noticias/2026/agencia-lanca-plataforma-digital-para-solucionar-problemas-entre-passageiros-e-empresas-aereas",
       "datePublished": "2026-04-14T18:40:00.000Z",
-      "description": "Anac Passageiro se torna o canal único de informações e registros de reclamações sobre serviços de empresas aéreas",
+      "description": "Anac Passageiro é o novo canal de informações e registros de reclamações sobre serviços de empresas aéreas",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/agencia-lanca-plataforma-digital-para-solucionar-problemas-entre-passageiros-e-empresas-aereas/20260414_105631.jpg/@@images/e985e5cf-ee8c-461f-8260-ed1393da24cb.jpeg",
       "type": "notícia"
     },
@@ -295,15 +304,6 @@
       "description": "Anac 20 anos: Uma trajetória de dedicação e excelência técnica para o setor aéreo",
       "image": "https://i2.ytimg.com/vi/1PI2kziB8j8/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Anac participa do III Congresso da ABRAPAVAA sobre assistência a vítimas na aviação civil",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil",
-      "datePublished": "2026-03-23T12:59:00.000Z",
-      "description": "Encontro promoveu troca de experiências e discussão de práticas voltadas ao atendimento de vítimas e familiares no setor aéreo",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/anac-participa-do-iii-congresso-da-abrapavaa-sobre-assistencia-a-vitimas-na-aviacao-civil/whatsapp-image-2026-03-18-at-10-54-47-1.jpeg/@@images/d82e769c-7610-4ab7-832a-6e5110cb0c55.jpeg",
-      "type": "notícia"
     },
     {
       "@type": "VideoObject",
