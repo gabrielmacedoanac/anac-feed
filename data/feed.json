@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8abcf3b5-feb0-4886-96b3-46837606a3d9",
+  "identifier": "urn:uuid:anac-feed-8468dd2f-fac2-41e7-bc53-c6efdcdd8eea",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-16T13:17:41.449Z",
-  "dateModified": "2026-04-16T13:17:41.449Z",
+  "dateCreated": "2026-04-16T17:07:18.697Z",
+  "dateModified": "2026-04-16T17:07:18.697Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-13T08:16:59.000Z",
-    "endDate": "2026-04-15T16:40:00.000Z"
+    "endDate": "2026-04-16T13:29:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,23 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Uma nova etapa da Semana Safety vem aí!",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/uma-nova-etapa-da-semana-safety-vem-ai",
+      "datePublished": "2026-04-16T13:29:00.000Z",
+      "description": "Salvador (BA) vai sediar a 3ª edição do evento, que abordará temas importantes sobre segurança operacional na região Nordeste",
+      "image": "https://www.gov.br/anac/pt-br/noticias/2026/uma-nova-etapa-da-semana-safety-vem-ai/whatsapp-image-2026-04-16-at-13-29-36.jpeg/@@images/cde3ace9-485b-4829-a059-87c82ebdaa8a.jpeg",
+      "type": "notícia"
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Pesquisa internacional coleta experiências de mulheres da aviação até dia 1°/5",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/pesquisa-internacional-coleta-experiencias-de-mulheres-da-aviacao-ate-dia-1deg-5",
+      "datePublished": "2026-04-16T10:51:00.000Z",
+      "description": "Oaci quer analisar informações de mulheres da aviação para orientar futuras políticas públicas",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Webinário do BHEST abordará os fatores humanos na aviação de helicópteros",
@@ -277,23 +294,6 @@
       "datePublished": "2026-03-24T15:33:00.000Z",
       "description": "Com apoio de especialistas do setor, o grupo publica orientações práticas para operadores da aviação geral se manterem atualizados",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/bgast-lanca-o-guia-201c4-passos-para-a-conformidade201d/linkedin_bgast_apresenta_4_passos.png/@@images/97c26a39-4445-41e3-b829-f4023bbc947a.png",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Exercício cibernético para fortalecer a segurança da aviação civil brasileira é promovido pela Anac",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac",
-      "datePublished": "2026-03-24T14:59:00.000Z",
-      "description": "Iniciativa reuniu operadores aéreos, aeroportos e instituições estratégicas em simulação de resposta a incidentes cibernéticos",
-      "image": "https://www.gov.br/anac/pt-br/noticias/2026/exercicio-cibernetico-para-fortalecer-a-seguranca-da-aviacao-civil-brasileira-e-promovido-pela-anac/img_2102-1.jpeg/@@images/4289dd04-90f5-4e49-bfbd-6d3eefaa640e.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Salvador receberá, no dia 26/3, programa Asas para Todos com a participação de crianças e jovens de Santo Estêvão (BA)",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/salvador-recebera-no-dia-26-3-programa-asas-para-todos-com-a-participacaode-criancas-e-jovens-de-santo-estevao-ba",
-      "datePublished": "2026-03-24T14:16:00.000Z",
-      "description": "Projeto aproxima novas gerações do universo da aviação civil, despertando o interesse por carreiras no setor e ampliando oportunidades para grupos minoritários",
       "type": "notícia"
     },
     {
