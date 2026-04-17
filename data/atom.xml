@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-edc6515f-a0ca-42ae-bde1-33163b9510dd</id>
-  <updated>2026-04-16T18:05:00.000Z</updated>
+  <id>urn:uuid:anac-feed-03628523-88e1-4510-86e0-3f3bbcb517bf</id>
+  <updated>2026-04-17T16:54:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Evento reunirá autoridades para debater regulação e judicialização no setor aéreo</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/forum-brasileiro-de-aviacao-reunira-autoridades-para-debater-regulacao-e-judicializacao-no-setor" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/forum-brasileiro-de-aviacao-reunira-autoridades-para-debater-regulacao-e-judicializacao-no-setor</id>
+    <published>2026-04-17T16:54:00.000Z</published>
+    <updated>2026-04-17T16:54:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Parceria entre Anac e IATA, fórum será realizado em Brasília (DF), no dia 23 de abril</summary>
+    <content type="html"><![CDATA[
+      <p>Parceria entre Anac e IATA, fórum será realizado em Brasília (DF), no dia 23 de abril</p>
+      <img src="https://www.gov.br/anac/pt-br/noticias/2026/forum-brasileiro-de-aviacao-reunira-autoridades-para-debater-regulacao-e-judicializacao-no-setor/WhatsAppImage20260417at10.47.08.jpeg/@@images/59144c9a-92e4-49b1-995d-14ddfcb22af2.jpeg" alt="Evento reunirá autoridades para debater regulação e judicialização no setor aéreo">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -545,25 +564,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</p>
       
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Agenda Conectar impulsiona a expansão da conectividade aérea nos próximos anos</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos</id>
-    <published>2026-03-25T15:08:00.000Z</published>
-    <updated>2026-03-25T15:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">A inciativa é uma política de Estado que visa amplificar as conexões aéreas no país e tornar esse modal de transporte ainda mais acessível</summary>
-    <content type="html"><![CDATA[
-      <p>A inciativa é uma política de Estado que visa amplificar as conexões aéreas no país e tornar esse modal de transporte ainda mais acessível</p>
-      <img src="https://www.gov.br/anac/pt-br/noticias/2026/agenda-conectar-impulsiona-a-expansao-da-conectividade-aerea-nos-proximos-anos/55167168445_5aaf498d04_c.jpg/@@images/a71dbfd1-1bd1-46eb-93b9-a4e5c030dec9.jpeg" alt="Agenda Conectar impulsiona a expansão da conectividade aérea nos próximos anos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
