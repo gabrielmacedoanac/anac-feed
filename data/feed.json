@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-03628523-88e1-4510-86e0-3f3bbcb517bf",
+  "identifier": "urn:uuid:anac-feed-1ec775d0-843e-4e24-b18d-7fea14df4515",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-17T20:38:23.427Z",
-  "dateModified": "2026-04-17T20:38:23.427Z",
+  "dateCreated": "2026-04-18T01:51:20.960Z",
+  "dateModified": "2026-04-18T01:51:20.960Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2025-11-13T08:16:59.000Z",
-    "endDate": "2026-04-17T16:54:00.000Z"
+    "endDate": "2026-04-17T18:14:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "NewsArticle",
+      "name": "Aberta seleção para grupo de estudos sobre a formação de Mecânicos de Manutenção Aeronáutica",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/aberta-selecao-para-grupo-de-estudos-sobre-a-formacao-de-mecanicos-de-manutencao-aeronautica",
+      "datePublished": "2026-04-17T18:14:00.000Z",
+      "description": "Inscrições podem ser feitas até o dia 29 de abril",
+      "type": "notícia"
+    },
     {
       "@type": "NewsArticle",
       "name": "Evento reunirá autoridades para debater regulação e judicialização no setor aéreo",
@@ -277,14 +285,6 @@
       "datePublished": "2026-03-27T17:25:00.000Z",
       "description": "Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação",
       "image": "https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador/portal_criando_asas_ssa.jpg/@@images/c1fb3592-df86-47cc-839e-80a8378a6756.jpeg",
-      "type": "notícia"
-    },
-    {
-      "@type": "NewsArticle",
-      "name": "Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h",
-      "url": "https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h",
-      "datePublished": "2026-03-26T17:41:00.000Z",
-      "description": "Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br",
       "type": "notícia"
     },
     {

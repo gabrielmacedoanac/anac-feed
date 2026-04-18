@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-03628523-88e1-4510-86e0-3f3bbcb517bf</id>
-  <updated>2026-04-17T16:54:00.000Z</updated>
+  <id>urn:uuid:anac-feed-1ec775d0-843e-4e24-b18d-7fea14df4515</id>
+  <updated>2026-04-17T18:14:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Aberta seleção para grupo de estudos sobre a formação de Mecânicos de Manutenção Aeronáutica</title>
+    <link href="https://www.gov.br/anac/pt-br/noticias/2026/aberta-selecao-para-grupo-de-estudos-sobre-a-formacao-de-mecanicos-de-manutencao-aeronautica" rel="alternate"/>
+    <id>https://www.gov.br/anac/pt-br/noticias/2026/aberta-selecao-para-grupo-de-estudos-sobre-a-formacao-de-mecanicos-de-manutencao-aeronautica</id>
+    <published>2026-04-17T18:14:00.000Z</published>
+    <updated>2026-04-17T18:14:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Inscrições podem ser feitas até o dia 29 de abril</summary>
+    <content type="html"><![CDATA[
+      <p>Inscrições podem ser feitas até o dia 29 de abril</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -545,25 +564,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Estudantes de Santo Estêvão participam de experiências imersivas do universo da aviação</p>
       <img src="https://www.gov.br/anac/pt-br/noticias/2026/primeira-edicao-nordestina-do-programa-criando-asas-inspira-jovens-em-salvador/portal_criando_asas_ssa.jpg/@@images/c1fb3592-df86-47cc-839e-80a8378a6756.jpeg" alt="Primeira edição nordestina do programa Criando Asas inspira jovens em Salvador">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Leilão da venda assistida do Aeroporto do Galeão será no dia 30/3, às 15h</title>
-    <link href="https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h" rel="alternate"/>
-    <id>https://www.gov.br/anac/pt-br/noticias/2026/leilao-da-venda-assistida-do-aeroporto-do-galeao-sera-no-dia-30-3-as-15h</id>
-    <published>2026-03-26T17:41:00.000Z</published>
-    <updated>2026-03-26T17:41:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</summary>
-    <content type="html"><![CDATA[
-      <p>Jornalistas interessados em acompanhar a sessão na B3, em SP, devem confirmar presença pelo e-mail imprensa@b3.com.br</p>
-      
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="notícia"/> <!-- Adiciona o tipo como categoria -->
