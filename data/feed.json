@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-19476040-6593-4a55-a4b6-47003c3dfbd0",
+  "identifier": "urn:uuid:anac-feed-5715e418-d327-4c18-a6ca-56990f60737c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-04-29T13:42:48.789Z",
-  "dateModified": "2026-04-29T13:42:48.789Z",
+  "dateCreated": "2026-04-29T17:21:21.041Z",
+  "dateModified": "2026-04-29T17:21:21.041Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-01-21T07:45:38.000Z",
-    "endDate": "2026-04-29T09:38:12.000Z"
+    "startDate": "2026-02-11T10:16:02.000Z",
+    "endDate": "2026-04-29T14:41:07.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário BGAST – Alerta sobre a saúde e bem-estar dos tripulantes para a segurança na aviação geral",
+      "url": "https://www.youtube.com/watch?v=YGjzs2CY1JU",
+      "datePublished": "2026-04-29T14:41:07.000Z",
+      "description": "",
+      "image": "https://i2.ytimg.com/vi/YGjzs2CY1JU/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros",
@@ -157,15 +166,6 @@
       "datePublished": "2026-02-11T10:16:02.000Z",
       "description": "",
       "image": "https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
-      "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
-      "datePublished": "2026-01-21T07:45:38.000Z",
-      "description": "Início - 6:49\n1) Processo: 00058.014794/2023-28 - 8:36\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21 - 24:41\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
-      "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
