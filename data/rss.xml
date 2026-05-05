@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 05 May 2026 09:56:20 GMT</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 09:56:20 GMT</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 13:23:51 GMT</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 13:23:51 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -14,7 +14,7 @@
     <item>
       <title>Webinário BGAST – Alerta sobre a saúde e bem-estar dos tripulantes para a segurança na aviação geral</title>
       <link>https://www.youtube.com/watch?v=YGjzs2CY1JU</link>
-      <description></description>
+      <description>Slido: https://app.sli.do/event/3Sbx59wFJ1hCYQodV3HpgC</description>
       <pubDate>Wed, 29 Apr 2026 14:41:07 GMT</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=YGjzs2CY1JU</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
@@ -22,7 +22,7 @@
       <enclosure url="https://i2.ytimg.com/vi/YGjzs2CY1JU/hqdefault.jpg" type="image/jpeg"/>
       <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
-        <p></p>
+        <p>Slido: https://app.sli.do/event/3Sbx59wFJ1hCYQodV3HpgC</p>
         <img src="https://i2.ytimg.com/vi/YGjzs2CY1JU/hqdefault.jpg" alt="Webinário BGAST – Alerta sobre a saúde e bem-estar dos tripulantes para a segurança na aviação geral">
       ]]></content:encoded>
     </item>

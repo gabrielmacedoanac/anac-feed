@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-199009b1-cb95-4d35-aa96-c0d9b7c5275e",
+  "identifier": "urn:uuid:anac-feed-213cef69-74d9-47f9-a402-afade28fdc8c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-05T09:56:20.546Z",
-  "dateModified": "2026-05-05T09:56:20.546Z",
+  "dateCreated": "2026-05-05T13:23:51.237Z",
+  "dateModified": "2026-05-05T13:23:51.237Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -38,7 +38,7 @@
       "name": "Webinário BGAST – Alerta sobre a saúde e bem-estar dos tripulantes para a segurança na aviação geral",
       "url": "https://www.youtube.com/watch?v=YGjzs2CY1JU",
       "datePublished": "2026-04-29T14:41:07.000Z",
-      "description": "",
+      "description": "Slido: https://app.sli.do/event/3Sbx59wFJ1hCYQodV3HpgC",
       "image": "https://i2.ytimg.com/vi/YGjzs2CY1JU/hqdefault.jpg",
       "type": "vídeo"
     },
