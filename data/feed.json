@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-999bb19c-300b-47df-8a2f-c998b1a7ea0b",
+  "identifier": "urn:uuid:anac-feed-0eaddb82-a159-495c-879a-06974b58dad4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-06T10:10:45.869Z",
-  "dateModified": "2026-05-06T10:10:45.869Z",
+  "dateCreated": "2026-05-06T13:51:51.268Z",
+  "dateModified": "2026-05-06T13:51:51.268Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-02-11T10:16:02.000Z",
+    "startDate": "2026-01-21T07:45:38.000Z",
     "endDate": "2026-05-06T08:57:28.000Z"
   },
   "distribution": [
@@ -53,10 +53,10 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Desafios da Aviação Civil para os próximos 5 anos (Sustentabilidade e Pessoas)",
+      "name": "Desafios da Aviação Civil para os próximos 5 anos (Mercado e Conectividade)",
       "url": "https://www.youtube.com/watch?v=cOrbBoeLnhg",
       "datePublished": "2026-04-23T19:32:27.000Z",
-      "description": "",
+      "description": "Link Sli.do - https://app.sli.do/event/spPW9N9CCDreJJNYEE32Ko",
       "image": "https://i4.ytimg.com/vi/cOrbBoeLnhg/hqdefault.jpg",
       "type": "vídeo"
     },
@@ -67,15 +67,6 @@
       "datePublished": "2026-04-23T19:31:23.000Z",
       "description": "",
       "image": "https://i1.ytimg.com/vi/tAmalUI7gHs/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Desafios da Aviação Civil para os próximos 5 anos (Mercado e Conectividade)",
-      "url": "https://www.youtube.com/watch?v=3EGRrGjSVRM",
-      "datePublished": "2026-04-23T19:29:58.000Z",
-      "description": "",
-      "image": "https://i4.ytimg.com/vi/3EGRrGjSVRM/hqdefault.jpg",
       "type": "vídeo"
     },
     {
@@ -166,6 +157,15 @@
       "datePublished": "2026-02-11T10:16:02.000Z",
       "description": "",
       "image": "https://i2.ytimg.com/vi/-8_H8qqHFN4/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026)",
+      "url": "https://www.youtube.com/watch?v=ZuHcl1ahxSk",
+      "datePublished": "2026-01-21T07:45:38.000Z",
+      "description": "Início - 6:49\n1) Processo: 00058.014794/2023-28 - 8:36\nAssunto: Proposta de emenda ao RBAC nº 121, objeto da Consulta Pública nº 16/2023, encerrada em 4 de janeiro de 2024 - tema 18 da Agenda Regulatória 2023-2024\nRelator: Rui Mesquita\n \n2) Processo: 00058.111394/2025-21 - 24:41\nAssunto: Proposta de consulta e audiência pública sobre a alteração da Resolução nº 400, de 13 de dezembro de 2016, que dispõe sobre as Condições Gerais de Transporte Aéreo\nRelator: Rui Mesquita",
+      "image": "https://i3.ytimg.com/vi/ZuHcl1ahxSk/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
