@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-1d0427f6-412b-48bf-8ce0-78c3ce08130b",
+  "identifier": "urn:uuid:anac-feed-3ab5c05c-9782-4dc5-8a53-cd3dd9553508",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-06T21:05:10.230Z",
-  "dateModified": "2026-05-06T21:05:10.230Z",
+  "dateCreated": "2026-05-07T02:14:45.370Z",
+  "dateModified": "2026-05-07T02:14:45.370Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-01-21T07:45:38.000Z",
-    "endDate": "2026-05-06T08:57:28.000Z"
+    "endDate": "2026-05-06T21:11:27.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Desafios da Aviação Civil para os próximos 5 anos (Mercado e Conectividade)",
+      "url": "https://www.youtube.com/watch?v=cOrbBoeLnhg",
+      "datePublished": "2026-05-06T21:11:27.000Z",
+      "description": "Link Sli.do - https://app.sli.do/event/spPW9N9CCDreJJNYEE32Ko",
+      "image": "https://i4.ytimg.com/vi/cOrbBoeLnhg/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Webinário BGAST – Alerta sobre a saúde e bem-estar dos tripulantes para a segurança na aviação geral",
@@ -49,15 +58,6 @@
       "datePublished": "2026-04-29T09:38:12.000Z",
       "description": "LINK SLIDO: https://app.sli.do/event/rao4YZUceYybrNZXrR3rqg",
       "image": "https://i4.ytimg.com/vi/khhjOz1Grwg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Desafios da Aviação Civil para os próximos 5 anos (Mercado e Conectividade)",
-      "url": "https://www.youtube.com/watch?v=cOrbBoeLnhg",
-      "datePublished": "2026-04-23T19:32:27.000Z",
-      "description": "Link Sli.do - https://app.sli.do/event/spPW9N9CCDreJJNYEE32Ko",
-      "image": "https://i4.ytimg.com/vi/cOrbBoeLnhg/hqdefault.jpg",
       "type": "vídeo"
     },
     {
