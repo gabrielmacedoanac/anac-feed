@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-8570cb90-7bdd-4049-8977-1dc69a412edc",
+  "identifier": "urn:uuid:anac-feed-33c7ad24-bde8-4193-aa04-59a4bd3a5355",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-12T17:54:10.489Z",
-  "dateModified": "2026-05-12T17:54:10.489Z",
+  "dateCreated": "2026-05-12T21:12:35.708Z",
+  "dateModified": "2026-05-12T21:12:35.708Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -65,7 +65,7 @@
       "name": "Desafios da Aviação Civil para os próximos 5 anos (Inovação e Segurança)",
       "url": "https://www.youtube.com/watch?v=tAmalUI7gHs",
       "datePublished": "2026-04-23T19:31:23.000Z",
-      "description": "",
+      "description": "https://app.sli.do/event/t1EuLm6eQgLxVecPq4Wfdn",
       "image": "https://i1.ytimg.com/vi/tAmalUI7gHs/hqdefault.jpg",
       "type": "vídeo"
     },
