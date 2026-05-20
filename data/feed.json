@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9e1b3c73-0197-464c-bca8-6726ae066d01",
+  "identifier": "urn:uuid:anac-feed-194d69ae-8d01-450e-80ed-cd4c48f7a6b5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-20T18:13:27.451Z",
-  "dateModified": "2026-05-20T18:13:27.451Z",
+  "dateCreated": "2026-05-20T21:48:54.640Z",
+  "dateModified": "2026-05-20T21:48:54.640Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-20T12:11:53.000Z",
-    "endDate": "2026-05-18T21:01:09.000Z"
+    "endDate": "2026-05-20T20:32:07.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Desafios da Aviação Civil para os próximos 5 anos (Sustentabilidade e Pessoas)",
+      "url": "https://www.youtube.com/watch?v=iQADLK0Vtlg",
+      "datePublished": "2026-05-20T20:32:07.000Z",
+      "description": "Link para perguntas - https://app.sli.do/event/6UQR9xHDCHFtR32ZWLTexX",
+      "image": "https://i2.ytimg.com/vi/iQADLK0Vtlg/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Semana do MMA - DATA: 28 de maio de 2026",
@@ -49,15 +58,6 @@
       "datePublished": "2026-05-18T20:59:50.000Z",
       "description": "LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a",
       "image": "https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Desafios da Aviação Civil para os próximos 5 anos (Sustentabilidade e Pessoas)",
-      "url": "https://www.youtube.com/watch?v=iQADLK0Vtlg",
-      "datePublished": "2026-05-14T17:39:20.000Z",
-      "description": "Link para perguntas - https://app.sli.do/event/6UQR9xHDCHFtR32ZWLTexX",
-      "image": "https://i2.ytimg.com/vi/iQADLK0Vtlg/hqdefault.jpg",
       "type": "vídeo"
     },
     {
