@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d1d996bb-6518-4e0d-9d56-5740a01131d6</id>
+  <id>urn:uuid:anac-feed-56ca2dca-8248-4e25-8c62-ed887f8a701d</id>
   <updated>2026-05-20T20:32:07.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -71,6 +71,44 @@
   
   
   <entry>
+    <title type="html">IS 21.3-001A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-3-001a" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-3-001a</id>
+    <published>2026-05-15T16:50:00.000Z</published>
+    <updated>2026-05-15T16:50:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Comunicação de perigos, falhas, mau funcionamento e defeitos</summary>
+    <content type="html"><![CDATA[
+      <p>Comunicação de perigos, falhas, mau funcionamento e defeitos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 121-005F</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005</id>
+    <published>2026-05-14T16:08:00.000Z</published>
+    <updated>2026-05-14T16:08:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Desafios da Aviação Civil para os próximos 5 anos (Inovação e Segurança)</title>
     <link href="https://www.youtube.com/watch?v=tAmalUI7gHs" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=tAmalUI7gHs</id>
@@ -86,6 +124,63 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RBAC 121 EMD 25</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25</id>
+    <published>2026-05-13T16:50:00.000Z</published>
+    <updated>2026-05-13T16:50:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</summary>
+    <content type="html"><![CDATA[
+      <p>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RBAC 121 EMD 25</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121</id>
+    <published>2026-05-13T16:46:00.000Z</published>
+    <updated>2026-05-13T16:46:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</summary>
+    <content type="html"><![CDATA[
+      <p>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 21-010H</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-010" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-010</id>
+    <published>2026-05-12T15:24:00.000Z</published>
+    <updated>2026-05-12T15:24:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimentos para a aprovação de produtos aeronáuticos civis estrangeiros e importação de quaisquer produtos aeronáuticos civis / Procedures for approval of foreign civil aeronautical products and import of any civil aeronautical product</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimentos para a aprovação de produtos aeronáuticos civis estrangeiros e importação de quaisquer produtos aeronáuticos civis / Procedures for approval of foreign civil aeronautical products and import of any civil aeronautical product</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -128,6 +223,63 @@
   
   
   <entry>
+    <title type="html">DECISÃO Nº 745, 04/05/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745</id>
+    <published>2026-05-04T00:00:00.000Z</published>
+    <updated>2026-05-04T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora</summary>
+    <content type="html"><![CDATA[
+      <p>Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 801, 04/05/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-801" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-801</id>
+    <published>2026-05-04T00:00:00.000Z</published>
+    <updated>2026-05-04T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova a Emenda nº 25 ao RBAC nº 121</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova a Emenda nº 25 ao RBAC nº 121</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RBAC 21 EMD 14</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-14" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-14</id>
+    <published>2026-04-30T10:43:00.000Z</published>
+    <updated>2026-04-30T10:43:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Certificação de produto e artigo aeronáuticos</summary>
+    <content type="html"><![CDATA[
+      <p>Certificação de produto e artigo aeronáuticos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros</title>
     <link href="https://www.youtube.com/watch?v=khhjOz1Grwg" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=khhjOz1Grwg</id>
@@ -162,6 +314,120 @@
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO INTERNA Nº 8, 13/04/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-8" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-8</id>
+    <published>2026-04-13T00:00:00.000Z</published>
+    <updated>2026-04-13T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Institui a Política de Atuação Social e o Comitê de Equidade no âmbito da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Institui a Política de Atuação Social e o Comitê de Equidade no âmbito da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 121-013B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-013" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-013</id>
+    <published>2026-04-10T12:13:00.000Z</published>
+    <updated>2026-04-10T12:13:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estações de linha para operações segundo o RBAC nº 121</summary>
+    <content type="html"><![CDATA[
+      <p>Estações de linha para operações segundo o RBAC nº 121</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 121-024A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-024a" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-024a</id>
+    <published>2026-04-10T12:10:00.000Z</published>
+    <updated>2026-04-10T12:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimentos para elaboração, revisão e utilização do Manual Geral de Manutenção (MGM) de operadores aéreos regidos pelo RBAC nº 121</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimentos para elaboração, revisão e utilização do Manual Geral de Manutenção (MGM) de operadores aéreos regidos pelo RBAC nº 121</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 744, 07/04/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-744" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-744</id>
+    <published>2026-04-07T00:00:00.000Z</published>
+    <updated>2026-04-07T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Torna pública decisão em Processo Administrativo de Responsabilização de Ente Privado - PAR</summary>
+    <content type="html"><![CDATA[
+      <p>Torna pública decisão em Processo Administrativo de Responsabilização de Ente Privado - PAR</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 175-001M</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001</id>
+    <published>2026-04-06T12:53:00.000Z</published>
+    <updated>2026-04-06T12:53:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Transporte de artigos perigosos em aeronaves civis</summary>
+    <content type="html"><![CDATA[
+      <p>Transporte de artigos perigosos em aeronaves civis</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 798, 06/04/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-798" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-798</id>
+    <published>2026-04-06T00:00:00.000Z</published>
+    <updated>2026-04-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova a Emenda nº 14 ao RBAC nº 21 e altera a Resolução nº 714, de 26 de abril de 2023</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova a Emenda nº 14 ao RBAC nº 21 e altera a Resolução nº 714, de 26 de abril de 2023</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -210,6 +476,82 @@ Processo: 00066.021549/2019-91 - 35:00</p>
   
   
   <entry>
+    <title type="html">DECISÃO Nº 742, 30/03/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-742" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-742</id>
+    <published>2026-03-30T00:00:00.000Z</published>
+    <updated>2026-03-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam os parágrafos 108.13(d), 108.13(d)(1), 108.13(d)(2) e 108.13(d)(3) do RBAC nº 108, Emenda nº 08, em favor da AZUL CONECTA LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam os parágrafos 108.13(d), 108.13(d)(1), 108.13(d)(2) e 108.13(d)(3) do RBAC nº 108, Emenda nº 08, em favor da AZUL CONECTA LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 743, 30/03/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-743" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-743</id>
+    <published>2026-03-30T00:00:00.000Z</published>
+    <updated>2026-03-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.</summary>
+    <content type="html"><![CDATA[
+      <p>Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO INTERNA Nº 7, 30/03/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-7" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-7</id>
+    <published>2026-03-30T00:00:00.000Z</published>
+    <updated>2026-03-30T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Dispõe sobre conceitos, procedimentos e responsabilidades referentes à administração, controle, uso, fornecimento, responsabilidade, guarda, transferência, cessão, alienação e outras formas de desfazimento de bens a serem observados no âmbito da ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Dispõe sobre conceitos, procedimentos e responsabilidades referentes à administração, controle, uso, fornecimento, responsabilidade, guarda, transferência, cessão, alienação e outras formas de desfazimento de bens a serem observados no âmbito da ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 133-001C</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-133-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-133-001</id>
+    <published>2026-03-25T16:20:00.000Z</published>
+    <updated>2026-03-25T16:20:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Procedimentos para autorização para operações de helicópteros com carga externa segundo o RBAC nº 133</summary>
+    <content type="html"><![CDATA[
+      <p>Procedimentos para autorização para operações de helicópteros com carga externa segundo o RBAC nº 133</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
     <title type="html">Anac 20 anos: Mensagem das autoridades de aviação civil estrangeiras</title>
     <link href="https://www.youtube.com/watch?v=jatAS4IHXBo" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=jatAS4IHXBo</id>
@@ -244,6 +586,44 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 108-001J</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001j" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-108-001j</id>
+    <published>2026-03-20T17:58:00.000Z</published>
+    <updated>2026-03-20T17:58:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Segurança da aviação contra atos de interferência ilícita - operador aéreo</summary>
+    <content type="html"><![CDATA[
+      <p>Segurança da aviação contra atos de interferência ilícita - operador aéreo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 107-001M</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001m" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001m</id>
+    <published>2026-03-20T17:54:00.000Z</published>
+    <updated>2026-03-20T17:54:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</summary>
+    <content type="html"><![CDATA[
+      <p>Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
