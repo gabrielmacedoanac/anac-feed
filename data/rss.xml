@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 22 May 2026 14:27:15 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 14:27:15 GMT</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 17:48:41 GMT</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 17:48:41 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>IS 175-001M</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001</link>
+      <description>Transporte de artigos perigosos em aeronaves civis</description>
+      <pubDate>Fri, 22 May 2026 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-05-22T14:18:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Transporte de artigos perigosos em aeronaves civis</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -58,6 +75,23 @@
       <content:encoded><![CDATA[
         <p>LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a</p>
         <img src="https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg" alt="Semana do MMA - DATA: 27 de maio de 2026">
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>RESOLUÇÃO Nº 802, 18/05/2026</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-802</link>
+      <description>Aprova emendas aos RBACs nºs 153 e 154</description>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-802</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-05-18T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprova emendas aos RBACs nºs 153 e 154</p>
+        
       ]]></content:encoded>
     </item>
     
@@ -352,23 +386,6 @@
     
     
     <item>
-      <title>IS 175-001M</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001</link>
-      <description>Transporte de artigos perigosos em aeronaves civis</description>
-      <pubDate>Mon, 06 Apr 2026 12:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-04-06T12:53:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Transporte de artigos perigosos em aeronaves civis</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
       <title>RESOLUÇÃO Nº 798, 06/04/2026</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-798</link>
       <description>Aprova a Emenda nº 14 ao RBAC nº 21 e altera a Resolução nº 714, de 26 de abril de 2023</description>
@@ -471,23 +488,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Dispõe sobre conceitos, procedimentos e responsabilidades referentes à administração, controle, uso, fornecimento, responsabilidade, guarda, transferência, cessão, alienação e outras formas de desfazimento de bens a serem observados no âmbito da ANAC</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 133-001C</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-133-001</link>
-      <description>Procedimentos para autorização para operações de helicópteros com carga externa segundo o RBAC nº 133</description>
-      <pubDate>Wed, 25 Mar 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-133-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-03-25T16:20:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Procedimentos para autorização para operações de helicópteros com carga externa segundo o RBAC nº 133</p>
         
       ]]></content:encoded>
     </item>
