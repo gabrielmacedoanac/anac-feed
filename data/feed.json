@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-eab688d8-8d31-43f4-a5fc-e84b6e8fa220",
+  "identifier": "urn:uuid:anac-feed-0d85d22b-f659-4dab-a74e-a299aeb38797",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-25T14:43:53.840Z",
-  "dateModified": "2026-05-25T14:43:53.840Z",
+  "dateCreated": "2026-05-25T17:30:55.314Z",
+  "dateModified": "2026-05-25T17:30:55.314Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-20T12:11:53.000Z",
-    "endDate": "2026-05-25T14:43:53.838Z"
+    "endDate": "2026-05-22T17:24:00.000Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "RBAC 154 EMD 09",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
-      "datePublished": "2026-05-25T14:43:53.838Z",
+      "datePublished": "2026-05-22T17:24:00.000Z",
       "description": "Projeto de aeródromos",
       "type": "legislação"
     },
