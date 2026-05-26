@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-563035a4-da9b-4d74-9713-85d6c2499ab9",
+  "identifier": "urn:uuid:anac-feed-b89f671e-2b03-472e-926e-a2869cfa7648",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-26T14:55:21.800Z",
-  "dateModified": "2026-05-26T14:55:21.800Z",
+  "dateCreated": "2026-05-26T18:22:29.380Z",
+  "dateModified": "2026-05-26T18:22:29.380Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,7 +22,7 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-02-20T12:11:53.000Z",
+    "startDate": "2026-02-27T02:06:40.000Z",
     "endDate": "2026-05-22T17:24:00.000Z"
   },
   "distribution": [
@@ -82,6 +82,15 @@
       "datePublished": "2026-05-18T20:59:50.000Z",
       "description": "LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a",
       "image": "https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Entrevista com Camilo de Brito e Ricardo Pinheiro, MMAs e sócios da ALFA - Manutenção de Aeronaves",
+      "url": "https://www.youtube.com/watch?v=l-Orscs_4E4",
+      "datePublished": "2026-05-18T20:53:06.000Z",
+      "description": "Perguntas: https://app.sli.do/event/noFFjhyNSipz8rm1RTKwZL\n\nPágina e manutenção aeronáutica: https://www.gov.br/anac/om",
+      "image": "https://i1.ytimg.com/vi/l-Orscs_4E4/hqdefault.jpg",
       "type": "vídeo"
     },
     {
@@ -317,15 +326,6 @@
       "datePublished": "2026-02-27T02:06:40.000Z",
       "description": "",
       "image": "https://i3.ytimg.com/vi/NlRj-vswCnk/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Confiança não tem atalho",
-      "url": "https://www.youtube.com/watch?v=LRBd-yfAkts",
-      "datePublished": "2026-02-20T12:11:53.000Z",
-      "description": "Antes de voar, verifique se a empresa é autorizada pela Anac.\nO transporte aéreo clandestino é um risco real para você e sua família!\n\nConfira a regularidade da empresa em\nhttps://voeseguro.anac.gov.br\n\nOu consulte pelo Super App da Anac.\n\nBaixe o Super App na App Store:\nhttps://apps.apple.com/br/app/anac/id6479522513\n\nBaixe o Super App no Google Play:\nhttps://play.google.com/store/apps/details?id=br.gov.anac.superapp\n\n#voeseguro",
-      "image": "https://i1.ytimg.com/vi/LRBd-yfAkts/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
