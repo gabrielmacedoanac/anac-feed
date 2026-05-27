@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-20e67dbc-351a-4938-b80e-5d4a6b0e41ea</id>
-  <updated>2026-05-27T07:36:35.000Z</updated>
+  <id>urn:uuid:anac-feed-f80a14c7-6023-4d47-b3b3-0b7c2aaebd84</id>
+  <updated>2026-05-27T13:10:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">RBAC 153 EMD 11</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
+    <published>2026-05-27T13:10:00.000Z</published>
+    <updated>2026-05-27T13:10:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aeródromos - Operação, Manutenção e Resposta à Emergência</summary>
+    <content type="html"><![CDATA[
+      <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -67,25 +86,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     <summary type="html">Projeto de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Projeto de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RBAC 153 EMD 10</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</id>
-    <published>2026-05-22T17:20:00.000Z</published>
-    <updated>2026-05-22T17:20:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aeródromos - Operação, Manutenção e Resposta à Emergência</summary>
-    <content type="html"><![CDATA[
-      <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

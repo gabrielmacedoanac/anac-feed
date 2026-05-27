@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-20e67dbc-351a-4938-b80e-5d4a6b0e41ea",
+  "identifier": "urn:uuid:anac-feed-f80a14c7-6023-4d47-b3b3-0b7c2aaebd84",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-27T15:24:13.475Z",
-  "dateModified": "2026-05-27T15:24:13.475Z",
+  "dateCreated": "2026-05-27T18:23:19.556Z",
+  "dateModified": "2026-05-27T18:23:19.556Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-27T02:06:40.000Z",
-    "endDate": "2026-05-27T07:36:35.000Z"
+    "endDate": "2026-05-27T13:10:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 153 EMD 11",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
+      "datePublished": "2026-05-27T13:10:00.000Z",
+      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Entrevista com Camilo de Brito e Ricardo Pinheiro, MMAs e sócios da ALFA - Manutenção de Aeronaves",
@@ -56,14 +64,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
       "datePublished": "2026-05-22T17:24:00.000Z",
       "description": "Projeto de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 153 EMD 10",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
-      "datePublished": "2026-05-22T17:20:00.000Z",
-      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
       "type": "legislação"
     },
     {
