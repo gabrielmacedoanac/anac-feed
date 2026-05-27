@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-880a2329-8459-499b-ba34-6de1f35a6b50</id>
+  <id>urn:uuid:anac-feed-20e67dbc-351a-4938-b80e-5d4a6b0e41ea</id>
   <updated>2026-05-27T07:36:35.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -33,6 +33,25 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 803, 25/05/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-803" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-803</id>
+    <published>2026-05-25T00:00:00.000Z</published>
+    <updated>2026-05-25T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Resolução nº 762, de 18 de dezembro de 2024, e aprova a Emenda nº 11 ao Regulamento Brasileiro da Aviação Civil - RBAC nº 153</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Resolução nº 762, de 18 de dezembro de 2024, e aprova a Emenda nº 11 ao Regulamento Brasileiro da Aviação Civil - RBAC nº 153</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
@@ -586,25 +605,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <summary type="html">Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO INTERNA Nº 7, 30/03/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-7" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-7</id>
-    <published>2026-03-30T00:00:00.000Z</published>
-    <updated>2026-03-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Dispõe sobre conceitos, procedimentos e responsabilidades referentes à administração, controle, uso, fornecimento, responsabilidade, guarda, transferência, cessão, alienação e outras formas de desfazimento de bens a serem observados no âmbito da ANAC</summary>
-    <content type="html"><![CDATA[
-      <p>Dispõe sobre conceitos, procedimentos e responsabilidades referentes à administração, controle, uso, fornecimento, responsabilidade, guarda, transferência, cessão, alienação e outras formas de desfazimento de bens a serem observados no âmbito da ANAC</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
