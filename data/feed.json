@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2c6908bf-bb3f-4153-9fa9-669f22e3ebeb",
+  "identifier": "urn:uuid:anac-feed-1d318f86-b253-4710-8b1b-8d4c44081fc5",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-28T18:33:45.339Z",
-  "dateModified": "2026-05-28T18:33:45.339Z",
+  "dateCreated": "2026-05-28T21:52:52.237Z",
+  "dateModified": "2026-05-28T21:52:52.237Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-27T02:06:40.000Z",
-    "endDate": "2026-05-28T08:10:54.000Z"
+    "endDate": "2026-05-28T15:56:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 121 EMD 25",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25",
+      "datePublished": "2026-05-28T15:56:00.000Z",
+      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 121 EMD 25",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121",
+      "datePublished": "2026-05-28T15:55:00.000Z",
+      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Semana do MMA - DATA: 27 de maio de 2026",
@@ -94,7 +110,7 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Semana do MMA - DATA: 28 de maio de 2026",
+      "name": "Jornada do MMA - Da qualificação à certificação Anac",
       "url": "https://www.youtube.com/watch?v=EbfpnZEGWmw",
       "datePublished": "2026-05-18T21:01:09.000Z",
       "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
@@ -133,22 +149,6 @@
       "description": "https://app.sli.do/event/t1EuLm6eQgLxVecPq4Wfdn",
       "image": "https://i1.ytimg.com/vi/tAmalUI7gHs/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 121 EMD 25",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25",
-      "datePublished": "2026-05-13T16:50:00.000Z",
-      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 121 EMD 25",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121",
-      "datePublished": "2026-05-13T16:46:00.000Z",
-      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",
