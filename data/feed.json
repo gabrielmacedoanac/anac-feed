@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-72126b93-56a6-462a-b5d7-4623ecb5c897",
+  "identifier": "urn:uuid:anac-feed-d15bf17e-24b1-4d31-8c9a-8103bfd4ecc2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-28T07:53:11.710Z",
-  "dateModified": "2026-05-28T07:53:11.710Z",
+  "dateCreated": "2026-05-28T11:34:07.787Z",
+  "dateModified": "2026-05-28T11:34:07.787Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-27T02:06:40.000Z",
-    "endDate": "2026-05-27T13:10:00.000Z"
+    "endDate": "2026-05-28T08:10:54.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Semana do MMA - DATA: 27 de maio de 2026",
+      "url": "https://www.youtube.com/watch?v=HBfWzgsDR-k",
+      "datePublished": "2026-05-28T08:10:54.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a",
+      "image": "https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 153 EMD 11",
@@ -90,15 +99,6 @@
       "datePublished": "2026-05-18T21:01:09.000Z",
       "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
       "image": "https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Semana do MMA - DATA: 27 de maio de 2026",
-      "url": "https://www.youtube.com/watch?v=HBfWzgsDR-k",
-      "datePublished": "2026-05-18T20:59:50.000Z",
-      "description": "LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a",
-      "image": "https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg",
       "type": "vídeo"
     },
     {

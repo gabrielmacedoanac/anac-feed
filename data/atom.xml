@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-72126b93-56a6-462a-b5d7-4623ecb5c897</id>
-  <updated>2026-05-27T13:10:00.000Z</updated>
+  <id>urn:uuid:anac-feed-d15bf17e-24b1-4d31-8c9a-8103bfd4ecc2</id>
+  <updated>2026-05-28T08:10:54.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Semana do MMA - DATA: 27 de maio de 2026</title>
+    <link href="https://www.youtube.com/watch?v=HBfWzgsDR-k" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=HBfWzgsDR-k</id>
+    <published>2026-05-28T08:10:54.000Z</published>
+    <updated>2026-05-28T08:10:54.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a</p>
+      <img src="https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg" alt="Semana do MMA - DATA: 27 de maio de 2026">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -144,25 +163,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     <content type="html"><![CDATA[
       <p>LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs</p>
       <img src="https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg" alt="Semana do MMA - DATA: 28 de maio de 2026">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Semana do MMA - DATA: 27 de maio de 2026</title>
-    <link href="https://www.youtube.com/watch?v=HBfWzgsDR-k" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=HBfWzgsDR-k</id>
-    <published>2026-05-18T20:59:50.000Z</published>
-    <updated>2026-05-18T20:59:50.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a</summary>
-    <content type="html"><![CDATA[
-      <p>LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a</p>
-      <img src="https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg" alt="Semana do MMA - DATA: 27 de maio de 2026">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
