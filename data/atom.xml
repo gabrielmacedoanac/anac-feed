@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-6c62d2e7-8f41-408d-ad19-dde2a614ce9e</id>
-  <updated>2026-05-28T15:56:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f832d18f-67ba-4613-9fac-dcdbe01416b1</id>
+  <updated>2026-05-29T07:46:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Jornada do MMA - Da qualificação à certificação Anac</title>
+    <link href="https://www.youtube.com/watch?v=EbfpnZEGWmw" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=EbfpnZEGWmw</id>
+    <published>2026-05-29T07:46:00.000Z</published>
+    <updated>2026-05-29T07:46:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs</p>
+      <img src="https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg" alt="Jornada do MMA - Da qualificação à certificação Anac">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -182,25 +201,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     <content type="html"><![CDATA[
       <p>Link para perguntas - https://app.sli.do/event/6UQR9xHDCHFtR32ZWLTexX</p>
       <img src="https://i2.ytimg.com/vi/iQADLK0Vtlg/hqdefault.jpg" alt="Desafios da Aviação Civil para os próximos 5 anos (Sustentabilidade e Pessoas)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Jornada do MMA - Da qualificação à certificação Anac</title>
-    <link href="https://www.youtube.com/watch?v=EbfpnZEGWmw" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=EbfpnZEGWmw</id>
-    <published>2026-05-18T21:01:09.000Z</published>
-    <updated>2026-05-18T21:01:09.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs</summary>
-    <content type="html"><![CDATA[
-      <p>LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs</p>
-      <img src="https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg" alt="Jornada do MMA - Da qualificação à certificação Anac">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

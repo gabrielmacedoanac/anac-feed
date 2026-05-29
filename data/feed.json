@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6c62d2e7-8f41-408d-ad19-dde2a614ce9e",
+  "identifier": "urn:uuid:anac-feed-f832d18f-67ba-4613-9fac-dcdbe01416b1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-05-29T02:41:47.916Z",
-  "dateModified": "2026-05-29T02:41:47.916Z",
+  "dateCreated": "2026-05-29T07:51:40.564Z",
+  "dateModified": "2026-05-29T07:51:40.564Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-27T02:06:40.000Z",
-    "endDate": "2026-05-28T15:56:00.000Z"
+    "endDate": "2026-05-29T07:46:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Jornada do MMA - Da qualificação à certificação Anac",
+      "url": "https://www.youtube.com/watch?v=EbfpnZEGWmw",
+      "datePublished": "2026-05-29T07:46:00.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
+      "image": "https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 121 EMD 25",
@@ -106,15 +115,6 @@
       "datePublished": "2026-05-20T20:32:07.000Z",
       "description": "Link para perguntas - https://app.sli.do/event/6UQR9xHDCHFtR32ZWLTexX",
       "image": "https://i2.ytimg.com/vi/iQADLK0Vtlg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Jornada do MMA - Da qualificação à certificação Anac",
-      "url": "https://www.youtube.com/watch?v=EbfpnZEGWmw",
-      "datePublished": "2026-05-18T21:01:09.000Z",
-      "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
-      "image": "https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg",
       "type": "vídeo"
     },
     {
