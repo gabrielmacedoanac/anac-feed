@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2542ad9f-2050-4b2b-bdd8-518b31db757e</id>
-  <updated>2026-05-29T07:46:00.000Z</updated>
+  <id>urn:uuid:anac-feed-f0e95984-f020-4f7a-b587-065a72790bf3</id>
+  <updated>2026-06-01T00:00:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 746, 01/06/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-746" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-746</id>
+    <published>2026-06-01T00:00:00.000Z</published>
+    <updated>2026-06-01T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Defere o pedido de isenção de cumprimento do requisito de que trata o parágrafo 63.39(a)(1) do RBAC nº 63</summary>
+    <content type="html"><![CDATA[
+      <p>Defere o pedido de isenção de cumprimento do requisito de que trata o parágrafo 63.39(a)(1) do RBAC nº 63</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -586,25 +605,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <summary type="html">Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam os parágrafos 108.13(d), 108.13(d)(1), 108.13(d)(2) e 108.13(d)(3) do RBAC nº 108, Emenda nº 08, em favor da AZUL CONECTA LTDA.</summary>
     <content type="html"><![CDATA[
       <p>Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam os parágrafos 108.13(d), 108.13(d)(1), 108.13(d)(2) e 108.13(d)(3) do RBAC nº 108, Emenda nº 08, em favor da AZUL CONECTA LTDA.</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 743, 30/03/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-743" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-743</id>
-    <published>2026-03-30T00:00:00.000Z</published>
-    <updated>2026-03-30T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.</summary>
-    <content type="html"><![CDATA[
-      <p>Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

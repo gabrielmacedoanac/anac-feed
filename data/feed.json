@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-2542ad9f-2050-4b2b-bdd8-518b31db757e",
+  "identifier": "urn:uuid:anac-feed-f0e95984-f020-4f7a-b587-065a72790bf3",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-08T08:49:42.261Z",
-  "dateModified": "2026-06-08T08:49:42.261Z",
+  "dateCreated": "2026-06-08T15:38:28.596Z",
+  "dateModified": "2026-06-08T15:38:28.596Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-27T02:06:40.000Z",
-    "endDate": "2026-05-29T07:46:00.000Z"
+    "endDate": "2026-06-01T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 746, 01/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-746",
+      "datePublished": "2026-06-01T00:00:00.000Z",
+      "description": "Defere o pedido de isenção de cumprimento do requisito de que trata o parágrafo 63.39(a)(1) do RBAC nº 63",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Jornada do MMA - Da qualificação à certificação Anac",
@@ -282,14 +290,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-742",
       "datePublished": "2026-03-30T00:00:00.000Z",
       "description": "Defere pedido de isenção temporária do cumprimento dos requisitos de que tratam os parágrafos 108.13(d), 108.13(d)(1), 108.13(d)(2) e 108.13(d)(3) do RBAC nº 108, Emenda nº 08, em favor da AZUL CONECTA LTDA.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 743, 30/03/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-743",
-      "datePublished": "2026-03-30T00:00:00.000Z",
-      "description": "Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.19(b)(2) do RBAC nº 61, em favor da CW AVIAÇÃO LTDA.",
       "type": "legislação"
     },
     {
