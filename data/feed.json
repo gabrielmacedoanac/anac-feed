@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f0e95984-f020-4f7a-b587-065a72790bf3",
+  "identifier": "urn:uuid:anac-feed-5ba37823-bc03-4ff7-b854-ea2a72e245f9",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-08T15:38:28.596Z",
-  "dateModified": "2026-06-08T15:38:28.596Z",
+  "dateCreated": "2026-06-08T18:23:10.597Z",
+  "dateModified": "2026-06-08T18:23:10.597Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-02-27T02:06:40.000Z",
-    "endDate": "2026-06-01T00:00:00.000Z"
+    "endDate": "2026-06-08T15:18:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 154 EMD 09",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
+      "datePublished": "2026-06-08T15:18:00.000Z",
+      "description": "Projeto de aeródromos",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "DECISÃO Nº 746, 01/06/2026",
@@ -98,14 +106,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-803",
       "datePublished": "2026-05-25T00:00:00.000Z",
       "description": "Altera a Resolução nº 762, de 18 de dezembro de 2024, e aprova a Emenda nº 11 ao Regulamento Brasileiro da Aviação Civil - RBAC nº 153",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 154 EMD 09",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
-      "datePublished": "2026-05-22T17:24:00.000Z",
-      "description": "Projeto de aeródromos",
       "type": "legislação"
     },
     {
