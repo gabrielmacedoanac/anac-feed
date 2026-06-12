@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 12 Jun 2026 14:46:29 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 14:46:29 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 18:03:50 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:03:50 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -14,18 +14,20 @@
     <item>
       <title>4ª Reunião Deliberativa da Diretoria Colegiada (12/06/2026)</title>
       <link>https://www.youtube.com/watch?v=VBTSVhD8bOk</link>
-      <description>Processo: 00058.040824/2019-75
+      <description>Início - 9:55
+
+Processo: 00058.040824/2019-75 - 11:02
 Assunto: Proposta de edição do RBAC nº 100, objeto da Consulta Pública nº 09/2025, encerrada em 18 de julho de 2025 - tema 9 da Agenda Regulatória 2025-2026
 Relator: Mathias Moreira
 
 
-Processo: 00066.002919/2026-11
+Processo: 00066.002919/2026-11 - 01:11:03
 Interessado: Helimotors Táxi Aéreo Ltda.
 Assunto: Pedido de isenção de cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91
 Relator: Roberto Honorato
 
 
-Processo: 00058.104578/2025-35
+Processo: 00058.104578/2025-35 - 01:25:10
 Interessado: Companhia de Participações em Concessões - CPC
 Assunto: Pedido de anuência prévia para transferência do controle societário de sociedades concessionárias de serviços aeroportuários
 Relator: Roberto Honorato</description>
@@ -36,18 +38,20 @@ Relator: Roberto Honorato</description>
       <enclosure url="https://i3.ytimg.com/vi/VBTSVhD8bOk/hqdefault.jpg" type="image/jpeg"/>
       <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
-        <p>Processo: 00058.040824/2019-75
+        <p>Início - 9:55
+
+Processo: 00058.040824/2019-75 - 11:02
 Assunto: Proposta de edição do RBAC nº 100, objeto da Consulta Pública nº 09/2025, encerrada em 18 de julho de 2025 - tema 9 da Agenda Regulatória 2025-2026
 Relator: Mathias Moreira
 
 
-Processo: 00066.002919/2026-11
+Processo: 00066.002919/2026-11 - 01:11:03
 Interessado: Helimotors Táxi Aéreo Ltda.
 Assunto: Pedido de isenção de cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91
 Relator: Roberto Honorato
 
 
-Processo: 00058.104578/2025-35
+Processo: 00058.104578/2025-35 - 01:25:10
 Interessado: Companhia de Participações em Concessões - CPC
 Assunto: Pedido de anuência prévia para transferência do controle societário de sociedades concessionárias de serviços aeroportuários
 Relator: Roberto Honorato</p>
