@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e7567013-0c1f-4259-b054-1b9d70e5fe37",
+  "identifier": "urn:uuid:anac-feed-8d23b494-1d8b-4772-b374-3d7e91b5264f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-13T02:49:48.626Z",
-  "dateModified": "2026-06-13T02:49:48.626Z",
+  "dateCreated": "2026-06-13T07:42:56.431Z",
+  "dateModified": "2026-06-13T07:42:56.431Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-07T07:19:16.000Z",
-    "endDate": "2026-06-12T11:16:41.000Z"
+    "endDate": "2026-06-13T03:05:56.000Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "VideoObject",
       "name": "4ª Reunião Deliberativa da Diretoria Colegiada (12/06/2026)",
       "url": "https://www.youtube.com/watch?v=VBTSVhD8bOk",
-      "datePublished": "2026-06-12T11:16:41.000Z",
+      "datePublished": "2026-06-13T03:05:56.000Z",
       "description": "Início - 9:55\n\nProcesso: 00058.040824/2019-75 - 11:02\nAssunto: Proposta de edição do RBAC nº 100, objeto da Consulta Pública nº 09/2025, encerrada em 18 de julho de 2025 - tema 9 da Agenda Regulatória 2025-2026\nRelator: Mathias Moreira\n\n\nProcesso: 00066.002919/2026-11 - 01:11:03\nInteressado: Helimotors Táxi Aéreo Ltda.\nAssunto: Pedido de isenção de cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91\nRelator: Roberto Honorato\n\n\nProcesso: 00058.104578/2025-35 - 01:25:10\nInteressado: Companhia de Participações em Concessões - CPC\nAssunto: Pedido de anuência prévia para transferência do controle societário de sociedades concessionárias de serviços aeroportuários\nRelator: Roberto Honorato",
       "image": "https://i3.ytimg.com/vi/VBTSVhD8bOk/hqdefault.jpg",
       "type": "vídeo"
