@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-e4c86713-66d8-4c3e-bf9f-0ed84b8b37a6",
+  "identifier": "urn:uuid:anac-feed-e88d2170-1e1f-41fb-a987-28d795bef3d6",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-13T21:09:23.329Z",
-  "dateModified": "2026-06-13T21:09:23.329Z",
+  "dateCreated": "2026-06-14T03:00:49.336Z",
+  "dateModified": "2026-06-14T03:00:49.336Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -43,46 +43,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "121-025A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/121-025a",
-      "datePublished": "2026-06-10T12:05:00.000Z",
-      "description": "Controle operacional para operações sob o RBAC n° 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 154 EMD 09",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
-      "datePublished": "2026-06-08T15:18:00.000Z",
-      "description": "Projeto de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO INTERNA Nº 9, 08/06/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-9",
-      "datePublished": "2026-06-08T00:00:00.000Z",
-      "description": "Altera a Instrução Normativa nº 128, de 6 de novembro de 2018",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 747, 08/06/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-747",
-      "datePublished": "2026-06-08T00:00:00.000Z",
-      "description": "Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.297(b) do RBAC nº 61, em favor da TRIKE ÍCAROS INDÚSTRIA AERONÁUTICA LTDA",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 746, 01/06/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-746",
-      "datePublished": "2026-06-01T00:00:00.000Z",
-      "description": "Defere o pedido de isenção de cumprimento do requisito de que trata o parágrafo 63.39(a)(1) do RBAC nº 63",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Jornada do MMA - Da qualificação à certificação Anac",
       "url": "https://www.youtube.com/watch?v=EbfpnZEGWmw",
@@ -90,22 +50,6 @@
       "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
       "image": "https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 121 EMD 25",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25",
-      "datePublished": "2026-05-28T15:56:00.000Z",
-      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 121 EMD 25",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121",
-      "datePublished": "2026-05-28T15:55:00.000Z",
-      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -117,14 +61,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "RBAC 153 EMD 11",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
-      "datePublished": "2026-05-27T13:10:00.000Z",
-      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Entrevista com Camilo de Brito e Ricardo Pinheiro, MMAs e sócios da ALFA - Manutenção de Aeronaves",
       "url": "https://www.youtube.com/watch?v=l-Orscs_4E4",
@@ -132,14 +68,6 @@
       "description": "Perguntas: https://app.sli.do/event/noFFjhyNSipz8rm1RTKwZL\n\nPágina e manutenção aeronáutica: https://www.gov.br/anac/om",
       "image": "https://i1.ytimg.com/vi/l-Orscs_4E4/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 803, 25/05/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-803",
-      "datePublished": "2026-05-25T00:00:00.000Z",
-      "description": "Altera a Resolução nº 762, de 18 de dezembro de 2024, e aprova a Emenda nº 11 ao Regulamento Brasileiro da Aviação Civil - RBAC nº 153",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -151,30 +79,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 802, 18/05/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-802",
-      "datePublished": "2026-05-18T00:00:00.000Z",
-      "description": "Aprova emendas aos RBACs nºs 153 e 154",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21.3-001A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-3-001a",
-      "datePublished": "2026-05-15T16:50:00.000Z",
-      "description": "Comunicação de perigos, falhas, mau funcionamento e defeitos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-005F",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005",
-      "datePublished": "2026-05-14T16:08:00.000Z",
-      "description": "Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Desafios da Aviação Civil para os próximos 5 anos (Inovação e Segurança)",
       "url": "https://www.youtube.com/watch?v=tAmalUI7gHs",
@@ -182,14 +86,6 @@
       "description": "https://app.sli.do/event/t1EuLm6eQgLxVecPq4Wfdn",
       "image": "https://i1.ytimg.com/vi/tAmalUI7gHs/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21-010H",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-010",
-      "datePublished": "2026-05-12T15:24:00.000Z",
-      "description": "Procedimentos para a aprovação de produtos aeronáuticos civis estrangeiros e importação de quaisquer produtos aeronáuticos civis / Procedures for approval of foreign civil aeronautical products and import of any civil aeronautical product",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -210,30 +106,6 @@
       "type": "vídeo"
     },
     {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 745, 04/05/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745",
-      "datePublished": "2026-05-04T00:00:00.000Z",
-      "description": "Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 801, 04/05/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-801",
-      "datePublished": "2026-05-04T00:00:00.000Z",
-      "description": "Aprova a Emenda nº 25 ao RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 21 EMD 14",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-14",
-      "datePublished": "2026-04-30T10:43:00.000Z",
-      "description": "Certificação de produto e artigo aeronáuticos",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros",
       "url": "https://www.youtube.com/watch?v=khhjOz1Grwg",
@@ -250,38 +122,6 @@
       "description": "",
       "image": "https://i2.ytimg.com/vi/qfrgn5l3DL8/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO INTERNA Nº 8, 13/04/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-8",
-      "datePublished": "2026-04-13T00:00:00.000Z",
-      "description": "Institui a Política de Atuação Social e o Comitê de Equidade no âmbito da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-013B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-013",
-      "datePublished": "2026-04-10T12:13:00.000Z",
-      "description": "Estações de linha para operações segundo o RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-024A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-024a",
-      "datePublished": "2026-04-10T12:10:00.000Z",
-      "description": "Procedimentos para elaboração, revisão e utilização do Manual Geral de Manutenção (MGM) de operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 744, 07/04/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-744",
-      "datePublished": "2026-04-07T00:00:00.000Z",
-      "description": "Torna pública decisão em Processo Administrativo de Responsabilização de Ente Privado - PAR",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
