@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-76512f50-f129-489b-8218-4fb486c3df28",
+  "identifier": "urn:uuid:anac-feed-50de80b3-e0fe-46da-a253-2d3fe673abc0",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-15T09:57:03.115Z",
-  "dateModified": "2026-06-15T09:57:03.115Z",
+  "dateCreated": "2026-06-15T17:07:21.030Z",
+  "dateModified": "2026-06-15T17:07:21.030Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-07T07:19:16.000Z",
-    "endDate": "2026-06-13T03:05:56.000Z"
+    "endDate": "2026-06-15T10:47:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 154 EMD 09",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
+      "datePublished": "2026-06-15T10:47:00.000Z",
+      "description": "Projeto de aeródromos",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "4ª Reunião Deliberativa da Diretoria Colegiada (12/06/2026)",
@@ -48,14 +56,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/121-025a",
       "datePublished": "2026-06-10T12:05:00.000Z",
       "description": "Controle operacional para operações sob o RBAC n° 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 154 EMD 09",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
-      "datePublished": "2026-06-08T15:18:00.000Z",
-      "description": "Projeto de aeródromos",
       "type": "legislação"
     },
     {
