@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-0cd36ddb-313f-4529-a6c6-ab49c26a3b3a</id>
-  <updated>2026-06-15T10:47:00.000Z</updated>
+  <id>urn:uuid:anac-feed-327de67d-d496-4b8b-8046-3497486af76a</id>
+  <updated>2026-06-16T13:48:54.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A</title>
+    <link href="https://www.youtube.com/watch?v=YqD1b4K7-CA" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=YqD1b4K7-CA</id>
+    <published>2026-06-16T13:48:54.000Z</published>
+    <updated>2026-06-16T13:48:54.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK DO SLIDO: https://app.sli.do/event/bNeCn3M5X1PSiLYVYtsao4</summary>
+    <content type="html"><![CDATA[
+      <p>LINK DO SLIDO: https://app.sli.do/event/bNeCn3M5X1PSiLYVYtsao4</p>
+      <img src="https://i2.ytimg.com/vi/YqD1b4K7-CA/hqdefault.jpg" alt="Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RBAC 100 EMD 00</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100</id>
+    <published>2026-06-16T10:25:00.000Z</published>
+    <updated>2026-06-16T10:25:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Requisitos gerais para aeronaves não tripuladas de uso civil</summary>
+    <content type="html"><![CDATA[
+      <p>Requisitos gerais para aeronaves não tripuladas de uso civil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -487,25 +525,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
   
   
   <entry>
-    <title type="html">RBAC 21 EMD 14</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-14" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-14</id>
-    <published>2026-04-30T10:43:00.000Z</published>
-    <updated>2026-04-30T10:43:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Certificação de produto e artigo aeronáuticos</summary>
-    <content type="html"><![CDATA[
-      <p>Certificação de produto e artigo aeronáuticos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros</title>
     <link href="https://www.youtube.com/watch?v=khhjOz1Grwg" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=khhjOz1Grwg</id>
@@ -695,27 +714,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p>Anac 20 anos: Uma trajetória de dedicação e excelência técnica para o setor aéreo</p>
       <img src="https://i2.ytimg.com/vi/1PI2kziB8j8/hqdefault.jpg" alt="Anac 20 anos">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)</title>
-    <link href="https://www.youtube.com/watch?v=jffGukQJVIk" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=jffGukQJVIk</id>
-    <published>2026-03-07T07:19:16.000Z</published>
-    <updated>2026-03-07T07:19:16.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Início - 9:50
-Processo: 00058.061730/2022-35 - 11:13</summary>
-    <content type="html"><![CDATA[
-      <p>Início - 9:50
-Processo: 00058.061730/2022-35 - 11:13</p>
-      <img src="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" alt="2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
