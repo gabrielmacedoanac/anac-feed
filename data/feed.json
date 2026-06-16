@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-327de67d-d496-4b8b-8046-3497486af76a",
+  "identifier": "urn:uuid:anac-feed-b75a0996-3d72-4e89-bf65-fb1f0fae18ac",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-16T16:40:59.211Z",
-  "dateModified": "2026-06-16T16:40:59.211Z",
+  "dateCreated": "2026-06-16T22:08:25.429Z",
+  "dateModified": "2026-06-16T22:08:25.429Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-23T15:14:07.000Z",
-    "endDate": "2026-06-16T13:48:54.000Z"
+    "endDate": "2026-06-16T16:31:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 137 EMD 07",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137",
+      "datePublished": "2026-06-16T16:31:00.000Z",
+      "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 90 EMD 04",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90",
+      "datePublished": "2026-06-16T15:51:00.000Z",
+      "description": "Requisitos para Operações Especiais de Aviação Pública",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A",
@@ -56,6 +72,22 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
       "datePublished": "2026-06-15T10:47:00.000Z",
       "description": "Projeto de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 805, 15/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805",
+      "datePublished": "2026-06-15T00:00:00.000Z",
+      "description": "Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 806, 15/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806",
+      "datePublished": "2026-06-15T00:00:00.000Z",
+      "description": "Estabelece as regras para operação de aeronaves não tripuladas com peso em voo até 250 gramas e aeromodelos, operando em VLOS ou EVLOS",
       "type": "legislação"
     },
     {
@@ -184,14 +216,6 @@
       "type": "legislação"
     },
     {
-      "@type": "Legislation",
-      "name": "IS 121-005F",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005",
-      "datePublished": "2026-05-14T16:08:00.000Z",
-      "description": "Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
-    },
-    {
       "@type": "VideoObject",
       "name": "Desafios da Aviação Civil para os próximos 5 anos (Inovação e Segurança)",
       "url": "https://www.youtube.com/watch?v=tAmalUI7gHs",
@@ -266,30 +290,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-8",
       "datePublished": "2026-04-13T00:00:00.000Z",
       "description": "Institui a Política de Atuação Social e o Comitê de Equidade no âmbito da ANAC",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-013B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-013",
-      "datePublished": "2026-04-10T12:13:00.000Z",
-      "description": "Estações de linha para operações segundo o RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 121-024A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-024a",
-      "datePublished": "2026-04-10T12:10:00.000Z",
-      "description": "Procedimentos para elaboração, revisão e utilização do Manual Geral de Manutenção (MGM) de operadores aéreos regidos pelo RBAC nº 121",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 744, 07/04/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-744",
-      "datePublished": "2026-04-07T00:00:00.000Z",
-      "description": "Torna pública decisão em Processo Administrativo de Responsabilização de Ente Privado - PAR",
       "type": "legislação"
     },
     {

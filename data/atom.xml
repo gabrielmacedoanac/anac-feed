@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-327de67d-d496-4b8b-8046-3497486af76a</id>
-  <updated>2026-06-16T13:48:54.000Z</updated>
+  <id>urn:uuid:anac-feed-b75a0996-3d72-4e89-bf65-fb1f0fae18ac</id>
+  <updated>2026-06-16T16:31:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">RBAC 137 EMD 07</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137</id>
+    <published>2026-06-16T16:31:00.000Z</published>
+    <updated>2026-06-16T16:31:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Cadastro e requisitos operacionais: operações aeroagrícolas</summary>
+    <content type="html"><![CDATA[
+      <p>Cadastro e requisitos operacionais: operações aeroagrícolas</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RBAC 90 EMD 04</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90</id>
+    <published>2026-06-16T15:51:00.000Z</published>
+    <updated>2026-06-16T15:51:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Requisitos para Operações Especiais de Aviação Pública</summary>
+    <content type="html"><![CDATA[
+      <p>Requisitos para Operações Especiais de Aviação Pública</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -63,6 +101,44 @@
     <summary type="html">Projeto de aeródromos</summary>
     <content type="html"><![CDATA[
       <p>Projeto de aeródromos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 805, 15/06/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805</id>
+    <published>2026-06-15T00:00:00.000Z</published>
+    <updated>2026-06-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 806, 15/06/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806</id>
+    <published>2026-06-15T00:00:00.000Z</published>
+    <updated>2026-06-15T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Estabelece as regras para operação de aeronaves não tripuladas com peso em voo até 250 gramas e aeromodelos, operando em VLOS ou EVLOS</summary>
+    <content type="html"><![CDATA[
+      <p>Estabelece as regras para operação de aeronaves não tripuladas com peso em voo até 250 gramas e aeromodelos, operando em VLOS ou EVLOS</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -392,25 +468,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
   
   
   <entry>
-    <title type="html">IS 121-005F</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005</id>
-    <published>2026-05-14T16:08:00.000Z</published>
-    <updated>2026-05-14T16:08:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121</summary>
-    <content type="html"><![CDATA[
-      <p>Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Desafios da Aviação Civil para os próximos 5 anos (Inovação e Segurança)</title>
     <link href="https://www.youtube.com/watch?v=tAmalUI7gHs" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=tAmalUI7gHs</id>
@@ -574,63 +631,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     <summary type="html">Institui a Política de Atuação Social e o Comitê de Equidade no âmbito da ANAC</summary>
     <content type="html"><![CDATA[
       <p>Institui a Política de Atuação Social e o Comitê de Equidade no âmbito da ANAC</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 121-013B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-013" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-013</id>
-    <published>2026-04-10T12:13:00.000Z</published>
-    <updated>2026-04-10T12:13:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Estações de linha para operações segundo o RBAC nº 121</summary>
-    <content type="html"><![CDATA[
-      <p>Estações de linha para operações segundo o RBAC nº 121</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 121-024A</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-024a" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-024a</id>
-    <published>2026-04-10T12:10:00.000Z</published>
-    <updated>2026-04-10T12:10:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Procedimentos para elaboração, revisão e utilização do Manual Geral de Manutenção (MGM) de operadores aéreos regidos pelo RBAC nº 121</summary>
-    <content type="html"><![CDATA[
-      <p>Procedimentos para elaboração, revisão e utilização do Manual Geral de Manutenção (MGM) de operadores aéreos regidos pelo RBAC nº 121</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 744, 07/04/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-744" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-744</id>
-    <published>2026-04-07T00:00:00.000Z</published>
-    <updated>2026-04-07T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Torna pública decisão em Processo Administrativo de Responsabilização de Ente Privado - PAR</summary>
-    <content type="html"><![CDATA[
-      <p>Torna pública decisão em Processo Administrativo de Responsabilização de Ente Privado - PAR</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
