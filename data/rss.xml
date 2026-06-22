@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 22 Jun 2026 09:43:47 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 09:43:47 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 16:45:28 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:45:28 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>RBAC 153 EMD 11</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</link>
+      <description>Aeródromos - Operação, Manutenção e Resposta à Emergência</description>
+      <pubDate>Mon, 22 Jun 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-06-22T10:55:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -328,23 +345,6 @@ Relator: Roberto Honorato</p>
       <content:encoded><![CDATA[
         <p>LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a</p>
         <img src="https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg" alt="Semana do MMA - DATA: 27 de maio de 2026">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RBAC 153 EMD 11</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</link>
-      <description>Aeródromos - Operação, Manutenção e Resposta à Emergência</description>
-      <pubDate>Wed, 27 May 2026 13:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-05-27T13:10:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
-        
       ]]></content:encoded>
     </item>
     

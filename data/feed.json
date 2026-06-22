@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-64c31ec8-0b54-476d-9f66-08a473b0313d",
+  "identifier": "urn:uuid:anac-feed-b9441762-5728-4f8c-8407-8397b8691e7d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-22T09:43:47.803Z",
-  "dateModified": "2026-06-22T09:43:47.803Z",
+  "dateCreated": "2026-06-22T16:45:28.886Z",
+  "dateModified": "2026-06-22T16:45:28.886Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-23T15:14:07.000Z",
-    "endDate": "2026-06-16T16:31:00.000Z"
+    "endDate": "2026-06-22T10:55:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 153 EMD 11",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
+      "datePublished": "2026-06-22T10:55:00.000Z",
+      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 137 EMD 07",
@@ -172,14 +180,6 @@
       "description": "LINK SLIDO: https://app.sli.do/event/pdpU1rYnM1ihv8mwbvd74a",
       "image": "https://i1.ytimg.com/vi/HBfWzgsDR-k/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 153 EMD 11",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
-      "datePublished": "2026-05-27T13:10:00.000Z",
-      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",
