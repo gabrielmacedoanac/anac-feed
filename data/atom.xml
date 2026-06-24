@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-64f5bfe8-003e-48dc-9527-99b9e74270dd</id>
-  <updated>2026-06-22T10:55:00.000Z</updated>
+  <id>urn:uuid:anac-feed-bc5346ae-8799-44a7-8b5c-4f587a7f0bb4</id>
+  <updated>2026-06-24T19:08:06.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Divulgação das novas regras de Drones</title>
+    <link href="https://www.youtube.com/watch?v=UEwao1QD8rM" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=UEwao1QD8rM</id>
+    <published>2026-06-24T19:08:06.000Z</published>
+    <updated>2026-06-24T19:08:06.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/aUVLsbiwsJqUhExAmUwEtS</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/aUVLsbiwsJqUhExAmUwEtS</p>
+      <img src="https://i2.ytimg.com/vi/UEwao1QD8rM/hqdefault.jpg" alt="Divulgação das novas regras de Drones">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -695,25 +714,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p></p>
       <img src="https://i3.ytimg.com/vi/jatAS4IHXBo/hqdefault.jpg" alt="Anac 20 anos: Mensagem das autoridades de aviação civil estrangeiras">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Anac 20 anos</title>
-    <link href="https://www.youtube.com/watch?v=1PI2kziB8j8" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=1PI2kziB8j8</id>
-    <published>2026-03-23T15:14:07.000Z</published>
-    <updated>2026-03-23T15:14:07.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Anac 20 anos: Uma trajetória de dedicação e excelência técnica para o setor aéreo</summary>
-    <content type="html"><![CDATA[
-      <p>Anac 20 anos: Uma trajetória de dedicação e excelência técnica para o setor aéreo</p>
-      <img src="https://i2.ytimg.com/vi/1PI2kziB8j8/hqdefault.jpg" alt="Anac 20 anos">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-64f5bfe8-003e-48dc-9527-99b9e74270dd",
+  "identifier": "urn:uuid:anac-feed-bc5346ae-8799-44a7-8b5c-4f587a7f0bb4",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-24T17:50:54.013Z",
-  "dateModified": "2026-06-24T17:50:54.013Z",
+  "dateCreated": "2026-06-24T21:20:16.205Z",
+  "dateModified": "2026-06-24T21:20:16.205Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-03-23T15:14:07.000Z",
-    "endDate": "2026-06-22T10:55:00.000Z"
+    "startDate": "2026-03-24T19:30:48.000Z",
+    "endDate": "2026-06-24T19:08:06.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Divulgação das novas regras de Drones",
+      "url": "https://www.youtube.com/watch?v=UEwao1QD8rM",
+      "datePublished": "2026-06-24T19:08:06.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/aUVLsbiwsJqUhExAmUwEtS",
+      "image": "https://i2.ytimg.com/vi/UEwao1QD8rM/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 153 EMD 11",
@@ -317,15 +326,6 @@
       "datePublished": "2026-03-24T19:30:48.000Z",
       "description": "",
       "image": "https://i3.ytimg.com/vi/jatAS4IHXBo/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Anac 20 anos",
-      "url": "https://www.youtube.com/watch?v=1PI2kziB8j8",
-      "datePublished": "2026-03-23T15:14:07.000Z",
-      "description": "Anac 20 anos: Uma trajetória de dedicação e excelência técnica para o setor aéreo",
-      "image": "https://i2.ytimg.com/vi/1PI2kziB8j8/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
