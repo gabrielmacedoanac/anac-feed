@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d7b9106d-ad94-4f4c-8bcd-eea30c8f62d4",
+  "identifier": "urn:uuid:anac-feed-57065695-af71-4c95-b627-b478ddf9ac97",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-06-27T02:38:54.711Z",
-  "dateModified": "2026-06-27T02:38:54.711Z",
+  "dateCreated": "2026-06-27T06:50:30.529Z",
+  "dateModified": "2026-06-27T06:50:30.529Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-24T19:30:48.000Z",
-    "endDate": "2026-06-24T19:08:06.000Z"
+    "endDate": "2026-06-27T06:19:37.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A",
+      "url": "https://www.youtube.com/watch?v=YqD1b4K7-CA",
+      "datePublished": "2026-06-27T06:19:37.000Z",
+      "description": "LINK DO SLIDO: https://app.sli.do/event/bNeCn3M5X1PSiLYVYtsao4",
+      "image": "https://i2.ytimg.com/vi/YqD1b4K7-CA/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Divulgação das novas regras de Drones",
@@ -65,15 +74,6 @@
       "datePublished": "2026-06-16T15:51:00.000Z",
       "description": "Requisitos para Operações Especiais de Aviação Pública",
       "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A",
-      "url": "https://www.youtube.com/watch?v=YqD1b4K7-CA",
-      "datePublished": "2026-06-16T13:48:54.000Z",
-      "description": "LINK DO SLIDO: https://app.sli.do/event/bNeCn3M5X1PSiLYVYtsao4",
-      "image": "https://i2.ytimg.com/vi/YqD1b4K7-CA/hqdefault.jpg",
-      "type": "vídeo"
     },
     {
       "@type": "Legislation",
