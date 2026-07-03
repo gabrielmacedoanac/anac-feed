@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 03 Jul 2026 13:51:41 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 13:51:41 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 17:19:40 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:19:40 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>Cabine e equipamentos de segurança</title>
+      <link>https://www.youtube.com/watch?v=f9wMJMIz2n8</link>
+      <description>ELEMENTARY AVIATION ENGLISH VOCABULARY - MÓDULO I</description>
+      <pubDate>Fri, 03 Jul 2026 14:05:37 GMT</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=f9wMJMIz2n8</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-07-03T14:05:37.000Z</dc:date>
+      <enclosure url="https://i3.ytimg.com/vi/f9wMJMIz2n8/hqdefault.jpg" type="image/jpeg"/>
+      <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>ELEMENTARY AVIATION ENGLISH VOCABULARY - MÓDULO I</p>
+        <img src="https://i3.ytimg.com/vi/f9wMJMIz2n8/hqdefault.jpg" alt="Cabine e equipamentos de segurança">
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -627,25 +644,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
       <content:encoded><![CDATA[
         <p></p>
         <img src="https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg" alt="Sessão pública do leilão da Venda Assistida do Galeão">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)</title>
-      <link>https://www.youtube.com/watch?v=jffGukQJVIk</link>
-      <description>Início - 9:50
-Processo: 00058.061730/2022-35 - 11:13</description>
-      <pubDate>Sat, 07 Mar 2026 07:19:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=jffGukQJVIk</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-03-07T07:19:16.000Z</dc:date>
-      <enclosure url="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" type="image/jpeg"/>
-      <category>vídeo</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Início - 9:50
-Processo: 00058.061730/2022-35 - 11:13</p>
-        <img src="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" alt="2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)">
       ]]></content:encoded>
     </item>
     

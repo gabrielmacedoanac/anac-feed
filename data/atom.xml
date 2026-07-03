@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-12e556b0-1ce8-4e49-a9fe-a814f83ea26c</id>
-  <updated>2026-06-27T06:19:37.000Z</updated>
+  <id>urn:uuid:anac-feed-e5a54f53-34f8-4c8a-b55b-7713b25c6ec1</id>
+  <updated>2026-07-03T14:05:37.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Cabine e equipamentos de segurança</title>
+    <link href="https://www.youtube.com/watch?v=f9wMJMIz2n8" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=f9wMJMIz2n8</id>
+    <published>2026-07-03T14:05:37.000Z</published>
+    <updated>2026-07-03T14:05:37.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">ELEMENTARY AVIATION ENGLISH VOCABULARY - MÓDULO I</summary>
+    <content type="html"><![CDATA[
+      <p>ELEMENTARY AVIATION ENGLISH VOCABULARY - MÓDULO I</p>
+      <img src="https://i3.ytimg.com/vi/f9wMJMIz2n8/hqdefault.jpg" alt="Cabine e equipamentos de segurança">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -695,27 +714,6 @@ Processo: 00066.021549/2019-91 - 35:00</p>
     <content type="html"><![CDATA[
       <p></p>
       <img src="https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg" alt="Sessão pública do leilão da Venda Assistida do Galeão">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)</title>
-    <link href="https://www.youtube.com/watch?v=jffGukQJVIk" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=jffGukQJVIk</id>
-    <published>2026-03-07T07:19:16.000Z</published>
-    <updated>2026-03-07T07:19:16.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Início - 9:50
-Processo: 00058.061730/2022-35 - 11:13</summary>
-    <content type="html"><![CDATA[
-      <p>Início - 9:50
-Processo: 00058.061730/2022-35 - 11:13</p>
-      <img src="https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg" alt="2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->

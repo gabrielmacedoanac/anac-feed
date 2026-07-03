@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-12e556b0-1ce8-4e49-a9fe-a814f83ea26c",
+  "identifier": "urn:uuid:anac-feed-e5a54f53-34f8-4c8a-b55b-7713b25c6ec1",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-03T13:51:41.686Z",
-  "dateModified": "2026-07-03T13:51:41.686Z",
+  "dateCreated": "2026-07-03T17:19:40.500Z",
+  "dateModified": "2026-07-03T17:19:40.500Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-03-07T07:19:16.000Z",
-    "endDate": "2026-06-27T06:19:37.000Z"
+    "startDate": "2026-03-30T20:56:51.000Z",
+    "endDate": "2026-07-03T14:05:37.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,15 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Cabine e equipamentos de segurança",
+      "url": "https://www.youtube.com/watch?v=f9wMJMIz2n8",
+      "datePublished": "2026-07-03T14:05:37.000Z",
+      "description": "ELEMENTARY AVIATION ENGLISH VOCABULARY - MÓDULO I",
+      "image": "https://i3.ytimg.com/vi/f9wMJMIz2n8/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "VideoObject",
       "name": "Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A",
@@ -317,15 +326,6 @@
       "datePublished": "2026-03-30T20:56:51.000Z",
       "description": "",
       "image": "https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026)",
-      "url": "https://www.youtube.com/watch?v=jffGukQJVIk",
-      "datePublished": "2026-03-07T07:19:16.000Z",
-      "description": "Início - 9:50\nProcesso: 00058.061730/2022-35 - 11:13",
-      "image": "https://i3.ytimg.com/vi/jffGukQJVIk/hqdefault.jpg",
       "type": "vídeo"
     }
   ]
