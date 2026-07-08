@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-faf08ba8-f4aa-4adb-8fd6-64dad3f66690",
+  "identifier": "urn:uuid:anac-feed-cbf5718e-0b57-4bbb-8547-bb3602e8aeef",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-08T13:50:21.968Z",
-  "dateModified": "2026-07-08T13:50:21.968Z",
+  "dateCreated": "2026-07-08T17:24:57.425Z",
+  "dateModified": "2026-07-08T17:24:57.425Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-30T20:56:51.000Z",
-    "endDate": "2026-07-06T00:00:00.000Z"
+    "endDate": "2026-07-08T12:46:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 21 EMD 15",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21",
+      "datePublished": "2026-07-08T12:46:00.000Z",
+      "description": "Certificação de produto e artigo aeronáuticos",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 808, 06/07/2026",
@@ -249,14 +257,6 @@
       "description": "https://app.sli.do/event/t1EuLm6eQgLxVecPq4Wfdn",
       "image": "https://i1.ytimg.com/vi/tAmalUI7gHs/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21-010H",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-010",
-      "datePublished": "2026-05-12T15:24:00.000Z",
-      "description": "Procedimentos para a aprovação de produtos aeronáuticos civis estrangeiros e importação de quaisquer produtos aeronáuticos civis / Procedures for approval of foreign civil aeronautical products and import of any civil aeronautical product",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",

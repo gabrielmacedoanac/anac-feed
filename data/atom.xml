@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-faf08ba8-f4aa-4adb-8fd6-64dad3f66690</id>
-  <updated>2026-07-06T00:00:00.000Z</updated>
+  <id>urn:uuid:anac-feed-cbf5718e-0b57-4bbb-8547-bb3602e8aeef</id>
+  <updated>2026-07-08T12:46:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">RBAC 21 EMD 15</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21</id>
+    <published>2026-07-08T12:46:00.000Z</published>
+    <updated>2026-07-08T12:46:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Certificação de produto e artigo aeronáuticos</summary>
+    <content type="html"><![CDATA[
+      <p>Certificação de produto e artigo aeronáuticos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -540,25 +559,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 21-010H</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-010" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-010</id>
-    <published>2026-05-12T15:24:00.000Z</published>
-    <updated>2026-05-12T15:24:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Procedimentos para a aprovação de produtos aeronáuticos civis estrangeiros e importação de quaisquer produtos aeronáuticos civis / Procedures for approval of foreign civil aeronautical products and import of any civil aeronautical product</summary>
-    <content type="html"><![CDATA[
-      <p>Procedimentos para a aprovação de produtos aeronáuticos civis estrangeiros e importação de quaisquer produtos aeronáuticos civis / Procedures for approval of foreign civil aeronautical products and import of any civil aeronautical product</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
