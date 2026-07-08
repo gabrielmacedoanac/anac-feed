@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-cbf5718e-0b57-4bbb-8547-bb3602e8aeef",
+  "identifier": "urn:uuid:anac-feed-a1ad8e86-44ad-40ef-a52e-963201152967",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-08T17:24:57.425Z",
-  "dateModified": "2026-07-08T17:24:57.425Z",
+  "dateCreated": "2026-07-08T21:01:46.044Z",
+  "dateModified": "2026-07-08T21:01:46.044Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-30T20:56:51.000Z",
-    "endDate": "2026-07-08T12:46:00.000Z"
+    "endDate": "2026-07-08T16:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 45  EMD 05",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045",
+      "datePublished": "2026-07-08T16:04:00.000Z",
+      "description": "Marcas de Identificação, de Nacionalidade e de Matrícula.",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 21 EMD 15",
@@ -282,14 +290,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745",
       "datePublished": "2026-05-04T00:00:00.000Z",
       "description": "Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 801, 04/05/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-801",
-      "datePublished": "2026-05-04T00:00:00.000Z",
-      "description": "Aprova a Emenda nº 25 ao RBAC nº 121",
       "type": "legislação"
     },
     {

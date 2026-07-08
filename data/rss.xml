@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 08 Jul 2026 17:24:57 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 17:24:57 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 21:01:46 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:01:46 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>RBAC 45  EMD 05</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045</link>
+      <description>Marcas de Identificação, de Nacionalidade e de Matrícula.</description>
+      <pubDate>Wed, 08 Jul 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-07-08T16:04:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Marcas de Identificação, de Nacionalidade e de Matrícula.</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -552,23 +569,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RESOLUÇÃO Nº 801, 04/05/2026</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-801</link>
-      <description>Aprova a Emenda nº 25 ao RBAC nº 121</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-801</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-05-04T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aprova a Emenda nº 25 ao RBAC nº 121</p>
         
       ]]></content:encoded>
     </item>
