@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-68137ecb-2e11-4cd0-b434-0b44d7af2dd6",
+  "identifier": "urn:uuid:anac-feed-faf08ba8-f4aa-4adb-8fd6-64dad3f66690",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-08T10:12:22.323Z",
-  "dateModified": "2026-07-08T10:12:22.323Z",
+  "dateCreated": "2026-07-08T13:50:21.968Z",
+  "dateModified": "2026-07-08T13:50:21.968Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-30T20:56:51.000Z",
-    "endDate": "2026-07-03T14:05:37.000Z"
+    "endDate": "2026-07-06T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 808, 06/07/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-808",
+      "datePublished": "2026-07-06T00:00:00.000Z",
+      "description": "Aprova emendas aos RBACs nºs 21 e 45",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Cabine e equipamentos de segurança",
@@ -231,14 +239,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-802",
       "datePublished": "2026-05-18T00:00:00.000Z",
       "description": "Aprova emendas aos RBACs nºs 153 e 154",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21.3-001A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-3-001a",
-      "datePublished": "2026-05-15T16:50:00.000Z",
-      "description": "Comunicação de perigos, falhas, mau funcionamento e defeitos",
       "type": "legislação"
     },
     {
