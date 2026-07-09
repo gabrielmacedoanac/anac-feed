@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-73f55f95-a833-403c-a551-f9141a1a720f</id>
+  <id>urn:uuid:anac-feed-fe2b32ab-6fa8-46c7-a90b-5ade7aa69d94</id>
   <updated>2026-07-08T16:04:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -63,6 +63,44 @@
     <summary type="html">Aprova emendas aos RBACs nºs 21 e 45</summary>
     <content type="html"><![CDATA[
       <p>Aprova emendas aos RBACs nºs 21 e 45</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 749, 06/07/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-749" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-749</id>
+    <published>2026-07-06T00:00:00.000Z</published>
+    <updated>2026-07-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Autoriza a limitação do número de prestadores de atividades relacionadas ao abastecimento de aeronaves no Parque de Abastecimento de Aeronaves do Aeroporto de Congonhas, localizado em São Paulo (SP) (código OACI: SBSP), operado pela Concessionária Bloco de Onze Aeroportos do Brasil S.A.</summary>
+    <content type="html"><![CDATA[
+      <p>Autoriza a limitação do número de prestadores de atividades relacionadas ao abastecimento de aeronaves no Parque de Abastecimento de Aeronaves do Aeroporto de Congonhas, localizado em São Paulo (SP) (código OACI: SBSP), operado pela Concessionária Bloco de Onze Aeroportos do Brasil S.A.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 807, 06/07/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-807" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-807</id>
+    <published>2026-07-06T00:00:00.000Z</published>
+    <updated>2026-07-06T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Regulamenta a marcação de assentos para menores de 16 anos em assentos contíguos aos de seus responsáveis ou familiares, em cumprimento de decisão judicial</summary>
+    <content type="html"><![CDATA[
+      <p>Regulamenta a marcação de assentos para menores de 16 anos em assentos contíguos aos de seus responsáveis ou familiares, em cumprimento de decisão judicial</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -445,25 +483,6 @@ Relator: Roberto Honorato</p>
   
   
   <entry>
-    <title type="html">RBAC 121 EMD 25</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121</id>
-    <published>2026-05-28T15:55:00.000Z</published>
-    <updated>2026-05-28T15:55:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</summary>
-    <content type="html"><![CDATA[
-      <p>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">Semana do MMA - DATA: 27 de maio de 2026</title>
     <link href="https://www.youtube.com/watch?v=HBfWzgsDR-k" rel="alternate"/>
     <id>https://www.youtube.com/watch?v=HBfWzgsDR-k</id>
@@ -616,25 +635,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 745, 04/05/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745</id>
-    <published>2026-05-04T00:00:00.000Z</published>
-    <updated>2026-05-04T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora</summary>
-    <content type="html"><![CDATA[
-      <p>Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
