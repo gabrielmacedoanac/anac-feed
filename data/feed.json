@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-916f05f0-dc80-4926-b253-3a7dc709adcc",
+  "identifier": "urn:uuid:anac-feed-73f55f95-a833-403c-a551-f9141a1a720f",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-09T07:33:54.342Z",
-  "dateModified": "2026-07-09T07:33:54.342Z",
+  "dateCreated": "2026-07-09T10:50:11.315Z",
+  "dateModified": "2026-07-09T10:50:11.315Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-03-30T20:56:51.000Z",
-    "endDate": "2026-07-03T14:05:37.000Z"
+    "endDate": "2026-07-08T16:04:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,30 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 45  EMD 05",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045",
+      "datePublished": "2026-07-08T16:04:00.000Z",
+      "description": "Marcas de Identificação, de Nacionalidade e de Matrícula.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 21 EMD 15",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21",
+      "datePublished": "2026-07-08T12:46:00.000Z",
+      "description": "Certificação de produto e artigo aeronáuticos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 808, 06/07/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-808",
+      "datePublished": "2026-07-06T00:00:00.000Z",
+      "description": "Aprova emendas aos RBACs nºs 21 e 45",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Cabine e equipamentos de segurança",
@@ -61,6 +85,70 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "RBAC 153 EMD 11",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
+      "datePublished": "2026-06-22T10:55:00.000Z",
+      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 137 EMD 07",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137",
+      "datePublished": "2026-06-16T16:31:00.000Z",
+      "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 90 EMD 04",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90",
+      "datePublished": "2026-06-16T15:51:00.000Z",
+      "description": "Requisitos para Operações Especiais de Aviação Pública",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 100 EMD 00",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100",
+      "datePublished": "2026-06-16T10:25:00.000Z",
+      "description": "Requisitos gerais para aeronaves não tripuladas de uso civil",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 748, 16/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-748",
+      "datePublished": "2026-06-16T00:00:00.000Z",
+      "description": "Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91, em favor da HELIMOTORS TÁXI AÉREO LTDA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 154 EMD 09",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
+      "datePublished": "2026-06-15T10:47:00.000Z",
+      "description": "Projeto de aeródromos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 805, 15/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805",
+      "datePublished": "2026-06-15T00:00:00.000Z",
+      "description": "Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 806, 15/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806",
+      "datePublished": "2026-06-15T00:00:00.000Z",
+      "description": "Estabelece as regras para operação de aeronaves não tripuladas com peso em voo até 250 gramas e aeromodelos, operando em VLOS ou EVLOS",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "4ª Reunião Deliberativa da Diretoria Colegiada (12/06/2026)",
       "url": "https://www.youtube.com/watch?v=VBTSVhD8bOk",
@@ -70,6 +158,38 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "121-025A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/121-025a",
+      "datePublished": "2026-06-10T12:05:00.000Z",
+      "description": "Controle operacional para operações sob o RBAC n° 121",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO INTERNA Nº 9, 08/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-9",
+      "datePublished": "2026-06-08T00:00:00.000Z",
+      "description": "Altera a Instrução Normativa nº 128, de 6 de novembro de 2018",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 747, 08/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-747",
+      "datePublished": "2026-06-08T00:00:00.000Z",
+      "description": "Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 61.297(b) do RBAC nº 61, em favor da TRIKE ÍCAROS INDÚSTRIA AERONÁUTICA LTDA",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 746, 01/06/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-746",
+      "datePublished": "2026-06-01T00:00:00.000Z",
+      "description": "Defere o pedido de isenção de cumprimento do requisito de que trata o parágrafo 63.39(a)(1) do RBAC nº 63",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Jornada do MMA - Da qualificação à certificação Anac",
       "url": "https://www.youtube.com/watch?v=EbfpnZEGWmw",
@@ -77,6 +197,22 @@
       "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
       "image": "https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 121 EMD 25",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25",
+      "datePublished": "2026-05-28T15:56:00.000Z",
+      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 121 EMD 25",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121",
+      "datePublished": "2026-05-28T15:55:00.000Z",
+      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -97,6 +233,14 @@
       "type": "vídeo"
     },
     {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 803, 25/05/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-803",
+      "datePublished": "2026-05-25T00:00:00.000Z",
+      "description": "Altera a Resolução nº 762, de 18 de dezembro de 2024, e aprova a Emenda nº 11 ao Regulamento Brasileiro da Aviação Civil - RBAC nº 153",
+      "type": "legislação"
+    },
+    {
       "@type": "VideoObject",
       "name": "Desafios da Aviação Civil para os próximos 5 anos (Sustentabilidade e Pessoas)",
       "url": "https://www.youtube.com/watch?v=iQADLK0Vtlg",
@@ -104,6 +248,14 @@
       "description": "Link para perguntas - https://app.sli.do/event/6UQR9xHDCHFtR32ZWLTexX",
       "image": "https://i2.ytimg.com/vi/iQADLK0Vtlg/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 802, 18/05/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-802",
+      "datePublished": "2026-05-18T00:00:00.000Z",
+      "description": "Aprova emendas aos RBACs nºs 153 e 154",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
@@ -131,6 +283,14 @@
       "description": "Slido: https://app.sli.do/event/3Sbx59wFJ1hCYQodV3HpgC",
       "image": "https://i2.ytimg.com/vi/YGjzs2CY1JU/hqdefault.jpg",
       "type": "vídeo"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 745, 04/05/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-745",
+      "datePublished": "2026-05-04T00:00:00.000Z",
+      "description": "Homologa o resultado do processo licitatório veiculado no Edital de Leilão nº 01/2025 e adjudica o respectivo objeto à proponente vencedora",
+      "type": "legislação"
     },
     {
       "@type": "VideoObject",
