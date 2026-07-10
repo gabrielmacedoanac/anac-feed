@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-de55076b-19af-4e10-b5c1-30dab121cae1",
+  "identifier": "urn:uuid:anac-feed-efa917cc-0ddf-487c-a260-c66b05555524",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-10T17:44:34.217Z",
-  "dateModified": "2026-07-10T17:44:34.217Z",
+  "dateCreated": "2026-07-10T21:03:20.395Z",
+  "dateModified": "2026-07-10T21:03:20.395Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-03-30T20:56:51.000Z",
-    "endDate": "2026-07-08T16:04:00.000Z"
+    "startDate": "2026-04-29T09:38:12.000Z",
+    "endDate": "2026-07-10T20:29:58.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,33 @@
     }
   ],
   "items": [
+    {
+      "@type": "VideoObject",
+      "name": "Webinário de Engenharia de Aeroportos 2026 - Dia 3",
+      "url": "https://www.youtube.com/watch?v=u28k1pCUecA",
+      "datePublished": "2026-07-10T20:29:58.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W",
+      "image": "https://i2.ytimg.com/vi/u28k1pCUecA/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Webinário de Engenharia de Aeroportos 2026 - Dia 2",
+      "url": "https://www.youtube.com/watch?v=qk7aAlmb1Eo",
+      "datePublished": "2026-07-10T20:28:13.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W",
+      "image": "https://i2.ytimg.com/vi/qk7aAlmb1Eo/hqdefault.jpg",
+      "type": "vídeo"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Webinário de Engenharia de Aeroportos 2026 - Dia 1",
+      "url": "https://www.youtube.com/watch?v=VI09U4ePqj0",
+      "datePublished": "2026-07-10T20:26:09.000Z",
+      "description": "LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W",
+      "image": "https://i3.ytimg.com/vi/VI09U4ePqj0/hqdefault.jpg",
+      "type": "vídeo"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 45  EMD 05",
@@ -299,33 +326,6 @@
       "datePublished": "2026-04-29T09:38:12.000Z",
       "description": "LINK SLIDO: https://app.sli.do/event/rao4YZUceYybrNZXrR3rqg",
       "image": "https://i4.ytimg.com/vi/khhjOz1Grwg/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Evento de Lançamento da Plataforma Anac Passageiro",
-      "url": "https://www.youtube.com/watch?v=qfrgn5l3DL8",
-      "datePublished": "2026-04-15T02:23:34.000Z",
-      "description": "",
-      "image": "https://i2.ytimg.com/vi/qfrgn5l3DL8/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "3ª Reunião Deliberativa da Diretoria Colegiada (02/04/2026)",
-      "url": "https://www.youtube.com/watch?v=u_fBr0YuZDA",
-      "datePublished": "2026-04-03T07:04:52.000Z",
-      "description": "Início - 9:48\nProcesso: 00058.000910/2025-93 - 10:34\nProcesso: 00058.011873/2023-87 - 20:58\nProcesso: 00066.021549/2019-91 - 35:00",
-      "image": "https://i2.ytimg.com/vi/u_fBr0YuZDA/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Sessão pública do leilão da Venda Assistida do Galeão",
-      "url": "https://www.youtube.com/watch?v=7XZ5YTYlrdE",
-      "datePublished": "2026-03-30T20:56:51.000Z",
-      "description": "",
-      "image": "https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg",
       "type": "vídeo"
     }
   ]

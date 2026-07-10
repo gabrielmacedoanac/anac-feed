@@ -4,13 +4,70 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-de55076b-19af-4e10-b5c1-30dab121cae1</id>
-  <updated>2026-07-08T16:04:00.000Z</updated>
+  <id>urn:uuid:anac-feed-efa917cc-0ddf-487c-a260-c66b05555524</id>
+  <updated>2026-07-10T20:29:58.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">Webinário de Engenharia de Aeroportos 2026 - Dia 3</title>
+    <link href="https://www.youtube.com/watch?v=u28k1pCUecA" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=u28k1pCUecA</id>
+    <published>2026-07-10T20:29:58.000Z</published>
+    <updated>2026-07-10T20:29:58.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W</p>
+      <img src="https://i2.ytimg.com/vi/u28k1pCUecA/hqdefault.jpg" alt="Webinário de Engenharia de Aeroportos 2026 - Dia 3">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário de Engenharia de Aeroportos 2026 - Dia 2</title>
+    <link href="https://www.youtube.com/watch?v=qk7aAlmb1Eo" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=qk7aAlmb1Eo</id>
+    <published>2026-07-10T20:28:13.000Z</published>
+    <updated>2026-07-10T20:28:13.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W</p>
+      <img src="https://i2.ytimg.com/vi/qk7aAlmb1Eo/hqdefault.jpg" alt="Webinário de Engenharia de Aeroportos 2026 - Dia 2">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">Webinário de Engenharia de Aeroportos 2026 - Dia 1</title>
+    <link href="https://www.youtube.com/watch?v=VI09U4ePqj0" rel="alternate"/>
+    <id>https://www.youtube.com/watch?v=VI09U4ePqj0</id>
+    <published>2026-07-10T20:26:09.000Z</published>
+    <updated>2026-07-10T20:26:09.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W</summary>
+    <content type="html"><![CDATA[
+      <p>LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W</p>
+      <img src="https://i3.ytimg.com/vi/VI09U4ePqj0/hqdefault.jpg" alt="Webinário de Engenharia de Aeroportos 2026 - Dia 1">
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -651,69 +708,6 @@ Página e manutenção aeronáutica: https://www.gov.br/anac/om</p>
     <content type="html"><![CDATA[
       <p>LINK SLIDO: https://app.sli.do/event/rao4YZUceYybrNZXrR3rqg</p>
       <img src="https://i4.ytimg.com/vi/khhjOz1Grwg/hqdefault.jpg" alt="Webinário do BHEST Tema: Fatores Humanos na Aviação de Helicópteros">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Evento de Lançamento da Plataforma Anac Passageiro</title>
-    <link href="https://www.youtube.com/watch?v=qfrgn5l3DL8" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=qfrgn5l3DL8</id>
-    <published>2026-04-15T02:23:34.000Z</published>
-    <updated>2026-04-15T02:23:34.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html"></summary>
-    <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i2.ytimg.com/vi/qfrgn5l3DL8/hqdefault.jpg" alt="Evento de Lançamento da Plataforma Anac Passageiro">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">3ª Reunião Deliberativa da Diretoria Colegiada (02/04/2026)</title>
-    <link href="https://www.youtube.com/watch?v=u_fBr0YuZDA" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=u_fBr0YuZDA</id>
-    <published>2026-04-03T07:04:52.000Z</published>
-    <updated>2026-04-03T07:04:52.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Início - 9:48
-Processo: 00058.000910/2025-93 - 10:34
-Processo: 00058.011873/2023-87 - 20:58
-Processo: 00066.021549/2019-91 - 35:00</summary>
-    <content type="html"><![CDATA[
-      <p>Início - 9:48
-Processo: 00058.000910/2025-93 - 10:34
-Processo: 00058.011873/2023-87 - 20:58
-Processo: 00066.021549/2019-91 - 35:00</p>
-      <img src="https://i2.ytimg.com/vi/u_fBr0YuZDA/hqdefault.jpg" alt="3ª Reunião Deliberativa da Diretoria Colegiada (02/04/2026)">
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">Sessão pública do leilão da Venda Assistida do Galeão</title>
-    <link href="https://www.youtube.com/watch?v=7XZ5YTYlrdE" rel="alternate"/>
-    <id>https://www.youtube.com/watch?v=7XZ5YTYlrdE</id>
-    <published>2026-03-30T20:56:51.000Z</published>
-    <updated>2026-03-30T20:56:51.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html"></summary>
-    <content type="html"><![CDATA[
-      <p></p>
-      <img src="https://i4.ytimg.com/vi/7XZ5YTYlrdE/hqdefault.jpg" alt="Sessão pública do leilão da Venda Assistida do Galeão">
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
