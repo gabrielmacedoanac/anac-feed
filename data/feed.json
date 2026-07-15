@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-423d0eec-4330-4782-a477-eac4c17b7cef",
+  "identifier": "urn:uuid:anac-feed-7f30da1d-8bee-4192-bcbd-d60b3f736680",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-15T13:24:09.490Z",
-  "dateModified": "2026-07-15T13:24:09.490Z",
+  "dateCreated": "2026-07-15T17:11:44.484Z",
+  "dateModified": "2026-07-15T17:11:44.484Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-18T00:00:00.000Z",
-    "endDate": "2026-07-14T18:35:21.000Z"
+    "endDate": "2026-07-15T13:30:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 145.163-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-163-001",
+      "datePublished": "2026-07-15T13:30:00.000Z",
+      "description": "Qualificação e Autorização em Ensaios Não Destrutivos na Manutenção de Produto Aeronáutico",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 21-006D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-006",
+      "datePublished": "2026-07-15T13:11:00.000Z",
+      "description": "Produção sob o RBAC 21 subpartes F, G, K e O",
+      "type": "legislação"
+    },
     {
       "@type": "VideoObject",
       "name": "Episodio 07",
@@ -223,14 +239,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "RBAC 154 EMD 09",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154",
-      "datePublished": "2026-06-15T10:47:00.000Z",
-      "description": "Projeto de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 805, 15/06/2026",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805",
       "datePublished": "2026-06-15T00:00:00.000Z",
@@ -294,14 +302,6 @@
       "description": "LINK SLIDO: https://app.sli.do/event/baE11rAvhHUsmWDG6aTvqs",
       "image": "https://i2.ytimg.com/vi/EbfpnZEGWmw/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 121 EMD 25",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25",
-      "datePublished": "2026-05-28T15:56:00.000Z",
-      "description": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg",
-      "type": "legislação"
     },
     {
       "@type": "VideoObject",

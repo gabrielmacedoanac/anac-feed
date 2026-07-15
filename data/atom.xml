@@ -4,13 +4,51 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-423d0eec-4330-4782-a477-eac4c17b7cef</id>
-  <updated>2026-07-14T18:35:21.000Z</updated>
+  <id>urn:uuid:anac-feed-7f30da1d-8bee-4192-bcbd-d60b3f736680</id>
+  <updated>2026-07-15T13:30:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 145.163-001B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-163-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-163-001</id>
+    <published>2026-07-15T13:30:00.000Z</published>
+    <updated>2026-07-15T13:30:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Qualificação e Autorização em Ensaios Não Destrutivos na Manutenção de Produto Aeronáutico</summary>
+    <content type="html"><![CDATA[
+      <p>Qualificação e Autorização em Ensaios Não Destrutivos na Manutenção de Produto Aeronáutico</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 21-006D</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-006" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-006</id>
+    <published>2026-07-15T13:11:00.000Z</published>
+    <updated>2026-07-15T13:11:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Produção sob o RBAC 21 subpartes F, G, K e O</summary>
+    <content type="html"><![CDATA[
+      <p>Produção sob o RBAC 21 subpartes F, G, K e O</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -432,25 +470,6 @@
   
   
   <entry>
-    <title type="html">RBAC 154 EMD 09</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154</id>
-    <published>2026-06-15T10:47:00.000Z</published>
-    <updated>2026-06-15T10:47:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Projeto de aeródromos</summary>
-    <content type="html"><![CDATA[
-      <p>Projeto de aeródromos</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">RESOLUÇÃO Nº 805, 15/06/2026</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805</id>
@@ -631,25 +650,6 @@ Relator: Roberto Honorato</p>
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
     <category term="vídeo"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RBAC 121 EMD 25</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-25</id>
-    <published>2026-05-28T15:56:00.000Z</published>
-    <updated>2026-05-28T15:56:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</summary>
-    <content type="html"><![CDATA[
-      <p>Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
   </entry>
   
   
