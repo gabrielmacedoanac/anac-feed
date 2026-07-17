@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-833971a4-7435-43d2-839e-2076a619be92",
+  "identifier": "urn:uuid:anac-feed-14494d72-f147-477d-800d-efff3340b8db",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-16T20:52:51.473Z",
-  "dateModified": "2026-07-16T20:52:51.473Z",
+  "dateCreated": "2026-07-17T02:06:27.535Z",
+  "dateModified": "2026-07-17T02:06:27.535Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-28T08:10:54.000Z",
-    "endDate": "2026-07-16T13:55:00.000Z"
+    "endDate": "2026-07-16T18:34:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 117-001C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001c",
+      "datePublished": "2026-07-16T18:34:00.000Z",
+      "description": "Conceitos básicos sobre fadiga humana",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 135-002G",
@@ -212,14 +220,6 @@
       "description": "LINK SLIDO: https://app.sli.do/event/aUVLsbiwsJqUhExAmUwEtS",
       "image": "https://i2.ytimg.com/vi/UEwao1QD8rM/hqdefault.jpg",
       "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 153 EMD 11",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153",
-      "datePublished": "2026-06-22T10:55:00.000Z",
-      "description": "Aeródromos - Operação, Manutenção e Resposta à Emergência",
-      "type": "legislação"
     },
     {
       "@type": "Legislation",

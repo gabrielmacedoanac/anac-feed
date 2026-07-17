@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 16 Jul 2026 20:52:51 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 20:52:51 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 02:06:27 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:06:27 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>IS 117-001C</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001c</link>
+      <description>Conceitos básicos sobre fadiga humana</description>
+      <pubDate>Thu, 16 Jul 2026 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001c</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-07-16T18:34:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Conceitos básicos sobre fadiga humana</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -364,23 +381,6 @@
       <content:encoded><![CDATA[
         <p>LINK SLIDO: https://app.sli.do/event/aUVLsbiwsJqUhExAmUwEtS</p>
         <img src="https://i2.ytimg.com/vi/UEwao1QD8rM/hqdefault.jpg" alt="Divulgação das novas regras de Drones">
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RBAC 153 EMD 11</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</link>
-      <description>Aeródromos - Operação, Manutenção e Resposta à Emergência</description>
-      <pubDate>Mon, 22 Jun 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-06-22T10:55:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aeródromos - Operação, Manutenção e Resposta à Emergência</p>
-        
       ]]></content:encoded>
     </item>
     
