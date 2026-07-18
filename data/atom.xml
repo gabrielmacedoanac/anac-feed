@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-d65842a6-c5f3-4691-8d5d-1465de4a23eb</id>
-  <updated>2026-07-17T17:07:00.000Z</updated>
+  <id>urn:uuid:anac-feed-87c1b4ef-43af-42c0-a818-33c4bb84b69b</id>
+  <updated>2026-07-17T17:55:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 154.5-001B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-5-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-5-001</id>
+    <published>2026-07-17T17:55:00.000Z</published>
+    <updated>2026-07-17T17:55:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Orientações para a elaboração de análise de risco com vistas à demonstração de nível aceitável de segurança operacional.</summary>
+    <content type="html"><![CDATA[
+      <p>Orientações para a elaboração de análise de risco com vistas à demonstração de nível aceitável de segurança operacional.</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -538,25 +557,6 @@
     <summary type="html">Requisitos para Operações Especiais de Aviação Pública</summary>
     <content type="html"><![CDATA[
       <p>Requisitos para Operações Especiais de Aviação Pública</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RBAC 100 EMD 00</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100</id>
-    <published>2026-06-16T10:25:00.000Z</published>
-    <updated>2026-06-16T10:25:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Requisitos gerais para aeronaves não tripuladas de uso civil</summary>
-    <content type="html"><![CDATA[
-      <p>Requisitos gerais para aeronaves não tripuladas de uso civil</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

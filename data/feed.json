@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-d65842a6-c5f3-4691-8d5d-1465de4a23eb",
+  "identifier": "urn:uuid:anac-feed-87c1b4ef-43af-42c0-a818-33c4bb84b69b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-17T20:47:55.699Z",
-  "dateModified": "2026-07-17T20:47:55.699Z",
+  "dateCreated": "2026-07-18T01:55:19.153Z",
+  "dateModified": "2026-07-18T01:55:19.153Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-28T08:10:54.000Z",
-    "endDate": "2026-07-17T17:07:00.000Z"
+    "endDate": "2026-07-17T17:55:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 154.5-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-5-001",
+      "datePublished": "2026-07-17T17:55:00.000Z",
+      "description": "Orientações para a elaboração de análise de risco com vistas à demonstração de nível aceitável de segurança operacional.",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 154-003B",
@@ -267,14 +275,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90",
       "datePublished": "2026-06-16T15:51:00.000Z",
       "description": "Requisitos para Operações Especiais de Aviação Pública",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 100 EMD 00",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100",
-      "datePublished": "2026-06-16T10:25:00.000Z",
-      "description": "Requisitos gerais para aeronaves não tripuladas de uso civil",
       "type": "legislação"
     },
     {
