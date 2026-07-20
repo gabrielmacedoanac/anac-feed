@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-50c129fb-9025-4cb3-917c-5aff37e88c24</id>
-  <updated>2026-07-17T17:55:00.000Z</updated>
+  <id>urn:uuid:anac-feed-14864785-5e4b-4274-968a-eecd86600b33</id>
+  <updated>2026-07-20T07:44:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 153-001B</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001</id>
+    <published>2026-07-20T07:44:00.000Z</published>
+    <updated>2026-07-20T07:44:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Critérios de movimentação no solo</summary>
+    <content type="html"><![CDATA[
+      <p>Critérios de movimentação no solo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -120,25 +139,6 @@
     <summary type="html">Procedimentos aceitáveis para determinação do nível adequado de serviço de prevenção, salvamento e combate a incêndio em aeródromos civis</summary>
     <content type="html"><![CDATA[
       <p>Procedimentos aceitáveis para determinação do nível adequado de serviço de prevenção, salvamento e combate a incêndio em aeródromos civis</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">IS 153-001B</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001</id>
-    <published>2026-07-17T15:46:00.000Z</published>
-    <updated>2026-07-17T15:46:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Critérios de movimentação no solo</summary>
-    <content type="html"><![CDATA[
-      <p>Critérios de movimentação no solo</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-50c129fb-9025-4cb3-917c-5aff37e88c24",
+  "identifier": "urn:uuid:anac-feed-14864785-5e4b-4274-968a-eecd86600b33",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-20T10:46:44.419Z",
-  "dateModified": "2026-07-20T10:46:44.419Z",
+  "dateCreated": "2026-07-20T13:54:53.507Z",
+  "dateModified": "2026-07-20T13:54:53.507Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-28T08:10:54.000Z",
-    "endDate": "2026-07-17T17:55:00.000Z"
+    "endDate": "2026-07-20T07:44:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 153-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001",
+      "datePublished": "2026-07-20T07:44:00.000Z",
+      "description": "Critérios de movimentação no solo",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 154.5-001B",
@@ -79,14 +87,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91.017",
       "datePublished": "2026-07-17T15:52:00.000Z",
       "description": "Procedimentos aceitáveis para determinação do nível adequado de serviço de prevenção, salvamento e combate a incêndio em aeródromos civis",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 153-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001",
-      "datePublished": "2026-07-17T15:46:00.000Z",
-      "description": "Critérios de movimentação no solo",
       "type": "legislação"
     },
     {
