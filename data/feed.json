@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-9cea9c3d-0057-4934-85b2-2555954535e2",
+  "identifier": "urn:uuid:anac-feed-44d4f47e-15c5-4d29-ae5d-1c136b152f5b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-24T17:25:17.466Z",
-  "dateModified": "2026-07-24T17:25:17.466Z",
+  "dateCreated": "2026-07-24T20:58:36.352Z",
+  "dateModified": "2026-07-24T20:58:36.352Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-28T08:10:54.000Z",
-    "endDate": "2026-07-24T10:21:00.000Z"
+    "endDate": "2026-07-24T17:21:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,22 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 154-001B",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-001",
+      "datePublished": "2026-07-24T17:21:00.000Z",
+      "description": "Auxílios visuais para pátios de aeronaves",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 154-002C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-002",
+      "datePublished": "2026-07-24T15:43:00.000Z",
+      "description": "Características físicas de aeródromos",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 153.205-001D",
@@ -67,14 +83,6 @@
     },
     {
       "@type": "Legislation",
-      "name": "IS 154-002C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-002",
-      "datePublished": "2026-07-17T16:35:00.000Z",
-      "description": "Características físicas de aeródromos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
       "name": "IS 117-001C",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001c",
       "datePublished": "2026-07-17T16:06:00.000Z",
@@ -95,14 +103,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91.017",
       "datePublished": "2026-07-17T15:52:00.000Z",
       "description": "Procedimentos aceitáveis para determinação do nível adequado de serviço de prevenção, salvamento e combate a incêndio em aeródromos civis",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 154-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-001",
-      "datePublished": "2026-07-17T15:09:00.000Z",
-      "description": "Auxílios visuais para pátios de aeronaves",
       "type": "legislação"
     },
     {
