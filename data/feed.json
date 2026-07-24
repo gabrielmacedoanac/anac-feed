@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6b0d1b73-8cbd-4289-bcd4-a52863ff3dba",
+  "identifier": "urn:uuid:anac-feed-dad0541f-ad24-4442-939d-25536c84e223",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-24T10:12:29.967Z",
-  "dateModified": "2026-07-24T10:12:29.967Z",
+  "dateCreated": "2026-07-24T13:25:12.572Z",
+  "dateModified": "2026-07-24T13:25:12.572Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-28T08:10:54.000Z",
-    "endDate": "2026-07-20T07:44:00.000Z"
+    "endDate": "2026-07-24T10:21:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 153.205-001D",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-205-001",
+      "datePublished": "2026-07-24T10:21:00.000Z",
+      "description": "Monitoramento da irregularidade longitudinal, atrito e macrotextura do pavimento da pista pouso e decolagem",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 153-001B",
@@ -291,14 +299,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805",
       "datePublished": "2026-06-15T00:00:00.000Z",
       "description": "Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 806, 15/06/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806",
-      "datePublished": "2026-06-15T00:00:00.000Z",
-      "description": "Estabelece as regras para operação de aeronaves não tripuladas com peso em voo até 250 gramas e aeromodelos, operando em VLOS ou EVLOS",
       "type": "legislação"
     },
     {
