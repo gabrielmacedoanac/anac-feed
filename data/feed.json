@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-cfda41a5-433d-4b5f-bfd7-d9815d3552e4",
+  "identifier": "urn:uuid:anac-feed-3bf0f128-d5c2-4ebc-b6c4-17de8fb6ed38",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-27T14:19:01.710Z",
-  "dateModified": "2026-07-27T14:19:01.710Z",
+  "dateCreated": "2026-07-27T21:06:44.112Z",
+  "dateModified": "2026-07-27T21:06:44.112Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-05-28T08:10:54.000Z",
-    "endDate": "2026-07-24T17:21:00.000Z"
+    "endDate": "2026-07-27T13:12:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 21.33-001A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-33-001",
+      "datePublished": "2026-07-27T13:12:00.000Z",
+      "description": "Reconhecimento da capacidade de laboratórios para realizar ensaios de inflamabilidade em materiais de interiores de aeronaves",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 154-001B",
@@ -275,14 +283,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137",
       "datePublished": "2026-06-16T16:31:00.000Z",
       "description": "Cadastro e requisitos operacionais: operações aeroagrícolas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 90 EMD 04",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90",
-      "datePublished": "2026-06-16T15:51:00.000Z",
-      "description": "Requisitos para Operações Especiais de Aviação Pública",
       "type": "legislação"
     },
     {

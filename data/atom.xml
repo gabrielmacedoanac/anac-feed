@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-cfda41a5-433d-4b5f-bfd7-d9815d3552e4</id>
-  <updated>2026-07-24T17:21:00.000Z</updated>
+  <id>urn:uuid:anac-feed-3bf0f128-d5c2-4ebc-b6c4-17de8fb6ed38</id>
+  <updated>2026-07-27T13:12:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 21.33-001A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-33-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-33-001</id>
+    <published>2026-07-27T13:12:00.000Z</published>
+    <updated>2026-07-27T13:12:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Reconhecimento da capacidade de laboratórios para realizar ensaios de inflamabilidade em materiais de interiores de aeronaves</summary>
+    <content type="html"><![CDATA[
+      <p>Reconhecimento da capacidade de laboratórios para realizar ensaios de inflamabilidade em materiais de interiores de aeronaves</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -557,25 +576,6 @@
     <summary type="html">Cadastro e requisitos operacionais: operações aeroagrícolas</summary>
     <content type="html"><![CDATA[
       <p>Cadastro e requisitos operacionais: operações aeroagrícolas</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RBAC 90 EMD 04</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90</id>
-    <published>2026-06-16T15:51:00.000Z</published>
-    <updated>2026-06-16T15:51:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Requisitos para Operações Especiais de Aviação Pública</summary>
-    <content type="html"><![CDATA[
-      <p>Requisitos para Operações Especiais de Aviação Pública</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
