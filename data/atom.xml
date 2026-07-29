@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-2a485a21-d692-4531-a881-b44859c1c6d4</id>
+  <id>urn:uuid:anac-feed-a87904e8-b6a1-4046-b791-58bed4cbd3bd</id>
   <updated>2026-07-28T17:23:41.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -63,6 +63,44 @@
     <summary type="html">Reconhecimento da capacidade de laboratórios para realizar ensaios de inflamabilidade em materiais de interiores de aeronaves</summary>
     <content type="html"><![CDATA[
       <p>Reconhecimento da capacidade de laboratórios para realizar ensaios de inflamabilidade em materiais de interiores de aeronaves</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO INTERNA Nº 10, 27/07/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-10" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-10</id>
+    <published>2026-07-27T00:00:00.000Z</published>
+    <updated>2026-07-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova o Regimento Interno da Agência Nacional de Aviação Civil - ANAC</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova o Regimento Interno da Agência Nacional de Aviação Civil - ANAC</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">RESOLUÇÃO Nº 809, 27/07/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-809" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-809</id>
+    <published>2026-07-27T00:00:00.000Z</published>
+    <updated>2026-07-27T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera a Resolução nº 761, de 18 de dezembro de 2024</summary>
+    <content type="html"><![CDATA[
+      <p>Altera a Resolução nº 761, de 18 de dezembro de 2024</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -603,25 +641,6 @@
   
   
   <entry>
-    <title type="html">RBAC 137 EMD 07</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137</id>
-    <published>2026-06-16T16:31:00.000Z</published>
-    <updated>2026-06-16T16:31:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Cadastro e requisitos operacionais: operações aeroagrícolas</summary>
-    <content type="html"><![CDATA[
-      <p>Cadastro e requisitos operacionais: operações aeroagrícolas</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
     <title type="html">DECISÃO Nº 748, 16/06/2026</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-748" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-748</id>
@@ -633,25 +652,6 @@
     <summary type="html">Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91, em favor da HELIMOTORS TÁXI AÉREO LTDA</summary>
     <content type="html"><![CDATA[
       <p>Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91, em favor da HELIMOTORS TÁXI AÉREO LTDA</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 805, 15/06/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-805</id>
-    <published>2026-06-15T00:00:00.000Z</published>
-    <updated>2026-06-15T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova o RBAC nº 100 e emendas aos RBACs nºs 90 e 137, e altera a Resolução nº 659, de 2 de fevereiro de 2022.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
