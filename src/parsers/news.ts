@@ -7,7 +7,9 @@ import { ContentItem } from "../types.ts";
 import { CONFIG } from "../config.ts";
 
 const BASE_URL = "https://www.gov.br";
-const NOTICIA_PATH_REGEX = /^\/anac\/pt-br\/noticias\/\d{4}\/[^/]+\/?$/;
+
+const NOTICIA_PATH_REGEX =
+  /^\/anac\/pt-br\/noticias\/\d{4}\/[^/]+\/?$/;
 
 interface ParsedDate {
   display: string;
@@ -50,7 +52,9 @@ function isNoticiaUrl(url: string): boolean {
   }
 }
 
-function parsePublishedDate(text: string): ParsedDate {
+function parsePublishedDate(
+  text: string,
+): ParsedDate {
   const match = text.match(
     /publicado\s+(\d{1,2})\/(\d{1,2})\/(\d{4})\s+(\d{1,2})h(\d{2})/i,
   );
@@ -61,7 +65,14 @@ function parsePublishedDate(text: string): ParsedDate {
     };
   }
 
-  const [, day, month, year, hour, minute] = match;
+  const [
+    ,
+    day,
+    month,
+    year,
+    hour,
+    minute,
+  ] = match;
 
   const paddedDay = day.padStart(2, "0");
   const paddedMonth = month.padStart(2, "0");
@@ -69,11 +80,12 @@ function parsePublishedDate(text: string): ParsedDate {
   const paddedMinute = minute.padStart(2, "0");
 
   const display =
-    `${paddedDay}/${paddedMonth}/${year} ${paddedHour}h${paddedMinute}`;
+    `${paddedDay}/${paddedMonth}/${year} ` +
+    `${paddedHour}h${paddedMinute}`;
 
-  // As datas exibidas pela página são tratadas como horário de Brasília.
   const date = new Date(
-    `${year}-${paddedMonth}-${paddedDay}T${paddedHour}:${paddedMinute}:00-03:00`,
+    `${year}-${paddedMonth}-${paddedDay}` +
+      `T${paddedHour}:${paddedMinute}:00-03:00`,
   );
 
   if (Number.isNaN(date.getTime())) {
@@ -95,13 +107,15 @@ function findArticleContainer(
   let current: Element | null = anchor;
 
   while (current) {
-    const text = normalizeText(current.textContent);
+    const text = normalizeText(
+      current.textContent,
+    );
 
-    if (
-      /publicado\s+\d{1,2}\/\d{1,2}\/\d{4}\s+\d{1,2}h\d{2}/i.test(
-        text,
-      )
-    ) {
+    const hasPublishedDate =
+      /publicado\s+\d{1,2}\/\d{1,2}\/\d{4}\s+\d{1,2}h\d{2}/i
+        .test(text);
+
+    if (hasPublishedDate) {
       return current;
     }
 
@@ -120,10 +134,12 @@ function extractDescription(
   );
 
   for (const paragraph of paragraphs) {
-    const text = normalizeText(paragraph.textContent);
+    const text = normalizeText(
+      paragraph.textContent,
+    );
 
     if (
-      text.length > 0 &&
+      text &&
       text !== title &&
       !/^tags?:/i.test(text) &&
       !/^publicado\b/i.test(text) &&
@@ -133,20 +149,24 @@ function extractDescription(
     }
   }
 
-  /*
-   * Fallback para o caso em que a descrição não esteja
-   * dentro de um elemento <p>.
-   */
-  let text = normalizeText(container.textContent);
+  let text = normalizeText(
+    container.textContent,
+  );
 
   if (text.startsWith(title)) {
-    text = text.slice(title.length).trim();
+    text = text
+      .slice(title.length)
+      .trim();
   }
 
-  const tagsIndex = text.search(/\btags?:/i);
+  const tagsIndex = text.search(
+    /\btags?:/i,
+  );
 
   if (tagsIndex >= 0) {
-    text = text.slice(0, tagsIndex).trim();
+    text = text
+      .slice(0, tagsIndex)
+      .trim();
   }
 
   const publishedIndex = text.search(
@@ -154,16 +174,20 @@ function extractDescription(
   );
 
   if (publishedIndex >= 0) {
-    text = text.slice(0, publishedIndex).trim();
+    text = text
+      .slice(0, publishedIndex)
+      .trim();
   }
 
-  return normalizeText(text) || "Sem descrição";
+  return normalizeText(text) ||
+    "Sem descrição";
 }
 
 function extractImage(
   container: Element,
 ): string | null {
-  const image = container.querySelector("img");
+  const image =
+    container.querySelector("img");
 
   if (!image) {
     return null;
@@ -176,10 +200,11 @@ function extractImage(
   ];
 
   for (const candidate of candidates) {
-    const absoluteUrl = toAbsoluteUrl(candidate);
+    const url =
+      toAbsoluteUrl(candidate);
 
-    if (absoluteUrl) {
-      return absoluteUrl;
+    if (url) {
+      return url;
     }
   }
 
@@ -191,23 +216,29 @@ function createContentItem(
   link: string,
   container: Element,
 ): ContentItem {
-  const containerText = normalizeText(
-    container.textContent,
-  );
+  const publishedText =
+    normalizeText(container.textContent);
 
-  const dateInfo = parsePublishedDate(
-    containerText,
-  );
+  const dateInfo =
+    parsePublishedDate(publishedText);
+
+  const description =
+    extractDescription(
+      container,
+      title,
+    );
+
+  const image =
+    extractImage(container);
 
   const item: ContentItem = {
     title,
     link,
-    date: dateInfo.obj ?? dateInfo.display,
-    description: extractDescription(
-      container,
-      title,
-    ),
-    image: extractImage(container),
+    date:
+      dateInfo.obj ??
+      dateInfo.display,
+    description,
+    image,
     type: "notícia",
     display: dateInfo.display,
   };
@@ -223,7 +254,9 @@ function createContentItem(
   return item;
 }
 
-export async function fetchNoticias(): Promise<ContentItem[]> {
+export async function fetchNoticias(): Promise<
+  ContentItem[]
+> {
   try {
     console.log(
       `Buscando notícias em: ${CONFIG.noticiaUrl}`,
@@ -239,6 +272,8 @@ export async function fetchNoticias(): Promise<ContentItem[]> {
             "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
           "Accept-Language":
             "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control":
+            "no-cache",
         },
         redirect: "follow",
       },
@@ -250,7 +285,8 @@ export async function fetchNoticias(): Promise<ContentItem[]> {
       );
     }
 
-    const html = await response.text();
+    const html =
+      await response.text();
 
     if (!html.trim()) {
       throw new Error(
@@ -258,4 +294,20 @@ export async function fetchNoticias(): Promise<ContentItem[]> {
       );
     }
 
-    const doc = new DOMParser
+    console.log(
+      `HTML recebido: ${html.length} caracteres.`,
+    );
+
+    const doc =
+      new DOMParser().parseFromString(
+        html,
+        "text/html",
+      );
+
+    if (!doc) {
+      throw new Error(
+        "Falha ao interpretar o HTML da página de notícias.",
+      );
+    }
+
+    const 
