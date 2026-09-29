@@ -1,4 +1,4 @@
-import { parse } from "@std/xml";
+import { parse } from "jsr:@std/xml";
 import { ContentItem } from "../types.ts";
 import { CONFIG } from "../config.ts";
 
