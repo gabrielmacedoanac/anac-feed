@@ -20,9 +20,7 @@ interface ParsedDate {
 function normalizeText(
   value: string | null | undefined,
 ): string {
-  return (value ?? "")
-    .replace(/\s+/g, " ")
-    .trim();
+  return (value ?? "").replace(/\s+/g, " ").trim();
 }
 
 function toAbsoluteUrl(
@@ -52,9 +50,7 @@ function isNoticiaUrl(url: string): boolean {
   }
 }
 
-function parsePublishedDate(
-  text: string,
-): ParsedDate {
+function parsePublishedDate(text: string): ParsedDate {
   const match = text.match(
     /publicado\s+(\d{1,2})\/(\d{1,2})\/(\d{4})\s+(\d{1,2})h(\d{2})/i,
   );
@@ -65,14 +61,7 @@ function parsePublishedDate(
     };
   }
 
-  const [
-    ,
-    day,
-    month,
-    year,
-    hour,
-    minute,
-  ] = match;
+  const [, day, month, year, hour, minute] = match;
 
   const paddedDay = day.padStart(2, "0");
   const paddedMonth = month.padStart(2, "0");
@@ -80,12 +69,10 @@ function parsePublishedDate(
   const paddedMinute = minute.padStart(2, "0");
 
   const display =
-    `${paddedDay}/${paddedMonth}/${year} ` +
-    `${paddedHour}h${paddedMinute}`;
+    `${paddedDay}/${paddedMonth}/${year} ${paddedHour}h${paddedMinute}`;
 
   const date = new Date(
-    `${year}-${paddedMonth}-${paddedDay}` +
-      `T${paddedHour}:${paddedMinute}:00-03:00`,
+    `${year}-${paddedMonth}-${paddedDay}T${paddedHour}:${paddedMinute}:00-03:00`,
   );
 
   if (Number.isNaN(date.getTime())) {
@@ -101,21 +88,17 @@ function parsePublishedDate(
   };
 }
 
-function findArticleContainer(
-  anchor: Element,
-): Element {
+function findArticleContainer(anchor: Element): Element {
   let current: Element | null = anchor;
 
   while (current) {
-    const text = normalizeText(
-      current.textContent,
-    );
+    const text = normalizeText(current.textContent);
 
-    const hasPublishedDate =
-      /publicado\s+\d{1,2}\/\d{1,2}\/\d{4}\s+\d{1,2}h\d{2}/i
-        .test(text);
-
-    if (hasPublishedDate) {
+    if (
+      /publicado\s+\d{1,2}\/\d{1,2}\/\d{4}\s+\d{1,2}h\d{2}/i.test(
+        text,
+      )
+    ) {
       return current;
     }
 
@@ -134,9 +117,7 @@ function extractDescription(
   );
 
   for (const paragraph of paragraphs) {
-    const text = normalizeText(
-      paragraph.textContent,
-    );
+    const text = normalizeText(paragraph.textContent);
 
     if (
       text &&
@@ -149,24 +130,16 @@ function extractDescription(
     }
   }
 
-  let text = normalizeText(
-    container.textContent,
-  );
+  let text = normalizeText(container.textContent);
 
   if (text.startsWith(title)) {
-    text = text
-      .slice(title.length)
-      .trim();
+    text = text.slice(title.length).trim();
   }
 
-  const tagsIndex = text.search(
-    /\btags?:/i,
-  );
+  const tagsIndex = text.search(/\btags?:/i);
 
   if (tagsIndex >= 0) {
-    text = text
-      .slice(0, tagsIndex)
-      .trim();
+    text = text.slice(0, tagsIndex).trim();
   }
 
   const publishedIndex = text.search(
@@ -174,20 +147,16 @@ function extractDescription(
   );
 
   if (publishedIndex >= 0) {
-    text = text
-      .slice(0, publishedIndex)
-      .trim();
+    text = text.slice(0, publishedIndex).trim();
   }
 
-  return normalizeText(text) ||
-    "Sem descrição";
+  return normalizeText(text) || "Sem descrição";
 }
 
 function extractImage(
   container: Element,
 ): string | null {
-  const image =
-    container.querySelector("img");
+  const image = container.querySelector("img");
 
   if (!image) {
     return null;
@@ -200,8 +169,7 @@ function extractImage(
   ];
 
   for (const candidate of candidates) {
-    const url =
-      toAbsoluteUrl(candidate);
+    const url = toAbsoluteUrl(candidate);
 
     if (url) {
       return url;
@@ -216,29 +184,16 @@ function createContentItem(
   link: string,
   container: Element,
 ): ContentItem {
-  const publishedText =
-    normalizeText(container.textContent);
+  const text = normalizeText(container.textContent);
 
-  const dateInfo =
-    parsePublishedDate(publishedText);
-
-  const description =
-    extractDescription(
-      container,
-      title,
-    );
-
-  const image =
-    extractImage(container);
+  const dateInfo = parsePublishedDate(text);
 
   const item: ContentItem = {
     title,
     link,
-    date:
-      dateInfo.obj ??
-      dateInfo.display,
-    description,
-    image,
+    date: dateInfo.obj ?? dateInfo.display,
+    description: extractDescription(container, title),
+    image: extractImage(container),
     type: "notícia",
     display: dateInfo.display,
   };
@@ -254,9 +209,7 @@ function createContentItem(
   return item;
 }
 
-export async function fetchNoticias(): Promise<
-  ContentItem[]
-> {
+export async function fetchNoticias(): Promise<ContentItem[]> {
   try {
     console.log(
       `Buscando notícias em: ${CONFIG.noticiaUrl}`,
@@ -272,8 +225,6 @@ export async function fetchNoticias(): Promise<
             "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
           "Accept-Language":
             "pt-BR,pt;q=0.9,en;q=0.8",
-          "Cache-Control":
-            "no-cache",
         },
         redirect: "follow",
       },
@@ -285,8 +236,7 @@ export async function fetchNoticias(): Promise<
       );
     }
 
-    const html =
-      await response.text();
+    const html = await response.text();
 
     if (!html.trim()) {
       throw new Error(
@@ -298,11 +248,10 @@ export async function fetchNoticias(): Promise<
       `HTML recebido: ${html.length} caracteres.`,
     );
 
-    const doc =
-      new DOMParser().parseFromString(
-        html,
-        "text/html",
-      );
+    const doc = new DOMParser().parseFromString(
+      html,
+      "text/html",
+    );
 
     if (!doc) {
       throw new Error(
@@ -310,4 +259,99 @@ export async function fetchNoticias(): Promise<
       );
     }
 
-    const 
+    const anchors = Array.from(
+      doc.querySelectorAll("a[href]"),
+    );
+
+    console.log(
+      `Links encontrados: ${anchors.length}`,
+    );
+
+    const noticias: ContentItem[] = [];
+    const processedLinks = new Set<string>();
+
+    for (const anchor of anchors) {
+      if (
+        noticias.length >= CONFIG.maxNoticias
+      ) {
+        break;
+      }
+
+      try {
+        const rawHref =
+          anchor.getAttribute("href");
+
+        const link =
+          toAbsoluteUrl(rawHref);
+
+        if (!link) {
+          continue;
+        }
+
+        if (!isNoticiaUrl(link)) {
+          continue;
+        }
+
+        if (processedLinks.has(link)) {
+          continue;
+        }
+
+        const title =
+          normalizeText(anchor.textContent);
+
+        if (!title || title.length < 10) {
+          continue;
+        }
+
+        const container =
+          findArticleContainer(anchor);
+
+        const item =
+          createContentItem(
+            title,
+            link,
+            container,
+          );
+
+        noticias.push(item);
+        processedLinks.add(link);
+
+        console.log(
+          `Notícia encontrada: ${item.title}`,
+        );
+      } catch (error) {
+        console.warn(
+          "Erro ao processar uma notícia:",
+          error,
+        );
+      }
+    }
+
+    if (noticias.length === 0) {
+      console.warn(
+        "Nenhuma notícia foi encontrada no HTML recebido.",
+      );
+
+      return [];
+    }
+
+    console.log(
+      `${noticias.length} notícia(s) encontrada(s).`,
+    );
+
+    for (const noticia of noticias) {
+      console.log(
+        `- ${noticia.display ?? "ND"} | ${noticia.title}`,
+      );
+    }
+
+    return noticias;
+  } catch (error) {
+    console.error(
+      "Erro ao buscar notícias:",
+      error,
+    );
+
+    return [];
+  }
+}
