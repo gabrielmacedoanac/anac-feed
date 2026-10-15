@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-34dbef64-d123-4865-b457-4227bc2c6a49",
+  "identifier": "urn:uuid:anac-feed-8ea4a7b1-3c12-4354-ad55-07585f934364",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-07-30T17:20:52.208Z",
-  "dateModified": "2026-07-30T17:20:52.208Z",
+  "dateCreated": "2026-10-15T15:07:31.183Z",
+  "dateModified": "2026-10-15T15:07:31.183Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -22,8 +22,8 @@
     "url": "https://www.gov.br/anac"
   },
   "temporalCoverage": {
-    "startDate": "2026-06-13T03:05:56.000Z",
-    "endDate": "2026-07-30T07:06:36.000Z"
+    "startDate": "2026-07-17T15:52:00.000Z",
+    "endDate": "2026-10-13T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -34,109 +34,155 @@
   ],
   "items": [
     {
-      "@type": "VideoObject",
-      "name": "Audiência Pública da Consulta Pública nº 10/2026",
-      "url": "https://www.youtube.com/watch?v=UulPvc5Rpis",
-      "datePublished": "2026-07-30T07:06:36.000Z",
-      "description": "Proposta de Edital do Procedimento Competitivo de Repactuação do Contrato de Concessão nº 001/ANAC/2012-SBBR, relativo ao Aeroporto Internacional de Brasília (DF) - Presidente Juscelino Kubitschek.",
-      "image": "https://i2.ytimg.com/vi/UulPvc5Rpis/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Obra em pista de pouso e decolagem interditada",
-      "url": "https://www.youtube.com/watch?v=tBKUL1PLyr0",
-      "datePublished": "2026-07-28T17:23:41.000Z",
-      "description": "As obras e os serviços de manutenção na área operacional de um aeródromo precisam ser planejados com antecedência para garantir segurança das operações aéreas e aeroportuária e não gerar custos proibitivos para sua operacionalização.",
-      "image": "https://i1.ytimg.com/vi/tBKUL1PLyr0/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
       "@type": "Legislation",
-      "name": "IS 21.33-001A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-33-001",
-      "datePublished": "2026-07-27T13:12:00.000Z",
-      "description": "Reconhecimento da capacidade de laboratórios para realizar ensaios de inflamabilidade em materiais de interiores de aeronaves",
+      "name": "DECISÃO Nº 758, 13/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-758",
+      "datePublished": "2026-10-13T00:00:00.000Z",
+      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que trata o parágrafo 133.1(b) do RBAC nº 133, em favor da Ecocopter S.A.",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "RESOLUÇÃO INTERNA Nº 10, 27/07/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-10",
-      "datePublished": "2026-07-27T00:00:00.000Z",
-      "description": "Aprova o Regimento Interno da Agência Nacional de Aviação Civil - ANAC",
+      "name": "DECISÃO Nº 759, 13/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-759",
+      "datePublished": "2026-10-13T00:00:00.000Z",
+      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 809, 27/07/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-809",
-      "datePublished": "2026-07-27T00:00:00.000Z",
-      "description": "Altera a Resolução nº 761, de 18 de dezembro de 2024",
+      "name": "DECISÃO Nº 760, 13/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-760",
+      "datePublished": "2026-10-13T00:00:00.000Z",
+      "description": "Aprova a publicação do Anexo I  - Manual de Procedimentos do Leilão e altera o Edital do Leilão nº 01/2026",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 154-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-001",
-      "datePublished": "2026-07-24T17:21:00.000Z",
-      "description": "Auxílios visuais para pátios de aeronaves",
+      "name": "RESOLUÇÃO Nº 817, 07/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-817",
+      "datePublished": "2026-10-07T00:00:00.000Z",
+      "description": "Estabelece procedimentos, recursos materiais e prazos para modernização dos equipamentos utilizados nos canais de inspeção de pessoas e pertences de mão nos aeroportos brasileiros",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 154-002C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-002",
-      "datePublished": "2026-07-24T15:43:00.000Z",
-      "description": "Características físicas de aeródromos",
+      "name": "IS 100.203-001A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001A",
+      "datePublished": "2026-10-05T14:48:00.000Z",
+      "description": "Emissão de Certificado de Autorização de Voo Experimental para Sistema de Aeronave Não Tripulada (UAS)",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 153.205-001D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-205-001",
-      "datePublished": "2026-07-24T10:21:00.000Z",
-      "description": "Monitoramento da irregularidade longitudinal, atrito e macrotextura do pavimento da pista pouso e decolagem",
+      "name": "RBAC 91 EMD 08",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91",
+      "datePublished": "2026-10-05T11:55:00.000Z",
+      "description": "Requisitos gerais de operação para aeronaves civis",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 153-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001",
-      "datePublished": "2026-07-20T07:44:00.000Z",
-      "description": "Critérios de movimentação no solo",
+      "name": "RBAC 183 EMD 02",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183",
+      "datePublished": "2026-10-01T16:00:00.000Z",
+      "description": "Credenciamento de pessoas",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 154.5-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-5-001",
-      "datePublished": "2026-07-17T17:55:00.000Z",
-      "description": "Orientações para a elaboração de análise de risco com vistas à demonstração de nível aceitável de segurança operacional.",
+      "name": "DECISÃO Nº 757, 28/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-757",
+      "datePublished": "2026-09-28T00:00:00.000Z",
+      "description": "Extingue autorização para exploração de aeródromo civil público",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 154-003B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-003",
-      "datePublished": "2026-07-17T17:07:00.000Z",
-      "description": "Auxílios visuais para pistas de pouso e decolagem e pistas de táxi",
+      "name": "RESOLUÇÃO INTERNA Nº 12, 28/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12",
+      "datePublished": "2026-09-28T00:00:00.000Z",
+      "description": "Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 117-001C",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001c",
-      "datePublished": "2026-07-17T16:06:00.000Z",
-      "description": "Conceitos básicos sobre fadiga humana",
+      "name": "RESOLUÇÃO Nº 816, 28/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-816",
+      "datePublished": "2026-09-28T00:00:00.000Z",
+      "description": "Aprova a Emenda nº 08 ao RBAC nº 91",
       "type": "legislação"
     },
     {
       "@type": "Legislation",
-      "name": "IS 135-002G",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-002",
-      "datePublished": "2026-07-17T15:59:00.000Z",
-      "description": "Procedimentos para elaboração do manual geral de operações (MGO) dos operadores aéreos regidos pelo RBAC nº 135",
+      "name": "RESOLUÇÃO Nº 815, 24/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-815",
+      "datePublished": "2026-09-24T00:00:00.000Z",
+      "description": "Altera a Resolução nº 653, de 20 de dezembro de 2021",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 814, 24/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-814",
+      "datePublished": "2026-09-24T00:00:00.000Z",
+      "description": "Aprova a Emenda nº 02 ao RBAC nº 183",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 813, 23/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813",
+      "datePublished": "2026-09-23T00:00:00.000Z",
+      "description": "Altera a Resolução nº 400, de 13 de dezembro de 2016",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 812, 21/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-812",
+      "datePublished": "2026-09-21T00:00:00.000Z",
+      "description": "Aprova Condição Especial aplicável à variabilidade de velocidade de rotação em decolagens automatizadas do avião ERJ 190-400",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 756, 08/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-756",
+      "datePublished": "2026-09-08T00:00:00.000Z",
+      "description": "Fixa interpretação do art. 1º, inciso III, da Resolução nº 55, de 8 de outubro de 2008, quanto à conclusão de operações previamente agendadas afetadas por contingência sistêmica no Aeroporto de São Paulo/Congonhas (SBSP)",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 811, 08/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-811",
+      "datePublished": "2026-09-08T00:00:00.000Z",
+      "description": "Concede isenção temporária de cumprimento do requisito de que trata o parágrafo 141.45(d)(1) do RBAC nº 141",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 755, 01/09/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-755",
+      "datePublished": "2026-09-01T00:00:00.000Z",
+      "description": "Torna pública a aplicação de providência administrativa acautelatória de suspensão integral das operações vinculadas ao Certificado de Operador Aéreo emitido em favor da Total Linhas Aéreas S.A.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 754, 31/08/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-754",
+      "datePublished": "2026-08-31T00:00:00.000Z",
+      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 145.153(b)(1), 145.155(d)-I, 145.157(a) e 145.213(d) do RBAC nº 145, em favor da Rubic Balões Indústria e Comércio Ltda.",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 753, 31/08/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-753",
+      "datePublished": "2026-08-31T00:00:00.000Z",
+      "description": "Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 135.25(b) do RBAC nº 135, em favor da Goiás Táxi Aéreo Ltda.",
       "type": "legislação"
     },
     {
@@ -146,187 +192,6 @@
       "datePublished": "2026-07-17T15:52:00.000Z",
       "description": "Procedimentos aceitáveis para determinação do nível adequado de serviço de prevenção, salvamento e combate a incêndio em aeródromos civis",
       "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 145.163-001B",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-163-001",
-      "datePublished": "2026-07-15T13:30:00.000Z",
-      "description": "Qualificação e Autorização em Ensaios Não Destrutivos na Manutenção de Produto Aeronáutico",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21-006D",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-006",
-      "datePublished": "2026-07-15T13:11:00.000Z",
-      "description": "Produção sob o RBAC 21 subpartes F, G, K e O",
-      "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Episodio 07",
-      "url": "https://www.youtube.com/watch?v=FNRWpr_n-RM",
-      "datePublished": "2026-07-14T18:35:21.000Z",
-      "description": "",
-      "image": "https://i3.ytimg.com/vi/FNRWpr_n-RM/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Episodio 06",
-      "url": "https://www.youtube.com/watch?v=SgvCSgp3eyc",
-      "datePublished": "2026-07-14T18:35:03.000Z",
-      "description": "",
-      "image": "https://i4.ytimg.com/vi/SgvCSgp3eyc/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Episódio 5: Requisitos de Aeronavegabilidade Continuada",
-      "url": "https://www.youtube.com/watch?v=IJnmJ-7KFPU",
-      "datePublished": "2026-07-14T18:34:45.000Z",
-      "description": "A Reunião de Orientação Prévia – ROP é a primeira fase do processo de certificação de uma empresa conforme o Regulamento Brasileiro de Aviação Civil - RBAC 135, que regulamenta os táxis aéreos. A série de vídeos &quot;VOE 135 - Certificação Descomplicada&quot; foi criada com informações para preparação para ROP.",
-      "image": "https://i2.ytimg.com/vi/IJnmJ-7KFPU/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Episodio 04",
-      "url": "https://www.youtube.com/watch?v=YxqP77zCIns",
-      "datePublished": "2026-07-14T18:34:24.000Z",
-      "description": "",
-      "image": "https://i2.ytimg.com/vi/YxqP77zCIns/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Episodio 02",
-      "url": "https://www.youtube.com/watch?v=WXj1ndYiEJM",
-      "datePublished": "2026-07-14T18:34:05.000Z",
-      "description": "",
-      "image": "https://i4.ytimg.com/vi/WXj1ndYiEJM/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "EPISÓDIO 1",
-      "url": "https://www.youtube.com/watch?v=EQ789pkcqTE",
-      "datePublished": "2026-07-14T18:33:39.000Z",
-      "description": "",
-      "image": "https://i2.ytimg.com/vi/EQ789pkcqTE/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário de Engenharia de Aeroportos 2026 - Dia 3",
-      "url": "https://www.youtube.com/watch?v=u28k1pCUecA",
-      "datePublished": "2026-07-10T20:29:58.000Z",
-      "description": "LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W",
-      "image": "https://i2.ytimg.com/vi/u28k1pCUecA/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário de Engenharia de Aeroportos 2026 - Dia 2",
-      "url": "https://www.youtube.com/watch?v=qk7aAlmb1Eo",
-      "datePublished": "2026-07-10T20:28:13.000Z",
-      "description": "LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W",
-      "image": "https://i2.ytimg.com/vi/qk7aAlmb1Eo/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Webinário de Engenharia de Aeroportos 2026 - Dia 1",
-      "url": "https://www.youtube.com/watch?v=VI09U4ePqj0",
-      "datePublished": "2026-07-10T20:26:09.000Z",
-      "description": "LINK SLIDO: https://app.sli.do/event/7XceUW3udCWUL8peQgtC4W",
-      "image": "https://i3.ytimg.com/vi/VI09U4ePqj0/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 45  EMD 05",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045",
-      "datePublished": "2026-07-08T16:04:00.000Z",
-      "description": "Marcas de Identificação, de Nacionalidade e de Matrícula.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 21 EMD 15",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21",
-      "datePublished": "2026-07-08T12:46:00.000Z",
-      "description": "Certificação de produto e artigo aeronáuticos",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 808, 06/07/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-808",
-      "datePublished": "2026-07-06T00:00:00.000Z",
-      "description": "Aprova emendas aos RBACs nºs 21 e 45",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 749, 06/07/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-749",
-      "datePublished": "2026-07-06T00:00:00.000Z",
-      "description": "Autoriza a limitação do número de prestadores de atividades relacionadas ao abastecimento de aeronaves no Parque de Abastecimento de Aeronaves do Aeroporto de Congonhas, localizado em São Paulo (SP) (código OACI: SBSP), operado pela Concessionária Bloco de Onze Aeroportos do Brasil S.A.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 807, 06/07/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-807",
-      "datePublished": "2026-07-06T00:00:00.000Z",
-      "description": "Regulamenta a marcação de assentos para menores de 16 anos em assentos contíguos aos de seus responsáveis ou familiares, em cumprimento de decisão judicial",
-      "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Cabine e equipamentos de segurança",
-      "url": "https://www.youtube.com/watch?v=f9wMJMIz2n8",
-      "datePublished": "2026-07-03T14:05:37.000Z",
-      "description": "ELEMENTARY AVIATION ENGLISH VOCABULARY - MÓDULO I",
-      "image": "https://i3.ytimg.com/vi/f9wMJMIz2n8/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Os Novos Desafios do MGM sob a IS nº 121-024 Revisão A",
-      "url": "https://www.youtube.com/watch?v=YqD1b4K7-CA",
-      "datePublished": "2026-06-27T06:19:37.000Z",
-      "description": "LINK DO SLIDO: https://app.sli.do/event/bNeCn3M5X1PSiLYVYtsao4",
-      "image": "https://i2.ytimg.com/vi/YqD1b4K7-CA/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Divulgação das novas regras de Drones",
-      "url": "https://www.youtube.com/watch?v=UEwao1QD8rM",
-      "datePublished": "2026-06-24T19:08:06.000Z",
-      "description": "LINK SLIDO: https://app.sli.do/event/aUVLsbiwsJqUhExAmUwEtS",
-      "image": "https://i2.ytimg.com/vi/UEwao1QD8rM/hqdefault.jpg",
-      "type": "vídeo"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 748, 16/06/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-748",
-      "datePublished": "2026-06-16T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária do cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91, em favor da HELIMOTORS TÁXI AÉREO LTDA",
-      "type": "legislação"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "4ª Reunião Deliberativa da Diretoria Colegiada (12/06/2026)",
-      "url": "https://www.youtube.com/watch?v=VBTSVhD8bOk",
-      "datePublished": "2026-06-13T03:05:56.000Z",
-      "description": "Início - 9:55\n\nProcesso: 00058.040824/2019-75 - 11:02\nAssunto: Proposta de edição do RBAC nº 100, objeto da Consulta Pública nº 09/2025, encerrada em 18 de julho de 2025 - tema 9 da Agenda Regulatória 2025-2026\nRelator: Mathias Moreira\n\n\nProcesso: 00066.002919/2026-11 - 01:11:03\nInteressado: Helimotors Táxi Aéreo Ltda.\nAssunto: Pedido de isenção de cumprimento do requisito de que trata o parágrafo 91.329(a)(2) do RBAC nº 91\nRelator: Roberto Honorato\n\n\nProcesso: 00058.104578/2025-35 - 01:25:10\nInteressado: Companhia de Participações em Concessões - CPC\nAssunto: Pedido de anuência prévia para transferência do controle societário de sociedades concessionárias de serviços aeroportuários\nRelator: Roberto Honorato",
-      "image": "https://i3.ytimg.com/vi/VBTSVhD8bOk/hqdefault.jpg",
-      "type": "vídeo"
     }
   ]
 }
