@@ -37,16 +37,7 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: ▶️ Executar script Deno
-        run: >
-          deno run
-          --allow-net
-          --allow-read
-          --allow-write
-          --allow-run
-          --allow-env
-          --allow-sys
-          --allow-ffi
-          src/main.ts
+        run: deno run -A src/main.ts
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
