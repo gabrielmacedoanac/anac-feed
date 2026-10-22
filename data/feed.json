@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-10059b92-5db5-4fa6-a0a6-6fed5abddb2e",
+  "identifier": "urn:uuid:anac-feed-fab1b2a5-05ab-4b00-9337-4958478bfd21",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-10-22T13:50:50.835Z",
-  "dateModified": "2026-10-22T13:50:50.835Z",
+  "dateCreated": "2026-10-22T23:14:29.460Z",
+  "dateModified": "2026-10-22T23:14:29.460Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-10-13T00:00:00.000Z"
+    "endDate": "2026-10-22T12:28:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,38 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RBAC 21 EMD 16",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-15",
+      "datePublished": "2026-10-22T12:28:00.000Z",
+      "description": "Certificação de produto e artigo aeronáuticos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RBAC 21 EMD 16",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21",
+      "datePublished": "2026-10-22T12:24:00.000Z",
+      "description": "Certificação de produto e artigo aeronáuticos",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 818, 19/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-818",
+      "datePublished": "2026-10-19T00:00:00.000Z",
+      "description": "Aprova a Emenda nº 16 ao RBAC nº 21 e altera a Resolução nº 785, de 15 de dezembro de 2025",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 761, 19/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-761",
+      "datePublished": "2026-10-19T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Porto Alegre, localizado em localizado em Porto Alegre (RS)",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "DECISÃO Nº 758, 13/10/2026",
@@ -151,38 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-756",
       "datePublished": "2026-09-08T00:00:00.000Z",
       "description": "Fixa interpretação do art. 1º, inciso III, da Resolução nº 55, de 8 de outubro de 2008, quanto à conclusão de operações previamente agendadas afetadas por contingência sistêmica no Aeroporto de São Paulo/Congonhas (SBSP)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 811, 08/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-811",
-      "datePublished": "2026-09-08T00:00:00.000Z",
-      "description": "Concede isenção temporária de cumprimento do requisito de que trata o parágrafo 141.45(d)(1) do RBAC nº 141",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 755, 01/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-755",
-      "datePublished": "2026-09-01T00:00:00.000Z",
-      "description": "Torna pública a aplicação de providência administrativa acautelatória de suspensão integral das operações vinculadas ao Certificado de Operador Aéreo emitido em favor da Total Linhas Aéreas S.A.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 754, 31/08/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-754",
-      "datePublished": "2026-08-31T00:00:00.000Z",
-      "description": "Defere pedido de isenção temporária de cumprimento dos requisitos de que tratam os parágrafos 145.153(b)(1), 145.155(d)-I, 145.157(a) e 145.213(d) do RBAC nº 145, em favor da Rubic Balões Indústria e Comércio Ltda.",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 753, 31/08/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-753",
-      "datePublished": "2026-08-31T00:00:00.000Z",
-      "description": "Defere pedido de isenção de cumprimento do requisito de que trata o parágrafo 135.25(b) do RBAC nº 135, em favor da Goiás Táxi Aéreo Ltda.",
       "type": "legislação"
     },
     {
