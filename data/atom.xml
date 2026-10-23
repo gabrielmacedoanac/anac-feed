@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-a980b846-be08-4d3a-8ee4-ec5e9e09a7c7</id>
+  <id>urn:uuid:anac-feed-35ea670c-4364-4297-806c-c5bbfe59dfb1</id>
   <updated>2026-10-22T12:28:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -44,6 +44,25 @@
     <summary type="html">Certificação de produto e artigo aeronáuticos</summary>
     <content type="html"><![CDATA[
       <p>Certificação de produto e artigo aeronáuticos</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 762, 22/10/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-762" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-762</id>
+    <published>2026-10-22T00:00:00.000Z</published>
+    <updated>2026-10-22T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Altera o Edital do Leilão nº 01/2026</summary>
+    <content type="html"><![CDATA[
+      <p>Altera o Edital do Leilão nº 01/2026</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -348,25 +367,6 @@
     <summary type="html">Aprova Condição Especial aplicável à variabilidade de velocidade de rotação em decolagens automatizadas do avião ERJ 190-400</summary>
     <content type="html"><![CDATA[
       <p>Aprova Condição Especial aplicável à variabilidade de velocidade de rotação em decolagens automatizadas do avião ERJ 190-400</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 756, 08/09/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-756" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-756</id>
-    <published>2026-09-08T00:00:00.000Z</published>
-    <updated>2026-09-08T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Fixa interpretação do art. 1º, inciso III, da Resolução nº 55, de 8 de outubro de 2008, quanto à conclusão de operações previamente agendadas afetadas por contingência sistêmica no Aeroporto de São Paulo/Congonhas (SBSP)</summary>
-    <content type="html"><![CDATA[
-      <p>Fixa interpretação do art. 1º, inciso III, da Resolução nº 55, de 8 de outubro de 2008, quanto à conclusão de operações previamente agendadas afetadas por contingência sistêmica no Aeroporto de São Paulo/Congonhas (SBSP)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
