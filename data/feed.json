@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-3af547f3-442f-4fbd-acf0-ac97094b817a",
+  "identifier": "urn:uuid:anac-feed-977b204d-e11d-445f-b14c-151e65c63a8b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-10-26T04:26:00.427Z",
-  "dateModified": "2026-10-26T04:26:00.427Z",
+  "dateCreated": "2026-10-26T15:07:54.729Z",
+  "dateModified": "2026-10-26T15:07:54.729Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-10-22T12:28:00.000Z"
+    "endDate": "2026-10-23T00:00:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 819, 23/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-819",
+      "datePublished": "2026-10-23T00:00:00.000Z",
+      "description": "Altera a Resolução nº 813, de 23 de setembro de 2026",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "RBAC 21 EMD 16",
@@ -175,14 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813",
       "datePublished": "2026-09-23T00:00:00.000Z",
       "description": "Altera a Resolução nº 400, de 13 de dezembro de 2016",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 812, 21/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-812",
-      "datePublished": "2026-09-21T00:00:00.000Z",
-      "description": "Aprova Condição Especial aplicável à variabilidade de velocidade de rotação em decolagens automatizadas do avião ERJ 190-400",
       "type": "legislação"
     },
     {
