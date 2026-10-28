@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-493ff1f9-67ec-485f-b8c8-b2cc10ed4fdb</id>
-  <updated>2026-10-28T11:20:00.000Z</updated>
+  <id>urn:uuid:anac-feed-e802b8ec-9d6b-4b13-9367-a957d08f4d27</id>
+  <updated>2026-10-28T16:51:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,14 +17,52 @@
     <title type="html">IS 107-001N</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n</id>
-    <published>2026-10-28T11:20:00.000Z</published>
-    <updated>2026-10-28T11:20:00.000Z</updated>
+    <published>2026-10-28T16:51:00.000Z</published>
+    <updated>2026-10-28T16:51:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
     <summary type="html">Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</summary>
     <content type="html"><![CDATA[
       <p>Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 183-002J</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-002</id>
+    <published>2026-10-28T15:36:00.000Z</published>
+    <updated>2026-10-28T15:36:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados</summary>
+    <content type="html"><![CDATA[
+      <p>Processo de credenciamento de pessoa física na SAR e orientações de atuação para os profissionais credenciados</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">IS 153-001C</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001</id>
+    <published>2026-10-28T15:03:00.000Z</published>
+    <updated>2026-10-28T15:03:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Critérios de movimentação no solo</summary>
+    <content type="html"><![CDATA[
+      <p>Critérios de movimentação no solo</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -224,8 +262,8 @@
   
   <entry>
     <title type="html">IS 100.203-001A</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001A" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001A</id>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001</id>
     <published>2026-10-05T14:48:00.000Z</published>
     <updated>2026-10-05T14:48:00.000Z</updated>
     <author>
@@ -329,44 +367,6 @@
     <summary type="html">Aprova a Emenda nº 08 ao RBAC nº 91</summary>
     <content type="html"><![CDATA[
       <p>Aprova a Emenda nº 08 ao RBAC nº 91</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 815, 24/09/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-815" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-815</id>
-    <published>2026-09-24T00:00:00.000Z</published>
-    <updated>2026-09-24T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Altera a Resolução nº 653, de 20 de dezembro de 2021</summary>
-    <content type="html"><![CDATA[
-      <p>Altera a Resolução nº 653, de 20 de dezembro de 2021</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 814, 24/09/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-814" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-814</id>
-    <published>2026-09-24T00:00:00.000Z</published>
-    <updated>2026-09-24T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a Emenda nº 02 ao RBAC nº 183</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a Emenda nº 02 ao RBAC nº 183</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
