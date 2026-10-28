@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-6599c7d5-c241-41e0-a28e-ff7db2714026",
+  "identifier": "urn:uuid:anac-feed-493ff1f9-67ec-485f-b8c8-b2cc10ed4fdb",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-10-28T05:19:14.845Z",
-  "dateModified": "2026-10-28T05:19:14.845Z",
+  "dateCreated": "2026-10-28T15:03:01.914Z",
+  "dateModified": "2026-10-28T15:03:01.914Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-10-23T00:00:00.000Z"
+    "endDate": "2026-10-28T11:20:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 107-001N",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n",
+      "datePublished": "2026-10-28T11:20:00.000Z",
+      "description": "Segurança da aviação contra atos de interferência ilícita - operador de aeródromo",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "RESOLUÇÃO Nº 819, 23/10/2026",
@@ -175,14 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-814",
       "datePublished": "2026-09-24T00:00:00.000Z",
       "description": "Aprova a Emenda nº 02 ao RBAC nº 183",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 813, 23/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813",
-      "datePublished": "2026-09-23T00:00:00.000Z",
-      "description": "Altera a Resolução nº 400, de 13 de dezembro de 2016",
       "type": "legislação"
     },
     {
