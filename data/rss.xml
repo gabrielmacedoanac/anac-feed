@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 29 Oct 2026 05:30:08 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 05:30:08 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 15:10:36 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:10:36 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -15,10 +15,10 @@
       <title>IS 107-001N</title>
       <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n</link>
       <description>Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</description>
-      <pubDate>Wed, 28 Oct 2026 16:51:00 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 10:59:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n</guid>
       <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-10-28T16:51:00.000Z</dc:date>
+      <dc:date>2026-10-29T10:59:00.000Z</dc:date>
       
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
@@ -57,6 +57,23 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Critérios de movimentação no solo</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>DECISÃO Nº 763, 26/10/2026</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-763</link>
+      <description>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-763</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-10-26T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)</p>
         
       ]]></content:encoded>
     </item>
@@ -312,23 +329,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RESOLUÇÃO Nº 816, 28/09/2026</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-816</link>
-      <description>Aprova a Emenda nº 08 ao RBAC nº 91</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-816</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-09-28T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aprova a Emenda nº 08 ao RBAC nº 91</p>
         
       ]]></content:encoded>
     </item>

@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-f48b5729-b4f1-4e90-b476-c78d2b2d7598",
+  "identifier": "urn:uuid:anac-feed-acdd7d4f-63a8-4bf5-9cc5-3c4771194b56",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-10-29T05:30:08.261Z",
-  "dateModified": "2026-10-29T05:30:08.261Z",
+  "dateCreated": "2026-10-29T15:10:36.448Z",
+  "dateModified": "2026-10-29T15:10:36.448Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-10-28T16:51:00.000Z"
+    "endDate": "2026-10-29T10:59:00.000Z"
   },
   "distribution": [
     {
@@ -37,7 +37,7 @@
       "@type": "Legislation",
       "name": "IS 107-001N",
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n",
-      "datePublished": "2026-10-28T16:51:00.000Z",
+      "datePublished": "2026-10-29T10:59:00.000Z",
       "description": "Segurança da aviação contra atos de interferência ilícita - operador de aeródromo",
       "type": "legislação"
     },
@@ -55,6 +55,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-001",
       "datePublished": "2026-10-28T15:03:00.000Z",
       "description": "Critérios de movimentação no solo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 763, 26/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-763",
+      "datePublished": "2026-10-26T00:00:00.000Z",
+      "description": "Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)",
       "type": "legislação"
     },
     {
@@ -175,14 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12",
       "datePublished": "2026-09-28T00:00:00.000Z",
       "description": "Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 816, 28/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-816",
-      "datePublished": "2026-09-28T00:00:00.000Z",
-      "description": "Aprova a Emenda nº 08 ao RBAC nº 91",
       "type": "legislação"
     },
     {

@@ -4,8 +4,8 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-f48b5729-b4f1-4e90-b476-c78d2b2d7598</id>
-  <updated>2026-10-28T16:51:00.000Z</updated>
+  <id>urn:uuid:anac-feed-acdd7d4f-63a8-4bf5-9cc5-3c4771194b56</id>
+  <updated>2026-10-29T10:59:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
@@ -17,8 +17,8 @@
     <title type="html">IS 107-001N</title>
     <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n" rel="alternate"/>
     <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n</id>
-    <published>2026-10-28T16:51:00.000Z</published>
-    <updated>2026-10-28T16:51:00.000Z</updated>
+    <published>2026-10-29T10:59:00.000Z</published>
+    <updated>2026-10-29T10:59:00.000Z</updated>
     <author>
       <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     </author>
@@ -63,6 +63,25 @@
     <summary type="html">Critérios de movimentação no solo</summary>
     <content type="html"><![CDATA[
       <p>Critérios de movimentação no solo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 763, 26/10/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-763" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-763</id>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)</summary>
+    <content type="html"><![CDATA[
+      <p>Aprova revisão extraordinária do Contrato de Concessão do Aeroporto Internacional de Fortaleza, localizado em Fortaleza (CE)</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -348,25 +367,6 @@
     <summary type="html">Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</summary>
     <content type="html"><![CDATA[
       <p>Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO Nº 816, 28/09/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-816" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-816</id>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a Emenda nº 08 ao RBAC nº 91</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a Emenda nº 08 ao RBAC nº 91</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
