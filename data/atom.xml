@@ -4,7 +4,7 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-55592973-fa5d-4b78-9bb6-0d3b7015f44f</id>
+  <id>urn:uuid:anac-feed-b701aee4-9cba-461b-adb1-c08b5a9367b2</id>
   <updated>2026-10-29T10:59:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
@@ -25,6 +25,25 @@
     <summary type="html">Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</summary>
     <content type="html"><![CDATA[
       <p>Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
+  
+  
+  <entry>
+    <title type="html">DECISÃO Nº 764, 29/10/2026</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-764" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-764</id>
+    <published>2026-10-29T00:00:00.000Z</published>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Defere pedido de prorrogação de validade de treinamentos, exames e habilitações, em favor da Brasil Vida Táxi Aéreo Ltda.</summary>
+    <content type="html"><![CDATA[
+      <p>Defere pedido de prorrogação de validade de treinamentos, exames e habilitações, em favor da Brasil Vida Táxi Aéreo Ltda.</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
@@ -348,25 +367,6 @@
     <summary type="html">Extingue autorização para exploração de aeródromo civil público</summary>
     <content type="html"><![CDATA[
       <p>Extingue autorização para exploração de aeródromo civil público</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">RESOLUÇÃO INTERNA Nº 12, 28/09/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12</id>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</summary>
-    <content type="html"><![CDATA[
-      <p>Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

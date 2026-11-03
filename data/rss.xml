@@ -5,8 +5,8 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 03 Nov 2026 11:50:15 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 11:50:15 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 19:27:50 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:27:50 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     
@@ -23,6 +23,23 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Segurança da aviação contra atos de interferência ilícita - operador de aeródromo</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>DECISÃO Nº 764, 29/10/2026</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-764</link>
+      <description>Defere pedido de prorrogação de validade de treinamentos, exames e habilitações, em favor da Brasil Vida Táxi Aéreo Ltda.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-764</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-10-29T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Defere pedido de prorrogação de validade de treinamentos, exames e habilitações, em favor da Brasil Vida Táxi Aéreo Ltda.</p>
         
       ]]></content:encoded>
     </item>
@@ -312,23 +329,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Extingue autorização para exploração de aeródromo civil público</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RESOLUÇÃO INTERNA Nº 12, 28/09/2026</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12</link>
-      <description>Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-09-28T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados</p>
         
       ]]></content:encoded>
     </item>

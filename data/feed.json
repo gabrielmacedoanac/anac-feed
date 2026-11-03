@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-55592973-fa5d-4b78-9bb6-0d3b7015f44f",
+  "identifier": "urn:uuid:anac-feed-b701aee4-9cba-461b-adb1-c08b5a9367b2",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-11-03T11:50:15.245Z",
-  "dateModified": "2026-11-03T11:50:15.245Z",
+  "dateCreated": "2026-11-03T19:27:50.532Z",
+  "dateModified": "2026-11-03T19:27:50.532Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -39,6 +39,14 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-107-001n",
       "datePublished": "2026-10-29T10:59:00.000Z",
       "description": "Segurança da aviação contra atos de interferência ilícita - operador de aeródromo",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 764, 29/10/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-764",
+      "datePublished": "2026-10-29T00:00:00.000Z",
+      "description": "Defere pedido de prorrogação de validade de treinamentos, exames e habilitações, em favor da Brasil Vida Táxi Aéreo Ltda.",
       "type": "legislação"
     },
     {
@@ -175,14 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-757",
       "datePublished": "2026-09-28T00:00:00.000Z",
       "description": "Extingue autorização para exploração de aeródromo civil público",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO INTERNA Nº 12, 28/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucao-interna/2026/resolucao-interna-12",
-      "datePublished": "2026-09-28T00:00:00.000Z",
-      "description": "Institui o Comitê de Segurança Especial - CSE e dispõe sobre o fluxo decisório institucional aplicável a operadores de serviço de transporte aéreo regidos pelo Regulamento Brasileiro de Aviação Civil - RBAC nº 121, com problemas de segurança operacional identificados",
       "type": "legislação"
     },
     {
