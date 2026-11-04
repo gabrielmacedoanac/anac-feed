@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-ceb0c9ca-e207-4da0-8f17-3df52131d556</id>
-  <updated>2026-10-29T10:59:00.000Z</updated>
+  <id>urn:uuid:anac-feed-78c88f4b-dbd0-4e2e-96e2-a2f1e739eb78</id>
+  <updated>2026-11-04T11:22:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 175-005F</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-005" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-005</id>
+    <published>2026-11-04T11:22:00.000Z</published>
+    <updated>2026-11-04T11:22:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Orientações para os procedimentos de Notificação de Ocorrências com Artigos Perigosos (NOAP) e de Notificação de Condições Latentes com Artigos Perigosos (NOCLAP)</summary>
+    <content type="html"><![CDATA[
+      <p>Orientações para os procedimentos de Notificação de Ocorrências com Artigos Perigosos (NOAP) e de Notificação de Condições Latentes com Artigos Perigosos (NOCLAP)</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -348,25 +367,6 @@
     <summary type="html">Credenciamento de pessoas</summary>
     <content type="html"><![CDATA[
       <p>Credenciamento de pessoas</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 757, 28/09/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-757" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-757</id>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Extingue autorização para exploração de aeródromo civil público</summary>
-    <content type="html"><![CDATA[
-      <p>Extingue autorização para exploração de aeródromo civil público</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>

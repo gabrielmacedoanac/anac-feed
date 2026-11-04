@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-ceb0c9ca-e207-4da0-8f17-3df52131d556",
+  "identifier": "urn:uuid:anac-feed-78c88f4b-dbd0-4e2e-96e2-a2f1e739eb78",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-11-04T12:01:27.941Z",
-  "dateModified": "2026-11-04T12:01:27.941Z",
+  "dateCreated": "2026-11-04T19:45:45.356Z",
+  "dateModified": "2026-11-04T19:45:45.356Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-10-29T10:59:00.000Z"
+    "endDate": "2026-11-04T11:22:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 175-005F",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-005",
+      "datePublished": "2026-11-04T11:22:00.000Z",
+      "description": "Orientações para os procedimentos de Notificação de Ocorrências com Artigos Perigosos (NOAP) e de Notificação de Condições Latentes com Artigos Perigosos (NOCLAP)",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 107-001N",
@@ -175,14 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183",
       "datePublished": "2026-10-01T16:00:00.000Z",
       "description": "Credenciamento de pessoas",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 757, 28/09/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-757",
-      "datePublished": "2026-09-28T00:00:00.000Z",
-      "description": "Extingue autorização para exploração de aeródromo civil público",
       "type": "legislação"
     },
     {
