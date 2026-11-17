@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-90c24921-8d0d-4889-905a-b96ba3237a25",
+  "identifier": "urn:uuid:anac-feed-65c86567-0f53-4914-acd2-b83cb47dad9b",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-11-17T13:03:39.370Z",
-  "dateModified": "2026-11-17T13:03:39.370Z",
+  "dateCreated": "2026-11-17T23:33:08.617Z",
+  "dateModified": "2026-11-17T23:33:08.617Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-11-04T11:22:00.000Z"
+    "endDate": "2026-11-17T11:08:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,38 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 21-005C",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-005",
+      "datePublished": "2026-11-17T11:08:00.000Z",
+      "description": "Informações sobre procedimentos para aprovação de artigos aeronáuticos para aplicação em aeronaves, motores e hélices",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "IS 21-004I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004",
+      "datePublished": "2026-11-17T10:47:00.000Z",
+      "description": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "DECISÃO Nº 766, 16/11/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-766",
+      "datePublished": "2026-11-16T00:00:00.000Z",
+      "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
+      "type": "legislação"
+    },
+    {
+      "@type": "Legislation",
+      "name": "RESOLUÇÃO Nº 820, 16/11/2026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-820",
+      "datePublished": "2026-11-16T00:00:00.000Z",
+      "description": "Dispõe sobre o monitoramento, o reporte, a verificação e a fiscalização do cumprimento da meta regulatória anual de redução das emissões de gases de efeito estufa relativas às operações aéreas domésticas, no âmbito do Programa Nacional de Combustível Sustentável de Aviação - ProBioQAV",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 175-005F",
@@ -151,38 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-760",
       "datePublished": "2026-10-13T00:00:00.000Z",
       "description": "Aprova a publicação do Anexo I  - Manual de Procedimentos do Leilão e altera o Edital do Leilão nº 01/2026",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RESOLUÇÃO Nº 817, 07/10/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-817",
-      "datePublished": "2026-10-07T00:00:00.000Z",
-      "description": "Estabelece procedimentos, recursos materiais e prazos para modernização dos equipamentos utilizados nos canais de inspeção de pessoas e pertences de mão nos aeroportos brasileiros",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 100.203-001A",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001",
-      "datePublished": "2026-10-05T14:48:00.000Z",
-      "description": "Emissão de Certificado de Autorização de Voo Experimental para Sistema de Aeronave Não Tripulada (UAS)",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 91 EMD 08",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91",
-      "datePublished": "2026-10-05T11:55:00.000Z",
-      "description": "Requisitos gerais de operação para aeronaves civis",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "RBAC 183 EMD 02",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183",
-      "datePublished": "2026-10-01T16:00:00.000Z",
-      "description": "Credenciamento de pessoas",
       "type": "legislação"
     },
     {

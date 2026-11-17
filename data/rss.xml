@@ -5,10 +5,78 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 17 Nov 2026 13:03:39 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 13:03:39 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 23:33:08 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:33:08 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>IS 21-005C</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-005</link>
+      <description>Informações sobre procedimentos para aprovação de artigos aeronáuticos para aplicação em aeronaves, motores e hélices</description>
+      <pubDate>Tue, 17 Nov 2026 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-005</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-11-17T11:08:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Informações sobre procedimentos para aprovação de artigos aeronáuticos para aplicação em aeronaves, motores e hélices</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>IS 21-004I</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</link>
+      <description>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</description>
+      <pubDate>Tue, 17 Nov 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-11-17T10:47:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>DECISÃO Nº 766, 16/11/2026</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-766</link>
+      <description>Altera a Decisão nº 533, de 7 de junho de 2022</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-766</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-11-16T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Altera a Decisão nº 533, de 7 de junho de 2022</p>
+        
+      ]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>RESOLUÇÃO Nº 820, 16/11/2026</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-820</link>
+      <description>Dispõe sobre o monitoramento, o reporte, a verificação e a fiscalização do cumprimento da meta regulatória anual de redução das emissões de gases de efeito estufa relativas às operações aéreas domésticas, no âmbito do Programa Nacional de Combustível Sustentável de Aviação - ProBioQAV</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-820</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-11-16T00:00:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Dispõe sobre o monitoramento, o reporte, a verificação e a fiscalização do cumprimento da meta regulatória anual de redução das emissões de gases de efeito estufa relativas às operações aéreas domésticas, no âmbito do Programa Nacional de Combustível Sustentável de Aviação - ProBioQAV</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -261,74 +329,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Aprova a publicação do Anexo I  - Manual de Procedimentos do Leilão e altera o Edital do Leilão nº 01/2026</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RESOLUÇÃO Nº 817, 07/10/2026</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-817</link>
-      <description>Estabelece procedimentos, recursos materiais e prazos para modernização dos equipamentos utilizados nos canais de inspeção de pessoas e pertences de mão nos aeroportos brasileiros</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-817</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-10-07T00:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Estabelece procedimentos, recursos materiais e prazos para modernização dos equipamentos utilizados nos canais de inspeção de pessoas e pertences de mão nos aeroportos brasileiros</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 100.203-001A</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001</link>
-      <description>Emissão de Certificado de Autorização de Voo Experimental para Sistema de Aeronave Não Tripulada (UAS)</description>
-      <pubDate>Mon, 05 Oct 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-100.203-001</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-10-05T14:48:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Emissão de Certificado de Autorização de Voo Experimental para Sistema de Aeronave Não Tripulada (UAS)</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RBAC 91 EMD 08</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91</link>
-      <description>Requisitos gerais de operação para aeronaves civis</description>
-      <pubDate>Mon, 05 Oct 2026 11:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-10-05T11:55:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Requisitos gerais de operação para aeronaves civis</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>RBAC 183 EMD 02</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183</link>
-      <description>Credenciamento de pessoas</description>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-10-01T16:00:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Credenciamento de pessoas</p>
         
       ]]></content:encoded>
     </item>
