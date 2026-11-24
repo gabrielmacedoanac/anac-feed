@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5411a4ab-0f0c-4694-8ab0-d07937073111",
+  "identifier": "urn:uuid:anac-feed-5879a5ff-0dba-4d34-977f-056bc28dfe9d",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-11-24T02:57:03.882Z",
-  "dateModified": "2026-11-24T02:57:03.882Z",
+  "dateCreated": "2026-11-24T14:45:33.259Z",
+  "dateModified": "2026-11-24T14:45:33.259Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-11-17T11:08:00.000Z"
+    "endDate": "2026-11-24T11:01:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 183-006A",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-006",
+      "datePublished": "2026-11-24T11:01:00.000Z",
+      "description": "Credenciamento de pessoa jurídica para aplicação de exame teórico de proficiência técnica destinado a profissionais da aviação civil",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 21-005C",
@@ -175,14 +183,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-759",
       "datePublished": "2026-10-13T00:00:00.000Z",
       "description": "Altera a Decisão nº 533, de 7 de junho de 2022",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "DECISÃO Nº 760, 13/10/2026",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-760",
-      "datePublished": "2026-10-13T00:00:00.000Z",
-      "description": "Aprova a publicação do Anexo I  - Manual de Procedimentos do Leilão e altera o Edital do Leilão nº 01/2026",
       "type": "legislação"
     },
     {

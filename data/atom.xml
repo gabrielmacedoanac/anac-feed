@@ -4,13 +4,32 @@
   <subtitle>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</subtitle>
   <link href="https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1" rel="alternate"/>
   <link href="./atom.xml" rel="self"/>
-  <id>urn:uuid:anac-feed-5411a4ab-0f0c-4694-8ab0-d07937073111</id>
-  <updated>2026-11-17T11:08:00.000Z</updated>
+  <id>urn:uuid:anac-feed-5879a5ff-0dba-4d34-977f-056bc28dfe9d</id>
+  <updated>2026-11-24T11:01:00.000Z</updated>
   <author>
     <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
     <uri>https://www.gov.br/anac</uri>
   </author>
   <rights>Dados abertos para uso público</rights>
+  
+  
+  <entry>
+    <title type="html">IS 183-006A</title>
+    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-006" rel="alternate"/>
+    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-183-006</id>
+    <published>2026-11-24T11:01:00.000Z</published>
+    <updated>2026-11-24T11:01:00.000Z</updated>
+    <author>
+      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
+    </author>
+    <summary type="html">Credenciamento de pessoa jurídica para aplicação de exame teórico de proficiência técnica destinado a profissionais da aviação civil</summary>
+    <content type="html"><![CDATA[
+      <p>Credenciamento de pessoa jurídica para aplicação de exame teórico de proficiência técnica destinado a profissionais da aviação civil</p>
+      
+    ]]></content>
+    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
+    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
+  </entry>
   
   
   <entry>
@@ -348,25 +367,6 @@
     <summary type="html">Altera a Decisão nº 533, de 7 de junho de 2022</summary>
     <content type="html"><![CDATA[
       <p>Altera a Decisão nº 533, de 7 de junho de 2022</p>
-      
-    ]]></content>
-    <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
-    <category term="legislação"/> <!-- Adiciona o tipo como categoria -->
-  </entry>
-  
-  
-  <entry>
-    <title type="html">DECISÃO Nº 760, 13/10/2026</title>
-    <link href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-760" rel="alternate"/>
-    <id>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/decisoes/2026/decisao-760</id>
-    <published>2026-10-13T00:00:00.000Z</published>
-    <updated>2026-10-13T00:00:00.000Z</updated>
-    <author>
-      <name>Assessoria de Comunicação Social (ASCOM) - Anac</name>
-    </author>
-    <summary type="html">Aprova a publicação do Anexo I  - Manual de Procedimentos do Leilão e altera o Edital do Leilão nº 01/2026</summary>
-    <content type="html"><![CDATA[
-      <p>Aprova a publicação do Anexo I  - Manual de Procedimentos do Leilão e altera o Edital do Leilão nº 01/2026</p>
       
     ]]></content>
     <dc:publisher>Agência Nacional de Aviação Civil (Anac)</dc:publisher>
