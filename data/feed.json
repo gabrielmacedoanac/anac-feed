@@ -6,11 +6,11 @@
   "@type": "Dataset",
   "name": "Anac Feed",
   "description": "Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)",
-  "identifier": "urn:uuid:anac-feed-5879a5ff-0dba-4d34-977f-056bc28dfe9d",
+  "identifier": "urn:uuid:anac-feed-c9310574-a24b-4d33-909a-0f38c79fe78c",
   "url": "https://www.gov.br/anac/pt-br/noticias",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "dateCreated": "2026-11-24T14:45:33.259Z",
-  "dateModified": "2026-11-24T14:45:33.259Z",
+  "dateCreated": "2026-11-25T00:34:29.197Z",
+  "dateModified": "2026-11-25T00:34:29.197Z",
   "publisher": {
     "@type": "Organization",
     "name": "Agência Nacional de Aviação Civil (Anac)",
@@ -23,7 +23,7 @@
   },
   "temporalCoverage": {
     "startDate": "2026-07-17T15:52:00.000Z",
-    "endDate": "2026-11-24T11:01:00.000Z"
+    "endDate": "2026-11-24T12:28:00.000Z"
   },
   "distribution": [
     {
@@ -33,6 +33,14 @@
     }
   ],
   "items": [
+    {
+      "@type": "Legislation",
+      "name": "IS 21-004I",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004",
+      "datePublished": "2026-11-24T12:28:00.000Z",
+      "description": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras",
+      "type": "legislação"
+    },
     {
       "@type": "Legislation",
       "name": "IS 183-006A",
@@ -47,14 +55,6 @@
       "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-005",
       "datePublished": "2026-11-17T11:08:00.000Z",
       "description": "Informações sobre procedimentos para aprovação de artigos aeronáuticos para aplicação em aeronaves, motores e hélices",
-      "type": "legislação"
-    },
-    {
-      "@type": "Legislation",
-      "name": "IS 21-004I",
-      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004",
-      "datePublished": "2026-11-17T10:47:00.000Z",
-      "description": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras",
       "type": "legislação"
     },
     {

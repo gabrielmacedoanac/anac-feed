@@ -5,10 +5,27 @@
     <link>https://www.gov.br/anac/pt-br/noticias/ultimas-noticias-1</link>
     <description>Feed com notícias, vídeos e legislações (atos normativos) coletados das publicações da Agência Nacional de Aviação Civil (Anac)</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 24 Nov 2026 14:45:33 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2026 14:45:33 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 00:34:29 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:34:29 GMT</lastBuildDate>
     <generator>Deno Feed Generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    
+    
+    <item>
+      <title>IS 21-004I</title>
+      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</link>
+      <description>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</description>
+      <pubDate>Tue, 24 Nov 2026 12:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</guid>
+      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
+      <dc:date>2026-11-24T12:28:00.000Z</dc:date>
+      
+      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
+      <content:encoded><![CDATA[
+        <p>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</p>
+        
+      ]]></content:encoded>
+    </item>
     
     
     <item>
@@ -40,23 +57,6 @@
       <category>legislação</category> <!-- Adiciona o tipo como categoria -->
       <content:encoded><![CDATA[
         <p>Informações sobre procedimentos para aprovação de artigos aeronáuticos para aplicação em aeronaves, motores e hélices</p>
-        
-      ]]></content:encoded>
-    </item>
-    
-    
-    <item>
-      <title>IS 21-004I</title>
-      <link>https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</link>
-      <description>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</description>
-      <pubDate>Tue, 17 Nov 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-004</guid>
-      <dc:creator>Assessoria de Comunicação Social (ASCOM) - Anac</dc:creator>
-      <dc:date>2026-11-17T10:47:00.000Z</dc:date>
-      
-      <category>legislação</category> <!-- Adiciona o tipo como categoria -->
-      <content:encoded><![CDATA[
-        <p>Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras</p>
         
       ]]></content:encoded>
     </item>
